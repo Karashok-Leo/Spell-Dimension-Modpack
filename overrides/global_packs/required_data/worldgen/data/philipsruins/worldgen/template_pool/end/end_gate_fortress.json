@@ -1,0 +1,41 @@
+{
+  "name": "philipsruins:end/end_gate_fortress",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "location": "philipsruins:end_gate_fortress",
+        "processors": "philipsruins:randomize_end_brick",
+
+          // If set to 'terrain_matching', the house would be deformed to fit the change in land.
+          // That's best for roads so lets stay 'rigid' for now.
+        "projection": "rigid",
+
+          // The kind of element we are spawning. This one is most likely what you want.
+          // There's 'minecraft:legacy_single_pool_element' but that swaps the behavior of
+          // Air and Structure Void in your piece as well as change the attachment mechanism.
+          // It's only for old Vanilla Jigsaw Structures so don't use it. Stick with non-legacy.
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "philipsruins:end_gate_fortress_bridge0",
+        "processors": "philipsruins:randomize_end_brick",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "philipsruins:end_gate_fortress_walkway0",
+        "processors": "philipsruins:randomize_end_brick",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    }
+  ]
+}

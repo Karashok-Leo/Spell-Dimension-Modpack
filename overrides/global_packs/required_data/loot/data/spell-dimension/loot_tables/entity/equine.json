@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:entity",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "item",
+          "name": "midashunger:enchanted_golden_carrot",
+          "weight": 1
+        },
+        {
+          "type": "item",
+          "name": "minecraft:saddle",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "minecraft:leather",
+          "weight": 4
+        },
+				{
+					"type": "minecraft:empty",
+					"weight": 10
+				}
+      ]
+    }
+  ],
+  "random_sequence": "minecraft:entities/donkey"
+}

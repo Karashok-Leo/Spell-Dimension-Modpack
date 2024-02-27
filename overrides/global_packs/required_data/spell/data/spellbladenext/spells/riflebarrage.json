@@ -1,0 +1,55 @@
+{
+  "school": "FIRE",
+  "range": 12,
+  "learn": {
+    "tier": 1
+  },
+  "cast": {
+    "channel_ticks": 10,
+    "duration": 8,
+    "animation": "spellbladenext:recoilloop",
+    "particles": [
+      {
+        "particle_id": "spell_engine:flame",
+        "shape": "PIPE",
+        "origin": "FEET",
+        "count": 1.0,
+        "min_speed": 0.05,
+        "max_speed": 0.1
+      }
+    ]
+  },
+  "release": {
+    "custom_impact": true,
+    "target": {
+      "type": "AREA",
+      "area": {
+        "angle_degrees": 45,
+        "vertical_range_multiplier": 1
+      }
+    }
+  },
+  "impact": [
+    {
+      "action": {
+        "type": "DAMAGE",
+        "damage": {
+          "spell_power_coefficient": 1.0
+        }
+      },
+      "particles": [
+        {
+          "particle_id": "lava",
+          "shape": "CIRCLE",
+          "origin": "CENTER",
+          "count": 100.0,
+          "min_speed": 3.0,
+          "max_speed": 18.0
+        }
+      ]
+    }
+  ],
+  "cost": {
+    "cooldown_duration": 4
+  }
+}

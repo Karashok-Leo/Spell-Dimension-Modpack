@@ -1,0 +1,31 @@
+{
+  "type": "spell-dimension:medal_upgrade",
+  "ingredients": [
+    [],
+    {
+      "item": "dragonloot:dragon_trident"
+    },
+    [],
+    {
+      "item": "spell-dimension:advanced_frost_essence"
+    },
+    {
+      "item": "spell-dimension:advanced_frost_essence"
+    },
+    [],
+    {
+      "item": "spellbladenext:frost_claymore"
+    },
+    []
+  ],
+  "original": {
+    "Grade": 2,
+    "Major": "ICICLE",
+    "School": "FROST"
+  },
+  "upgraded": {
+    "Grade": 3,
+    "Major": "ICICLE",
+    "School": "FROST"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "armorSetName": "mythril_armor",
+  "performanceMode": true,
+  "head": {
+    "itemKey": "mythicmetals:mythril_helmet"
+  },
+  "chest": {
+    "itemKey": "mythicmetals:mythril_chestplate"
+  },
+  "legs": {
+    "itemKey": "mythicmetals:mythril_leggings"
+  },
+  "boots": {
+    "itemKey": "mythicmetals:mythril_boots"
+  },
+  "fullSetBonuses": [
+    {
+      "type": "attribute",
+      "name": "minecraft:generic.armor",
+      "value": 4.0,
+      "modifierUUID": "28cf71f1-d6cd-4786-aebe-0f72e3a47ec8",
+      "attributeOperation": 0,
+      "interactionType": "self"
+    },
+    {
+      "type": "effect",
+      "name": "minecraft:invisibility",
+      "value": 0.0,
+      "interactionType": "self",
+      "interactionDuration": 300
+    }
+  ]
+}

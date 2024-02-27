@@ -1,0 +1,39 @@
+{
+  "type": "spell-dimension:medal_upgrade",
+  "ingredients": [
+    {
+      "item": "minecraft:magma_cream"
+    },
+    {
+      "item": "minecraft:magma_cream"
+    },
+    {
+      "item": "minecraft:magma_cream"
+    },
+    {
+      "item": "minecraft:magma_cream"
+    },
+    {
+      "item": "minecraft:magma_cream"
+    },
+    {
+      "item": "minecraft:magma_cream"
+    },
+    {
+      "item": "minecraft:magma_cream"
+    },
+    {
+      "item": "minecraft:magma_cream"
+    }
+  ],
+  "original": {
+    "Grade": 1,
+    "Major": "IGNITE",
+    "School": "FIRE"
+  },
+  "upgraded": {
+    "Grade": 2,
+    "Major": "IGNITE",
+    "School": "FIRE"
+  }
+}

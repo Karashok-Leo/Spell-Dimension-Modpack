@@ -1,0 +1,13 @@
+{
+  "creatable_as_spellbook":false,
+  "spell_ids": [
+    "spell-dimension:icicle1",
+    
+    "wizards:frost_shield",
+    "wizards:frost_nova",
+    "wizards:ice_lance",
+
+    "spellbladenext:frostoverdrive",
+    "spellbladenext:frostslash"
+  ]
+}

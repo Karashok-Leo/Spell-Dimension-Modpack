@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:entity",
+  "pools": [
+    {
+      "conditions": [
+        {
+          "condition": "minecraft:killed_by_player"
+        },
+        {
+          "condition": "extra-loot:entity_tier",
+          "entity": "this",
+          "min": 400,
+          "max": -1
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "name": "spell-dimension:pool/legendary",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:empty",
+          "weight": 20
+        }
+      ],
+      "rolls": 1.0
+    }
+  ]
+}

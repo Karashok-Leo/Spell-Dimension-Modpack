@@ -1,0 +1,39 @@
+{
+  "type": "spell-dimension:medal_upgrade",
+  "ingredients": [
+    {
+      "item": "mythicmetals:durasteel_ingot"
+    },
+    {
+      "item": "mythicmetals:durasteel_ingot"
+    },
+    {
+      "item": "mythicmetals:durasteel_ingot"
+    },
+    {
+      "item": "mythicmetals:durasteel_ingot"
+    },
+    {
+      "item": "mythicmetals:durasteel_ingot"
+    },
+    {
+      "item": "mythicmetals:durasteel_ingot"
+    },
+    {
+      "item": "mythicmetals:durasteel_ingot"
+    },
+    {
+      "item": "mythicmetals:durasteel_ingot"
+    }
+  ],
+  "original": {
+    "Grade": 1,
+    "Major": "POWER",
+    "School": "HEALING"
+  },
+  "upgraded": {
+    "Grade": 2,
+    "Major": "POWER",
+    "School": "HEALING"
+  }
+}

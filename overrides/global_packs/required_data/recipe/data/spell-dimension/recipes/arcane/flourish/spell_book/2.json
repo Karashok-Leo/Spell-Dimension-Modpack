@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "spell-dimension:secondary_arcane_essence"
+    },
+    "*": {
+      "item": "spell-dimension:flourish_secondary_arcane_spell_book"
+    },
+    "A": {
+      "item": "plentyofarmors:amethyst_gem"
+    },
+    "B": {
+      "item": "spellbladenext:runegleam_ingot"
+    }
+  },
+  "pattern": [
+    "#A#",
+    "B*B",
+    "#A#"
+  ],
+  "result": {
+    "item": "spell-dimension:flourish_advanced_arcane_spell_book"
+  },
+  "show_notification": true
+}

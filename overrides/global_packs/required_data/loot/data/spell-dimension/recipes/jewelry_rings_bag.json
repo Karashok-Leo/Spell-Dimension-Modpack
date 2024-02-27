@@ -1,0 +1,13 @@
+{
+    "type": "lootbags:loot",
+    "name": "spell-dimension.bag.jewelry_rings",
+    "color": {
+        "r": 0,
+        "g": 255,
+        "b": 255
+    },
+    "rarity": "RARE",
+    "output": {
+        "table": "spell-dimension:bag/jewelry_rings"
+    }
+}

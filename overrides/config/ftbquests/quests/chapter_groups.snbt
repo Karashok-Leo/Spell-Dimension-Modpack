@@ -1,0 +1,8 @@
+{
+	chapter_groups: [
+		{ id: "08486B419F39364A", title: "Conquer" }
+		{ id: "397F98ADDDF14F8A", title: "Enchant" }
+		{ id: "5BB7BD8D0BB0ED9A", title: "Gear" }
+		{ id: "7DB71F008F582E22", title: "And More..." }
+	]
+}

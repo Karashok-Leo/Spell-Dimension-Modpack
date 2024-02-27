@@ -1,0 +1,12 @@
+{
+  "block.endercage.endercage" : "末影笼子",
+  "text.endercage.yes": "是",
+  "text.endercage.no": "否",
+  "text.endercage.silent": "静音",
+  "text.endercage.capturedentity": "捕捉实体",
+  "text.endercage.noentity": "<None>",
+  "text.endercage.command.empty": "This is the base command for the endercage mod!\nUse \"/endercage [category]\" to get more info on something specific.\nHover over a cage item or right click a placed cage with a empty hand to get more info on it.\nPossible arguments: ",
+  "text.endercage.command.redstone": "The endercage has plenty of redstone functionality even if it cant be pushed by a piston.\n> Comparator:\n- If a cage contains a entity a attached comparator will output a signal with the strength of 15. Empty cages will output no signal.\n> Note blocks:\n- If a note block is placed ontop of a cage that contains a mob it will play the ambient sound of it instead.\n > Endercage itself:\n - If the block above the cage is not solid and the cage is powered it will either release the contained mob if it has one or capture one above it.\n - If the block above is another cage it will transfer the contained entity to the cage above or steal it.",
+  "text.endercage.command.silence": "The endercage will occasionally play the ambient sound of the mob contained.\nYou can modify the cage to stop playing the ambient sound or for it to start playing again.\nUse a feather on the cage to silence it and use a noteblock to unmute it.\nThese wont affect note blocks placed ontop.",
+  "text.endercage.command.display": "You can display captured entities by putting them in a itemframe. If the itemframe is facing upwards the entity will just stand normally on it."
+}

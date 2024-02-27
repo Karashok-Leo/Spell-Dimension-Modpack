@@ -1,0 +1,16 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"BBB",
+		"BEB",
+		"BBB"
+	],
+	"key": {
+		"B": {"item": "minecraft:dragon_breath"},
+		"E": {"item": "minecraft:egg"}
+		},
+	"result": {
+		"item": "minecraft:dragon_egg",
+		"count": 1
+	}
+}

@@ -1,0 +1,477 @@
+{
+	autofocus_id: "73CC3278B791A865"
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "things"
+	group: "7DB71F008F582E22"
+	icon: {
+		Count: 1b
+		id: "things:hardening_catalyst"
+		tag: { }
+	}
+	id: "12151340CC9F923C"
+	order_index: 3
+	quest_links: [ ]
+	quests: [
+		{
+			id: "73CC3278B791A865"
+			rewards: [{
+				id: "55239D6D5579259E"
+				item: {
+					Count: 1b
+					id: "things:things_almanac"
+					tag: { }
+				}
+				type: "item"
+			}]
+			size: 1.5d
+			tasks: [{
+				id: "156C96048F87BE9D"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["73CC3278B791A865"]
+			id: "131A9E107EA7343A"
+			rewards: [{
+				id: "3C1931E0471C59AC"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "18BDF05BDC85049C"
+				item: { Count: 16b, id: "things:recall_potion" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["73CC3278B791A865"]
+			id: "21D3A90C12E3BE6C"
+			rewards: [{
+				id: "63A0D5B5863D22B9"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "6CBCB7289604ACA2"
+				item: {
+					Count: 1b
+					id: "things:container_key"
+					tag: {
+						Lock: 16261
+					}
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["73CC3278B791A865"]
+			id: "18B8896F4A9F0B0B"
+			rewards: [{
+				id: "518C0016A81CF21B"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "383B8DF173F15DB9"
+				item: "things:bater_wucket"
+				type: "item"
+			}]
+			x: 1.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["73CC3278B791A865"]
+			id: "2E7AD6D4F1E21E42"
+			rewards: [{
+				id: "256CAF8E59B762E6"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "76D5F1A4A75E3315"
+				item: {
+					Count: 1b
+					id: "things:ender_pouch"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 3.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["73CC3278B791A865"]
+			id: "3ED65D5F6D877A4D"
+			rewards: [{
+				id: "131B3164F6E336C6"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "011AA3CADD4658DF"
+				item: {
+					Count: 1b
+					id: "things:monocle"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 2.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["73CC3278B791A865"]
+			id: "7342D54FE589A5EB"
+			rewards: [{
+				id: "02AAC525DF322C45"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "21AB51EBC07F9F8F"
+				item: {
+					Count: 1b
+					id: "things:moss_necklace"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: -3.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["73CC3278B791A865"]
+			id: "6DFD82D6B95D3EB8"
+			rewards: [{
+				id: "35D7792E95288222"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "0C23E8CB9CEB1994"
+				item: {
+					Count: 1b
+					id: "things:placebo"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: -2.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["73CC3278B791A865"]
+			id: "43FFD071AFED3B53"
+			rewards: [{
+				id: "1E5D25055F9E1BDB"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "676B7DDEAD4FA09B"
+				item: {
+					Count: 1b
+					id: "things:displacement_tome"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: -3.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["73CC3278B791A865"]
+			id: "4315A7AE4346C331"
+			rewards: [{
+				id: "71EDD0D4A6324006"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "59254575F7F360A1"
+				item: "things:displacement_page"
+				type: "item"
+			}]
+			x: -2.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["73CC3278B791A865"]
+			id: "7B66AE7A8F024363"
+			rewards: [{
+				id: "49BD045D495D838C"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "062067703197A2BA"
+				item: {
+					Count: 1b
+					id: "things:mining_gloves"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: -2.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["73CC3278B791A865"]
+			id: "1D81361AB4730CC3"
+			rewards: [{
+				id: "1863A8A606A65D5D"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "797B502729A55016"
+				item: {
+					Count: 1b
+					id: "things:riot_gauntlet"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: -1.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["73CC3278B791A865"]
+			id: "3F115909D44253C1"
+			rewards: [{
+				id: "11B258E870F612CF"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "4FC32239EC6DED76"
+				item: {
+					Count: 1b
+					id: "things:infernal_scepter"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["73CC3278B791A865"]
+			id: "7F1B0EFE94CF1672"
+			rewards: [{
+				id: "55A229FC572B412A"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "73D956066382CE5D"
+				item: {
+					Count: 1b
+					id: "things:hades_crystal"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 1.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["73CC3278B791A865"]
+			id: "1A59D5D06BE25E05"
+			rewards: [{
+				id: "74E19C8A49030F4D"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "599D0B8BE4FFE2C5"
+				item: {
+					Count: 1b
+					id: "things:enchanted_wax_gland"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 2.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["73CC3278B791A865"]
+			id: "05CEA23C351A29A8"
+			rewards: [{
+				id: "7CF5588CE08EB9E7"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "224FA2C7E093C517"
+				item: "things:item_magnet"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["73CC3278B791A865"]
+			id: "134D231B53F5285D"
+			rewards: [{
+				id: "7BBD705F65FEADD2"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "289491ACCB744651"
+				item: {
+					Count: 1b
+					id: "things:rabbit_foot_charm"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 2.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["73CC3278B791A865"]
+			id: "6EE2C2BE022A08EC"
+			rewards: [{
+				id: "51FBD873215D0964"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "3AB72E9152A60D23"
+				item: {
+					Count: 1b
+					id: "things:luck_of_the_irish"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: -2.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["73CC3278B791A865"]
+			id: "05409B9A0429CA40"
+			rewards: [{
+				id: "2D0694DBAE262EE2"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "73881B4A6B9F2660"
+				item: "things:hardening_catalyst"
+				type: "item"
+			}]
+			x: -2.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["73CC3278B791A865"]
+			id: "1C37E4BCDBDA4B1F"
+			rewards: [{
+				id: "43D7A78C4AC68BFB"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "3699CF8A923FCEB9"
+				item: {
+					Count: 1b
+					id: "things:socks"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: -1.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["73CC3278B791A865"]
+			id: "028D230AFF9A5049"
+			rewards: [{
+				id: "1723FC8B31049CDB"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "131E8FCA0B7F6742"
+				item: {
+					Count: 1b
+					id: "things:arm_extender"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["73CC3278B791A865"]
+			id: "42B8895426A96B55"
+			rewards: [{
+				id: "6DDB79CD2A260787"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "650B4E4C89039F5F"
+				item: {
+					Count: 1b
+					id: "things:shock_absorber"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 1.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["73CC3278B791A865"]
+			id: "594C7E36EDDBD198"
+			rewards: [{
+				id: "0F6075126CD947A0"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "210AEE3562337F69"
+				item: {
+					Count: 1b
+					id: "things:broken_watch"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 2.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["73CC3278B791A865"]
+			id: "76BF2958E9BFA3E7"
+			rewards: [{
+				id: "711FFAF62EAD2C0A"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "44F45DAD158B1C53"
+				item: "things:empty_agglomeration"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 0.5d
+		}
+	]
+	title: "Things"
+}

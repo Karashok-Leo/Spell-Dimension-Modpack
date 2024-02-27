@@ -1,0 +1,29 @@
+{
+  "type": "spell-dimension:medal_upgrade",
+  "ingredients": [
+    [],
+    {
+      "item": "minecraft:ice"
+    },
+    [],
+    {
+      "item": "runes:frost_stone"
+    },
+    {
+      "item": "runes:frost_stone"
+    },
+    [],
+    {
+      "item": "minecraft:ice"
+    },
+    []
+  ],
+  "original": {
+    "Grade": 0
+  },
+  "upgraded": {
+    "Grade": 1,
+    "Major": "NUCLEUS",
+    "School": "FROST"
+  }
+}

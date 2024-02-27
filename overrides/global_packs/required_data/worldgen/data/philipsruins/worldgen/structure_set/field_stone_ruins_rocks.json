@@ -1,0 +1,18 @@
+{
+  "structures": [
+    {
+      "structure": "philipsruins:field_stone_ruins_rocks",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "exclusion_zone": {
+      "chunk_count": 10,
+      "other_set": "minecraft:villages"
+    },
+    "salt": 144788412,
+    "spacing": 38,
+    "separation": 27
+  }
+}

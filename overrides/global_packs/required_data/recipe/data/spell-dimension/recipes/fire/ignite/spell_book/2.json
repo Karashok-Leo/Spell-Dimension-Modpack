@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "spell-dimension:secondary_fire_essence"
+    },
+    "*": {
+      "item": "spell-dimension:ignite_secondary_fire_spell_book"
+    },
+    "A": {
+      "item": "victus:blazing_heart_aspect"
+    },
+    "B": {
+      "item": "spellbladenext:runeblaze_ingot"
+    },
+    "C": {
+      "item": "minecraft:magma_cream"
+    }
+  },
+  "pattern": [
+    "#A#",
+    "B*B",
+    "#C#"
+  ],
+  "result": {
+    "item": "spell-dimension:ignite_advanced_fire_spell_book"
+  },
+  "show_notification": true
+}

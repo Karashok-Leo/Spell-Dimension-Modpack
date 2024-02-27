@@ -1,0 +1,108 @@
+{
+  "trades-amount": 4,
+  "trades": {
+    "minecraft:cobblestone": {
+      "currency": "minecraft:iron_ingot",
+      "price": 1,
+      "amount": 64,
+      "rarity": 1
+    },
+    "minecraft:glowstone": {
+      "currency": "minecraft:iron_ingot",
+      "price": 3,
+      "amount": 16,
+      "rarity": 1,
+      "color": "FFFFFF00"
+    },
+    "minecraft:wheat_seeds": {
+      "currency": "minecraft:iron_ingot",
+      "price": 1,
+      "amount": 64,
+      "rarity": 1
+    },
+    "minecraft:melon_seeds": {
+      "currency": "minecraft:iron_ingot",
+      "price": 1,
+      "amount": 64,
+      "rarity": 1
+    },
+    "minecraft:pumpkin_seeds": {
+      "currency": "minecraft:iron_ingot",
+      "price": 1,
+      "amount": 64,
+      "rarity": 1
+    },
+    "minecraft:beetroot_seeds": {
+      "currency": "minecraft:iron_ingot",
+      "price": 1,
+      "amount": 64,
+      "rarity": 1
+    },
+    "minecraft:torchflower_seeds": {
+      "currency": "minecraft:iron_ingot",
+      "price": 1,
+      "amount": 64,
+      "rarity": 1
+    },
+    "minecraft:pitcher_pod": {
+      "currency": "minecraft:iron_ingot",
+      "price": 1,
+      "amount": 64,
+      "rarity": 1
+    },
+    "minecraft:carrot": {
+      "currency": "minecraft:iron_ingot",
+      "price": 2,
+      "amount": 64,
+      "rarity": 1
+    },
+    "minecraft:potato": {
+      "currency": "minecraft:iron_ingot",
+      "price": 2,
+      "amount": 64,
+      "rarity": 1
+    },
+    "minecraft:oak_sapling": {
+      "currency": "minecraft:iron_ingot",
+      "price": 2,
+      "amount": 16,
+      "rarity": 1
+    },
+    "minecraft:spruce_sapling": {
+      "currency": "minecraft:iron_ingot",
+      "price": 2,
+      "amount": 16,
+      "rarity": 1
+    },
+    "minecraft:birch_sapling": {
+      "currency": "minecraft:iron_ingot",
+      "price": 2,
+      "amount": 16,
+      "rarity": 1
+    },
+    "minecraft:jungle_sapling": {
+      "currency": "minecraft:iron_ingot",
+      "price": 2,
+      "amount": 16,
+      "rarity": 1
+    },
+    "minecraft:acacia_sapling": {
+      "currency": "minecraft:iron_ingot",
+      "price": 2,
+      "amount": 16,
+      "rarity": 1
+    },
+    "minecraft:dark_oak_sapling": {
+      "currency": "minecraft:iron_ingot",
+      "price": 2,
+      "amount": 16,
+      "rarity": 1
+    },
+    "minecraft:cherry_sapling": {
+      "currency": "minecraft:iron_ingot",
+      "price": 2,
+      "amount": 16,
+      "rarity": 1
+    }
+  }
+}

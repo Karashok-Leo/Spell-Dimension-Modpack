@@ -1,0 +1,34 @@
+{
+  "armorSetName": "bronze_armor",
+  "performanceMode": true,
+  "head": {
+    "itemKey": "mythicmetals:bronze_helmet"
+  },
+  "chest": {
+    "itemKey": "mythicmetals:bronze_chestplate"
+  },
+  "legs": {
+    "itemKey": "mythicmetals:bronze_leggings"
+  },
+  "boots": {
+    "itemKey": "mythicmetals:bronze_boots"
+  },
+  "fullSetBonuses": [
+    {
+      "type": "attribute",
+      "name": "minecraft:generic.max_health",
+      "value": 6.0,
+      "modifierUUID": "748571f7-f38e-4f47-98e4-f45fdd24deef",
+      "attributeOperation": 0,
+      "interactionType": "self"
+    },
+    {
+      "type": "attribute",
+      "name": "minecraft:generic.armor_toughness",
+      "value": 6.0,
+      "modifierUUID": "a5d10c99-8c0f-4f33-b44a-98cc8572fa69",
+      "attributeOperation": 0,
+      "interactionType": "self"
+    }
+  ]
+}

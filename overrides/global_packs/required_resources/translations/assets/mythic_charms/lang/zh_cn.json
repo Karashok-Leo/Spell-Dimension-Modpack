@@ -1,0 +1,191 @@
+{
+	"trinkets.slot.mythic_charms.mythic_charm": "Mythic Charm",
+
+	"item.mythic_charms.fragile_charm_of_feathered_grace": "脆弱的轻盈恩赐护符",
+	"item.mythic_charms.fragile_charm_of_blazing_embrace": "脆弱的烈焰拥抱护符",
+	"item.mythic_charms.fragile_charm_of_gaze_serenity": "脆弱的宁静凝视护符",
+	"item.mythic_charms.fragile_charm_of_earths_order": "脆弱的大地秩序护符",
+	"item.mythic_charms.fragile_charm_of_botanic_blessing": "脆弱的植物祝福护符",
+	"item.mythic_charms.fragile_charm_of_fleeting_strides": "脆弱的瞬逝步伐护符",
+	"item.mythic_charms.fragile_charm_of_nights_guardian": "脆弱的夜之守护护符",
+	"item.mythic_charms.fragile_charm_of_high_bounds": "脆弱的高空限界护符",
+	"item.mythic_charms.fragile_charm_of_drowned_freedom": "脆弱的沉溺自由护符",
+	"item.mythic_charms.fragile_charm_of_weightless_flow": "脆弱的无重流动护符",
+	"item.mythic_charms.fragile_charm_of_collectors_gift": "脆弱的收藏者的礼物护符",
+	"item.mythic_charms.fragile_charm_of_climbers_path": "脆弱的攀登之路护符",
+	"item.mythic_charms.fragile_charm_of_natures_call": "脆弱的自然呼唤护符",
+	"item.mythic_charms.fragile_charm_of_barters_pact": "脆弱的交易之约护符",
+	"item.mythic_charms.fragile_charm_of_battle_fury": "脆弱的战斗之怒护符",
+	"item.mythic_charms.fragile_charm_of_echoing_wrath": "脆弱的回响愤怒护符",
+	"item.mythic_charms.fragile_charm_of_enchanted_whispers": "脆弱的附魔耳语护符",
+	"item.mythic_charms.fragile_charm_of_arrow_dance": "脆弱的箭舞护符",
+	"item.mythic_charms.fragile_charm_of_mountains_strength": "脆弱的山峦之力护符",
+	"item.mythic_charms.fragile_charm_of_safe_territory": "脆弱的安全领域护符",
+	"item.mythic_charms.fragile_charm_of_quiet_presence": "脆弱的悄然身影护符",
+	
+	"item.mythic_charms.unbreakable_charm_of_feathered_grace": "坚不可摧的轻盈恩赐护符",
+	"item.mythic_charms.unbreakable_charm_of_blazing_embrace": "坚不可摧的烈焰拥抱护符",
+	"item.mythic_charms.unbreakable_charm_of_earths_order": "坚不可摧的大地秩序护符",
+	"item.mythic_charms.unbreakable_charm_of_gaze_serenity": "坚不可摧的宁静凝视护符",
+	"item.mythic_charms.unbreakable_charm_of_botanic_blessing": "坚不可摧的植物祝福护符",
+	"item.mythic_charms.unbreakable_charm_of_fleeting_strides": "坚不可摧的瞬逝步伐护符",
+	"item.mythic_charms.unbreakable_charm_of_nights_guardian": "坚不可摧的夜之守护护符",
+	"item.mythic_charms.unbreakable_charm_of_high_bounds": "坚不可摧的高空限界护符",
+	"item.mythic_charms.unbreakable_charm_of_drowned_freedom": "坚不可摧的沉溺自由护符",
+	"item.mythic_charms.unbreakable_charm_of_weightless_flow": "坚不可摧的无重流动护符",
+	"item.mythic_charms.unbreakable_charm_of_collectors_gift": "坚不可摧的收藏者的礼物护符",
+	"item.mythic_charms.unbreakable_charm_of_climbers_path": "坚不可摧的攀登之路护符",
+	"item.mythic_charms.unbreakable_charm_of_natures_call": "坚不可摧的自然呼唤护符",
+	"item.mythic_charms.unbreakable_charm_of_barters_pact": "坚不可摧的交易之约护符",
+	"item.mythic_charms.unbreakable_charm_of_battle_fury": "坚不可摧的战斗之怒护符",
+	"item.mythic_charms.unbreakable_charm_of_echoing_wrath": "坚不可摧的回响愤怒护符",
+	"item.mythic_charms.unbreakable_charm_of_enchanted_whispers": "坚不可摧的附魔耳语护符",
+	"item.mythic_charms.unbreakable_charm_of_arrow_dance": "坚不可摧的箭舞护符",
+	"item.mythic_charms.unbreakable_charm_of_mountains_strength": "坚不可摧的山峦之力护符",
+	"item.mythic_charms.unbreakable_charm_of_safe_territory": "坚不可摧的安全领域护符",
+	"item.mythic_charms.unbreakable_charm_of_quiet_presence": "坚不可摧的悄然身影护符",
+	
+	
+	"item.mythic_charms.feathered_grace.tooltip": "给予佩戴者一个缓慢下落的效果，持续两秒钟，当佩戴者未潜行时生效",
+	
+	"item.mythic_charms.blazing_embrace.tooltip": "给予佩戴者永久的火焰抗性效果，但只有当佩戴者没有着火时，效果才会更新",
+	
+	"item.mythic_charms.earths_order.tooltip": "赋予佩戴者能够用手打碎任何可打碎的方块的能力",
+	
+	"item.mythic_charms.gaze_serenity.tooltip": "赋予佩戴者能够直视末影人而不触发攻击，以及在战斗时不触发随机传送的能力",
+	
+	"item.mythic_charms.botanic_blessing.tooltip": "加速佩戴者周围两格范围内农作物的生长",
+	
+	"item.mythic_charms.fleeting_strides.tooltip": "增强佩戴者跳跃和奔跑时的速度，但会额外增加疲劳度",
+	
+	"item.mythic_charms.nights_guardian.tooltip": "仅对佩戴者阻止幻影生成，即使附近有幻影，它们也会忽视佩戴者",
+	
+	"item.mythic_charms.high_bounds.tooltip": "增强佩戴者的跳跃高度，使其能够从更高的地方落下而不受伤害一格，但会额外增加疲劳度",
+	
+	"item.mythic_charms.drowned_freedom.tooltip": "赋予佩戴者在水下移动就像在水面上一样的能力，但会额外增加疲劳度",
+	
+	"item.mythic_charms.weightless_flow.tooltip": "保持佩戴者的重力，使其能够站在空中或者向天空跳跃，当佩戴者未潜行时生效",
+	
+	"item.mythic_charms.collectors_gift.tooltip": "吸引佩戴者周围两格范围内的物品",
+	
+	"item.mythic_charms.climbers_path.tooltip": "增强佩戴者的脚步高度至一格，使其能够轻松攀登障碍物，但会额外增加疲劳度",
+	
+	"item.mythic_charms.natures_call.tooltip": "吸引动物围绕佩戴者，就像他们手持着这些生物的最喜爱食物一样，当佩戴者未潜行时生效",
+	
+	"item.mythic_charms.barters_pact.tooltip": "佩戴者打开箱子时，有七成的几率不会引起猪灵的攻击",
+	
+	"item.mythic_charms.battle_fury.tooltip": "随着佩戴者生命值减少，增加佩戴者的攻击伤害，当生命值只剩下一半时，峰值达到正常伤害输出的三倍",
+	
+	"item.mythic_charms.echoing_wrath.tooltip": "当佩戴者受到伤害时，对附近的生物造成半数伤害，最多三颗心，但佩戴者会额外受到四分之一的伤害",
+	
+	"item.mythic_charms.enchanted_whispers.tooltip": "每次佩戴者与附魔台交互时，都会随机改变附魔效果，但需要付出一级经验",
+	
+	"item.mythic_charms.arrow_dance.tooltip": "赋予佩戴者闪避投射物的能力，有七成的几率，但佩戴者会额外受到四分之一的伤害",
+	
+	"item.mythic_charms.mountains_strength.tooltip": "赋予佩戴者免疫击退和推动效果的能力，但佩戴者会额外受到四分之一的伤害",
+	
+	"item.mythic_charms.safe_territory.tooltip": "佩戴者周围三格范围内的苦力怕不再破坏方块",
+	
+	"item.mythic_charms.quiet_presence.tooltip": "赋予佩戴者在行走时不触发鬼魂感应器的能力",
+	
+	
+	"item.mythic_charms.broken_charm": "破损护符",
+	"item.mythic_charms.broken_charm.tooltip": "曾经是一个可以使用的护符",
+	
+	
+	"item.mythic_charms.fragile_charm_base": "脆弱护符基座",
+	
+	
+	"item.mythic_charms.resonance_ring": "共鸣戒指",
+	"item.mythic_charms.resonance_ring.tooltip": "允许佩戴者使用共鸣台，并延长投掷物品的拾取延迟",
+	
+	
+	"item.mythic_charms.deepslate_fragment": "深板岩碎片",
+	"item.mythic_charms.deepslate_fragment.tooltip": "有小概率从深板岩上掉落",
+	
+	
+	"item.mythic_charms.experience_nugget": "经验金块",
+	"item.mythic_charms.experience_nugget.tooltip": "有小概率从经验球中掉落",
+	
+	
+	"item.mythic_charms.glowstone_nugget": "辉石金块",
+	
+	
+	"block.mythic_charms.resonance_table": "共鸣台",
+	"item.mythic_charms.resonance_table.tooltip": "需要下方放置一块青金石块才能工作",
+	
+	
+	"util.mythic_charms.shift_tooltip": "按住 §eSHIFT§r 获取更多信息",
+	
+	
+	"category.mythic_charms.resonance": "共鸣注入",
+	"category.mythic_charms.resonance.ingredient": "原料",
+	"category.mythic_charms.resonance.catalyst": "催化剂",
+	"category.mythic_charms.resonance.trinket": "饰品",
+	"category.mythic_charms.resonance.output": "输出",
+	
+	
+	"tag.item.mythic_charms.fragile_charms": "脆弱护符",
+	"tag.item.mythic_charms.resonance_ingredients": "共鸣原料",
+	
+	"emi.category.mythic_charms.resonance_infusing": "共鸣注入",
+	
+	"tag.item.trinkets.hand.ring": "戒指",
+	"tag.item.trinkets.mythic_charms.mythic_charm": "神秘护符",	
+
+
+	"text.config.mythic-charms-config.title": "Mythic Charms Config",
+	"text.config.mythic-charms-config.category.charmsEnabled": "Charms Enabled",
+	"text.config.mythic-charms-config.option.charmsEnabled.CharmFeatheredGraceEnabled": "Charm Feathered Grace Enabled",
+	"text.config.mythic-charms-config.option.charmsEnabled.CharmBlazingEmbraceEnabled": "Charm Blazing Embrace Enabled",
+	"text.config.mythic-charms-config.option.charmsEnabled.CharmEarthsOrderEnabled": "Charm Earth's Order Enabled",
+	"text.config.mythic-charms-config.option.charmsEnabled.CharmGazeSerenityEnabled": "Charm Gaze Serenity Enabled",
+	"text.config.mythic-charms-config.option.charmsEnabled.CharmBotanicBlessingEnabled": "Charm Botanic Blessing Enabled",
+	"text.config.mythic-charms-config.option.charmsEnabled.CharmFleetingStridesEnabled": "Charm Fleeting Strides Enabled",
+	"text.config.mythic-charms-config.option.charmsEnabled.CharmNightsGuardianEnabled": "Charm Night's Guardian Enabled",
+	"text.config.mythic-charms-config.option.charmsEnabled.CharmHighBoundsEnabled": "Charm High Bounds Enabled",
+	"text.config.mythic-charms-config.option.charmsEnabled.CharmDrownedFreedomEnabled": "Charm Drowned Freedom Enabled",
+	"text.config.mythic-charms-config.option.charmsEnabled.CharmWeightlessFlowEnabled": "Charm Weightless Flow Enabled",
+	"text.config.mythic-charms-config.option.charmsEnabled.CharmCollectorsGiftEnabled": "Charm Collector's Gift Enabled",
+	"text.config.mythic-charms-config.option.charmsEnabled.CharmClimbersPathEnabled": "Charm Climber's Path Enabled",
+	"text.config.mythic-charms-config.option.charmsEnabled.CharmNaturesCallEnabled": "Charm Nature's Call Enabled",
+	"text.config.mythic-charms-config.option.charmsEnabled.CharmBartersPactEnabled": "Charm Barter's Pact Enabled",
+	"text.config.mythic-charms-config.option.charmsEnabled.CharmBattleFuryEnabled": "Charm Battle Fury Enabled",
+	"text.config.mythic-charms-config.option.charmsEnabled.CharmEchoingWrathEnabled": "Charm Echoing Wrath Enabled",
+	"text.config.mythic-charms-config.option.charmsEnabled.CharmEnchantedWhispersEnabled": "Charm Enchanted Whispers Enabled",
+	"text.config.mythic-charms-config.option.charmsEnabled.CharmArrowDanceEnabled": "Charm Arrow Dance Enabled",
+	"text.config.mythic-charms-config.option.charmsEnabled.CharmMountainsStrengthEnabled": "Charm Mountain's Strength Enabled",
+	"text.config.mythic-charms-config.option.charmsEnabled.CharmSafeTerritoryEnabled": "Charm Safe Territory Enabled",
+	"text.config.mythic-charms-config.option.charmsEnabled.CharmQuietPresenceEnabled": "Charm Quiet Presence Enabled",
+
+	"text.config.mythic-charms-config.category.charmCombinationsEnabled": "Charm Combinations Enabled",
+	"text.config.mythic-charms-config.option.charmCombinationsEnabled.CharmCombinationFeatheredGraceAndHighBoundsEnabled": "Charm Combination Feathered Grace And High Bounds Enabled",
+	"text.config.mythic-charms-config.option.charmCombinationsEnabled.CharmCombinationBlazingEmbraceAndBattleFuryEnabled": "Charm Combination Blazing Embrace And Battle Fury Enabled",
+	"text.config.mythic-charms-config.option.charmCombinationsEnabled.CharmCombinationEarthsOrderAndBlazingEmbraceEnabled": "Charm Combination Earths Order And Blazing Embrace Enabled",
+	"text.config.mythic-charms-config.option.charmCombinationsEnabled.CharmCombinationEarthsOrderAndDrownedFreedomEnabled": "Charm Combination Earths Order And Drowned Freedom Enabled",
+	"text.config.mythic-charms-config.option.charmCombinationsEnabled.CharmCombinationEarthsOrderAndWeightlessFlowEnabled": "Charm Combination Earths Order And Weightless Flow Enabled",
+	"text.config.mythic-charms-config.option.charmCombinationsEnabled.CharmCombinationEarthsOrderAndBattleFuryEnabled": "Charm Combination Earths Order And Battle Fury Enabled",
+	"text.config.mythic-charms-config.option.charmCombinationsEnabled.CharmCombinationBotanicBlessingAndFeatheredGraceEnabled": "Charm Combination Botanic Blessing And Feathered Grace Enabled",
+	"text.config.mythic-charms-config.option.charmCombinationsEnabled.CharmCombinationFleetingStridesAndHighBoundsEnabled": "Charm Combination Fleeting Strides And High Bounds Enabled",
+	"text.config.mythic-charms-config.option.charmCombinationsEnabled.CharmCombinationFleetingStridesAndBattleFuryEnabled": "Charm Combination Fleeting Strides And Battle Fury Enabled",
+	"text.config.mythic-charms-config.option.charmCombinationsEnabled.CharmCombinationWeightlessFlowAndFeatheredGraceEnabled": "Charm Combination Weightless Flow And Feathered Grace Enabled",
+	"text.config.mythic-charms-config.option.charmCombinationsEnabled.CharmCombinationClimbersPathAndHighBoundsEnabled": "Charm Combination Climbers Path And High Bounds Enabled",
+	"text.config.mythic-charms-config.option.charmCombinationsEnabled.CharmCombinationEchoingWrathAndBlazingEmbraceEnabled": "Charm Combination Echoing Wrath And Blazing Embrace Enabled",
+	"text.config.mythic-charms-config.option.charmCombinationsEnabled.CharmCombinationEchoingWrathAndBattleFuryEnabled": "Charm Combination Echoing Wrath And Battle Fury Enabled",
+	"text.config.mythic-charms-config.option.charmCombinationsEnabled.CharmCombinationQuietPresenceAndFeatheredGraceEnabled": "Charm Combination Quiet Presence And Feathered Grace Enabled",
+
+	"text.config.mythic-charms-config.option.experienceNuggetMobCap": "Number of mobs around, after which the experience nugget won't drop",
+
+	"advancements.mythic_charms.story.root.title": "Mythic Charms",
+	"advancements.mythic_charms.story.root.desc": "Everything in your hands",
+	"advancements.mythic_charms.story.resonance_table.title": "Pretty Table",
+	"advancements.mythic_charms.story.resonance_table.desc": "Craft a Resonance Table",
+	"advancements.mythic_charms.story.fragile_charm_base.title": "That's Basics",
+	"advancements.mythic_charms.story.fragile_charm_base.desc": "Craft a Fragile Charm Base",
+	"advancements.mythic_charms.story.first_charm.title": "Charmcrafting 101",
+	"advancements.mythic_charms.story.first_charm.desc": "Create your first Charm",
+	"advancements.mythic_charms.story.first_unbreakable_charm.title": "You're Safe Now",
+	"advancements.mythic_charms.story.first_unbreakable_charm.desc": "Upgrade your charm for the first time",
+	"advancements.mythic_charms.story.every_charm.title": "Charmaster",
+	"advancements.mythic_charms.story.every_charm.desc": "Create every charm"
+}

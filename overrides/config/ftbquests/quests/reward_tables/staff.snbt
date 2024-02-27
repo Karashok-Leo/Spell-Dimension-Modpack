@@ -1,0 +1,64 @@
+{
+	id: "675B8B9ABFBD7091"
+	loot_size: 1
+	order_index: 1
+	rewards: [
+		{
+			item: {
+				Count: 1b
+				id: "wizards:wand_arcane"
+				tag: {
+					Damage: 0
+					Enchantments: [{
+						id: "spell_engine:spell_infinity"
+						lvl: 1s
+					}]
+					RepairCost: 1
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "wizards:wand_fire"
+				tag: {
+					Damage: 0
+					Enchantments: [{
+						id: "spell_engine:spell_infinity"
+						lvl: 1s
+					}]
+					RepairCost: 1
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "wizards:wand_frost"
+				tag: {
+					Damage: 0
+					Enchantments: [{
+						id: "spell_engine:spell_infinity"
+						lvl: 1s
+					}]
+					RepairCost: 1
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "paladins:holy_wand"
+				tag: {
+					Damage: 0
+					Enchantments: [{
+						id: "spell_engine:spell_infinity"
+						lvl: 1s
+					}]
+					RepairCost: 1
+				}
+			}
+		}
+	]
+	title: "staff"
+}

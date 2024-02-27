@@ -1,0 +1,12 @@
+{
+	"type": "minecraft:random_selector",
+	"config": {
+		"features": [
+			{
+				"chance": 0.1,
+				"feature": "imst:mega_cocoa_tree"
+			}
+		],
+		"default": "imst:normal_cocoa_tree"
+	}
+}

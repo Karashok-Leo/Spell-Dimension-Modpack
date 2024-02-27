@@ -1,0 +1,16 @@
+{
+    "item.vanityslots.familiar_wig": "Familiar Wig",
+    "item.vanityslots.familiar_shirt": "Familiar Shirt",
+    "item.vanityslots.familiar_pants": "Familiar Pants",
+    "item.vanityslots.familiar_sneakers": "Familiar Sneakers",
+    "item.vanityslots.glowing_leather": "Glowing Leather",
+    "trinkets.slot.head.vanity": "Head Vanity",
+    "trinkets.slot.chest.vanity": "Chest Vanity",
+    "trinkets.slot.legs.vanity": "Legs Vanity",
+    "trinkets.slot.feet.vanity": "Feet Vanity",
+    "title.vanityslots.config": "VanitySlots Config",
+    "text.autoconfig.vanityslots.option.itemBlacklist": "Armor Blacklist",
+    "text.autoconfig.vanityslots.option.itemBlacklist.@Tooltip": "Items which shouldn't be allowed in vanity slots.",
+    "text.autoconfig.vanityslots.option.disallowBinding": "Disallow Curse of Binding",
+    "text.autoconfig.vanityslots.option.disallowBinding.@Tooltip": "Prevent items with Curse of Binding from being put in vanity slots."
+}

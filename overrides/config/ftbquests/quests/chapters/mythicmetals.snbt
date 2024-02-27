@@ -1,0 +1,3951 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "mythicmetals"
+	group: "5BB7BD8D0BB0ED9A"
+	icon: "mythicmetals:unobtainium"
+	id: "0FE2376FC85C8AB7"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			id: "741E6E758DC48DD7"
+			rewards: [{
+				count: 8
+				id: "7701E0CDFA88162B"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "32C380F96C4C22DF"
+				item: "mythicmetals:adamantite_ingot"
+				type: "item"
+			}]
+			x: 8.0d
+			y: 2.0d
+		}
+		{
+			id: "28FA9D33D1F2C892"
+			rewards: [{
+				count: 8
+				id: "01320CC963290BE3"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "276EAA5DA7C7AE84"
+				item: "mythicmetals:aquarium_ingot"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 3.0d
+		}
+		{
+			id: "0AAB78E2A4D57FE6"
+			rewards: [{
+				count: 8
+				id: "3E825E262B1CD5D2"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "5EFC64C9BDA1CEDA"
+				item: "mythicmetals:banglum_ingot"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 5.5d
+		}
+		{
+			dependencies: [
+				"4409607855B56FD2"
+				"43B3F5CF03FE18AB"
+			]
+			id: "7681FEA01CE4A3E9"
+			rewards: [{
+				count: 8
+				id: "2D74875D24976EDC"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "05A3D305F926E0FC"
+				item: "mythicmetals:bronze_ingot"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 6.0d
+		}
+		{
+			id: "0E404EB26689A1BD"
+			rewards: [{
+				count: 8
+				id: "0FC3F98B10C33248"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "4BEE4F285F6354AF"
+				item: "mythicmetals:carmot_ingot"
+				type: "item"
+			}]
+			x: 8.0d
+			y: 3.0d
+		}
+		{
+			dependencies: [
+				"69E72D0D80908DD6"
+				"239DB2A304B93B24"
+				"04E82B4D2585BB13"
+				"0E404EB26689A1BD"
+			]
+			id: "797A105B779943A1"
+			rewards: [{
+				count: 8
+				id: "08987FD325726FB0"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "35F33C04EF9B4039"
+				item: "mythicmetals:celestium_ingot"
+				type: "item"
+			}]
+			x: 8.0d
+			y: 10.0d
+		}
+		{
+			dependencies: [
+				"5F441F709D370DB4"
+				"01A809443C7D3C6E"
+			]
+			id: "4DC1F1573FF6DD08"
+			rewards: [{
+				count: 8
+				id: "02ACA1662F7BED35"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "39EA2AD46085BF36"
+				item: "mythicmetals:durasteel_ingot"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			dependencies: [
+				"741E6E758DC48DD7"
+				"48A3C1AD474AB46F"
+				"03553D765B3AED16"
+			]
+			id: "7D2C402AC40B7B3F"
+			rewards: [{
+				count: 8
+				id: "3FA795F6184C8E82"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "47F8C8EF6E211555"
+				item: "mythicmetals:hallowed_ingot"
+				type: "item"
+			}]
+			x: 8.0d
+			y: 5.0d
+		}
+		{
+			id: "04E82B4D2585BB13"
+			rewards: [{
+				count: 8
+				id: "4AC40CD6F3CACD6D"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "7D66BCA33198BE5B"
+				item: "mythicmetals:kyber_ingot"
+				type: "item"
+			}]
+			x: 8.0d
+			y: 7.0d
+		}
+		{
+			id: "01A809443C7D3C6E"
+			rewards: [{
+				count: 8
+				id: "5AE0468AC7C80BAA"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "078433BFB05B80A7"
+				item: "mythicmetals:manganese_ingot"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 2.0d
+		}
+		{
+			dependencies: [
+				"69E72D0D80908DD6"
+				"7D2C402AC40B7B3F"
+				"19A6513DD068A8EE"
+			]
+			id: "7265B5A0D4FE67DE"
+			rewards: [{
+				count: 8
+				id: "23C6EBC7323B3287"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "2EC7021058D377DE"
+				item: "mythicmetals:metallurgium_ingot"
+				type: "item"
+			}]
+			x: 8.0d
+			y: 9.0d
+		}
+		{
+			id: "2139F8B6F5D0083A"
+			rewards: [{
+				count: 8
+				id: "2540A987DC07E207"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "07D1A28FF9E71C5C"
+				item: "mythicmetals:midas_gold_ingot"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 2.0d
+		}
+		{
+			id: "03553D765B3AED16"
+			rewards: [{
+				count: 8
+				id: "514E9231F6E2BD71"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "6AC321B8DCD5EDD3"
+				item: "mythicmetals:mythril_ingot"
+				type: "item"
+			}]
+			x: 8.0d
+			y: 0.0d
+		}
+		{
+			id: "48A3C1AD474AB46F"
+			rewards: [{
+				count: 8
+				id: "12A0B7F3B0521C15"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "575A87A04334529E"
+				item: "mythicmetals:orichalcum_ingot"
+				type: "item"
+			}]
+			x: 8.0d
+			y: 1.0d
+		}
+		{
+			id: "3E5F6A7994C59DE0"
+			rewards: [{
+				count: 8
+				id: "4F282F8B7C501A09"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "0FCEEBDF76C0B520"
+				item: "mythicmetals:osmium_ingot"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 9.0d
+		}
+		{
+			id: "19A6513DD068A8EE"
+			rewards: [{
+				count: 8
+				id: "33DA6D2E6256C09C"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "7CD1D40AE21275D4"
+				item: "mythicmetals:palladium_ingot"
+				type: "item"
+			}]
+			x: 8.0d
+			y: 6.0d
+		}
+		{
+			id: "4A0BEAA019BC3852"
+			rewards: [{
+				count: 8
+				id: "6F89A303E681F91A"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "1B6015165DE303FE"
+				item: "mythicmetals:platinum_ingot"
+				type: "item"
+			}]
+			x: 8.0d
+			y: 4.0d
+		}
+		{
+			id: "4797E646473B9B04"
+			rewards: [{
+				count: 8
+				id: "4E9185B082844DC8"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "35BCAC0A3CCF9AF0"
+				item: "mythicmetals:prometheum_ingot"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 1.0d
+		}
+		{
+			id: "5F441F709D370DB4"
+			rewards: [{
+				count: 8
+				id: "6C31A88F1114CF67"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "49CAFC1CC9B11F78"
+				item: "mythicmetals:quadrillum_ingot"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 4.0d
+		}
+		{
+			id: "3951D5A0D7D565F9"
+			rewards: [{
+				count: 8
+				id: "79286C241C19BF02"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "246E67F16F718977"
+				item: "mythicmetals:runite_ingot"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 4.0d
+		}
+		{
+			id: "42690A66D7717E85"
+			rewards: [{
+				count: 8
+				id: "73DEFA0BDF6836E4"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "59FE5906CD73E8EA"
+				item: "mythicmetals:silver_ingot"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 8.0d
+		}
+		{
+			dependencies: [
+				"4A0BEAA019BC3852"
+				"2D10EB1A76FDF9F8"
+			]
+			id: "239DB2A304B93B24"
+			rewards: [{
+				count: 8
+				id: "4854358F05D860B8"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "4637872BCC4D95A0"
+				item: "mythicmetals:star_platinum"
+				type: "item"
+			}]
+			x: 8.0d
+			y: 8.0d
+		}
+		{
+			dependencies: [
+				"4CA9B295160B5CAF"
+				"01A809443C7D3C6E"
+			]
+			id: "031FD601EF5AD39A"
+			rewards: [{
+				count: 8
+				id: "3A87453A9C7CF089"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "6CE17003356F1F1C"
+				item: "mythicmetals:steel_ingot"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 1.0d
+		}
+		{
+			id: "1D12EF2E638ED08F"
+			rewards: [{
+				count: 8
+				id: "1FF7D1F53FCE9D06"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "2259868BB3697F24"
+				item: "mythicmetals:stormyx_ingot"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 7.0d
+		}
+		{
+			id: "4409607855B56FD2"
+			rewards: [{
+				count: 8
+				id: "2262FFDF479F4D30"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "43A216E48F8D527D"
+				item: "mythicmetals:tin_ingot"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 5.0d
+		}
+		{
+			id: "4F173C7642B807BE"
+			rewards: [{
+				count: 8
+				id: "5F2BABC345A17707"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "16A9E8F77AB18570"
+				item: "mythicmetals:morkite"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			id: "2D10EB1A76FDF9F8"
+			rewards: [{
+				count: 8
+				id: "6C0E8CA503BE9408"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "4A7DEFB439FB15BF"
+				item: "mythicmetals:starrite"
+				type: "item"
+			}]
+			x: 7.0d
+			y: 8.5d
+		}
+		{
+			id: "69E72D0D80908DD6"
+			rewards: [{
+				count: 8
+				id: "5179F09349DBC49C"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "7C92DE4FBDB547CA"
+				item: "mythicmetals:unobtainium"
+				type: "item"
+			}]
+			x: 7.0d
+			y: 9.5d
+		}
+		{
+			id: "3AA8058C0552DB9B"
+			rewards: [{
+				count: 8
+				id: "3921D1F63356694E"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "3BD956A1A703872A"
+				item: "jewelry:ruby"
+				type: "item"
+			}]
+			x: 4.5d
+			y: 9.5d
+		}
+		{
+			id: "1EAB3B9DE7AC1097"
+			rewards: [{
+				count: 8
+				id: "040DB2FFB9B97558"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "697D8327904978AF"
+				item: "jewelry:jade"
+				type: "item"
+			}]
+			x: 3.5d
+			y: 8.5d
+		}
+		{
+			id: "2774AFEA7D092070"
+			rewards: [{
+				count: 8
+				id: "7F7B18187E1ABBE3"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "4AE42DE0231E5A82"
+				item: "jewelry:topaz"
+				type: "item"
+			}]
+			x: 4.5d
+			y: 8.5d
+		}
+		{
+			id: "15D6669B41AA7B75"
+			rewards: [{
+				count: 8
+				id: "139ED08D0D42E8EF"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "3E3CF2AEFE4EE0CB"
+				item: "jewelry:citrine"
+				type: "item"
+			}]
+			x: 5.5d
+			y: 8.5d
+		}
+		{
+			id: "104C14FEEF868A7C"
+			rewards: [{
+				count: 8
+				id: "54801140AF144CEB"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "6E87539C45D4372B"
+				item: "jewelry:sapphire"
+				type: "item"
+			}]
+			x: 3.5d
+			y: 9.5d
+		}
+		{
+			id: "4A701F9594E401C3"
+			rewards: [{
+				count: 8
+				id: "2A92489D79D395B6"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "1AB1286C04391364"
+				item: "jewelry:tanzanite"
+				type: "item"
+			}]
+			x: 5.5d
+			y: 9.5d
+		}
+		{
+			dependencies: ["4DC1F1573FF6DD08"]
+			description: [
+				"穿戴整套额外获得："
+				""
+				"+3 护甲值 (共+23)"
+				""
+				"+4 盔甲韧性 (共+8)"
+			]
+			id: "341DD7D41BB4708C"
+			rewards: [{
+				count: 8
+				id: "0DA46B5D67AB432D"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "622CDB797C462CA5"
+					item: {
+						Count: 1b
+						id: "mythicmetals:durasteel_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "5022F6DA52789DD2"
+					item: {
+						Count: 1b
+						id: "mythicmetals:durasteel_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "5CC652B9F2A0880B"
+					item: {
+						Count: 1b
+						id: "mythicmetals:durasteel_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "3139C2AF712B5B0B"
+					item: {
+						Count: 1b
+						id: "mythicmetals:durasteel_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "韧钢套装"
+			x: 2.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["239DB2A304B93B24"]
+			description: [
+				"穿戴整套额外获得："
+				""
+				"+9 生命值"
+				""
+				"+7 护甲值 (共+27)"
+			]
+			id: "167EA24B8B0F789F"
+			rewards: [{
+				count: 8
+				id: "3DC0684F800801E8"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "2A2F77169AD83F52"
+					item: {
+						Count: 1b
+						id: "mythicmetals:star_platinum_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "6F1C9A5694F2651D"
+					item: {
+						Count: 1b
+						id: "mythicmetals:star_platinum_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "5AC88C09A05CEA12"
+					item: {
+						Count: 1b
+						id: "mythicmetals:star_platinum_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "4515C2A7E92E7A2C"
+					item: {
+						Count: 1b
+						id: "mythicmetals:star_platinum_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "星辰铂金套装"
+			x: 10.0d
+			y: 8.0d
+		}
+		{
+			dependencies: ["4797E646473B9B04"]
+			description: [""]
+			id: "3E08A42785F8803E"
+			rewards: [{
+				count: 8
+				id: "47A77E8F079AAD3D"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "64FAF575AE2843A9"
+					item: {
+						Count: 1b
+						id: "mythicmetals:prometheum_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "112D3875EBBAAFE0"
+					item: {
+						Count: 1b
+						id: "mythicmetals:prometheum_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "279EA903AFCD699B"
+					item: {
+						Count: 1b
+						id: "mythicmetals:prometheum_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "5EC1115B737D5113"
+					item: {
+						Count: 1b
+						id: "mythicmetals:prometheum_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "钷套装"
+			x: 6.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["7265B5A0D4FE67DE"]
+			description: [
+				"穿戴整套额外获得："
+				""
+				"+10 护甲值 (共+36)"
+				""
+				"+1.6 治愈能力"
+			]
+			id: "2C97BB2AA5A0984E"
+			rewards: [{
+				count: 8
+				id: "3ED059A722AFC951"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "061A6C868AA5876B"
+					item: {
+						Count: 1b
+						id: "mythicmetals:metallurgium_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "6C1A20302648CB1D"
+					item: {
+						Count: 1b
+						id: "mythicmetals:metallurgium_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "529FF00A4A99C473"
+					item: {
+						Count: 1b
+						id: "mythicmetals:metallurgium_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "7A623BC9617FBD0C"
+					item: {
+						Count: 1b
+						id: "mythicmetals:metallurgium_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "炼金套装"
+			x: 10.0d
+			y: 9.0d
+		}
+		{
+			dependencies: ["797A105B779943A1"]
+			description: [
+				"穿戴整套额外获得："
+				""
+				"×1.6 攻击伤害"
+				""
+				"+14 护甲值 (共+40)"
+			]
+			id: "5F333F0CC53C6900"
+			rewards: [{
+				count: 8
+				id: "40429BC35EBE9CE1"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "09EA68397D1FF56D"
+					item: {
+						Count: 1b
+						id: "mythicmetals:celestium_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "024B4210DD414183"
+					item: {
+						Count: 1b
+						id: "mythicmetals:celestium_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "334710ABB9B3192D"
+					item: {
+						Count: 1b
+						id: "mythicmetals:celestium_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "031FA3132196E6BD"
+					item: {
+						Count: 1b
+						id: "mythicmetals:celestium_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "倚天套装"
+			x: 10.0d
+			y: 10.0d
+		}
+		{
+			dependencies: ["7681FEA01CE4A3E9"]
+			description: [
+				"穿戴整套额外获得："
+				""
+				"+6 生命值"
+				""
+				"+6 盔甲韧性"
+			]
+			id: "2B7E21E8F5505752"
+			rewards: [{
+				count: 8
+				id: "483580DD47A19E22"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "5D84B9D3BB89874A"
+					item: {
+						Count: 1b
+						id: "mythicmetals:bronze_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "5E0DE2A8E0CCC23D"
+					item: {
+						Count: 1b
+						id: "mythicmetals:bronze_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "64D23A99571FB8EA"
+					item: {
+						Count: 1b
+						id: "mythicmetals:bronze_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "00E2D5BCD13C12E0"
+					item: {
+						Count: 1b
+						id: "mythicmetals:bronze_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "青铜套装"
+			x: 2.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["28FA9D33D1F2C892"]
+			id: "64A6364A125CBB5B"
+			rewards: [{
+				count: 8
+				id: "66EDF55EA9EF723A"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "0A0AAF148372BD5F"
+					item: {
+						Count: 1b
+						id: "mythicmetals:aquarium_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "316503AEB695DBDD"
+					item: {
+						Count: 1b
+						id: "mythicmetals:aquarium_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "59EAA0E4A72F8E52"
+					item: {
+						Count: 1b
+						id: "mythicmetals:aquarium_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "6AB199A8ED92FDCF"
+					item: {
+						Count: 1b
+						id: "mythicmetals:aquarium_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "激水套装"
+			x: 6.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["741E6E758DC48DD7"]
+			description: [
+				"穿戴整套额外获得："
+				""
+				"+4 护甲值 (共+24)"
+				""
+				"+7.5 弹射物伤害"
+			]
+			id: "03D0EAEF974F2645"
+			rewards: [{
+				count: 8
+				id: "59D5315FE1BE8737"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "0134E02CBC85AD07"
+					item: {
+						Count: 1b
+						id: "mythicmetals:adamantite_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "62019AC2E8E4C5DE"
+					item: {
+						Count: 1b
+						id: "mythicmetals:adamantite_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "7F91F337B19D343C"
+					item: {
+						Count: 1b
+						id: "mythicmetals:adamantite_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "33540259C43EDD70"
+					item: {
+						Count: 1b
+						id: "mythicmetals:adamantite_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "精金套装"
+			x: 10.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["0AAB78E2A4D57FE6"]
+			id: "6F1B8A70EE83B9EB"
+			rewards: [{
+				count: 8
+				id: "57E2E4B435204656"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "634C0214EACBEBC6"
+					item: {
+						Count: 1b
+						id: "mythicmetals:banglum_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "30001433A5ADD9F2"
+					item: {
+						Count: 1b
+						id: "mythicmetals:banglum_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "7B0794D938A68A9F"
+					item: {
+						Count: 1b
+						id: "mythicmetals:banglum_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "3625BD1543AA67C8"
+					item: {
+						Count: 1b
+						id: "mythicmetals:banglum_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "聚爆石套装"
+			x: 6.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["0E404EB26689A1BD"]
+			description: [
+				"穿戴整套额外获得："
+				""
+				"+4 护甲值 (共+24)"
+				""
+				"永久 饱和 III"
+			]
+			id: "365752F5521EC488"
+			rewards: [{
+				count: 8
+				id: "2F50965CF1189EF7"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "3864E652AF413F11"
+					item: {
+						Count: 1b
+						id: "mythicmetals:carmot_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "6D86CD507389E313"
+					item: {
+						Count: 1b
+						id: "mythicmetals:carmot_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "171295D4D050FE0A"
+					item: {
+						Count: 1b
+						id: "mythicmetals:carmot_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "0F4CE71F4A2DB305"
+					item: {
+						Count: 1b
+						id: "mythicmetals:carmot_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "点金石套装"
+			x: 10.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["7D2C402AC40B7B3F"]
+			description: [
+				"穿戴整套额外获得："
+				""
+				"+8 生命值"
+				""
+				"+9 护甲值 (共+33)"
+				""
+				"永久 生命恢复 III"
+				""
+				"永久 发光"
+			]
+			id: "67FD7F486BFED5FF"
+			rewards: [{
+				count: 8
+				id: "558851029E149EBC"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "564C8EDBA812F1C5"
+					item: {
+						Count: 1b
+						id: "mythicmetals:hallowed_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "22E7C2AE33274913"
+					item: {
+						Count: 1b
+						id: "mythicmetals:hallowed_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "0A8505344883EC50"
+					item: {
+						Count: 1b
+						id: "mythicmetals:hallowed_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "5DE1DBBDD5994F0B"
+					item: {
+						Count: 1b
+						id: "mythicmetals:hallowed_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "神圣套装"
+			x: 10.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["04E82B4D2585BB13"]
+			description: [
+				"穿戴整套额外获得："
+				""
+				"+7 护甲值 (共+27)"
+			]
+			id: "5B4EF1899AFCBBA6"
+			rewards: [{
+				count: 8
+				id: "18E3520CDD33C9F0"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "52CE399B61E23B4A"
+					item: {
+						Count: 1b
+						id: "mythicmetals:kyber_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "4745B76D86670032"
+					item: {
+						Count: 1b
+						id: "mythicmetals:kyber_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "577DC294A35ED08F"
+					item: {
+						Count: 1b
+						id: "mythicmetals:kyber_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "5637B274D8A914A1"
+					item: {
+						Count: 1b
+						id: "mythicmetals:kyber_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "凯伯套装"
+			x: 10.0d
+			y: 7.0d
+		}
+		{
+			dependencies: ["2139F8B6F5D0083A"]
+			description: [
+				"主手持任意迈达斯剑且"
+				"穿戴整套迈达斯套装额外获得："
+				""
+				"永久 急迫 V"
+			]
+			id: "28A7B3002CC76944"
+			rewards: [{
+				count: 8
+				id: "28FB6279E2CD6B8A"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "5F568766D6564309"
+					item: {
+						Count: 1b
+						id: "mythicmetals:midas_gold_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "76A8C6950A79243D"
+					item: {
+						Count: 1b
+						id: "mythicmetals:midas_gold_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "2A169DF4A83FDDE9"
+					item: {
+						Count: 1b
+						id: "mythicmetals:midas_gold_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "62876FB58628A69E"
+					item: {
+						Count: 1b
+						id: "mythicmetals:midas_gold_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "迈达斯金套装"
+			x: 6.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["0AAB78E2A4D57FE6"]
+			id: "094465413834571E"
+			rewards: [{
+				count: 8
+				id: "5BF8159D39D31A30"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "0C8F9F1C3349877E"
+					item: {
+						Count: 1b
+						id: "mythicmetals:legendary_banglum_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "2426BB39A8FBC49B"
+					item: {
+						Count: 1b
+						id: "mythicmetals:legendary_banglum_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "2977CC53783BB5D9"
+					item: {
+						Count: 1b
+						id: "mythicmetals:legendary_banglum_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "020E1B954379873E"
+					item: {
+						Count: 1b
+						id: "mythicmetals:legendary_banglum_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "传奇聚爆石套装"
+			x: 6.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["48A3C1AD474AB46F"]
+			description: [
+				"穿戴整套额外获得："
+				""
+				"+24 生命值"
+				""
+				"+2.5 护甲值 (共+26.5)"
+			]
+			id: "52D199F5AB4F3E16"
+			rewards: [{
+				count: 8
+				id: "6C98E069ABC715E3"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "224E0DF106048822"
+					item: {
+						Count: 1b
+						id: "mythicmetals:orichalcum_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "553FC3EDEC58CEC5"
+					item: {
+						Count: 1b
+						id: "mythicmetals:orichalcum_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "4DDCD23C7E757730"
+					item: {
+						Count: 1b
+						id: "mythicmetals:orichalcum_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "6F7F1BB9FFA5482E"
+					item: {
+						Count: 1b
+						id: "mythicmetals:orichalcum_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "山铜套装"
+			x: 10.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["03553D765B3AED16"]
+			description: [
+				"穿戴整套额外获得："
+				""
+				"+4 护甲值 (共+24)"
+				""
+				"永久 隐身"
+			]
+			id: "6116EF541BC1DEFC"
+			rewards: [{
+				count: 8
+				id: "064D69A7D36B8723"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "4EA8AACE09CA8541"
+					item: {
+						Count: 1b
+						id: "mythicmetals:mythril_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "03DA87F11A1421CE"
+					item: {
+						Count: 1b
+						id: "mythicmetals:mythril_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "584011C96B063349"
+					item: {
+						Count: 1b
+						id: "mythicmetals:mythril_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "64F7663F1D424C03"
+					item: {
+						Count: 1b
+						id: "mythicmetals:mythril_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "秘银套装"
+			x: 10.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["3E5F6A7994C59DE0"]
+			id: "19491DF9C56B4ED3"
+			rewards: [{
+				count: 8
+				id: "571A63E35FF92651"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "2147752B9E9DD87D"
+					item: {
+						Count: 1b
+						id: "mythicmetals:osmium_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "651973812A670EF9"
+					item: {
+						Count: 1b
+						id: "mythicmetals:osmium_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "536BDCFD609C037F"
+					item: {
+						Count: 1b
+						id: "mythicmetals:osmium_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "6DAAB353E7CDC01E"
+					item: {
+						Count: 1b
+						id: "mythicmetals:osmium_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "锇套装"
+			x: 2.0d
+			y: 9.0d
+		}
+		{
+			dependencies: ["19A6513DD068A8EE"]
+			description: [
+				"穿戴整套额外获得："
+				""
+				"+5 护甲值 (共+25)"
+			]
+			id: "553DD04A969C15D0"
+			rewards: [{
+				count: 8
+				id: "15E6481329AD23BA"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "41B356C591712332"
+					item: {
+						Count: 1b
+						id: "mythicmetals:palladium_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "2475CF9ABD7386FE"
+					item: {
+						Count: 1b
+						id: "mythicmetals:palladium_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "4D5C80EA1EDC6CD4"
+					item: {
+						Count: 1b
+						id: "mythicmetals:palladium_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "35B3CB72C8845C89"
+					item: {
+						Count: 1b
+						id: "mythicmetals:palladium_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "钯金套装"
+			x: 10.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["42690A66D7717E85"]
+			id: "34542BE3F1F42069"
+			rewards: [{
+				count: 8
+				id: "414AC23A71EBA61F"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "412D28A9C385953F"
+					item: {
+						Count: 1b
+						id: "mythicmetals:silver_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "3409FF66785AF72C"
+					item: {
+						Count: 1b
+						id: "mythicmetals:silver_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "4DED5E5AD8CF0F02"
+					item: {
+						Count: 1b
+						id: "mythicmetals:silver_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "7A21BD7380267261"
+					item: {
+						Count: 1b
+						id: "mythicmetals:silver_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "银套装"
+			x: 2.0d
+			y: 8.0d
+		}
+		{
+			dependencies: ["3951D5A0D7D565F9"]
+			id: "44E4950AC708AC87"
+			rewards: [{
+				count: 8
+				id: "2B2D5C07F549682C"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "53FEB93165F783AE"
+					item: {
+						Count: 1b
+						id: "mythicmetals:runite_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "5002511D3E422192"
+					item: {
+						Count: 1b
+						id: "mythicmetals:runite_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "10AF352BE6FC6B05"
+					item: {
+						Count: 1b
+						id: "mythicmetals:runite_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "3FE72B5F4D76651E"
+					item: {
+						Count: 1b
+						id: "mythicmetals:runite_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "符石套装"
+			x: 6.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["797A105B779943A1"]
+			id: "18AC270D5AF38421"
+			rewards: [{
+				count: 8
+				id: "2B725255799EE203"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "4EE040D55AB041C5"
+				item: {
+					Count: 1b
+					id: "mythicmetals:celestium_elytra"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 11.0d
+			y: 10.0d
+		}
+		{
+			dependencies: ["1D12EF2E638ED08F"]
+			description: [
+				"穿戴整套额外获得："
+				""
+				"+4 护甲值 (共+24)"
+				""
+				"永久 缓降"
+			]
+			id: "7BF899D64760F3C9"
+			rewards: [{
+				count: 8
+				id: "347F2C41A62163A0"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "1571F1B79D2C12F8"
+					item: {
+						Count: 1b
+						id: "mythicmetals:stormyx_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "2D85AFC148F68B0F"
+					item: {
+						Count: 1b
+						id: "mythicmetals:stormyx_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "712AB7954E1C8F1B"
+					item: {
+						Count: 1b
+						id: "mythicmetals:stormyx_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "169FE71BA67160AD"
+					item: {
+						Count: 1b
+						id: "mythicmetals:stormyx_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "飓霆套装"
+			x: 6.0d
+			y: 7.0d
+		}
+		{
+			dependencies: ["031FD601EF5AD39A"]
+			id: "47FF9934F458FFA0"
+			rewards: [{
+				count: 8
+				id: "70019C88770DA24D"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "34A3B083B8F9BAC3"
+					item: {
+						Count: 1b
+						id: "mythicmetals:steel_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "5861DD37A89008B0"
+					item: {
+						Count: 1b
+						id: "mythicmetals:steel_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "28C69871718AAB6F"
+					item: {
+						Count: 1b
+						id: "mythicmetals:steel_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "2A4D09AF88692891"
+					item: {
+						Count: 1b
+						id: "mythicmetals:steel_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "钢套装"
+			x: 2.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["741E6E758DC48DD7"]
+			id: "043A473AF78F9632"
+			rewards: [{
+				count: 8
+				id: "4C33414CA5924BD2"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "3311131022D8FD0F"
+					item: {
+						Count: 1b
+						id: "mythicmetals:adamantite_sword"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "4B36902688C5AE9F"
+					item: {
+						Count: 1b
+						id: "mythicmetals:adamantite_axe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "0A99819484551B29"
+					item: {
+						Count: 1b
+						id: "mythicmetals:adamantite_pickaxe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "125D45D617A6CA69"
+					item: {
+						Count: 1b
+						id: "mythicmetals:adamantite_shovel"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "2F6ADAEB5A085BB6"
+					item: {
+						Count: 1b
+						id: "mythicmetals:adamantite_hoe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "精金武器/工具"
+			x: 9.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["28FA9D33D1F2C892"]
+			id: "490D28EBE1BEDD1E"
+			rewards: [{
+				count: 8
+				id: "652F58F18C14175A"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "00D10E89EDA10394"
+					item: {
+						Count: 1b
+						id: "mythicmetals:aquarium_sword"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "3282C542BF65125B"
+					item: {
+						Count: 1b
+						id: "mythicmetals:aquarium_axe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "768F7B73105F4603"
+					item: {
+						Count: 1b
+						id: "mythicmetals:aquarium_pickaxe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "00899B1FC14E18E0"
+					item: {
+						Count: 1b
+						id: "mythicmetals:aquarium_shovel"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "062CC593FF0A3A7E"
+					item: {
+						Count: 1b
+						id: "mythicmetals:aquarium_hoe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "激水武器/工具"
+			x: 5.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["0AAB78E2A4D57FE6"]
+			id: "07F94690CB2331B5"
+			rewards: [{
+				count: 8
+				id: "43B17F391DC43955"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "482F069C857BCA69"
+					item: {
+						Count: 1b
+						id: "mythicmetals:banglum_sword"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "34AB97B5E82E5A4F"
+					item: {
+						Count: 1b
+						id: "mythicmetals:banglum_axe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "6F2EB40993081BA1"
+					item: {
+						Count: 1b
+						id: "mythicmetals:banglum_pickaxe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "5FAB2B4091B81EBB"
+					item: {
+						Count: 1b
+						id: "mythicmetals:banglum_shovel"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "4681AD5C867E8F24"
+					item: {
+						Count: 1b
+						id: "mythicmetals:banglum_hoe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "聚爆石武器/工具"
+			x: 5.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["7681FEA01CE4A3E9"]
+			id: "7A8252CAC5E871B5"
+			rewards: [{
+				count: 8
+				id: "2344C68F3E67B53E"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "77D8E0804871F06C"
+					item: {
+						Count: 1b
+						id: "mythicmetals:bronze_sword"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "57E4A469C34F415C"
+					item: {
+						Count: 1b
+						id: "mythicmetals:bronze_axe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "71BEA700ADC99E64"
+					item: {
+						Count: 1b
+						id: "mythicmetals:bronze_pickaxe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "1C1F880D9BF8B2A1"
+					item: {
+						Count: 1b
+						id: "mythicmetals:bronze_shovel"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "19BF5BE50246DC8F"
+					item: {
+						Count: 1b
+						id: "mythicmetals:bronze_hoe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "青铜武器/工具"
+			x: 1.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["0E404EB26689A1BD"]
+			id: "564B182CC1605873"
+			rewards: [{
+				count: 8
+				id: "54489014AD4EB605"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "61ADDAACF6956FE7"
+					item: {
+						Count: 1b
+						id: "mythicmetals:carmot_sword"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "5AF05B91CC5B30D3"
+					item: {
+						Count: 1b
+						id: "mythicmetals:carmot_axe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "266C133FFCD32C56"
+					item: {
+						Count: 1b
+						id: "mythicmetals:carmot_pickaxe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "7AB71C5225221871"
+					item: {
+						Count: 1b
+						id: "mythicmetals:carmot_shovel"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "2B178AECFB043243"
+					item: {
+						Count: 1b
+						id: "mythicmetals:carmot_hoe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "点金石武器/工具"
+			x: 9.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["797A105B779943A1"]
+			id: "27703193871C9D81"
+			rewards: [{
+				count: 8
+				id: "724E3E84FB4987F1"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "4424C975D30D60FF"
+					item: {
+						Count: 1b
+						id: "mythicmetals:celestium_sword"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "0E5448688A42668C"
+					item: {
+						Count: 1b
+						id: "mythicmetals:celestium_axe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "774E59221398049E"
+					item: {
+						Count: 1b
+						id: "mythicmetals:celestium_pickaxe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "1A183162F4DE0D51"
+					item: {
+						Count: 1b
+						id: "mythicmetals:celestium_shovel"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "12760E24E2DCE23F"
+					item: {
+						Count: 1b
+						id: "mythicmetals:celestium_hoe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "倚天武器/工具"
+			x: 9.0d
+			y: 10.0d
+		}
+		{
+			dependencies: ["4DC1F1573FF6DD08"]
+			id: "69FDFB6B24C58D6A"
+			rewards: [{
+				count: 8
+				id: "5F1AD405ADA1541C"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "09ECB4F72C0C8FF0"
+					item: {
+						Count: 1b
+						id: "mythicmetals:durasteel_sword"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "39DF96830F6DB2A4"
+					item: {
+						Count: 1b
+						id: "mythicmetals:durasteel_axe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "0278BDAC04E9B02E"
+					item: {
+						Count: 1b
+						id: "mythicmetals:durasteel_pickaxe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "068977DA763AD3A1"
+					item: {
+						Count: 1b
+						id: "mythicmetals:durasteel_shovel"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "0B9593C3D4A9DBA2"
+					item: {
+						Count: 1b
+						id: "mythicmetals:durasteel_hoe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "韧钢武器/工具"
+			x: 1.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["7D2C402AC40B7B3F"]
+			id: "75D99EBF155A20ED"
+			rewards: [{
+				count: 8
+				id: "0B96CF66D0EC96EC"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "46168C3FAE3623F2"
+					item: {
+						Count: 1b
+						id: "mythicmetals:hallowed_sword"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "38C0879A16844BF3"
+					item: {
+						Count: 1b
+						id: "mythicmetals:hallowed_axe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "226B2DAFDE22A177"
+					item: {
+						Count: 1b
+						id: "mythicmetals:hallowed_pickaxe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "75013F3F39C09AA4"
+					item: {
+						Count: 1b
+						id: "mythicmetals:hallowed_shovel"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "723F9C0A8AFDABA2"
+					item: {
+						Count: 1b
+						id: "mythicmetals:hallowed_hoe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "46CDEFA9ADFEFA8F"
+					item: {
+						Count: 1b
+						id: "mythicmetals:white_aegis_sword"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "神圣武器/工具"
+			x: 9.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["04E82B4D2585BB13"]
+			id: "71ED0F8DB6A73C20"
+			rewards: [{
+				count: 8
+				id: "566F63D637BA6DC9"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "3412CAC7CC206F08"
+					item: {
+						Count: 1b
+						id: "mythicmetals:kyber_sword"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "4DB105592A41C78C"
+					item: {
+						Count: 1b
+						id: "mythicmetals:kyber_axe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "4601521E4BA31241"
+					item: {
+						Count: 1b
+						id: "mythicmetals:kyber_pickaxe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "3FD6028BAA33B792"
+					item: {
+						Count: 1b
+						id: "mythicmetals:kyber_shovel"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "06D062FE54853056"
+					item: {
+						Count: 1b
+						id: "mythicmetals:kyber_hoe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "718B32888D55BD82"
+					item: {
+						Count: 1b
+						id: "mythicmetals:carmot_staff"
+						tag: {
+							Damage: 0
+							Encore: 0b
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "凯伯武器/工具"
+			x: 9.0d
+			y: 7.0d
+		}
+		{
+			dependencies: ["7265B5A0D4FE67DE"]
+			id: "56740BE8B5CB5693"
+			rewards: [{
+				count: 8
+				id: "44370FEACC6D5ADA"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "2B45F1A2D9F0DCBC"
+					item: {
+						Count: 1b
+						id: "mythicmetals:metallurgium_sword"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "7E31F2744E3264AA"
+					item: {
+						Count: 1b
+						id: "mythicmetals:metallurgium_axe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "3258A316BA542701"
+					item: {
+						Count: 1b
+						id: "mythicmetals:metallurgium_pickaxe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "29DF61C967643779"
+					item: {
+						Count: 1b
+						id: "mythicmetals:metallurgium_shovel"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "6C146295E6200DCA"
+					item: {
+						Count: 1b
+						id: "mythicmetals:metallurgium_hoe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "炼金武器/工具"
+			x: 9.0d
+			y: 9.0d
+		}
+		{
+			dependencies: ["0AAB78E2A4D57FE6"]
+			id: "3E6FC36365A61B70"
+			rewards: [{
+				count: 8
+				id: "77663595500459E9"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "673D971D1145F809"
+					item: {
+						Count: 1b
+						id: "mythicmetals:legendary_banglum_sword"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "219437229AAA4963"
+					item: {
+						Count: 1b
+						id: "mythicmetals:legendary_banglum_axe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "59DD5BF64AB7AE38"
+					item: {
+						Count: 1b
+						id: "mythicmetals:legendary_banglum_pickaxe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "239E52BDBFC4145F"
+					item: {
+						Count: 1b
+						id: "mythicmetals:legendary_banglum_shovel"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "0B7968EDD87F9CE9"
+					item: {
+						Count: 1b
+						id: "mythicmetals:legendary_banglum_hoe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "传奇聚爆石武器/工具"
+			x: 5.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["48A3C1AD474AB46F"]
+			id: "394A04654CC6CFBE"
+			rewards: [{
+				count: 8
+				id: "664F3E7F1DD9A2D0"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "52CCC63FEBB656FD"
+					item: {
+						Count: 1b
+						id: "mythicmetals:orichalcum_sword"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "48034A32A89309F5"
+					item: {
+						Count: 1b
+						id: "mythicmetals:orichalcum_axe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "5F9D691F76F00AFE"
+					item: {
+						Count: 1b
+						id: "mythicmetals:orichalcum_pickaxe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "5F2C23609B7B7F51"
+					item: {
+						Count: 1b
+						id: "mythicmetals:orichalcum_shovel"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "51E76C516F814513"
+					item: {
+						Count: 1b
+						id: "mythicmetals:orichalcum_hoe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "山铜武器/工具"
+			x: 9.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["03553D765B3AED16"]
+			id: "4604A36ACFE776D6"
+			rewards: [{
+				count: 8
+				id: "3F59F7C1581E0373"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "6B8E0F77EBADCF33"
+					item: {
+						Count: 1b
+						id: "mythicmetals:mythril_sword"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "28BC110C1A151FBC"
+					item: {
+						Count: 1b
+						id: "mythicmetals:mythril_axe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "72A731CA7C5C1898"
+					item: {
+						Count: 1b
+						id: "mythicmetals:mythril_pickaxe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "363701439780C828"
+					item: {
+						Count: 1b
+						id: "mythicmetals:mythril_shovel"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "6A72D8A276618B3D"
+					item: {
+						Count: 1b
+						id: "mythicmetals:mythril_hoe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "秘银武器/工具"
+			x: 9.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["3E5F6A7994C59DE0"]
+			id: "2D577AFE081E38F9"
+			rewards: [{
+				count: 8
+				id: "4D0AFDD865042C03"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "30186D945278C3B4"
+					item: {
+						Count: 1b
+						id: "mythicmetals:osmium_sword"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "7C442A1514AC7F92"
+					item: {
+						Count: 1b
+						id: "mythicmetals:osmium_axe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "14E39A921A9CFD16"
+					item: {
+						Count: 1b
+						id: "mythicmetals:osmium_pickaxe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "2B2E828134A07A0B"
+					item: {
+						Count: 1b
+						id: "mythicmetals:osmium_shovel"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "354A21CB36B6FF54"
+					item: {
+						Count: 1b
+						id: "mythicmetals:osmium_hoe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "锇武器/工具"
+			x: 1.0d
+			y: 9.0d
+		}
+		{
+			dependencies: ["19A6513DD068A8EE"]
+			id: "4CFA5FC11F1D1EC0"
+			rewards: [{
+				count: 8
+				id: "6566C3E271B2F899"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "54B17D3885B22920"
+					item: {
+						Count: 1b
+						id: "mythicmetals:palladium_sword"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "695D586A48A56297"
+					item: {
+						Count: 1b
+						id: "mythicmetals:palladium_axe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "3ED21D747FCDA816"
+					item: {
+						Count: 1b
+						id: "mythicmetals:palladium_pickaxe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "017E8B093297F56D"
+					item: {
+						Count: 1b
+						id: "mythicmetals:palladium_shovel"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "62E27EF3B7CB64CB"
+					item: {
+						Count: 1b
+						id: "mythicmetals:palladium_hoe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "0C5872C92DC8E1A1"
+					item: {
+						Count: 1b
+						id: "mythicmetals:red_aegis_sword"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "钯金武器/工具"
+			x: 9.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["4797E646473B9B04"]
+			id: "0893FD5F443B6655"
+			rewards: [{
+				count: 8
+				id: "345EB0007FDEEC97"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "1DE9C1DF8EEEFB07"
+					item: {
+						Count: 1b
+						id: "mythicmetals:prometheum_sword"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "46C9E76DB5FE7ED6"
+					item: {
+						Count: 1b
+						id: "mythicmetals:prometheum_axe"
+						tag: {
+							Damage: 0
+							DurabilityRepaired: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "3A1D3315E914EBAE"
+					item: {
+						Count: 1b
+						id: "mythicmetals:prometheum_pickaxe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "35D0518BFCBC4F90"
+					item: {
+						Count: 1b
+						id: "mythicmetals:prometheum_shovel"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "674E5FF8AA41F016"
+					item: {
+						Count: 1b
+						id: "mythicmetals:prometheum_hoe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "22B59B9ECFB7719F"
+					item: {
+						Count: 1b
+						id: "mythicmetals:orichalcum_hammer"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "钷武器/工具"
+			x: 5.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["5F441F709D370DB4"]
+			id: "6E68E3A9F4EDD6E3"
+			rewards: [{
+				count: 8
+				id: "7637E0FCA88F4926"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "2EFE42A7D7FC0FAC"
+					item: {
+						Count: 1b
+						id: "mythicmetals:quadrillum_sword"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "2B2F2B6E0591DCCA"
+					item: {
+						Count: 1b
+						id: "mythicmetals:quadrillum_axe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "59BB76DCA3E94420"
+					item: {
+						Count: 1b
+						id: "mythicmetals:quadrillum_pickaxe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "4F60AF8E7BEE16B1"
+					item: {
+						Count: 1b
+						id: "mythicmetals:quadrillum_shovel"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "038F3CAEC33BCBDE"
+					item: {
+						Count: 1b
+						id: "mythicmetals:quadrillum_hoe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "兆金武器/工具"
+			x: 1.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["3951D5A0D7D565F9"]
+			id: "3586796146FBBC98"
+			rewards: [{
+				count: 8
+				id: "52B902FB71431218"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "015672FE211EBA50"
+					item: {
+						Count: 1b
+						id: "mythicmetals:runite_sword"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "23BBEBEEE776D6C8"
+					item: {
+						Count: 1b
+						id: "mythicmetals:runite_axe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "271B91CCE441C0B6"
+					item: {
+						Count: 1b
+						id: "mythicmetals:runite_pickaxe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "1D53B9E2FE59E6F3"
+					item: {
+						Count: 1b
+						id: "mythicmetals:runite_shovel"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "27122D66E07BC5C5"
+					item: {
+						Count: 1b
+						id: "mythicmetals:runite_hoe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "符石武器/工具"
+			x: 5.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["239DB2A304B93B24"]
+			id: "2DB28900DC89CDFA"
+			rewards: [{
+				count: 8
+				id: "12DD0F43FA2E22F5"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "587B549355C89FA8"
+					item: {
+						Count: 1b
+						id: "mythicmetals:star_platinum_sword"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "5AA3A30A6BACE1BC"
+					item: {
+						Count: 1b
+						id: "mythicmetals:star_platinum_axe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "662C0B5F59B8A0BC"
+					item: {
+						Count: 1b
+						id: "mythicmetals:star_platinum_pickaxe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "44A4535388DC1D79"
+					item: {
+						Count: 1b
+						id: "mythicmetals:star_platinum_shovel"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "46F0FFEBDF924502"
+					item: {
+						Count: 1b
+						id: "mythicmetals:star_platinum_hoe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "星辰铂金武器/工具"
+			x: 9.0d
+			y: 8.0d
+		}
+		{
+			dependencies: ["031FD601EF5AD39A"]
+			id: "0EFCA13BF8C7C990"
+			rewards: [{
+				count: 8
+				id: "5C8E95C1CED5757E"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "201D8A6E0394E235"
+					item: {
+						Count: 1b
+						id: "mythicmetals:steel_sword"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "686FE47403DF66E9"
+					item: {
+						Count: 1b
+						id: "mythicmetals:steel_axe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "6BF3586B33C2D696"
+					item: {
+						Count: 1b
+						id: "mythicmetals:steel_pickaxe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "235423684A3E761D"
+					item: {
+						Count: 1b
+						id: "mythicmetals:steel_shovel"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "58BADF6150993C88"
+					item: {
+						Count: 1b
+						id: "mythicmetals:steel_hoe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "钢武器/工具"
+			x: 1.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["1D12EF2E638ED08F"]
+			id: "14C47AE75006117C"
+			rewards: [{
+				count: 8
+				id: "22DF9EA0C64DB96B"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "214CBB79B4DA3695"
+					item: {
+						Count: 1b
+						id: "mythicmetals:stormyx_sword"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "30DFAA35781378E2"
+					item: {
+						Count: 1b
+						id: "mythicmetals:stormyx_axe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "1B6CE3D85E949BBF"
+					item: {
+						Count: 1b
+						id: "mythicmetals:stormyx_pickaxe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "59E3EC43C3F5E99E"
+					item: {
+						Count: 1b
+						id: "mythicmetals:stormyx_shovel"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "14F515CFEB2ED30F"
+					item: {
+						Count: 1b
+						id: "mythicmetals:stormyx_hoe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "飓霆武器/工具"
+			x: 5.0d
+			y: 7.0d
+		}
+		{
+			dependencies: ["1D12EF2E638ED08F"]
+			id: "15B8842B5E12003B"
+			rewards: [{
+				count: 8
+				id: "0CCCD9EC2E0D411D"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "0048B2CF8BF49206"
+				item: {
+					Count: 1b
+					id: "mythicmetals:stormyx_shield"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 7.0d
+			y: 7.0d
+		}
+		{
+			dependencies: ["4A0BEAA019BC3852"]
+			id: "369BD0ABE85D6F50"
+			rewards: [{
+				count: 8
+				id: "24F14A558CAFFB8F"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "5B5ABB3F71A87179"
+				item: "mythicmetals:platinum_watch"
+				type: "item"
+			}]
+			x: 9.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["2139F8B6F5D0083A"]
+			description: [
+				"主手持任意迈达斯剑且"
+				"穿戴整套迈达斯套装额外获得："
+				""
+				"永久 急迫 V"
+			]
+			id: "17B3DA0782961F23"
+			rewards: [{
+				count: 8
+				id: "77CF467377B03A31"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "3542B00E16711763"
+					item: {
+						Count: 1b
+						id: "mythicmetals:midas_gold_sword"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "521211DCBE0CB059"
+					item: {
+						Count: 1b
+						id: "mythicmetals:gilded_midas_gold_sword"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "5F7CAC1DB7876FB6"
+					item: {
+						Count: 1b
+						id: "mythicmetals:royal_midas_gold_sword"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: 2.0d
+		}
+		{
+			id: "43B3F5CF03FE18AB"
+			rewards: [{
+				count: 8
+				id: "3DC0C9850C7F7B33"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "00A650B2F9C49C14"
+				item: "minecraft:copper_ingot"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 7.0d
+		}
+		{
+			id: "4CA9B295160B5CAF"
+			rewards: [{
+				count: 8
+				id: "5429CFD54482FDD5"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "45D9B9EDD42AB4C3"
+				item: "minecraft:iron_ingot"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"03553D765B3AED16"
+				"3B5DCFE468A46D0C"
+			]
+			id: "05270EE7E6909900"
+			rewards: [{
+				count: 8
+				id: "6FF793D6742C0B8C"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "0543ED1A17CF352F"
+				item: {
+					Count: 1b
+					id: "mythicmetals:mythril_drill"
+					tag: {
+						Damage: 0
+						IsActive: 0b
+					}
+				}
+				type: "item"
+			}]
+			x: 11.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["43B3F5CF03FE18AB"]
+			id: "6354A200FC501E90"
+			rewards: [{
+				count: 8
+				id: "1E2B43EDE07D810A"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "12D1B61C7A5AAE84"
+					item: {
+						Count: 1b
+						id: "mythicmetals:copper_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "492616408B0EEE58"
+					item: {
+						Count: 1b
+						id: "mythicmetals:copper_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "42662384B438D6AA"
+					item: {
+						Count: 1b
+						id: "mythicmetals:copper_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "4F7B90DE6A70E521"
+					item: {
+						Count: 1b
+						id: "mythicmetals:copper_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "铜套装"
+			x: 2.0d
+			y: 7.0d
+		}
+		{
+			dependencies: ["43B3F5CF03FE18AB"]
+			id: "220A34AD8B1B051E"
+			rewards: [{
+				count: 8
+				id: "683B1C032EBA5035"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "1B9F3D1A685FD46E"
+					item: {
+						Count: 1b
+						id: "mythicmetals:copper_sword"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "5B9683E3CFFBEC46"
+					item: {
+						Count: 1b
+						id: "mythicmetals:copper_axe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "2BF8520901013979"
+					item: {
+						Count: 1b
+						id: "mythicmetals:copper_pickaxe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "7FA8A5754CDE155C"
+					item: {
+						Count: 1b
+						id: "mythicmetals:copper_shovel"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "7CC06401FD110A39"
+					item: {
+						Count: 1b
+						id: "mythicmetals:copper_hoe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "铜武器/工具"
+			x: 1.0d
+			y: 7.0d
+		}
+		{
+			dependencies: ["4CA9B295160B5CAF"]
+			id: "570130475CD8568D"
+			rewards: [{
+				count: 8
+				id: "674DE5C5FFFFEE61"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "5C511B610F8869B6"
+					item: {
+						Count: 1b
+						id: "minecraft:iron_sword"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "274F30BDA87883B8"
+					item: {
+						Count: 1b
+						id: "minecraft:iron_axe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "7BA4C1BC9DA0C922"
+					item: {
+						Count: 1b
+						id: "minecraft:iron_pickaxe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "068D137D14440012"
+					item: {
+						Count: 1b
+						id: "minecraft:iron_shovel"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "69BEE424240AC8AD"
+					item: {
+						Count: 1b
+						id: "minecraft:iron_hoe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "铁武器/工具"
+			x: 1.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["4CA9B295160B5CAF"]
+			id: "77495399DD0DD548"
+			rewards: [{
+				count: 8
+				id: "31A4505403DCA22A"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "6DBF972F3C55F3E3"
+					item: {
+						Count: 1b
+						id: "minecraft:iron_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "0B79ABC56C8EC463"
+					item: {
+						Count: 1b
+						id: "minecraft:iron_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "1184C2994F01EDBE"
+					item: {
+						Count: 1b
+						id: "minecraft:iron_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "70CADE2A736292CB"
+					item: {
+						Count: 1b
+						id: "minecraft:iron_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "铁套装"
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["4F173C7642B807BE"]
+			id: "3B5DCFE468A46D0C"
+			rewards: [{
+				count: 8
+				id: "41EBFF40855F5BDF"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "03476856A3B592C1"
+				item: "mythicmetals:durasteel_engine"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 0.0d
+		}
+	]
+	title: "Mythic Metals"
+}

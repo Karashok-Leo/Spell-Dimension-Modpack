@@ -1,0 +1,10 @@
+{
+  "enableDefault": false,
+  "keepInventory": true,
+  "keepXp": true,
+  "countdownGap": 200,
+  "countdownBar": 600,
+  "countdownStay": 5,
+  "countdownTitle": 10,
+  "duelistMin": 1
+}

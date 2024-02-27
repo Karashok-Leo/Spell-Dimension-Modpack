@@ -1,0 +1,217 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "midas_hunger"
+	group: "7DB71F008F582E22"
+	icon: {
+		Count: 1b
+		id: "midashunger:cooked_golden_beef"
+		tag: { }
+	}
+	id: "2C303CA30C59D4A5"
+	order_index: 8
+	quest_links: [ ]
+	quests: [
+		{
+			id: "2E753AE49E36154B"
+			tasks: [{
+				id: "79C884937A965821"
+				item: "midashunger:dried_golden_kelp"
+				type: "item"
+			}]
+			x: -1.0d
+			y: 2.5d
+		}
+		{
+			id: "52F9C0C5A15C9FD9"
+			tasks: [{
+				id: "21E1B89CA05B5467"
+				item: "midashunger:cooked_golden_salmon"
+				type: "item"
+			}]
+			x: -0.5d
+			y: 1.5d
+		}
+		{
+			id: "6DF71EC9031AFA1E"
+			tasks: [{
+				id: "30DBD1D2893C5A01"
+				item: "midashunger:cooked_golden_cod"
+				type: "item"
+			}]
+			x: -1.5d
+			y: 1.5d
+		}
+		{
+			id: "527A5C6F722E91B5"
+			tasks: [{
+				id: "7545044FEF5606CA"
+				item: "midashunger:golden_turtle_egg"
+				type: "item"
+			}]
+			x: -1.0d
+			y: -0.5d
+		}
+		{
+			id: "2C1B528A6DFD612F"
+			tasks: [{
+				id: "154B5D734C4A121B"
+				item: "midashunger:cooked_golden_chicken"
+				type: "item"
+			}]
+			x: -1.0d
+			y: 0.5d
+		}
+		{
+			id: "2BE3B0DAA9E4497D"
+			tasks: [{
+				id: "18A87461EA8090BB"
+				item: "midashunger:golden_beetroot"
+				type: "item"
+			}]
+			x: 0.0d
+			y: -2.5d
+		}
+		{
+			id: "228EA354D93CF6AA"
+			tasks: [{
+				id: "157BC132276AFBF9"
+				item: "midashunger:golden_beetroot_soup"
+				type: "item"
+			}]
+			x: 1.0d
+			y: -2.5d
+		}
+		{
+			id: "67FE382C72C9F079"
+			tasks: [{
+				id: "42321EB8175E2CC8"
+				item: "midashunger:sweet_golden_berries"
+				type: "item"
+			}]
+			x: 0.0d
+			y: -0.5d
+		}
+		{
+			id: "2AC319BA94B39874"
+			tasks: [{
+				id: "2A15004F7772FBD0"
+				item: "midashunger:golden_chorus_fruit"
+				type: "item"
+			}]
+			x: 1.0d
+			y: -0.5d
+		}
+		{
+			id: "054B82A8020E7544"
+			tasks: [{
+				id: "1D151B49DC4F408E"
+				item: "midashunger:poisonous_golden_potato"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 2.5d
+		}
+		{
+			id: "04CAD044CD2A5F43"
+			tasks: [{
+				id: "06002AF6A50DCBCD"
+				item: "midashunger:baked_golden_potato"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 2.5d
+		}
+		{
+			id: "4CE2A8C682309DB1"
+			tasks: [{
+				id: "4B6E81A13F5A6CC1"
+				item: "midashunger:cooked_golden_mutton"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.5d
+		}
+		{
+			id: "13025E5E8F8668E1"
+			tasks: [{
+				id: "1F351196B051C523"
+				item: "midashunger:cooked_golden_porkchop"
+				type: "item"
+			}]
+			x: 0.5d
+			y: 1.5d
+		}
+		{
+			id: "00BF9C1280A6FBA3"
+			tasks: [{
+				id: "28B71979647DAACF"
+				item: "midashunger:cooked_golden_rabbit"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 0.5d
+		}
+		{
+			id: "7019EF27A4AB1956"
+			tasks: [{
+				id: "69C3A76A5BFB69B9"
+				item: "midashunger:cooked_golden_beef"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 1.5d
+		}
+		{
+			id: "68DA4D9A63A583EE"
+			tasks: [{
+				id: "4226D72647302179"
+				item: "midashunger:golden_pumpkin_pie"
+				type: "item"
+			}]
+			x: -1.0d
+			y: -2.5d
+		}
+		{
+			id: "776C74AC3AE07D34"
+			tasks: [{
+				id: "45D65BC137374951"
+				item: "midashunger:enchanted_golden_carrot"
+				type: "item"
+			}]
+			x: 1.5d
+			y: -1.5d
+		}
+		{
+			id: "0FB14BDD8D58086F"
+			tasks: [{
+				id: "233EF9C5BC802F69"
+				item: "minecraft:enchanted_golden_apple"
+				type: "item"
+			}]
+			x: -0.5d
+			y: -1.5d
+		}
+		{
+			id: "7FD4D07A76E5C3FA"
+			tasks: [{
+				id: "195763E8AD425EA8"
+				item: "minecraft:golden_apple"
+				type: "item"
+			}]
+			x: -1.5d
+			y: -1.5d
+		}
+		{
+			id: "4B35EBF81DDDB642"
+			tasks: [{
+				id: "40F381DC3009ACD6"
+				item: "minecraft:golden_carrot"
+				type: "item"
+			}]
+			x: 0.5d
+			y: -1.5d
+		}
+	]
+	title: "Midas Hunger"
+}

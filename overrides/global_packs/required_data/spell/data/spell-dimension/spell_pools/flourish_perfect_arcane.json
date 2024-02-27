@@ -1,0 +1,20 @@
+{
+  "creatable_as_spellbook":false,
+  "spell_ids": [
+    "spell-dimension:flourish3",
+
+    "wizards:arcane_missile",
+    "wizards:arcane_beam",
+    "wizards:arcane_blast",
+
+    "spellbladenext:arcaneoverdrive",
+    "spellbladenext:amethystslash",
+
+    "spellbladenext:echoes",
+    "spellbladenext:frostblink",
+
+    "spellbladenext:bladestorm",
+    "spellbladenext:finalstrike",
+    "spellbladenext:maelstrom"
+  ]
+}

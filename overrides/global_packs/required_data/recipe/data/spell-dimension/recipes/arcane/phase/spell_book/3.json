@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "spell-dimension:advanced_fire_essence"
+    },
+    "*": {
+      "item": "spell-dimension:phase_advanced_arcane_spell_book"
+    },
+    "A": {
+      "item": "illagerinvasion:hallowed_gem"
+    },
+    "B": {
+      "item": "fwaystones:abyss_watcher"
+    },
+    "C": {
+      "item": "simplyswords:empowered_remnant"
+    },
+    "D": {
+      "item": "minecraft:elytra"
+    }
+  },
+  "pattern": [
+    "#A#",
+    "D*B",
+    "#C#"
+  ],
+  "result": {
+    "item": "spell-dimension:phase_perfect_arcane_spell_book"
+  },
+  "show_notification": true
+}

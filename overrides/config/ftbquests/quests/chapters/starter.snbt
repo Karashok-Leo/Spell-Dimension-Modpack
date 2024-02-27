@@ -1,0 +1,357 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "starter"
+	group: "397F98ADDDF14F8A"
+	icon: {
+		Count: 1b
+		id: "spell-dimension:primary_arcane_spell_book"
+		tag: { }
+	}
+	id: "1DFF92605CB13ACB"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			description: [
+				"制作法术绑定台（如果运气好，你可以在村庄里找到它），选择奥秘、火焰、寒冰、治愈四个学派之一，将一本书制作成初级法术书。"
+				""
+				"初级法术书没有使用需求，所以只需将法术书装备在你的法术书槽位上，便可以使用法杖或者剑类物品施法法术。"
+				""
+				"一本法术书最多绑定9个法术书。（实际上还可以绑定更多，但你没有足够的键位来施放他们。）"
+			]
+			id: "64ED18BD6535D4B3"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7C93939284685C0B"
+				table_id: 2824737794162002312L
+				type: "choice"
+			}]
+			tasks: [
+				{
+					advancement: "rpg_classes:classes"
+					criterion: ""
+					id: "402FA45822BC440E"
+					type: "advancement"
+				}
+				{
+					id: "574DFBB7AF2A77C7"
+					item: {
+						Count: 1b
+						id: "itemfilters:or"
+						tag: {
+							items: [
+								{
+									Count: 1b
+									id: "spell-dimension:primary_arcane_spell_book"
+									tag: { }
+								}
+								{
+									Count: 1b
+									id: "spell-dimension:primary_fire_spell_book"
+									tag: { }
+								}
+								{
+									Count: 1b
+									id: "spell-dimension:primary_frost_spell_book"
+									tag: { }
+								}
+								{
+									Count: 1b
+									id: "spell-dimension:primary_healing_spell_book"
+									tag: { }
+								}
+							]
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "选择你的赛道"
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			description: [
+				"每一种法术学派都有初级、进阶、高级三种法术精华，这些法术精华广泛用于合成法术书、法师勋章、附魔精华等物品。"
+				""
+				"法术精华的唯一获取途径是造成法术伤害。"
+			]
+			id: "4C581DE0EEFB3B93"
+			tasks: [{
+				id: "443911C7DE704567"
+				item: {
+					Count: 1b
+					id: "itemfilters:or"
+					tag: {
+						items: [
+							{
+								Count: 1b
+								id: "spell-dimension:primary_arcane_essence"
+								tag: { }
+							}
+							{
+								Count: 1b
+								id: "spell-dimension:secondary_arcane_essence"
+								tag: { }
+							}
+							{
+								Count: 1b
+								id: "spell-dimension:advanced_arcane_essence"
+							}
+							{
+								Count: 1b
+								id: "spell-dimension:primary_fire_essence"
+								tag: { }
+							}
+							{
+								Count: 1b
+								id: "spell-dimension:secondary_fire_essence"
+								tag: { }
+							}
+							{
+								Count: 1b
+								id: "spell-dimension:advanced_fire_essence"
+								tag: { }
+							}
+							{
+								Count: 1b
+								id: "spell-dimension:primary_frost_essence"
+								tag: { }
+							}
+							{
+								Count: 1b
+								id: "spell-dimension:secondary_frost_essence"
+								tag: { }
+							}
+							{
+								Count: 1b
+								id: "spell-dimension:advanced_frost_essence"
+								tag: { }
+							}
+							{
+								Count: 1b
+								id: "spell-dimension:primary_healing_essence"
+								tag: { }
+							}
+							{
+								Count: 1b
+								id: "spell-dimension:secondary_healing_essence"
+								tag: { }
+							}
+							{
+								Count: 1b
+								id: "spell-dimension:advanced_healing_essence"
+								tag: { }
+							}
+							{
+								Count: 1b
+								id: "spell-dimension:primary_lightning_essence"
+								tag: { }
+							}
+							{
+								Count: 1b
+								id: "spell-dimension:secondary_lightning_essence"
+								tag: { }
+							}
+							{
+								Count: 1b
+								id: "spell-dimension:advanced_lightning_essence"
+								tag: { }
+							}
+							{
+								Count: 1b
+								id: "spell-dimension:primary_soul_essence"
+								tag: { }
+							}
+							{
+								Count: 1b
+								id: "spell-dimension:secondary_soul_essence"
+								tag: { }
+							}
+							{
+								Count: 1b
+								id: "spell-dimension:advanced_soul_essence"
+							}
+						]
+					}
+				}
+				type: "item"
+			}]
+			title: "法术精华"
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			description: ["魔法师只有具备足够资格才能装备更强力的法术书或是使用更高级的附魔精华。法师勋章是你获得法师头衔的唯一途径。"]
+			id: "47EFF202BED75629"
+			tasks: [{
+				id: "4C35FA8AE1854552"
+				item: {
+					Count: 1b
+					id: "spell-dimension:mage_medal"
+					tag: { }
+				}
+				type: "item"
+			}]
+			title: "法师勋章"
+			x: 2.0d
+			y: 2.0d
+		}
+		{
+			description: [
+				"使用附魔精华可以为你的装备附上魔力，当装备处于对应槽位时，你的对应属性（法术强度等）会改变（一般是增强）。"
+				""
+				"但要注意，不能对同一件装备无限次使用附魔精华。这是每使用一次附魔精华，装备的“等级”便会加一。只有当附魔精华的阈值不低于装备的“等级”时，才可以对该装备使用精华。"
+			]
+			id: "1445778F636A085B"
+			tasks: [{
+				id: "7A89DFB55E31917A"
+				item: {
+					Count: 1b
+					id: "itemfilters:or"
+					tag: {
+						items: [
+							{
+								Count: 1b
+								id: "spell-dimension:enchanted_essence"
+								tag: {
+									AttributeName: "spell_power:arcane"
+									Mage: {
+										Grade: 0
+										School: "ARCANE"
+									}
+									Operation: "ADDITION"
+									Slot: "mainhand"
+									Threshold: 10.0d
+									Value: 1.0d
+								}
+							}
+							{
+								Count: 1b
+								id: "spell-dimension:enchanted_essence"
+								tag: {
+									AttributeName: "spell_power:fire"
+									Mage: {
+										Grade: 0
+										School: "FIRE"
+									}
+									Operation: "ADDITION"
+									Slot: "mainhand"
+									Threshold: 10.0d
+									Value: 1.0d
+								}
+							}
+							{
+								Count: 1b
+								id: "spell-dimension:enchanted_essence"
+								tag: {
+									AttributeName: "spell_power:frost"
+									Mage: {
+										Grade: 0
+										School: "FROST"
+									}
+									Operation: "ADDITION"
+									Slot: "mainhand"
+									Threshold: 10.0d
+									Value: 1.0d
+								}
+							}
+							{
+								Count: 1b
+								id: "spell-dimension:enchanted_essence"
+								tag: {
+									AttributeName: "spell_power:healing"
+									Mage: {
+										Grade: 0
+										School: "HEALING"
+									}
+									Operation: "ADDITION"
+									Slot: "mainhand"
+									Threshold: 10.0d
+									Value: 1.0d
+								}
+							}
+							{
+								Count: 1b
+								id: "spell-dimension:enchanted_essence"
+								tag: {
+									AttributeName: "spell_power:lightning"
+									Mage: {
+										Grade: 0
+										School: "LIGHTNING"
+									}
+									Operation: "ADDITION"
+									Slot: "mainhand"
+									Threshold: 10.0d
+									Value: 1.0d
+								}
+							}
+							{
+								Count: 1b
+								id: "spell-dimension:enchanted_essence"
+								tag: {
+									AttributeName: "spell_power:soul"
+									Mage: {
+										Grade: 0
+										School: "SOUL"
+									}
+									Operation: "ADDITION"
+									Slot: "mainhand"
+									Threshold: 10.0d
+									Value: 1.0d
+								}
+							}
+						]
+					}
+				}
+				match_nbt: true
+				type: "item"
+			}]
+			title: "附魔精华"
+			x: -2.0d
+			y: 0.0d
+		}
+		{
+			description: ["祛魔精华用于祛除所有通过附魔精华添加的属性修饰符。"]
+			id: "01C30827CD5F34BD"
+			tasks: [{
+				id: "1755AB811E199926"
+				item: {
+					Count: 1b
+					id: "spell-dimension:disenchanted_essence"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: -2.0d
+			y: 2.0d
+		}
+		{
+			description: [
+				"魔法总共分为四个学派：奥秘、火焰、寒冰、治愈。"
+				""
+				"每种学派各有三种专精路线。"
+				""
+				"奥秘学派的专精路线有：汇聚、相位、华彩。"
+				"火焰学派的专精路线有：火息、热爆、引火。"
+				"寒冰学派的专精路线有：冰核、霜环、冰刺。"
+				"治愈学派的专精路线有：力量、再生、抗性。"
+			]
+			icon: {
+				Count: 1b
+				id: "spell-dimension:flourish_secondary_arcane_spell_book"
+				tag: { }
+			}
+			id: "076E41132F2CB0C8"
+			tasks: [{
+				id: "398880385B0EDBF4"
+				type: "checkmark"
+			}]
+			title: "魔法体系"
+			x: 0.0d
+			y: 2.0d
+		}
+	]
+	title: "Starter"
+}

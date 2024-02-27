@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "spell-dimension:advanced_healing_essence"
+    },
+    "*": {
+      "item": "spell-dimension:power_advanced_healing_spell_book"
+    },
+    "A": {
+      "item": "things:riot_gauntlet"
+    },
+    "B": {
+      "item": "mythicmetals:banglum_chunk"
+    },
+    "C": {
+      "item": "mutantmonsters:hulk_hammer"
+    },
+    "D": {
+      "item": "adventurez:blackstone_golem_heart"
+    }
+  },
+  "pattern": [
+    "#A#",
+    "D*B",
+    "#C#"
+  ],
+  "result": {
+    "item": "spell-dimension:power_perfect_healing_spell_book"
+  },
+  "show_notification": true
+}

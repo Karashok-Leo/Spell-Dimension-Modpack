@@ -1,0 +1,197 @@
+{
+	"EliteSpawnRates": 0.03,
+	"UltraSpawnRates": 0.003,
+	"EldritchSpawnRates": 3.0E-4,
+	"EliteHealthMultiplier": 2.0,
+	"UltraHealthMultiplier": 4.0,
+	"EldritchHealthMultiplier": 8.0,
+	"EliteXpMultiplier": 2,
+	"UltraXpMultiplier": 4,
+	"EldritchXpMultiplier": 8,
+	"EliteMinModifiers": 2,
+	"UltraMinModifiers": 4,
+	"EldritchMinModifiers": 8,
+	"EliteMaxModifiers": 4,
+	"UltraMaxModifiers": 8,
+	"EldritchMaxModifiers": 12,
+	// Prevent named mobs from becoming Elite, Ultra, and Eldritch
+	"ignoreNamedMobs": true,
+	// Turn off titles for mobs
+	"turnOffTitles": true,
+	// Turn off boss bars
+	"turnOffBossBars": false,
+	// Boss bars appears when placing crosshair on buffed mob
+	"crosshairBossBars": true,
+	// Buffed mobs are highlighted after being damaged
+	"turnOnGlowingMobs": true,
+	// Turn off loot for buffed mobs
+	"disableLootDrops": false,
+	// If true, buffed mobs only drop loot when killed by players
+	"onlyDropLootIfKilledByPlayers": true,
+	// Buffed mobs also drop the loot of the tier below them + the loot of their tier.
+	"combinedLootDrop": false,
+	// Buffed mobs have generic titles w/o abilities
+	"genericTitles": false,
+	// Allows to see eldritch mobs' name tags from any distance
+	"distantVisibleNameTags": false,
+	"alchemistConfig": {
+		"name": "炼金",
+		"disabled": false,
+		"cooldown": 200,
+		"useStrongHealing": false,
+		"useStrongHarming": false
+	},
+	"berserkConfig": {
+		"name": "狂暴",
+		"disabled": false,
+		"amplifier": 1
+	},
+	"blindingConfig": {
+		"name": "致盲",
+		"disabled": false,
+		"cooldown": 300,
+		"duration": 80,
+		"amplifier": 0
+	},
+	"burningConfig": {
+		"name": "引燃",
+		"disabled": false,
+		"cooldown": 500,
+		"fireDuration": 6
+	},
+	"cloakedConfig": {
+		"name": "隐形",
+		"disabled": true
+	},
+	"deflectorConfig": {
+		"name": "偏转",
+		"disabled": false
+	},
+	"drainingConfig": {
+		"name": "枯竭",
+		"disabled": false,
+		"cooldown": 300,
+		"duration": 125,
+		"amplifier": 0
+	},
+	"drowningConfig": {
+		"name": "溺水",
+		"disabled": false,
+		"drowningDamage": 0.009999999776482582,
+		"waterBreathingDuration": 100
+	},
+	"duplicatorConfig": {
+		"name": "复制",
+		"disabled": false,
+		"cooldown": 3000
+	},
+	"enderConfig": {
+		"name": "末影",
+		"disabled": false
+	},
+	"ghastlyConfig": {
+		"name": "恶魂",
+		"disabled": false,
+		"cooldown": 700,
+		"fireballPower": 1
+	},
+	"gravityConfig": {
+		"name": "重力",
+		"disabled": false,
+		"cooldown": 700
+	},
+	"lethargicConfig": {
+		"name": "昏睡",
+		"disabled": false,
+		"cooldown": 250,
+		"duration": 100,
+		"amplifier": 0
+	},
+	"lifestealConfig": {
+		"name": "吸血",
+		"disabled": false,
+		"lifestealHealProportion": 1.0
+	},
+	"regeneratingConfig": {
+		"name": "再生",
+		"disabled": false,
+		"healAmount": 0.02500000037252903
+	},
+	"rustConfig": {
+		"name": "锈蚀",
+		"disabled": false,
+		"equipmentDamage": 30
+	},
+	"resistantConfig": {
+		"name": "抗性",
+		"disabled": false,
+		"amplifier": 0
+	},
+	"starvingConfig": {
+		"name": "饥饿",
+		"disabled": false,
+		"cooldown": 250,
+		"duration": 200,
+		"amplifier": 0
+	},
+	"stormyConfig": {
+		"name": "风暴",
+		"disabled": false,
+		"cooldown": 1000
+	},
+	"speedsterConfig": {
+		"name": "疾速",
+		"disabled": false,
+		"amplifier": 2
+	},
+	"sprinterConfig": {
+		"name": "短跑",
+		"disabled": false,
+		"cooldown": 600,
+		"duration": 100,
+		"amplifier": 4
+	},
+	"thornyConfig": {
+		"name": "荆棘",
+		"disabled": false,
+		"thornyReturnDamage": 0.25
+	},
+	"toxicConfig": {
+		"name": "毒性",
+		"disabled": false,
+		"duration": 100,
+		"amplifier": 0
+	},
+	"undyingConfig": {
+		"name": "不死",
+		"disabled": false,
+		"regenerationDuration": 900,
+		"regenerationAmplifier": 1,
+		"absorptionDuration": 1200,
+		"absorptionAmplifier": 5,
+		"fireResistanceDuration": 800
+	},
+	"weaknessConfig": {
+		"name": "虚弱",
+		"disabled": false,
+		"cooldown": 250,
+		"duration": 100,
+		"amplifier": 0
+	},
+	"webslingingConfig": {
+		"name": "蛛网",
+		"disabled": false,
+		"cooldown": 700
+	},
+	"witheringConfig": {
+		"name": "凋零",
+		"disabled": false,
+		"duration": 100,
+		"amplifier": 0
+	},
+	"yeeterConfig": {
+		"name": "发射",
+		"disabled": false,
+		"yeetAmount": 1.5
+	}
+}

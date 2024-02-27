@@ -1,0 +1,1358 @@
+{
+	autofocus_id: "42180D8ADFC6C3FA"
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "overworld"
+	group: "08486B419F39364A"
+	icon: "minecraft:grass_block"
+	id: "0CD5AF65F92BF8D5"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["6A14FA01BCA1AD90"]
+			icon: "minecraft:crying_obsidian"
+			id: "143BE57947B1A5C7"
+			shape: "hexagon"
+			size: 2.0d
+			tasks: [{
+				dimension: "minecraft:the_nether"
+				id: "414A0501654DE09F"
+				type: "dimension"
+			}]
+			title: "勇往直下"
+			x: 1.0d
+			y: 27.0d
+		}
+		{
+			dependencies: ["6A14FA01BCA1AD90"]
+			id: "27A82EDA0DAAE84C"
+			shape: "hexagon"
+			size: 2.0d
+			tasks: [{
+				biome: "minecraft:deep_dark"
+				icon: "minecraft:sculk"
+				id: "0257AC2EFC75B6B2"
+				type: "biome"
+			}]
+			title: "Deep Dark Fantasy!"
+			x: -1.0d
+			y: 27.0d
+		}
+		{
+			dependencies: ["6A14FA01BCA1AD90"]
+			id: "5930D2120FF1D56B"
+			shape: "hexagon"
+			size: 2.0d
+			tasks: [{
+				dimension: "minecraft:the_end"
+				icon: "minecraft:end_portal_frame"
+				id: "5250568CABD8D13A"
+				type: "dimension"
+			}]
+			title: "结束了?"
+			x: 0.0d
+			y: 29.0d
+		}
+		{
+			dependencies: ["272AACD1A17AB630"]
+			hide: true
+			id: "6A14FA01BCA1AD90"
+			shape: "square"
+			size: 1.5d
+			tasks: [{
+				advancement: "lootr:100loot"
+				criterion: ""
+				id: "3701B67A1352E9BF"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 22.5d
+		}
+		{
+			dependencies: ["272AACD1A17AB630"]
+			description: ["寻找林地府邸"]
+			icon: {
+				Count: 1b
+				id: "minecraft:white_banner"
+				tag: {
+					BlockEntityTag: {
+						Patterns: [
+							{
+								Color: 9
+								Pattern: "mr"
+							}
+							{
+								Color: 8
+								Pattern: "bs"
+							}
+							{
+								Color: 7
+								Pattern: "cs"
+							}
+							{
+								Color: 8
+								Pattern: "bo"
+							}
+							{
+								Color: 15
+								Pattern: "ms"
+							}
+							{
+								Color: 8
+								Pattern: "hh"
+							}
+							{
+								Color: 8
+								Pattern: "mc"
+							}
+							{
+								Color: 15
+								Pattern: "bo"
+							}
+						]
+						id: "minecraft:banner"
+					}
+					HideFlags: 32
+					display: {
+						Name: "{\"color\":\"gold\",\"translate\":\"block.minecraft.ominous_banner\"}"
+					}
+				}
+			}
+			id: "1BF4D791EF70CACC"
+			tasks: [{
+				id: "455D6AD1A132FFD9"
+				structure: "minecraft:mansion"
+				type: "structure"
+			}]
+			title: "恶贯满盈"
+			x: -4.5d
+			y: 18.0d
+		}
+		{
+			dependencies: ["1BF4D791EF70CACC"]
+			id: "08436C894452B0B1"
+			shape: "octagon"
+			size: 1.5d
+			tasks: [{
+				entity: "illagerinvasion:invoker"
+				icon: "minecraft:totem_of_undying"
+				id: "2DE694141FEF4073"
+				type: "kill"
+				value: 1L
+			}]
+			x: -6.0d
+			y: 18.0d
+		}
+		{
+			dependencies: ["3C01769F7E31E668"]
+			icon: "minecraft:rail"
+			id: "16240FD3A25E78C3"
+			tasks: [{
+				id: "43A731E3A395185E"
+				structure: "dungeons_arise:mining_system"
+				type: "structure"
+			}]
+			title: "矿井系统"
+			x: 3.0d
+			y: 14.0d
+		}
+		{
+			dependencies: ["3C01769F7E31E668"]
+			icon: "minecraft:powered_rail"
+			id: "3ACAB0553432D655"
+			tasks: [{
+				id: "7A22737B8EA6FE3A"
+				structure: "dungeons_arise:scorched_mines"
+				type: "structure"
+			}]
+			title: "焦黑矿井"
+			x: 4.0d
+			y: 14.0d
+		}
+		{
+			dependencies: ["3C01769F7E31E668"]
+			icon: "minecraft:acacia_wood"
+			id: "3F85FBC4060C0D3A"
+			tasks: [{
+				id: "2CC4BE63E888A337"
+				structure: "dungeons_arise:plague_asylum"
+				type: "structure"
+			}]
+			title: "瘟疫避难所"
+			x: 3.0d
+			y: 13.0d
+		}
+		{
+			dependencies: ["3C01769F7E31E668"]
+			icon: {
+				Count: 1b
+				id: "minecraft:netherite_pickaxe"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "049DBDBA800AA993"
+			tasks: [{
+				id: "460E474CA33CDBE9"
+				structure: "dungeons_arise:foundry"
+				type: "structure"
+			}]
+			title: "铸造厂"
+			x: 4.0d
+			y: 13.0d
+		}
+		{
+			dependencies: ["5281DA9F5B9AE83E"]
+			icon: "minecraft:smooth_quartz"
+			id: "14A7F595A0CE2F77"
+			tasks: [{
+				id: "3BE5F57D0815952E"
+				structure: "dungeons_arise:small_blimp"
+				type: "structure"
+			}]
+			title: "飞艇"
+			x: -4.0d
+			y: 9.5d
+		}
+		{
+			dependencies: ["5281DA9F5B9AE83E"]
+			icon: "minecraft:dark_prismarine"
+			id: "6B57EBA4BED0C92C"
+			tasks: [{
+				id: "790E048391C197FC"
+				structure: "dungeons_arise:abandoned_temple"
+				type: "structure"
+			}]
+			title: "废弃寺庙"
+			x: 3.0d
+			y: 8.5d
+		}
+		{
+			dependencies: ["272AACD1A17AB630"]
+			icon: "minecraft:bone_block"
+			id: "7E4ED45BA325198F"
+			tasks: [{
+				id: "3B4E71DE8633C105"
+				structure: "dungeons_arise:ceryneian_hind"
+				type: "structure"
+			}]
+			title: "刻律涅牝鹿尸骨"
+			x: 4.5d
+			y: 19.0d
+		}
+		{
+			dependencies: ["3C01769F7E31E668"]
+			icon: "minecraft:red_mushroom_block"
+			id: "3FD52DAC66E2EC46"
+			tasks: [{
+				id: "79A0F3DE33F4714D"
+				structure: "dungeons_arise:giant_mushroom"
+				type: "structure"
+			}]
+			title: "巨型蘑菇屋"
+			x: -3.0d
+			y: 13.0d
+		}
+		{
+			dependencies: ["3C01769F7E31E668"]
+			icon: "minecraft:red_mushroom_block"
+			id: "21365F4BA94F42E7"
+			tasks: [{
+				id: "4D7A9642C566B926"
+				structure: "dungeons_arise:mushroom_house"
+				type: "structure"
+			}]
+			title: "蘑菇屋"
+			x: -4.0d
+			y: 13.0d
+		}
+		{
+			dependencies: ["3C01769F7E31E668"]
+			icon: "minecraft:red_mushroom_block"
+			id: "4BCDF0B9DDEBE13C"
+			tasks: [{
+				id: "55BC5367DDCCEA07"
+				structure: "dungeons_arise:mushroom_mines"
+				type: "structure"
+			}]
+			title: "蘑菇矿架"
+			x: -3.0d
+			y: 14.0d
+		}
+		{
+			dependencies: ["3C01769F7E31E668"]
+			icon: "minecraft:red_mushroom_block"
+			id: "0ABDA219874986A4"
+			tasks: [{
+				id: "7FCEA952F6F4313A"
+				structure: "dungeons_arise:mushroom_village"
+				type: "structure"
+			}]
+			title: "蘑菇村落"
+			x: -4.0d
+			y: 14.0d
+		}
+		{
+			dependencies: ["6A14FA01BCA1AD90"]
+			icon: "minecraft:iron_bars"
+			id: "1715083BDE390795"
+			tasks: [{
+				id: "1ADFCAB1D719220D"
+				structure: "dungeons_arise:coliseum"
+				type: "structure"
+			}]
+			title: "斗兽场"
+			x: -2.5d
+			y: 21.5d
+		}
+		{
+			dependencies: ["6A14FA01BCA1AD90"]
+			icon: "minecraft:bricks"
+			id: "3AD61B769F45CB2C"
+			tasks: [{
+				id: "1EDAC6AF4F25624B"
+				structure: "dungeons_arise:bandit_towers"
+				type: "structure"
+			}]
+			title: "疆盗塔楼"
+			x: 2.5d
+			y: 21.5d
+		}
+		{
+			dependencies: ["6A14FA01BCA1AD90"]
+			icon: "minecraft:purple_concrete_powder"
+			id: "062CE642413D9383"
+			tasks: [{
+				id: "59230B74FBF4BD3F"
+				structure: "dungeons_arise:bandit_village"
+				type: "structure"
+			}]
+			title: "疆盗村落"
+			x: 3.0d
+			y: 22.5d
+		}
+		{
+			dependencies: ["272AACD1A17AB630"]
+			icon: {
+				Count: 1b
+				id: "minecraft:white_banner"
+				tag: {
+					BlockEntityTag: {
+						Patterns: [
+							{
+								Color: 9
+								Pattern: "mr"
+							}
+							{
+								Color: 8
+								Pattern: "bs"
+							}
+							{
+								Color: 7
+								Pattern: "cs"
+							}
+							{
+								Color: 8
+								Pattern: "bo"
+							}
+							{
+								Color: 15
+								Pattern: "ms"
+							}
+							{
+								Color: 8
+								Pattern: "hh"
+							}
+							{
+								Color: 8
+								Pattern: "mc"
+							}
+							{
+								Color: 15
+								Pattern: "bo"
+							}
+						]
+						id: "minecraft:banner"
+					}
+					HideFlags: 32
+					display: {
+						Name: "{\"color\":\"gold\",\"translate\":\"block.minecraft.ominous_banner\"}"
+					}
+				}
+			}
+			id: "1E3BC0A81411F267"
+			tasks: [{
+				id: "555FA8973161EAF5"
+				structure: "dungeons_arise:illager_campsite"
+				type: "structure"
+			}]
+			title: "灾厄营地"
+			x: -2.5d
+			y: 18.0d
+		}
+		{
+			dependencies: ["272AACD1A17AB630"]
+			icon: {
+				Count: 1b
+				id: "minecraft:white_banner"
+				tag: {
+					BlockEntityTag: {
+						Patterns: [
+							{
+								Color: 9
+								Pattern: "mr"
+							}
+							{
+								Color: 8
+								Pattern: "bs"
+							}
+							{
+								Color: 7
+								Pattern: "cs"
+							}
+							{
+								Color: 8
+								Pattern: "bo"
+							}
+							{
+								Color: 15
+								Pattern: "ms"
+							}
+							{
+								Color: 8
+								Pattern: "hh"
+							}
+							{
+								Color: 8
+								Pattern: "mc"
+							}
+							{
+								Color: 15
+								Pattern: "bo"
+							}
+						]
+						id: "minecraft:banner"
+					}
+					HideFlags: 32
+					display: {
+						Name: "{\"color\":\"gold\",\"translate\":\"block.minecraft.ominous_banner\"}"
+					}
+				}
+			}
+			id: "3FC345170E7DDFE7"
+			tasks: [{
+				id: "509D4A5E1B5FAFF9"
+				structure: "dungeons_arise:illager_windmill"
+				type: "structure"
+			}]
+			title: "灾厄风车"
+			x: -3.5d
+			y: 18.0d
+		}
+		{
+			dependencies: ["5281DA9F5B9AE83E"]
+			icon: "minecraft:yellow_terracotta"
+			id: "3628C7F5A3CAC77A"
+			tasks: [{
+				id: "7FF5EAE30D1DF13D"
+				structure: "dungeons_arise:infested_temple"
+				type: "structure"
+			}]
+			title: "蚀败寺庙"
+			x: 5.0d
+			y: 8.5d
+		}
+		{
+			dependencies: ["272AACD1A17AB630"]
+			icon: {
+				Count: 1b
+				id: "minecraft:white_banner"
+				tag: {
+					BlockEntityTag: {
+						Patterns: [
+							{
+								Color: 9
+								Pattern: "mr"
+							}
+							{
+								Color: 8
+								Pattern: "bs"
+							}
+							{
+								Color: 7
+								Pattern: "cs"
+							}
+							{
+								Color: 8
+								Pattern: "bo"
+							}
+							{
+								Color: 15
+								Pattern: "ms"
+							}
+							{
+								Color: 8
+								Pattern: "hh"
+							}
+							{
+								Color: 8
+								Pattern: "mc"
+							}
+							{
+								Color: 15
+								Pattern: "bo"
+							}
+						]
+						id: "minecraft:banner"
+					}
+					HideFlags: 32
+					display: {
+						Name: "{\"color\":\"gold\",\"translate\":\"block.minecraft.ominous_banner\"}"
+					}
+				}
+			}
+			id: "312C8CC6D9F4F595"
+			tasks: [{
+				id: "0CB7BA40AD73AA3B"
+				structure: "dungeons_arise:illager_fort"
+				type: "structure"
+			}]
+			title: "灾厄城堡"
+			x: -3.5d
+			y: 17.0d
+		}
+		{
+			dependencies: ["5281DA9F5B9AE83E"]
+			icon: "minecraft:jungle_log"
+			id: "15BE15671F553F24"
+			tasks: [{
+				id: "3A3B50096BC5B629"
+				structure: "dungeons_arise:jungle_tree_house"
+				type: "structure"
+			}]
+			title: "丛林树屋"
+			x: 4.0d
+			y: 9.5d
+		}
+		{
+			dependencies: ["73731DC2FBA48BCF"]
+			icon: "minecraft:redstone_lamp"
+			id: "706973F29899696B"
+			tasks: [{
+				id: "03BDF6DEEA9F521D"
+				structure: "dungeons_arise:lighthouse"
+				type: "structure"
+			}]
+			title: "灯塔"
+			x: -3.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["73731DC2FBA48BCF"]
+			icon: "minecraft:purple_wool"
+			id: "01DA43F8C84FD770"
+			tasks: [{
+				id: "0DB084D5D95F1953"
+				structure: "dungeons_arise:merchant_campsite"
+				type: "structure"
+			}]
+			title: "商人营地"
+			x: -4.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["5281DA9F5B9AE83E"]
+			icon: "minecraft:warped_planks"
+			id: "5B7CC68D28E0D0C0"
+			tasks: [{
+				id: "6B6D1F50BE11493B"
+				structure: "dungeons_arise:monastery"
+				type: "structure"
+			}]
+			title: "修道院"
+			x: 4.0d
+			y: 8.5d
+		}
+		{
+			dependencies: ["5281DA9F5B9AE83E"]
+			icon: "minecraft:waxed_cut_copper"
+			id: "0DDF357070B781A5"
+			tasks: [{
+				id: "6A224E7BB1DB27BB"
+				structure: "dungeons_arise:bathhouse"
+				type: "structure"
+			}]
+			title: "祸水澡堂"
+			x: 5.0d
+			y: 9.5d
+		}
+		{
+			dependencies: ["6A14FA01BCA1AD90"]
+			icon: "minecraft:polished_granite"
+			id: "56AC5533A43F42EF"
+			tasks: [{
+				id: "20EB55072764F6A0"
+				structure: "dungeons_arise:thornborn_towers"
+				type: "structure"
+			}]
+			title: "荆棘城堡"
+			x: 2.5d
+			y: 23.5d
+		}
+		{
+			dependencies: ["6A14FA01BCA1AD90"]
+			icon: "minecraft:yellow_glazed_terracotta"
+			id: "66CE3140C26D1DB7"
+			tasks: [{
+				id: "4F790D6AF42D1128"
+				structure: "dungeons_arise:keep_kayra"
+				type: "structure"
+			}]
+			title: "创世神殿"
+			x: -2.5d
+			y: 23.5d
+		}
+		{
+			dependencies: ["73731DC2FBA48BCF"]
+			icon: {
+				Count: 1b
+				id: "minecraft:glass_bottle"
+				tag: { }
+			}
+			id: "1A4A4871E959D3F8"
+			tasks: [{
+				id: "11E2F9DFBD3BF5ED"
+				structure: "dungeons_arise:greenwood_pub"
+				type: "structure"
+			}]
+			title: "绿茵酒吧"
+			x: -3.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["73731DC2FBA48BCF"]
+			icon: "minecraft:cauldron"
+			id: "442C295C74341D93"
+			tasks: [{
+				id: "2EC8BEF2A463809F"
+				structure: "dungeons_arise:wishing_well"
+				type: "structure"
+			}]
+			title: "许愿井"
+			x: -4.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["6A14FA01BCA1AD90"]
+			icon: "minecraft:rose_bush"
+			id: "3EF6A8C3AFCEAF4C"
+			tasks: [{
+				id: "77272E58E33FC53F"
+				structure: "dungeons_arise:shiraz_palace"
+				type: "structure"
+			}]
+			title: "繁花之宫"
+			x: -3.0d
+			y: 22.5d
+		}
+		{
+			dependencies: ["272AACD1A17AB630"]
+			icon: {
+				Count: 1b
+				id: "minecraft:white_banner"
+				tag: {
+					BlockEntityTag: {
+						Patterns: [
+							{
+								Color: 9
+								Pattern: "mr"
+							}
+							{
+								Color: 8
+								Pattern: "bs"
+							}
+							{
+								Color: 7
+								Pattern: "cs"
+							}
+							{
+								Color: 8
+								Pattern: "bo"
+							}
+							{
+								Color: 15
+								Pattern: "ms"
+							}
+							{
+								Color: 8
+								Pattern: "hh"
+							}
+							{
+								Color: 8
+								Pattern: "mc"
+							}
+							{
+								Color: 15
+								Pattern: "bo"
+							}
+						]
+						id: "minecraft:banner"
+					}
+					HideFlags: 32
+					display: {
+						Name: "{\"color\":\"gold\",\"translate\":\"block.minecraft.ominous_banner\"}"
+					}
+				}
+			}
+			id: "00AF0B02FA60C105"
+			tasks: [{
+				id: "003B4D8994FFC0C4"
+				structure: "illagerinvasion:firecaller_hut"
+				type: "structure"
+			}]
+			title: "唤火者的小屋"
+			x: -4.5d
+			y: 17.0d
+		}
+		{
+			dependencies: ["272AACD1A17AB630"]
+			icon: {
+				Count: 1b
+				id: "minecraft:white_banner"
+				tag: {
+					BlockEntityTag: {
+						Patterns: [
+							{
+								Color: 9
+								Pattern: "mr"
+							}
+							{
+								Color: 8
+								Pattern: "bs"
+							}
+							{
+								Color: 7
+								Pattern: "cs"
+							}
+							{
+								Color: 8
+								Pattern: "bo"
+							}
+							{
+								Color: 15
+								Pattern: "ms"
+							}
+							{
+								Color: 8
+								Pattern: "hh"
+							}
+							{
+								Color: 8
+								Pattern: "mc"
+							}
+							{
+								Color: 15
+								Pattern: "bo"
+							}
+						]
+						id: "minecraft:banner"
+					}
+					HideFlags: 32
+					display: {
+						Name: "{\"color\":\"gold\",\"translate\":\"block.minecraft.ominous_banner\"}"
+					}
+				}
+			}
+			id: "339474030D7DD9B2"
+			tasks: [{
+				id: "795F8B3346C057FE"
+				structure: "illagerinvasion:illager_fort"
+				type: "structure"
+			}]
+			title: "灾厄堡垒"
+			x: -3.5d
+			y: 19.0d
+		}
+		{
+			dependencies: ["272AACD1A17AB630"]
+			icon: {
+				Count: 1b
+				id: "minecraft:white_banner"
+				tag: {
+					BlockEntityTag: {
+						Patterns: [
+							{
+								Color: 9
+								Pattern: "mr"
+							}
+							{
+								Color: 8
+								Pattern: "bs"
+							}
+							{
+								Color: 7
+								Pattern: "cs"
+							}
+							{
+								Color: 8
+								Pattern: "bo"
+							}
+							{
+								Color: 15
+								Pattern: "ms"
+							}
+							{
+								Color: 8
+								Pattern: "hh"
+							}
+							{
+								Color: 8
+								Pattern: "mc"
+							}
+							{
+								Color: 15
+								Pattern: "bo"
+							}
+						]
+						id: "minecraft:banner"
+					}
+					HideFlags: 32
+					display: {
+						Name: "{\"color\":\"gold\",\"translate\":\"block.minecraft.ominous_banner\"}"
+					}
+				}
+			}
+			id: "31444F6BD73E51A0"
+			tasks: [{
+				id: "1976841E9184B70E"
+				structure: "illagerinvasion:illusioner_tower"
+				type: "structure"
+			}]
+			title: "幻术师塔楼"
+			x: -4.5d
+			y: 19.0d
+		}
+		{
+			dependencies: ["272AACD1A17AB630"]
+			icon: {
+				Count: 1b
+				id: "minecraft:white_banner"
+				tag: {
+					BlockEntityTag: {
+						Patterns: [
+							{
+								Color: 9
+								Pattern: "mr"
+							}
+							{
+								Color: 8
+								Pattern: "bs"
+							}
+							{
+								Color: 7
+								Pattern: "cs"
+							}
+							{
+								Color: 8
+								Pattern: "bo"
+							}
+							{
+								Color: 15
+								Pattern: "ms"
+							}
+							{
+								Color: 8
+								Pattern: "hh"
+							}
+							{
+								Color: 8
+								Pattern: "mc"
+							}
+							{
+								Color: 15
+								Pattern: "bo"
+							}
+						]
+						id: "minecraft:banner"
+					}
+					HideFlags: 32
+					display: {
+						Name: "{\"color\":\"gold\",\"translate\":\"block.minecraft.ominous_banner\"}"
+					}
+				}
+			}
+			id: "388B8F0409D35B9A"
+			tasks: [{
+				id: "13F5F35671938AE5"
+				structure: "illagerinvasion:labyrinth"
+				type: "structure"
+			}]
+			title: "灾厄迷津园"
+			x: -2.5d
+			y: 19.0d
+		}
+		{
+			dependencies: ["272AACD1A17AB630"]
+			icon: {
+				Count: 1b
+				id: "minecraft:white_banner"
+				tag: {
+					BlockEntityTag: {
+						Patterns: [
+							{
+								Color: 9
+								Pattern: "mr"
+							}
+							{
+								Color: 8
+								Pattern: "bs"
+							}
+							{
+								Color: 7
+								Pattern: "cs"
+							}
+							{
+								Color: 8
+								Pattern: "bo"
+							}
+							{
+								Color: 15
+								Pattern: "ms"
+							}
+							{
+								Color: 8
+								Pattern: "hh"
+							}
+							{
+								Color: 8
+								Pattern: "mc"
+							}
+							{
+								Color: 15
+								Pattern: "bo"
+							}
+						]
+						id: "minecraft:banner"
+					}
+					HideFlags: 32
+					display: {
+						Name: "{\"color\":\"gold\",\"translate\":\"block.minecraft.ominous_banner\"}"
+					}
+				}
+			}
+			id: "2B96D84F6A763D27"
+			tasks: [{
+				id: "38C0125C3A916696"
+				structure: "illagerinvasion:sorcerer_hut"
+				type: "structure"
+			}]
+			title: "不祥术士的小屋"
+			x: -2.5d
+			y: 17.0d
+		}
+		{
+			dependencies: ["5281DA9F5B9AE83E"]
+			icon: "minecraft:warped_planks"
+			id: "63E86F9C614238BC"
+			tasks: [{
+				id: "2CA0344C6BE17A85"
+				structure: "mvs:houses/large_warped_tower"
+				type: "structure"
+			}]
+			title: "扭曲巨塔"
+			x: 3.0d
+			y: 9.5d
+		}
+		{
+			dependencies: ["5281DA9F5B9AE83E"]
+			description: [""]
+			icon: "minecraft:stone_bricks"
+			id: "6A63DCBF2359AE68"
+			tasks: [{
+				id: "68A1220B376AB5EF"
+				structure: "philipsruins:ancient_crypt"
+				type: "structure"
+			}]
+			title: "古代教堂地下室"
+			x: -4.0d
+			y: 8.5d
+		}
+		{
+			dependencies: ["5281DA9F5B9AE83E"]
+			description: [""]
+			icon: "minecraft:mossy_stone_bricks"
+			id: "1E55078B7ED4A49F"
+			tasks: [{
+				id: "36B2C93F7E4AD63F"
+				structure: "philipsruins:antiquus_crypta"
+				type: "structure"
+			}]
+			title: "古旧地下室"
+			x: -3.0d
+			y: 8.5d
+		}
+		{
+			dependencies: ["5281DA9F5B9AE83E"]
+			icon: "minecraft:terracotta"
+			id: "79CB2010416B91C6"
+			tasks: [{
+				id: "5E69701A69D41CE1"
+				structure: "philipsruins:badlands_start_dungeon"
+				type: "structure"
+			}]
+			title: "恶地地牢"
+			x: -5.0d
+			y: 8.5d
+		}
+		{
+			dependencies: ["5281DA9F5B9AE83E"]
+			icon: "minecraft:orange_terracotta"
+			id: "26204E9522A9B27D"
+			tasks: [{
+				id: "28A840F6DD7487B0"
+				structure: "philipsruins:badlands_structures"
+				type: "structure"
+			}]
+			title: "恶地结构"
+			x: -5.0d
+			y: 9.5d
+		}
+		{
+			dependencies: ["272AACD1A17AB630"]
+			icon: "minecraft:bone_block"
+			id: "169AE754285AF8B0"
+			tasks: [{
+				id: "4ABECC1F8B8D5E98"
+				structure: "philipsruins:bone_dungeon"
+				type: "structure"
+			}]
+			title: "骨地牢"
+			x: 2.5d
+			y: 19.0d
+		}
+		{
+			dependencies: ["272AACD1A17AB630"]
+			icon: "minecraft:sand"
+			id: "185B62083861A0A4"
+			tasks: [{
+				id: "4EDF426661A596C1"
+				structure: "philipsruins:desert_structures"
+				type: "structure"
+			}]
+			title: "沙漠结构"
+			x: 3.5d
+			y: 19.0d
+		}
+		{
+			dependencies: ["73731DC2FBA48BCF"]
+			hide: true
+			id: "5281DA9F5B9AE83E"
+			shape: "square"
+			size: 1.5d
+			tasks: [{
+				advancement: "lootr:10loot"
+				criterion: ""
+				id: "3583FF3009A31CA6"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 9.0d
+		}
+		{
+			dependencies: ["5281DA9F5B9AE83E"]
+			hide: true
+			id: "3C01769F7E31E668"
+			shape: "square"
+			size: 1.5d
+			tasks: [{
+				advancement: "lootr:25loot"
+				criterion: ""
+				id: "3CD5DFE84D14639A"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 13.5d
+		}
+		{
+			dependencies: ["3C01769F7E31E668"]
+			hide: true
+			id: "272AACD1A17AB630"
+			shape: "square"
+			size: 1.5d
+			tasks: [{
+				advancement: "lootr:50loot"
+				criterion: ""
+				id: "5CACCE68C904695F"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 18.0d
+		}
+		{
+			dependencies: ["42180D8ADFC6C3FA"]
+			hide: true
+			id: "73731DC2FBA48BCF"
+			shape: "square"
+			size: 1.5d
+			tasks: [{
+				advancement: "lootr:1chest"
+				criterion: ""
+				id: "5971D8B1D87F7EC9"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["272AACD1A17AB630"]
+			icon: "minecraft:sand"
+			id: "6DCBBC78C3A485C7"
+			tasks: [{
+				id: "39918CE5312650F7"
+				structure: "betterdeserttemples:desert_temple"
+				type: "structure"
+			}]
+			title: "沙漠神殿"
+			x: 2.5d
+			y: 17.0d
+		}
+		{
+			dependencies: ["5281DA9F5B9AE83E"]
+			icon: "minecraft:mossy_cobblestone"
+			id: "1F7C4428CF50714E"
+			tasks: [{
+				id: "4B5B06853DE8B038"
+				structure: "minecraft:jungle_pyramid"
+				type: "structure"
+			}]
+			title: "丛林神庙"
+			x: -3.0d
+			y: 9.5d
+		}
+		{
+			dependencies: ["73731DC2FBA48BCF"]
+			icon: "minecraft:lantern"
+			id: "1549B3A48CEF50DC"
+			tasks: [{
+				id: "0A7A75A0C3A06A52"
+				structure: "#minecraft:village"
+				type: "structure"
+			}]
+			title: "村庄"
+			x: 3.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["73731DC2FBA48BCF"]
+			icon: "minecraft:dandelion"
+			id: "1A2F77E9E1209F88"
+			tasks: [{
+				id: "2834673FE8F52B97"
+				structure: "imst:flowerdome"
+				type: "structure"
+			}]
+			title: "花房"
+			x: 4.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["73731DC2FBA48BCF"]
+			icon: "minecraft:crying_obsidian"
+			id: "0A990A2CD387548E"
+			tasks: [{
+				id: "585797D050D03F3E"
+				structure: "#minecraft:ruined_portal"
+				type: "structure"
+			}]
+			title: "废弃传送门"
+			x: 4.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["3C01769F7E31E668"]
+			description: [
+				"古英雄的遗骸生成于Champion's Grave内。"
+				"可以用月石罗盘寻找。"
+				""
+				"结构名称Champion Graves"
+				""
+				"结构定位指令/locate structure soulsweapons:champions_graves"
+				""
+				"或手持德拉古尔对破旧的月光祭坛右键召唤古英雄的残骸，德拉古尔不会消耗。"
+			]
+			icon: "soulsweapons:essence_of_eventide"
+			id: "7D005A7B0222C0BB"
+			shape: "octagon"
+			size: 1.5d
+			tasks: [{
+				entity: "soulsweapons:draugr_boss"
+				id: "542BB997B357AD04"
+				type: "kill"
+				value: 1L
+			}]
+			x: 5.25d
+			y: 13.5d
+		}
+		{
+			dependencies: ["272AACD1A17AB630"]
+			description: ["手持迷失的灵魂对破旧的月光祭坛右键召唤复仇骑士。"]
+			icon: "soulsweapons:arkenstone"
+			id: "4108563ADE414DBE"
+			shape: "octagon"
+			size: 1.5d
+			tasks: [{
+				entity: "soulsweapons:returning_knight"
+				id: "536A038F5F71BA9C"
+				type: "kill"
+				value: 1L
+			}]
+			x: 6.0d
+			y: 18.0d
+		}
+		{
+			dependencies: ["3C01769F7E31E668"]
+			icon: "bosses_of_mass_destruction:ancient_anima"
+			id: "3E10E3CBCACB72E4"
+			shape: "octagon"
+			size: 1.5d
+			tasks: [{
+				entity: "bosses_of_mass_destruction:lich"
+				id: "6FE5956AF0D90725"
+				type: "kill"
+				value: 1L
+			}]
+			x: -6.75d
+			y: 13.5d
+		}
+		{
+			dependencies: ["3C01769F7E31E668"]
+			icon: "bosses_of_mass_destruction:void_thorn"
+			id: "0C9B50F990FD6D36"
+			shape: "octagon"
+			size: 1.5d
+			tasks: [{
+				entity: "bosses_of_mass_destruction:void_blossom"
+				id: "5DE11FE14926AD91"
+				type: "kill"
+				value: 1L
+			}]
+			x: -5.25d
+			y: 13.5d
+		}
+		{
+			dependencies: ["3C01769F7E31E668"]
+			description: ["手持日暮精粹对破旧的月光祭坛右键召唤陨落王者。"]
+			icon: "soulsweapons:essence_of_luminescence"
+			id: "0AE42157F0855C51"
+			shape: "octagon"
+			size: 1.5d
+			tasks: [{
+				entity: "soulsweapons:moonknight"
+				id: "49C29F42DBFE9E7B"
+				type: "kill"
+				value: 1L
+			}]
+			x: 6.75d
+			y: 13.5d
+		}
+		{
+			dependencies: ["272AACD1A17AB630"]
+			icon: "minecraft:sand"
+			id: "4B092DA1FCCC0A6C"
+			tasks: [{
+				id: "09EE760A53EFF38C"
+				structure: "additionalstructures:pyramid_1"
+				type: "structure"
+			}]
+			title: "金字塔"
+			x: 3.5d
+			y: 18.0d
+		}
+		{
+			dependencies: ["272AACD1A17AB630"]
+			icon: "minecraft:sand"
+			id: "7B3D19E62721D54A"
+			tasks: [{
+				id: "4BA466443D9F2DE1"
+				structure: "additionalstructures:pyramid_dungeon"
+				type: "structure"
+			}]
+			title: "金字塔"
+			x: 3.5d
+			y: 17.0d
+		}
+		{
+			dependencies: ["272AACD1A17AB630"]
+			icon: "minecraft:sand"
+			id: "3B6E4989A2089459"
+			tasks: [{
+				id: "5A77A5CEAE7BD413"
+				structure: "imst:pyramid"
+				type: "structure"
+			}]
+			title: "金字塔"
+			x: 4.5d
+			y: 17.0d
+		}
+		{
+			dependencies: ["272AACD1A17AB630"]
+			icon: "minecraft:sand"
+			id: "4F1844624DAB8CEA"
+			tasks: [{
+				id: "23AC1E481C22FB9B"
+				structure: "red:desert_pyramid"
+				type: "structure"
+			}]
+			title: "金字塔"
+			x: 4.5d
+			y: 18.0d
+		}
+		{
+			dependencies: ["272AACD1A17AB630"]
+			icon: "minecraft:sand"
+			id: "1D86267DCF636B2F"
+			tasks: [{
+				id: "196F8D3BA94A28B6"
+				structure: "red:sphinx"
+				type: "structure"
+			}]
+			title: "狮身人面像"
+			x: 2.5d
+			y: 18.0d
+		}
+		{
+			dependencies: ["73731DC2FBA48BCF"]
+			icon: "minecraft:bell"
+			id: "28699DA740B94295"
+			tasks: [{
+				id: "5C3FB24CBDBBD2AC"
+				structure: "skyvillages:skyvillage"
+				type: "structure"
+			}]
+			title: "天空村庄"
+			x: 3.0d
+			y: 4.0d
+		}
+		{
+			id: "42180D8ADFC6C3FA"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "319A7D3E829619AA"
+				table_id: 7447699905545334929L
+				type: "choice"
+			}]
+			shape: "square"
+			size: 2.0d
+			tasks: [{
+				dimension: "minecraft:overworld"
+				id: "21B21C9C6136B0AF"
+				title: "世界"
+				type: "dimension"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+	]
+	title: "现实"
+}

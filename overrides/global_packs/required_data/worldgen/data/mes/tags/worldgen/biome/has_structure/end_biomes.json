@@ -1,0 +1,18 @@
+{
+  "replace": false,
+  "values": [
+    "#minecraft:is_end",
+    {
+      "id": "#forge:is_end",
+      "required": false
+    },
+    {
+      "id": "#c:in_the_end",
+      "required": false
+    },
+    {
+      "id": "#c:end_islands",
+      "required": false
+    }
+  ]
+}

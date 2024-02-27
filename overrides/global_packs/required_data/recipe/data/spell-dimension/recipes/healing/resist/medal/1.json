@@ -1,0 +1,29 @@
+{
+  "type": "spell-dimension:medal_upgrade",
+  "ingredients": [
+    [],
+    {
+      "item": "minecraft:scute"
+    },
+    [],
+    {
+      "item": "runes:healing_stone"
+    },
+    {
+      "item": "runes:healing_stone"
+    },
+    [],
+    {
+      "item": "minecraft:iron_block"
+    },
+    []
+  ],
+  "original": {
+    "Grade": 0
+  },
+  "upgraded": {
+    "Grade": 1,
+    "Major": "RESIST",
+    "School": "HEALING"
+  }
+}

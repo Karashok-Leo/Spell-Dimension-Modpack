@@ -1,0 +1,29 @@
+{
+  "type": "spell-dimension:medal_upgrade",
+  "ingredients": [
+    [],
+    {
+      "item": "minecraft:diamond"
+    },
+    [],
+    {
+      "item": "runes:healing_stone"
+    },
+    {
+      "item": "runes:healing_stone"
+    },
+    [],
+    {
+      "item": "mythicmetals:banglum_ingot"
+    },
+    []
+  ],
+  "original": {
+    "Grade": 0
+  },
+  "upgraded": {
+    "Grade": 1,
+    "Major": "POWER",
+    "School": "HEALING"
+  }
+}

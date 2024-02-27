@@ -1,0 +1,39 @@
+{
+	"type": "minecraft:entity",
+	"pools": [
+		{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "item",
+					"name": "plentyofarmors:marine_diamond",
+					"weight": 1
+				},
+				{
+					"type": "item",
+					"name": "mythicmetals:raw_aquarium",
+					"weight": 2
+				},
+				{
+					"type": "item",
+					"name": "minecraft:nautilus_shell",
+					"weight": 3
+				},
+				{
+					"type": "item",
+					"name": "minecraft:prismarine_crystals",
+					"weight": 4
+				},
+				{
+					"type": "item",
+					"name": "minecraft:prismarine_shard",
+					"weight": 5
+				},
+				{
+					"type": "minecraft:empty",
+					"weight": 10
+				}
+			]
+		}
+	]
+}

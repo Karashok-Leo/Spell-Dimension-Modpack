@@ -1,0 +1,1179 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "crystals"
+	group: "5BB7BD8D0BB0ED9A"
+	icon: {
+		Count: 1b
+		id: "crystals_overhauled:celestite"
+		tag: { }
+	}
+	id: "74E604DD29F6FB9A"
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			id: "379908F69D3AAD98"
+			rewards: [{
+				count: 8
+				id: "6E0BCB0A68C59211"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "428B2F14F0B8B7D2"
+				item: "crystals_overhauled:malachite"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			id: "5987B6F12D3A1015"
+			rewards: [{
+				count: 8
+				id: "4F365BA61E0C604F"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "1DE1BDF50FB28CAE"
+				item: "crystals_overhauled:citrine"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			id: "24F583374D339458"
+			rewards: [{
+				count: 8
+				id: "212E31EFC7E4B2DE"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "2E240B1EBCDF9F8C"
+				item: "crystals_overhauled:rhodochrosite"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			id: "2AD4D5F58DDC27EB"
+			rewards: [{
+				count: 8
+				id: "6D9CF347BD1C228A"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "5AB6965E8CE1DABC"
+				item: "crystals_overhauled:celestite"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			id: "6979DEC9FC605B70"
+			rewards: [{
+				count: 8
+				id: "0981F23087C886F7"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "5FB0A4EBB42B7E68"
+				item: "crystals_overhauled:heliodor"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 0.0d
+		}
+		{
+			id: "37D20BC1457F06BC"
+			rewards: [{
+				count: 8
+				id: "06E597981E113524"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "6DD740508B08B0E6"
+				item: "crystals_overhauled:peridotite"
+				type: "item"
+			}]
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			id: "4CC0E03AC3C411FD"
+			rewards: [{
+				count: 8
+				id: "4ED4F66B56E3AE6A"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "65CB73C30A9ABC85"
+				item: "crystals_overhauled:onyx"
+				type: "item"
+			}]
+			x: 7.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["379908F69D3AAD98"]
+			id: "76F694B4323DD021"
+			rewards: [{
+				count: 8
+				id: "16EEBE1709AE15B1"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "5DB1EEBAD786DAF9"
+					item: {
+						Count: 1b
+						id: "crystals_overhauled:malachite_tool_sword"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "21A3F878F97BD2C8"
+					item: {
+						Count: 1b
+						id: "crystals_overhauled:malachite_tool_axe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "3BF70253A0D8E4ED"
+					item: {
+						Count: 1b
+						id: "crystals_overhauled:malachite_tool_pickaxe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "3935D38C94F89A6C"
+					item: {
+						Count: 1b
+						id: "crystals_overhauled:malachite_tool_shovel"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "41A7ACF6970EAF79"
+					item: {
+						Count: 1b
+						id: "crystals_overhauled:malachite_tool_hoe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "孔雀石武器/工具"
+			x: 0.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["379908F69D3AAD98"]
+			description: [""]
+			id: "161114194A87D992"
+			rewards: [{
+				count: 8
+				id: "14B7B56B0C79D08C"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "15CB666465C811F2"
+					item: {
+						Count: 1b
+						id: "crystals_overhauled:malachite_armor_armor_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "77D69882E738AF90"
+					item: {
+						Count: 1b
+						id: "crystals_overhauled:malachite_armor_armor_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "71E2E6492A5C7042"
+					item: {
+						Count: 1b
+						id: "crystals_overhauled:malachite_armor_armor_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "10A02F83BCD7C7AD"
+					item: {
+						Count: 1b
+						id: "crystals_overhauled:malachite_armor_armor_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "孔雀石套装"
+			x: 0.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["4B93E9EF94D8019F"]
+			id: "508A407FD26C337D"
+			rewards: [{
+				count: 8
+				id: "4F7950B417B2C470"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "31EEA93FB5EB8EC2"
+					item: {
+						Count: 1b
+						id: "crystals_overhauled:saphire_tool_sword"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "4170B92A0115300C"
+					item: {
+						Count: 1b
+						id: "crystals_overhauled:saphire_tool_axe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "0FB7830C821F7410"
+					item: {
+						Count: 1b
+						id: "crystals_overhauled:saphire_tool_pickaxe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "1CA612DA19DFB580"
+					item: {
+						Count: 1b
+						id: "crystals_overhauled:saphire_tool_shovel"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "0587864F9F411D1A"
+					item: {
+						Count: 1b
+						id: "crystals_overhauled:saphire_tool_hoe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "蓝宝石武器/工具"
+			x: 1.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["4B93E9EF94D8019F"]
+			description: [""]
+			id: "6840365B33B385E4"
+			rewards: [{
+				count: 8
+				id: "3369F0CA24001DD0"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "080F88862C3115EA"
+					item: {
+						Count: 1b
+						id: "crystals_overhauled:saphire_armor_armor_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "78F4B7EC4C980B17"
+					item: {
+						Count: 1b
+						id: "crystals_overhauled:saphire_armor_armor_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "2E8183D458F91945"
+					item: {
+						Count: 1b
+						id: "crystals_overhauled:saphire_armor_armor_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "38E087A9D2A624E0"
+					item: {
+						Count: 1b
+						id: "crystals_overhauled:saphire_armor_armor_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "蓝宝石套装"
+			x: 1.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["5987B6F12D3A1015"]
+			id: "44DA581AE25CAB24"
+			rewards: [{
+				count: 8
+				id: "128345218BB8BA30"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "6A78411BBFF91BB9"
+					item: {
+						Count: 1b
+						id: "crystals_overhauled:citrine_sword"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "1ADB1268A95E52CB"
+					item: {
+						Count: 1b
+						id: "crystals_overhauled:citrine_axe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "769565C93A664FD7"
+					item: {
+						Count: 1b
+						id: "crystals_overhauled:citrine_pickaxe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "52CBD75E40016626"
+					item: {
+						Count: 1b
+						id: "crystals_overhauled:citrine_shovel"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "51EB47CCDB16B6FA"
+					item: {
+						Count: 1b
+						id: "crystals_overhauled:citrine_hoe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "黄水晶武器/工具"
+			x: 2.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["5987B6F12D3A1015"]
+			id: "67BD8A8DEC8FFCCE"
+			rewards: [{
+				count: 8
+				id: "3605EC7F2D6EA3FA"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "6870E1C1B5B349E7"
+					item: {
+						Count: 1b
+						id: "crystals_overhauled:citrine_armor_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "6068B8D8BE1F2CC9"
+					item: {
+						Count: 1b
+						id: "crystals_overhauled:citrine_armor_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "09F327B7CC816FA8"
+					item: {
+						Count: 1b
+						id: "crystals_overhauled:citrine_armor_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "06231E14B0E7949F"
+					item: {
+						Count: 1b
+						id: "crystals_overhauled:citrine_armor_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "黄水晶套装"
+			x: 2.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["24F583374D339458"]
+			id: "1AE53CA111F2A563"
+			rewards: [{
+				count: 8
+				id: "5901D3EC1B270A3D"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "6DA769BDD7F35284"
+					item: {
+						Count: 1b
+						id: "crystals_overhauled:rhodochrosite_sword"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "3B4CA2F51A8C6956"
+					item: {
+						Count: 1b
+						id: "crystals_overhauled:rhodochrosite_axe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "1D78F03545C3F5DA"
+					item: {
+						Count: 1b
+						id: "crystals_overhauled:rhodochrosite_pickaxe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "2489412037F6F5B8"
+					item: {
+						Count: 1b
+						id: "crystals_overhauled:rhodochrosite_shovel"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "556F21F3E172EED6"
+					item: {
+						Count: 1b
+						id: "crystals_overhauled:rhodochrosite_hoe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "菱锰矿武器/工具"
+			x: 3.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["24F583374D339458"]
+			id: "5B07E18FEF2B288A"
+			rewards: [{
+				count: 8
+				id: "604058241F36E0D0"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "1C7CCFEBE59A59A7"
+					item: {
+						Count: 1b
+						id: "crystals_overhauled:rhodochrosite_armor_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "3B3F1099B72AFE01"
+					item: {
+						Count: 1b
+						id: "crystals_overhauled:rhodochrosite_armor_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "5286AFAB347B7772"
+					item: {
+						Count: 1b
+						id: "crystals_overhauled:rhodochrosite_armor_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "5C2AA22B868A286C"
+					item: {
+						Count: 1b
+						id: "crystals_overhauled:rhodochrosite_armor_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "菱锰矿套装"
+			x: 3.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["2AD4D5F58DDC27EB"]
+			id: "0573736A11AF1FE0"
+			rewards: [{
+				count: 8
+				id: "386DF19E08667D5D"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "0278EF0062055B1C"
+					item: {
+						Count: 1b
+						id: "crystals_overhauled:celestite_armor_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "6BAA781888079926"
+					item: {
+						Count: 1b
+						id: "crystals_overhauled:celestite_armor_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "07007AD2A04C80E8"
+					item: {
+						Count: 1b
+						id: "crystals_overhauled:celestite_armor_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "3EC3AB4386AD5928"
+					item: {
+						Count: 1b
+						id: "crystals_overhauled:celestite_armor_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "天青石套装"
+			x: 4.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["2AD4D5F58DDC27EB"]
+			id: "0BF41DE3AA0C33B4"
+			rewards: [{
+				count: 8
+				id: "7A683CFAEB3996EF"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "540A9E5228F43ACC"
+					item: {
+						Count: 1b
+						id: "crystals_overhauled:celestite_sword"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "17E078B00F6FFC8E"
+					item: {
+						Count: 1b
+						id: "crystals_overhauled:celestite_axe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "73DF31C9B634832F"
+					item: {
+						Count: 1b
+						id: "crystals_overhauled:celestite_pickaxe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "1AB934CFDE08EEE0"
+					item: {
+						Count: 1b
+						id: "crystals_overhauled:celestite_shovel"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "36EF3FD71C416F20"
+					item: {
+						Count: 1b
+						id: "crystals_overhauled:celestite_hoe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "天青石武器/工具"
+			x: 4.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["6979DEC9FC605B70"]
+			id: "6D1F5D8FD4EA48C1"
+			rewards: [{
+				count: 8
+				id: "15CEE88A4C40977D"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "76085976942361D1"
+					item: {
+						Count: 1b
+						id: "crystals_overhauled:heliodor_sword"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "5D690A6E4CD9A741"
+					item: {
+						Count: 1b
+						id: "crystals_overhauled:heliodor_axe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "167F02D14F135670"
+					item: {
+						Count: 1b
+						id: "crystals_overhauled:heliodor_pickaxe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "36E8C255F16AF1AF"
+					item: {
+						Count: 1b
+						id: "crystals_overhauled:heliodor_shovel"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "6D0779CA37977270"
+					item: {
+						Count: 1b
+						id: "crystals_overhauled:heliodor_hoe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "金绿柱石武器/工具"
+			x: 5.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["6979DEC9FC605B70"]
+			id: "5F49C23FF0F5E51D"
+			rewards: [{
+				count: 8
+				id: "5261BF7E207EB24F"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "03CCD661E4B0A0BF"
+					item: {
+						Count: 1b
+						id: "crystals_overhauled:heliodor_armor_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "790977F9EEA39031"
+					item: {
+						Count: 1b
+						id: "crystals_overhauled:heliodor_armor_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "6E4337ECE61AFA3A"
+					item: {
+						Count: 1b
+						id: "crystals_overhauled:heliodor_armor_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "4D3C2A19EE338FD8"
+					item: {
+						Count: 1b
+						id: "crystals_overhauled:heliodor_armor_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "金绿柱石套装"
+			x: 5.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["37D20BC1457F06BC"]
+			id: "2148E8843510FEFE"
+			rewards: [{
+				count: 8
+				id: "46A0BAF8C2C0F0BE"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "63023EDC3E231FD7"
+					item: {
+						Count: 1b
+						id: "crystals_overhauled:peridotite_sword"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "336BDA5D38EEBEF0"
+					item: {
+						Count: 1b
+						id: "crystals_overhauled:peridotite_axe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "6D71634303237A40"
+					item: {
+						Count: 1b
+						id: "crystals_overhauled:peridotite_pickaxe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "2050AAEFBCD2111A"
+					item: {
+						Count: 1b
+						id: "crystals_overhauled:peridotite_shovel"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "138E4C145FD09AAB"
+					item: {
+						Count: 1b
+						id: "crystals_overhauled:peridotite_hoe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "橄榄石武器/工具"
+			x: 6.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["37D20BC1457F06BC"]
+			id: "65CEA607F88F3A47"
+			rewards: [{
+				count: 8
+				id: "1AA230C10313851F"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "1FF5C9BD32EE8CAF"
+					item: {
+						Count: 1b
+						id: "crystals_overhauled:peridotite_armor_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "033778B1CFD359A8"
+					item: {
+						Count: 1b
+						id: "crystals_overhauled:peridotite_armor_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "7E39F1BDC0BEB2A4"
+					item: {
+						Count: 1b
+						id: "crystals_overhauled:peridotite_armor_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "28C40B4A4352F339"
+					item: {
+						Count: 1b
+						id: "crystals_overhauled:peridotite_armor_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "橄榄石套装"
+			x: 6.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["4CC0E03AC3C411FD"]
+			id: "7BD6C2F8528F56AB"
+			rewards: [{
+				count: 8
+				id: "5E58648822EE32F3"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "18702283F6F7E245"
+					item: {
+						Count: 1b
+						id: "crystals_overhauled:onyx_armor_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "6DC92CD8979A52A7"
+					item: {
+						Count: 1b
+						id: "crystals_overhauled:onyx_armor_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "5E065A0F2A1F1C93"
+					item: {
+						Count: 1b
+						id: "crystals_overhauled:onyx_armor_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "7E21691FD72211D7"
+					item: {
+						Count: 1b
+						id: "crystals_overhauled:onyx_armor_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "缟玛瑙套装"
+			x: 7.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["4CC0E03AC3C411FD"]
+			id: "4EE58376051308BA"
+			rewards: [{
+				count: 8
+				id: "26995DFCB348E1DA"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "324157A77118FC72"
+					item: {
+						Count: 1b
+						id: "crystals_overhauled:onyx_sword"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "46DC9388632D1229"
+					item: {
+						Count: 1b
+						id: "crystals_overhauled:onyx_axe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "5125B0FFB95115BE"
+					item: {
+						Count: 1b
+						id: "crystals_overhauled:onyx_pickaxe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "0247297DB98B44A3"
+					item: {
+						Count: 1b
+						id: "crystals_overhauled:onyx_shovel"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "2A2076551BBA0D54"
+					item: {
+						Count: 1b
+						id: "crystals_overhauled:onyx_hoe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "缟玛瑙武器/工具"
+			x: 7.0d
+			y: 2.0d
+		}
+		{
+			id: "4B93E9EF94D8019F"
+			rewards: [{
+				count: 8
+				id: "25F1BC43EC05E48B"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "455C610047545B64"
+				item: "crystals_overhauled:saphire"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 0.0d
+		}
+	]
+	title: "Crystals"
+}

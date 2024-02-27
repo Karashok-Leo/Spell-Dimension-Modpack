@@ -1,0 +1,29 @@
+{
+  "type": "spell-dimension:medal_upgrade",
+  "ingredients": [
+    [],
+    {
+      "item": "minecraft:snowball"
+    },
+    [],
+    {
+      "item": "runes:frost_stone"
+    },
+    {
+      "item": "runes:frost_stone"
+    },
+    [],
+    {
+      "item": "minecraft:snowball"
+    },
+    []
+  ],
+  "original": {
+    "Grade": 0
+  },
+  "upgraded": {
+    "Grade": 1,
+    "Major": "AURA",
+    "School": "FROST"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "type": "spell-dimension:medal_upgrade",
+  "ingredients": [
+    [],
+    {
+      "item": "minecraft:iron_ingot"
+    },
+    [],
+    {
+      "item": "runes:arcane_stone"
+    },
+    {
+      "item": "runes:arcane_stone"
+    },
+    [],
+    {
+      "item": "minecraft:redstone"
+    },
+    []
+  ],
+  "original": {
+    "Grade": 0
+  },
+  "upgraded": {
+    "Grade": 1,
+    "Major": "CONVERGE",
+    "School": "ARCANE"
+  }
+}

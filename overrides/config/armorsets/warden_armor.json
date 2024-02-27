@@ -1,0 +1,60 @@
+{
+  "armorSetName": "warden_armor",
+  "performanceMode": true,
+  "head": {
+    "itemKey": "deeperdarker:warden_helmet"
+  },
+  "chest": {
+    "itemKey": "deeperdarker:warden_chestplate"
+  },
+  "legs": {
+    "itemKey": "deeperdarker:warden_leggings"
+  },
+  "boots": {
+    "itemKey": "deeperdarker:warden_boots"
+  },
+  "hideGeneratedTooltip": true,
+  "customTooltips": [
+    "This is a custom tooltip",
+    "This tooltip will be on line 2",
+    "And this on line 3"
+  ],
+  "fullSetBonuses": [
+    {
+      "type": "attribute",
+      "name": "minecraft:generic.max_health",
+      "value": 10.0,
+      "modifierUUID": "71b4cd08-7694-49b3-a5c5-5290ea68e3f5",
+      "attributeOperation": 0,
+      "interactionType": "self"
+    },
+    {
+      "type": "attribute",
+      "name": "minecraft:generic.armor",
+      "value": 10.0,
+      "modifierUUID": "50be333c-403e-41e6-83e0-f38215c9f2f3",
+      "attributeOperation": 0,
+      "interactionType": "self"
+    },
+    {
+      "type": "attribute",
+      "name": "minecraft:generic.knockback_resistance",
+      "value": 4.0,
+      "modifierUUID": "cfccce71-118d-4cdf-a6d4-2b3107766350",
+      "attributeOperation": 0,
+      "interactionType": "self"
+    },
+    {
+      "type": "effect",
+      "name": "minecraft:darkness",
+      "interactionType": "immunity"
+    },
+    {
+      "type": "effect",
+      "name": "deeperdarker:sculk_affinity",
+      "value": 1.0,
+      "interactionType": "self",
+      "interactionDuration": 300
+    }
+  ]
+}

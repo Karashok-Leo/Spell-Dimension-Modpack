@@ -1,0 +1,17 @@
+{
+    "values": [
+        {
+            "id": "minecraft:basalt_deltas",
+            "required": false
+        },
+        {
+            "id": "incendium:ash_barrens",
+            "required": false
+        },
+        {
+            "id": "byg:brimstone_caverns",
+            "required": false
+        }
+
+    ]
+}

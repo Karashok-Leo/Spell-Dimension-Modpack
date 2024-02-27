@@ -1,0 +1,31 @@
+{
+  "type": "spell-dimension:medal_upgrade",
+  "ingredients": [
+    [],
+    {
+      "item": "spellbladenext:arcane_orb"
+    },
+    [],
+    {
+      "item": "spell-dimension:advanced_arcane_essence"
+    },
+    {
+      "item": "spell-dimension:advanced_arcane_essence"
+    },
+    [],
+    {
+      "item": "plentyofarmors:stardusite_ingot"
+    },
+    []
+  ],
+  "original": {
+    "Grade": 2,
+    "Major": "CONVERGE",
+    "School": "ARCANE"
+  },
+  "upgraded": {
+    "Grade": 3,
+    "Major": "CONVERGE",
+    "School": "ARCANE"
+  }
+}

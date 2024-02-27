@@ -1,0 +1,20 @@
+{
+  "armorSetName": "jade_sword",
+  "performanceMode": true,
+  "mainHand": {
+    "itemKey": "mythicupgrades:jade_sword",
+    "mixAndMatch": [
+      "mythicupgrades:jade_axe"
+    ]
+  },
+  "fullSetBonuses": [
+    {
+      "type": "attribute",
+      "name": "minecraft:generic.attack_damage",
+      "value": 4.0,
+      "modifierUUID": "96486001-ac46-ded1-1607-df3891fddf05",
+      "attributeOperation": 0,
+      "interactionType": "self"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "creatable_as_spellbook":true,
+  "spell_ids": [
+    "wizards:fireball",
+    "wizards:fire_meteor",
+    "wizards:fire_scorch"
+  ]
+}

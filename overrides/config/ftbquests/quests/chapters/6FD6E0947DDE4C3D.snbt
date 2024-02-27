@@ -1,0 +1,637 @@
+{
+	autofocus_id: "0A012658616D8B14"
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "6FD6E0947DDE4C3D"
+	group: "08486B419F39364A"
+	icon: "minecraft:end_stone"
+	id: "6FD6E0947DDE4C3D"
+	order_index: 4
+	quest_links: [ ]
+	quests: [
+		{
+			description: [
+				"击杀复仇骑士掉落。"
+				""
+				"前往Cathedral of Resurrection，"
+				""
+				"(/locate structure soulsweapons:cathedral_of_resurrection)"
+				""
+				"持迷失的灵魂右键破旧的月光祭坛召唤复仇骑士。"
+				""
+				"（来自Marium's Soulslike Weaponry模组）"
+			]
+			id: "4069A7FC18647536"
+			rewards: [{
+				id: "54F9DEFEFF7A1D0E"
+				item: "numismatic-overhaul:gold_coin"
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "7B2B7575303F23FE"
+				item: "endrem:lost_eye"
+				type: "item"
+			}]
+			x: 0.0d
+			y: -2.5d
+		}
+		{
+			description: [
+				"击杀虚空之花掉落。"
+				""
+				"虚空之花生成于一个洞穴内。"
+				"可以使用虚空百合寻找。"
+				""
+				"(/locate structure bosses_of_mass_destruction:void_blossom)"
+				""
+				"（来自Bosses of Mass Destruction模组）"
+			]
+			id: "77573B5176079D40"
+			rewards: [{
+				id: "0B2BD0628A9E2C2A"
+				item: "numismatic-overhaul:gold_coin"
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "4A5C1A736C2844E8"
+				item: "endrem:rogue_eye"
+				type: "item"
+			}]
+			x: -2.5d
+			y: 0.0d
+		}
+		{
+			description: [
+				"击杀潜行者掉落。"
+				""
+				"首先你需要先击杀坚守者，"
+				"用坚守者心脏激活位于远古城市的传送门，"
+				"激活前需确保传送门上的幽匿脉络已被清除。"
+				""
+				"(/locate structure minecraft:ancient_city)"
+				""
+				"进入深暗维度寻找Ancient Temple，"
+				"打破远古花瓶有概率生成Stalker。"
+				""
+				"(/locate structure deeperdarker:ancient_temple)"
+				""
+				"（来自Deeper and Darker模组）"
+			]
+			id: "07EE30F20F989B9E"
+			rewards: [{
+				id: "58FE9B0AD8C8BC66"
+				item: "numismatic-overhaul:gold_coin"
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "435F55877DE30A05"
+				item: "endrem:corrupted_eye"
+				type: "item"
+			}]
+			x: 0.5d
+			y: -3.0d
+		}
+		{
+			description: [
+				"击杀黑石傀儡掉落。"
+				""
+				"你需要准备4个镶金黑石碎片、4块錾制黑石基座、81块磨制黑石，"
+				"搭建祭坛召唤黑石傀儡。"
+				""
+				"详细教程->"
+				"https://www.mcmod.cn/post/2836.html"
+				""
+				"（来自AdventureZ模组）"
+			]
+			id: "26DB5AD2B34C69E5"
+			rewards: [{
+				id: "017B8F69303496AE"
+				item: "numismatic-overhaul:gold_coin"
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "2502DD4079D3EAFE"
+				item: "endrem:nether_eye"
+				type: "item"
+			}]
+			x: -3.0d
+			y: -0.5d
+		}
+		{
+			description: [
+				"击杀下界铁掌掉落。"
+				""
+				"下界铁掌生成于Gauntlet Arena内。"
+				""
+				"(/locate structure bosses_of_mass_destruction:gauntlet_arena)"
+				""
+				"（来自Bosses of Mass Destruction模组）"
+			]
+			id: "6A5EB1121978497B"
+			rewards: [{
+				id: "6B4F9BA816A32B7D"
+				item: "numismatic-overhaul:gold_coin"
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "0F543D81C85A0518"
+				item: "endrem:black_eye"
+				type: "item"
+			}]
+			x: 0.0d
+			y: -3.5d
+		}
+		{
+			description: [
+				"击杀船长科妮莉亚掉落。"
+				""
+				"前往搁浅舰船遗迹，"
+				""
+				"(/locate structure #aquamirae:ship)"
+				""
+				"击杀待在船长室的掠夺者可获得贝壳号角，"
+				""
+				"在冰冻深海群系中的水边右键召唤船长科妮莉亚。"
+				""
+				"召唤消耗贝壳号角（若召唤失败则不消耗）。"
+				""
+				"（来自Aquamirae模组）"
+			]
+			id: "63A7E0D065BBD0FB"
+			rewards: [{
+				id: "4D83998E187C57F6"
+				item: "numismatic-overhaul:gold_coin"
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "1E8CDD2E13D38431"
+				item: "endrem:cold_eye"
+				type: "item"
+			}]
+			x: -0.5d
+			y: -3.0d
+		}
+		{
+			description: [
+				"击杀陨落王者掉落。"
+				""
+				"前往Cathedral of Resurrection，"
+				""
+				"(/locate structure soulsweapons:cathedral_of_resurrection)"
+				""
+				"持日暮精粹右键破旧的月光祭坛召唤复仇骑士。"
+				""
+				"（来自Marium's Soulslike Weaponry模组）"
+			]
+			id: "1DD69E19CCBA5AA3"
+			rewards: [{
+				id: "337EE212CE8C983B"
+				item: "numismatic-overhaul:gold_coin"
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "6FBFC0131452E3DC"
+				item: "endrem:old_eye"
+				type: "item"
+			}]
+			x: -3.5d
+			y: 0.0d
+		}
+		{
+			description: [
+				"击杀腐朽的王掉落。"
+				""
+				"（来自Marium's Soulslike Weaponry模组）"
+			]
+			id: "520513D5D92F83AC"
+			rewards: [{
+				id: "1F2BC218E5C2CC74"
+				item: "numismatic-overhaul:gold_coin"
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "7F426F70220B0D83"
+				item: "endrem:cursed_eye"
+				type: "item"
+			}]
+			x: -3.0d
+			y: 0.5d
+		}
+		{
+			description: ["击杀远古守卫者掉落。"]
+			id: "3A564369B8C07BDB"
+			rewards: [{
+				id: "0D8E4CE843058AC1"
+				item: "numismatic-overhaul:gold_coin"
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "7A4F92FB1821FE11"
+				item: "endrem:guardian_eye"
+				type: "item"
+			}]
+			x: 2.5d
+			y: 0.0d
+		}
+		{
+			description: ["击杀凋灵掉落。"]
+			id: "1A2182B546EED270"
+			rewards: [{
+				id: "081C01EED28114FF"
+				item: "numismatic-overhaul:gold_coin"
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "1E26EDB801622733"
+				item: "endrem:wither_eye"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 0.5d
+		}
+		{
+			description: [
+				"击杀祈灵师掉落。"
+				""
+				"祁灵师生成于林地府邸内。"
+				""
+				"（来自Illager Invasion模组）"
+			]
+			id: "531702C1733B801F"
+			rewards: [{
+				id: "4EF4F974CA7C346D"
+				item: "numismatic-overhaul:gold_coin"
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "1D4CAD362FAD89F2"
+				item: "endrem:magical_eye"
+				type: "item"
+			}]
+			x: 3.5d
+			y: 0.0d
+		}
+		{
+			description: [
+				"击杀巫妖掉落不死之魂合成获得。"
+				""
+				"你需要先找到三个不祥的骨杖残片，它们位于不同的遗迹中，"
+				""
+				"(/locate structure graveyard:ruins)"
+				""
+				"除此之外，副手持玻璃瓶，用骨头匕首杀死足够多的村民以获得血瓶，"
+				""
+				"然后来到诅咒之地，完成召唤仪式。"
+				""
+				"(/locate structure graveyard:lich_prison)"
+				""
+				"详细教程->"
+				"https://www.mcmod.cn/post/2661.html"
+				""
+				"（来自The Graveyard模组）"
+			]
+			id: "64E83DD2452CF37F"
+			rewards: [{
+				id: "51AB17ADE992D878"
+				item: "numismatic-overhaul:gold_coin"
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "6FFD04912434F446"
+				item: "endrem:undead_eye"
+				type: "item"
+			}]
+			x: -0.5d
+			y: 3.0d
+		}
+		{
+			description: [
+				"击杀暗夜巫妖掉落巫瞳合成获得。"
+				""
+				"当你击杀敌对生物时，有较低概率掉落灵魂之星，"
+				""
+				"可以用灵魂之星寻找巫妖塔，"
+				""
+				"在祭坛上放置四个灵魂之星即可召唤暗夜巫妖。"
+				""
+				"(/locate structure bosses_of_mass_destruction:lich_tower)"
+				""
+				"（来自Bosses of Mass Destruction模组）"
+			]
+			id: "4E9AD1D3ADEE5896"
+			rewards: [{
+				id: "2A8037AECD8E249C"
+				item: "numismatic-overhaul:gold_coin"
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "4D2FB9B580427417"
+				item: "endrem:witch_eye"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 2.5d
+		}
+		{
+			description: [
+				"击杀混沌君主掉落。"
+				""
+				"或从大师级牧师村民手中购买获得。"
+			]
+			id: "1282E48970061604"
+			rewards: [{
+				id: "06AF2BD171F61822"
+				item: "numismatic-overhaul:gold_coin"
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "535417BFF984F65F"
+				item: "endrem:evil_eye"
+				type: "item"
+			}]
+			x: 3.0d
+			y: -0.5d
+		}
+		{
+			description: [
+				"击杀昼从者或夜伏者掉落。"
+				""
+				"（来自Marium's Soulslike Weaponry模组）"
+				""
+				"附魔时也有小概率获得。"
+			]
+			id: "585B4191B9ACD9E2"
+			rewards: [{
+				id: "51AE6E20EFBC2D37"
+				item: "numismatic-overhaul:gold_coin"
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "7D45C8BE05702D21"
+				item: "endrem:cryptic_eye"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 3.5d
+		}
+		{
+			description: ["收集材料合成获得。"]
+			id: "69609D60D3DB9FDB"
+			rewards: [{
+				id: "4849EDC687571CF0"
+				item: "numismatic-overhaul:gold_coin"
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "40AB5D6FC03CBAAD"
+				item: "endrem:exotic_eye"
+				type: "item"
+			}]
+			x: 0.5d
+			y: 3.0d
+		}
+		{
+			dependencies: [
+				"4069A7FC18647536"
+				"63A7E0D065BBD0FB"
+				"07EE30F20F989B9E"
+				"6A5EB1121978497B"
+				"531702C1733B801F"
+				"3A564369B8C07BDB"
+				"1282E48970061604"
+				"1A2182B546EED270"
+				"69609D60D3DB9FDB"
+				"4E9AD1D3ADEE5896"
+				"585B4191B9ACD9E2"
+				"64E83DD2452CF37F"
+				"26DB5AD2B34C69E5"
+				"77573B5176079D40"
+				"520513D5D92F83AC"
+				"1DD69E19CCBA5AA3"
+			]
+			dependency_requirement: "one_completed"
+			id: "0A012658616D8B14"
+			min_required_dependencies: 12
+			rewards: [{
+				count: 4
+				id: "25B5C051532C3A54"
+				item: "numismatic-overhaul:gold_coin"
+				type: "item"
+			}]
+			shape: "square"
+			size: 2.0d
+			tasks: [{
+				dimension: "minecraft:the_end"
+				id: "3B3B08E6F7B0BC31"
+				title: "结束了？"
+				type: "dimension"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"6FD6E0947DDE4C3D"
+				"0A012658616D8B14"
+			]
+			hide: true
+			id: "327300655EEACA85"
+			shape: "hexagon"
+			size: 2.0d
+			tasks: [{
+				entity: "adventurez:dragon"
+				icon: "minecraft:dragon_head"
+				id: "23B18BC701366605"
+				type: "kill"
+				value: 1L
+			}]
+			x: 3.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["0A012658616D8B14"]
+			hide: true
+			id: "6266ED3C4AF1B1AB"
+			shape: "hexagon"
+			size: 2.0d
+			tasks: [{
+				entity: "adventurez:the_eye"
+				icon: "minecraft:ender_eye"
+				id: "786CD5EC9F394023"
+				type: "kill"
+				value: 1L
+			}]
+			x: 3.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["0A012658616D8B14"]
+			hide: true
+			id: "3A96085229B29733"
+			shape: "hexagon"
+			size: 2.0d
+			tasks: [{
+				entity: "adventurez:void_shade"
+				icon: "fwaystones:local_void"
+				id: "792A57410F017A69"
+				type: "kill"
+				value: 1L
+			}]
+			x: -3.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["0A012658616D8B14"]
+			hide: true
+			icon: "philipsruins:obsidian_brick"
+			id: "01E8AA911620AD79"
+			shape: "diamond"
+			tasks: [{
+				id: "6F28A8F8719C3421"
+				structure: "philipsruins:end_gate_fortress"
+				type: "structure"
+			}]
+			title: "终界要塞"
+			x: 1.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["0A012658616D8B14"]
+			hide: true
+			icon: "minecraft:purpur_block"
+			id: "5BED2CFA9727FF68"
+			shape: "diamond"
+			tasks: [{
+				id: "3C57441961908586"
+				structure: "minecraft:end_city"
+				type: "structure"
+			}]
+			title: "终界城"
+			x: -1.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["0A012658616D8B14"]
+			hide: true
+			icon: "minecraft:acacia_planks"
+			id: "6CF223A7ABD4732F"
+			shape: "diamond"
+			tasks: [{
+				id: "797E4E7FB3FB9D9A"
+				structure: "dungeons_arise:heavenly_challenger"
+				type: "structure"
+			}]
+			title: "天堂挑战者"
+			x: 1.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["0A012658616D8B14"]
+			hide: true
+			icon: "minecraft:stripped_birch_wood"
+			id: "3677D8F8BCF5EB6D"
+			shape: "diamond"
+			tasks: [{
+				id: "4ECFA43DF76B3318"
+				structure: "dungeons_arise:heavenly_conqueror"
+				type: "structure"
+			}]
+			title: "天堂征服者"
+			x: 3.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["0A012658616D8B14"]
+			hide: true
+			icon: "minecraft:white_wool"
+			id: "634C68A98E47EA19"
+			shape: "diamond"
+			tasks: [{
+				id: "146333F520C80991"
+				structure: "dungeons_arise:heavenly_rider"
+				type: "structure"
+			}]
+			title: "天堂骑行者"
+			x: -1.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["0A012658616D8B14"]
+			hide: true
+			icon: "minecraft:pink_concrete"
+			id: "4D8E960D98C3838B"
+			shape: "diamond"
+			tasks: [{
+				id: "528FBB43B6B47856"
+				structure: "dungeons_arise:aviary"
+				type: "structure"
+			}]
+			title: "幻梦塔楼"
+			x: -3.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["0A012658616D8B14"]
+			hide: true
+			icon: "bosses_of_mass_destruction:obsidian_heart"
+			id: "37E5538DAC8C06D7"
+			shape: "hexagon"
+			size: 2.0d
+			tasks: [{
+				entity: "bosses_of_mass_destruction:obsidilith"
+				id: "761E2229AB7DF1AC"
+				type: "kill"
+				value: 1L
+			}]
+			x: -3.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["0A012658616D8B14"]
+			hide: true
+			icon: "minecraft:end_stone_bricks"
+			id: "0261AA28A711708E"
+			shape: "diamond"
+			tasks: [{
+				id: "0991E6C55E1B928E"
+				structure: "repurposed_structures:ancient_city_end"
+				type: "structure"
+			}]
+			title: "末地古城"
+			x: -3.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["0A012658616D8B14"]
+			hide: true
+			icon: "minecraft:pearlescent_froglight"
+			id: "18EBF0677D88C05B"
+			shape: "diamond"
+			tasks: [{
+				id: "136742CCC4B26EB9"
+				structure: "mes:phantom_citadel"
+				type: "structure"
+			}]
+			title: "幻翼城堡"
+			x: 3.0d
+			y: -1.5d
+		}
+	]
+	title: "终界"
+}

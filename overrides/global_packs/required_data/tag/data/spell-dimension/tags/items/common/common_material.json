@@ -1,0 +1,13 @@
+{
+    "values": [
+        "minecraft:copper_ingot",
+        "minecraft:gold_ingot",
+        "minecraft:iron_ingot",
+        "mythicmetals:bronze_ingot",
+        "mythicmetals:manganese_ingot",
+        "mythicmetals:osmium_ingot",
+        "mythicmetals:silver_ingot",
+        "mythicmetals:steel_ingot",
+        "mythicmetals:tin_ingot"
+    ]
+}

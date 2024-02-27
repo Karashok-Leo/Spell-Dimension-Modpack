@@ -1,0 +1,15 @@
+{
+  "name": "philipsruins:ancient_crypt/crypt_room7",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "location": "philipsruins:crypt_room7",
+        "processors": "philipsruins:randomize_crypt_brick",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    }
+  ]
+}

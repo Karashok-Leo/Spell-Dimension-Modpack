@@ -1,0 +1,85 @@
+{
+  "school": "ARCANE",
+  "range": 24,
+  "learn": {
+    "tier": 3
+  },
+  "cast": {
+    "duration": 2,
+    "animation": "spellbladenext:dual_handed_slash_cross",
+    "sound": {
+      "id": "entity.warden.sonic_charge"
+    },
+    "particles": [
+      {
+        "particle_id": "spell_engine:arcane_hit",
+        "shape": "SPHERE",
+        "origin": "FEET",
+        "count": 2.0,
+        "min_speed": 0,
+        "max_speed": 0
+      },
+      {
+        "particle_id": "firework",
+        "shape": "FEET",
+        "origin": "CENTER",
+        "count": 3.0,
+        "min_speed": 0,
+        "max_speed": 0
+      }
+    ]
+  },
+  "release": {
+    "custom_impact": true,
+    "target": {
+      "type": "BEAM"
+    },
+    "animation": "spellbladenext:dashslash",
+    "sound": {
+      "id": "entity.warden.sonic_boom"
+    }
+  },
+  "impact": [
+    {
+      "school": "PHYSICAL_MELEE",
+      "action": {
+        "type": "DAMAGE",
+        "damage": {
+          "knockback": 0.5,
+          "spell_power_coefficient": 2
+        }
+      }
+    },
+    {
+      "action": {
+        "type": "DAMAGE",
+        "damage": {
+          "knockback": 0.5,
+          "spell_power_coefficient": 3
+        }
+      },
+      "particles": [
+        {
+          "particle_id": "spell_engine:arcane_hit",
+          "shape": "SPHERE",
+          "origin": "CENTER",
+          "count": 20.0,
+          "min_speed": 0.2,
+          "max_speed": 0.6
+        },
+        {
+          "particle_id": "firework",
+          "shape": "SPHERE",
+          "origin": "CENTER",
+          "count": 30.0,
+          "min_speed": 0.5,
+          "max_speed": 0.9
+        }
+      ]
+    }
+
+  ],
+  "cost": {
+    "cooldown_duration": 8
+  }
+}

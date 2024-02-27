@@ -1,0 +1,403 @@
+{
+	autofocus_id: "1AD052D463DACF03"
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "deep_dark"
+	group: "08486B419F39364A"
+	icon: "minecraft:sculk_catalyst"
+	id: "6B7284F6B0CAAFE7"
+	order_index: 3
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: [
+				"30DAE359D44B461F"
+				"1B50EEE82EA5E76E"
+			]
+			hide: true
+			id: "1AD052D463DACF03"
+			rewards: [{
+				id: "6EC2F9C33522108A"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
+			size: 1.5d
+			tasks: [{
+				dimension: "deeperdarker:otherside"
+				icon: "minecraft:sculk_sensor"
+				id: "5F9251B5180DF50D"
+				type: "dimension"
+			}]
+			title: "Otherside"
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["7EBC8D23C9E4E5C2"]
+			description: [
+				"在主手时获得："
+				""
+				"+6 攻击伤害"
+				""
+				"受击者获得："
+				""
+				"15s 黑暗 II"
+			]
+			id: "60C4314B17B890C1"
+			rewards: [{
+				id: "59AD740AE87E6F6A"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "4E24C8FCAFDBDD8F"
+				item: {
+					Count: 1b
+					id: "itemfilters:or"
+					tag: {
+						items: [
+							{
+								Count: 1b
+								id: "deeperdarker:warden_sword"
+								tag: {
+									Damage: 0
+								}
+							}
+							{
+								Count: 1b
+								id: "deeperdarker:warden_pickaxe"
+								tag: {
+									Damage: 0
+								}
+							}
+							{
+								Count: 1b
+								id: "deeperdarker:warden_axe"
+								tag: {
+									Damage: 0
+								}
+							}
+							{
+								Count: 1b
+								id: "deeperdarker:warden_shovel"
+								tag: {
+									Damage: 0
+								}
+							}
+							{
+								Count: 1b
+								id: "deeperdarker:warden_hoe"
+								tag: {
+									Damage: 0
+								}
+							}
+						]
+					}
+				}
+				title: "幽匿武器/工具"
+				type: "item"
+			}]
+			x: 2.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["7EBC8D23C9E4E5C2"]
+			description: [
+				"穿戴整套额外获得："
+				""
+				"+10 生命值"
+				""
+				"+10 护甲值 (共+34)"
+				""
+				"+4 击退抗性 (共+8)"
+				""
+				"永久 幽匿亲和 II"
+				""
+				"免疫 黑暗"
+			]
+			id: "446562E889890311"
+			rewards: [{
+				id: "58464F5008AE6425"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "00D8F300390F84F5"
+				item: {
+					Count: 1b
+					id: "itemfilters:or"
+					tag: {
+						items: [
+							{
+								Count: 1b
+								id: "deeperdarker:warden_helmet"
+								tag: {
+									Damage: 0
+								}
+							}
+							{
+								Count: 1b
+								id: "deeperdarker:warden_chestplate"
+								tag: {
+									Damage: 0
+								}
+							}
+							{
+								Count: 1b
+								id: "deeperdarker:warden_leggings"
+								tag: {
+									Damage: 0
+								}
+							}
+							{
+								Count: 1b
+								id: "deeperdarker:warden_boots"
+								tag: {
+									Damage: 0
+								}
+							}
+						]
+					}
+				}
+				title: "监守者套装"
+				type: "item"
+			}]
+			x: 3.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["1B50EEE82EA5E76E"]
+			hide: true
+			id: "7EBC8D23C9E4E5C2"
+			rewards: [{
+				id: "1D5FD149097BE80D"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
+			size: 1.5d
+			tasks: [{
+				id: "12624A27386ED134"
+				item: "deeperdarker:warden_upgrade_smithing_template"
+				type: "item"
+			}]
+			x: 1.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["18167DB222DBB829"]
+			id: "30DAE359D44B461F"
+			rewards: [{
+				id: "22CE94AC9262197C"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "3735596496A15386"
+				item: "deeperdarker:heart_of_the_deep"
+				type: "item"
+			}]
+			x: -3.0d
+			y: 0.0d
+		}
+		{
+			icon: "minecraft:reinforced_deepslate"
+			id: "1B50EEE82EA5E76E"
+			size: 1.5d
+			tasks: [{
+				id: "74BE29D0CB30DE58"
+				structure: "minecraft:ancient_city"
+				type: "structure"
+			}]
+			title: "躁魂大都会"
+			x: 0.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["1B50EEE82EA5E76E"]
+			hide: true
+			icon: {
+				Count: 1b
+				id: "minecraft:player_head"
+				tag: {
+					SkullOwner: {
+						Id: [I;
+							1531857479
+							-78233159
+							-1681038604
+							1859460671
+						]
+						Properties: {
+							textures: [{
+								Value: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNmNmMzY3NGIyZGRjMGVmN2MzOWUzYjljNmI1ODY3N2RlNWNmMzc3ZDJlYjA3M2YyZjNmZTUwOTE5YjFjYTRjOSJ9fX0="
+							}]
+						}
+					}
+					display: {
+						Name: "{\"text\":\"Warden Head\"}"
+					}
+				}
+			}
+			id: "18167DB222DBB829"
+			rewards: [{
+				id: "62E2270531F34F45"
+				item: {
+					Count: 1b
+					id: "minecraft:player_head"
+					tag: {
+						SkullOwner: {
+							Id: [I;
+								1531857479
+								-78233159
+								-1681038604
+								1859460671
+							]
+							Properties: {
+								textures: [{
+									Value: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNmNmMzY3NGIyZGRjMGVmN2MzOWUzYjljNmI1ODY3N2RlNWNmMzc3ZDJlYjA3M2YyZjNmZTUwOTE5YjFjYTRjOSJ9fX0="
+								}]
+							}
+						}
+						display: {
+							Name: "{\"text\":\"Warden Head\"}"
+						}
+					}
+				}
+				type: "item"
+			}]
+			size: 1.5d
+			tasks: [{
+				entity: "minecraft:warden"
+				id: "3E51217583BC4A3B"
+				type: "kill"
+				value: 1L
+			}]
+			x: -1.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["1AD052D463DACF03"]
+			icon: "minecraft:chiseled_deepslate"
+			id: "37A28DAECBBE5324"
+			size: 1.5d
+			tasks: [{
+				id: "457785305CA2978B"
+				structure: "deeperdarker:ancient_temple"
+				type: "structure"
+			}]
+			title: "落入深渊"
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["37A28DAECBBE5324"]
+			description: ["这些瓶瓶罐罐中可能藏着些什么......"]
+			icon: "deeperdarker:ancient_vase"
+			id: "6409BA1D02E46951"
+			tasks: [{
+				id: "0E70949623EDD486"
+				title: "Checked"
+				type: "checkmark"
+			}]
+			title: "远古花瓶"
+			x: 4.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["6409BA1D02E46951"]
+			icon: "deeperdarker:soul_crystal"
+			id: "5B65D57273ECE985"
+			size: 1.5d
+			tasks: [{
+				entity: "deeperdarker:stalker"
+				id: "595C9E8D621938CF"
+				type: "kill"
+				value: 1L
+			}]
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["1AD052D463DACF03"]
+			icon: "deeperdarker:sculk_bone"
+			id: "65DC64587A60EB3D"
+			tasks: [{
+				entity: "deeperdarker:shattered"
+				id: "6082D624FE3190E6"
+				type: "kill"
+				value: 10L
+			}]
+			x: -2.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["1AD052D463DACF03"]
+			icon: "deeperdarker:grime_ball"
+			id: "1A8EE29C59E60221"
+			tasks: [{
+				entity: "deeperdarker:sculk_snapper"
+				id: "7AF33AFAF1AC5097"
+				type: "kill"
+				value: 10L
+			}]
+			x: -1.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["1AD052D463DACF03"]
+			icon: "deeperdarker:soul_dust"
+			id: "12E4854D361C21C7"
+			tasks: [{
+				entity: "deeperdarker:sculk_leech"
+				id: "49A81E8628CC5E99"
+				type: "kill"
+				value: 10L
+			}]
+			x: 0.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["1AD052D463DACF03"]
+			icon: "deeperdarker:sculk_tendrils"
+			id: "69F798E2405207E1"
+			tasks: [{
+				entity: "deeperdarker:sculk_centipede"
+				id: "086F0DC510A7E171"
+				type: "kill"
+				value: 10L
+			}]
+			x: 1.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["1AD052D463DACF03"]
+			icon: "deeperdarker:sculk_vines"
+			id: "1EC7D65E9A88298E"
+			tasks: [{
+				entity: "deeperdarker:shriek_worm"
+				id: "1A311D93B52FDE12"
+				type: "kill"
+				value: 10L
+			}]
+			x: 2.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["5B65D57273ECE985"]
+			id: "1A3060F4088DF19C"
+			tasks: [{
+				id: "4CEDB3D36FA28D57"
+				item: {
+					Count: 1b
+					id: "deeperdarker:soul_elytra"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 7.5d
+			y: 0.0d
+		}
+	]
+	title: "彼端"
+}

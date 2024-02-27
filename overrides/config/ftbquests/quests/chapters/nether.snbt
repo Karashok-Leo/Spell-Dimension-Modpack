@@ -1,0 +1,902 @@
+{
+	autofocus_id: "78CCFD84A15ABB49"
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "nether"
+	group: "08486B419F39364A"
+	icon: "minecraft:netherrack"
+	id: "77E5084378656D29"
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			id: "78CCFD84A15ABB49"
+			rewards: [{
+				id: "4937C21CB3F729FD"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
+			size: 2.0d
+			tasks: [{
+				advancement: "minecraft:story/enter_the_nether"
+				criterion: ""
+				id: "14ECA98A81F466AB"
+				type: "advancement"
+			}]
+			title: "勇往直下"
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["78CCFD84A15ABB49"]
+			hide: true
+			id: "596A3BC500B71996"
+			rewards: [{
+				id: "68663877FF99B435"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
+			size: 1.5d
+			tasks: [{
+				icon: "minecraft:red_nether_bricks"
+				id: "6885C08B57E4B677"
+				structure: "betterfortresses:fortress"
+				type: "structure"
+			}]
+			title: "阴森的要塞"
+			x: 0.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["78CCFD84A15ABB49"]
+			hide: true
+			id: "2779BA29592529A8"
+			rewards: [{
+				id: "26368C27D10CD796"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
+			size: 1.5d
+			tasks: [{
+				biome: "minecraft:crimson_forest"
+				icon: "minecraft:crimson_nylium"
+				id: "2E25963798CE0ACE"
+				type: "biome"
+			}]
+			title: "绯红森林"
+			x: 2.25d
+			y: -1.5d
+		}
+		{
+			dependencies: ["78CCFD84A15ABB49"]
+			hide: true
+			id: "4B5750AE7312B5C7"
+			rewards: [{
+				id: "016992DE5E1EAB2C"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
+			size: 1.5d
+			tasks: [{
+				biome: "minecraft:warped_forest"
+				icon: "minecraft:warped_nylium"
+				id: "6E6C043E8EA20564"
+				type: "biome"
+			}]
+			title: "诡异森林"
+			x: 2.25d
+			y: 1.5d
+		}
+		{
+			dependencies: ["78CCFD84A15ABB49"]
+			hide: true
+			id: "466500C6195AFC51"
+			rewards: [{
+				id: "40DD32F60922EE06"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
+			size: 1.5d
+			tasks: [{
+				biome: "minecraft:soul_sand_valley"
+				icon: "minecraft:soul_sand"
+				id: "3C9E4C1A57BAF594"
+				type: "biome"
+			}]
+			title: "灵魂沙峡谷"
+			x: -2.25d
+			y: -1.5d
+		}
+		{
+			dependencies: ["78CCFD84A15ABB49"]
+			hide: true
+			id: "17209153F9D50D32"
+			rewards: [{
+				id: "37B9B6F61D2148FB"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "10D5A073FBADD8D4"
+				item: "minecraft:ancient_debris"
+				type: "item"
+			}]
+			x: -1.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["78CCFD84A15ABB49"]
+			hide: true
+			icon: {
+				Count: 1b
+				id: "minecraft:player_head"
+				tag: {
+					SkullOwner: {
+						Id: [I;
+							-1767051932
+							1535462297
+							-1205513267
+							2057279270
+						]
+						Properties: {
+							textures: [{
+								Value: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzg5NTdkNTAyM2M5MzdjNGM0MWFhMjQxMmQ0MzQxMGJkYTIzY2Y3OWE5ZjZhYjM2Yjc2ZmVmMmQ3YzQyOSJ9fX0="
+							}]
+						}
+					}
+					display: {
+						Name: "{\"text\":\"Magma Cube Head\"}"
+					}
+				}
+			}
+			id: "4AC36FC2E9F7F9F8"
+			rewards: [
+				{
+					id: "1C1276FE15B176BE"
+					item: "numismatic-overhaul:silver_coin"
+					type: "item"
+				}
+				{
+					id: "49B955EEA4519333"
+					item: {
+						Count: 1b
+						id: "minecraft:player_head"
+						tag: {
+							SkullOwner: {
+								Id: [I;
+									-1767051932
+									1535462297
+									-1205513267
+									2057279270
+								]
+								Properties: {
+									textures: [{
+										Value: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzg5NTdkNTAyM2M5MzdjNGM0MWFhMjQxMmQ0MzQxMGJkYTIzY2Y3OWE5ZjZhYjM2Yjc2ZmVmMmQ3YzQyOSJ9fX0="
+									}]
+								}
+							}
+							display: {
+								Name: "{\"text\":\"Magma Cube Head\"}"
+							}
+						}
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				entity: "minecraft:magma_cube"
+				id: "07BCCF92C9DE048C"
+				type: "kill"
+				value: 10L
+			}]
+			x: -3.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["78CCFD84A15ABB49"]
+			hide: true
+			icon: {
+				Count: 1b
+				id: "minecraft:player_head"
+				tag: {
+					SkullOwner: {
+						Id: [I;
+							-2120826304
+							-378911692
+							-1238340839
+							485405824
+						]
+						Properties: {
+							textures: [{
+								Value: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOWJiOWJjMGYwMWRiZDc2MmEwOGQ5ZTc3YzA4MDY5ZWQ3Yzk1MzY0YWEzMGNhMTA3MjIwODU2MWI3MzBlOGQ3NSJ9fX0="
+							}]
+						}
+					}
+					display: {
+						Name: "{\"text\":\"Hoglin Head\"}"
+					}
+				}
+			}
+			id: "1E0BD8BC1AEE1EE6"
+			rewards: [
+				{
+					id: "15BD26CE6919552D"
+					item: "numismatic-overhaul:silver_coin"
+					type: "item"
+				}
+				{
+					id: "364B507E012E2660"
+					item: {
+						Count: 1b
+						id: "minecraft:player_head"
+						tag: {
+							SkullOwner: {
+								Id: [I;
+									-2120826304
+									-378911692
+									-1238340839
+									485405824
+								]
+								Properties: {
+									textures: [{
+										Value: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOWJiOWJjMGYwMWRiZDc2MmEwOGQ5ZTc3YzA4MDY5ZWQ3Yzk1MzY0YWEzMGNhMTA3MjIwODU2MWI3MzBlOGQ3NSJ9fX0="
+									}]
+								}
+							}
+							display: {
+								Name: "{\"text\":\"Hoglin Head\"}"
+							}
+						}
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				entity: "minecraft:hoglin"
+				id: "2490EF9867EC0C2F"
+				type: "kill"
+				value: 3L
+			}]
+			x: 3.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["78CCFD84A15ABB49"]
+			hide: true
+			icon: "minecraft:piglin_head"
+			id: "7E6E2385C8617406"
+			rewards: [
+				{
+					id: "02797168DBC9D79B"
+					item: "numismatic-overhaul:silver_coin"
+					type: "item"
+				}
+				{
+					id: "201EB42CB7602116"
+					item: {
+						Count: 1b
+						id: "minecraft:player_head"
+						tag: {
+							SkullOwner: {
+								Id: [I;
+									-591210517
+									-624276625
+									-2141543340
+									-523118334
+								]
+								Properties: {
+									textures: [{
+										Value: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTBiYzlkYmI0NDA0YjgwMGY4Y2YwMjU2MjIwZmY3NGIwYjcxZGJhOGI2NjYwMGI2NzM0ZjRkNjMzNjE2MThmNSJ9fX0="
+									}]
+								}
+							}
+							display: {
+								Name: "{\"text\":\"Piglin Head\"}"
+							}
+						}
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				entity: "minecraft:piglin"
+				id: "403BA2FF706CFDB1"
+				type: "kill"
+				value: 10L
+			}]
+			x: -1.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["78CCFD84A15ABB49"]
+			hide: true
+			icon: "minecraft:piglin_head"
+			id: "5AC7748115528BB5"
+			rewards: [
+				{
+					id: "152257D1A76EC702"
+					item: "numismatic-overhaul:silver_coin"
+					type: "item"
+				}
+				{
+					id: "53D945FAB88816F4"
+					item: {
+						Count: 1b
+						id: "minecraft:player_head"
+						tag: {
+							SkullOwner: {
+								Id: [I;
+									-1495583819
+									509627582
+									-1550874603
+									2046378806
+								]
+								Properties: {
+									textures: [{
+										Value: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvM2UzMDBlOTAyNzM0OWM0OTA3NDk3NDM4YmFjMjllM2E0Yzg3YTg0OGM1MGIzNGMyMTI0MjcyN2I1N2Y0ZTFjZiJ9fX0="
+									}]
+								}
+							}
+							display: {
+								Name: "{\"text\":\"Piglin Brute Head\"}"
+							}
+						}
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				entity: "minecraft:piglin_brute"
+				id: "7ED8A39ABFE19386"
+				type: "kill"
+				value: 3L
+			}]
+			x: 1.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["78CCFD84A15ABB49"]
+			hide: true
+			icon: "minecraft:wither_skeleton_skull"
+			id: "48FD2089EB9971A7"
+			rewards: [
+				{
+					id: "0E0ECDC70400B429"
+					item: "numismatic-overhaul:silver_coin"
+					type: "item"
+				}
+				{
+					id: "102E9732CD986447"
+					item: "minecraft:wither_skeleton_skull"
+					type: "item"
+				}
+			]
+			tasks: [{
+				entity: "minecraft:wither_skeleton"
+				id: "6BB293E1FF3F6F71"
+				type: "kill"
+				value: 10L
+			}]
+			x: 1.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["78CCFD84A15ABB49"]
+			hide: true
+			icon: {
+				Count: 1b
+				id: "minecraft:player_head"
+				tag: {
+					SkullOwner: {
+						Id: [I;
+							2095810738
+							2136949657
+							-1413910424
+							622570141
+						]
+						Properties: {
+							textures: [{
+								Value: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjc4ZWYyZTRjZjJjNDFhMmQxNGJmZGU5Y2FmZjEwMjE5ZjViMWJmNWIzNWE0OWViNTFjNjQ2Nzg4MmNiNWYwIn19fQ=="
+							}]
+						}
+					}
+					display: {
+						Name: "{\"text\":\"Blaze Head\"}"
+					}
+				}
+			}
+			id: "2187E795A72ACA46"
+			rewards: [
+				{
+					id: "5B815447333C2C6D"
+					item: "numismatic-overhaul:silver_coin"
+					type: "item"
+				}
+				{
+					id: "3949374069F647BA"
+					item: {
+						Count: 1b
+						id: "minecraft:player_head"
+						tag: {
+							SkullOwner: {
+								Id: [I;
+									2095810738
+									2136949657
+									-1413910424
+									622570141
+								]
+								Properties: {
+									textures: [{
+										Value: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjc4ZWYyZTRjZjJjNDFhMmQxNGJmZGU5Y2FmZjEwMjE5ZjViMWJmNWIzNWE0OWViNTFjNjQ2Nzg4MmNiNWYwIn19fQ=="
+									}]
+								}
+							}
+							display: {
+								Name: "{\"text\":\"Blaze Head\"}"
+							}
+						}
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				entity: "minecraft:blaze"
+				id: "7C28D851B7289144"
+				type: "kill"
+				value: 10L
+			}]
+			x: -1.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["78CCFD84A15ABB49"]
+			hide: true
+			icon: {
+				Count: 1b
+				id: "minecraft:player_head"
+				tag: {
+					SkullOwner: {
+						Id: [I;
+							-2139150209
+							1687768723
+							-1467545047
+							-1967978209
+						]
+						Properties: {
+							textures: [{
+								Value: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOGI2YTcyMTM4ZDY5ZmJiZDJmZWEzZmEyNTFjYWJkODcxNTJlNGYxYzk3ZTVmOTg2YmY2ODU1NzFkYjNjYzAifX19"
+							}]
+						}
+					}
+					display: {
+						Name: "{\"text\":\"Ghast Head\"}"
+					}
+				}
+			}
+			id: "7182EC7191D54904"
+			rewards: [
+				{
+					id: "24FFE59BE8B0D35C"
+					item: "numismatic-overhaul:silver_coin"
+					type: "item"
+				}
+				{
+					id: "0E3E74C1800E141F"
+					item: {
+						Count: 1b
+						id: "minecraft:player_head"
+						tag: {
+							SkullOwner: {
+								Id: [I;
+									-2139150209
+									1687768723
+									-1467545047
+									-1967978209
+								]
+								Properties: {
+									textures: [{
+										Value: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOGI2YTcyMTM4ZDY5ZmJiZDJmZWEzZmEyNTFjYWJkODcxNTJlNGYxYzk3ZTVmOTg2YmY2ODU1NzFkYjNjYzAifX19"
+									}]
+								}
+							}
+							display: {
+								Name: "{\"text\":\"Ghast Head\"}"
+							}
+						}
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				entity: "minecraft:ghast"
+				id: "36107C95462874C8"
+				type: "kill"
+				value: 3L
+			}]
+			x: -3.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["78CCFD84A15ABB49"]
+			hide: true
+			icon: {
+				Count: 1b
+				id: "minecraft:player_head"
+				tag: {
+					SkullOwner: {
+						Id: [I;
+							1325481211
+							-2064102016
+							-2060901102
+							2137813230
+						]
+						Properties: {
+							textures: [{
+								Value: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvN2VhYmFlY2M1ZmFlNWE4YTQ5Yzg4NjNmZjQ4MzFhYWEyODQxOThmMWEyMzk4ODkwYzc2NWUwYThkZTE4ZGE4YyJ9fX0="
+							}]
+						}
+					}
+					display: {
+						Name: "{\"text\":\"Zombified Piglin Head\"}"
+					}
+				}
+			}
+			id: "4F5EB3963183C6F1"
+			rewards: [
+				{
+					id: "1F9D720EA778A258"
+					item: "numismatic-overhaul:silver_coin"
+					type: "item"
+				}
+				{
+					id: "18EA9F6BC008BBFE"
+					item: {
+						Count: 1b
+						id: "minecraft:player_head"
+						tag: {
+							SkullOwner: {
+								Id: [I;
+									1325481211
+									-2064102016
+									-2060901102
+									2137813230
+								]
+								Properties: {
+									textures: [{
+										Value: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvN2VhYmFlY2M1ZmFlNWE4YTQ5Yzg4NjNmZjQ4MzFhYWEyODQxOThmMWEyMzk4ODkwYzc2NWUwYThkZTE4ZGE4YyJ9fX0="
+									}]
+								}
+							}
+							display: {
+								Name: "{\"text\":\"Zombified Piglin Head\"}"
+							}
+						}
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				entity: "minecraft:zombified_piglin"
+				id: "31CF7068D98D318D"
+				type: "kill"
+				value: 3L
+			}]
+			x: 3.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["78CCFD84A15ABB49"]
+			hide: true
+			id: "6E3E7D1899BA56F6"
+			rewards: [{
+				id: "1D0588A84B7C1468"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
+			size: 1.5d
+			tasks: [{
+				biome: "minecraft:basalt_deltas"
+				icon: "minecraft:basalt"
+				id: "3901388F2F4F1F38"
+				type: "biome"
+			}]
+			title: "打卡!"
+			x: -2.25d
+			y: 1.5d
+		}
+		{
+			dependencies: ["78CCFD84A15ABB49"]
+			hide: true
+			id: "311A108A215316E5"
+			rewards: [{
+				id: "6F4F1F3ED803ADA9"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
+			size: 1.5d
+			tasks: [{
+				icon: "minecraft:blackstone"
+				id: "6BD310A048094014"
+				structure: "minecraft:bastion_remnant"
+				type: "structure"
+			}]
+			title: "猪灵堡垒"
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["78CCFD84A15ABB49"]
+			hide: true
+			id: "5C1DA5727B7EE2B9"
+			rewards: [{
+				id: "3671046230368924"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "1C8670B28744106B"
+				item: "minecraft:blaze_rod"
+				type: "item"
+			}]
+			x: 0.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["78CCFD84A15ABB49"]
+			hide: true
+			id: "2FD7688860F3883B"
+			rewards: [{
+				id: "34646EA776AB60FF"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "4485DD22865E36DA"
+				item: "minecraft:magma_cream"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["78CCFD84A15ABB49"]
+			hide: true
+			id: "25304825D5BA32BD"
+			rewards: [{
+				id: "24593408D8E73C88"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "5E027B24479F6D64"
+				item: "minecraft:ghast_tear"
+				type: "item"
+			}]
+			x: -4.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["78CCFD84A15ABB49"]
+			hide: true
+			id: "301B9BCC2AD81C74"
+			rewards: [{
+				id: "248A7BBBD02E4B03"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "0D397FBE95B00E76"
+				item: "minecraft:ender_pearl"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["78CCFD84A15ABB49"]
+			hide: true
+			id: "501A2BA2D70C149E"
+			rewards: [{
+				id: "3C68B7BA9DB1A12C"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "20B38A2DC91A5E2D"
+				item: "minecraft:netherite_upgrade_smithing_template"
+				type: "item"
+			}]
+			x: -1.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["78CCFD84A15ABB49"]
+			hide: true
+			id: "02E7EF3367B258E5"
+			rewards: [{
+				id: "4DFE698FE4D37FAC"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "2CCF42C6DE96017F"
+				item: "mythicmetals:stormyx_shell"
+				type: "item"
+			}]
+			x: 1.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["78CCFD84A15ABB49"]
+			hide: true
+			id: "3D11E30FFAD66A04"
+			rewards: [{
+				id: "4BD31F1836FAE18D"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "16706DAD381105D2"
+				item: "minecraft:glowstone_dust"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["78CCFD84A15ABB49"]
+			hide: true
+			icon: "bosses_of_mass_destruction:blazing_eye"
+			id: "40C6BF2B7A9C60F1"
+			shape: "gear"
+			size: 2.0d
+			tasks: [{
+				entity: "bosses_of_mass_destruction:gauntlet"
+				id: "4667B0F23454268F"
+				type: "kill"
+				value: 1L
+			}]
+			x: 4.0d
+			y: -5.0d
+		}
+		{
+			dependencies: ["78CCFD84A15ABB49"]
+			hide: true
+			icon: "minecraft:nether_star"
+			id: "154DB2DC3E3026E5"
+			shape: "gear"
+			size: 2.0d
+			tasks: [{
+				entity: "minecraft:wither"
+				id: "1A426E0DA8D2396F"
+				type: "kill"
+				value: 1L
+			}]
+			x: -4.0d
+			y: -5.0d
+		}
+		{
+			dependencies: ["78CCFD84A15ABB49"]
+			hide: true
+			icon: {
+				Count: 1b
+				id: "adventurez:blackstone_golem_heart"
+				tag: { }
+			}
+			id: "4509A9E74F396C00"
+			shape: "gear"
+			size: 2.0d
+			tasks: [{
+				entity: "adventurez:stone_golem"
+				id: "52D393C4D61459E0"
+				type: "kill"
+				value: 1L
+			}]
+			x: -4.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["78CCFD84A15ABB49"]
+			hide: true
+			icon: {
+				Count: 1b
+				id: "soulsweapons:darkin_blade"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "6451DE7E82516D8E"
+			shape: "gear"
+			size: 2.0d
+			tasks: [{
+				entity: "soulsweapons:accursed_lord_boss"
+				id: "021CAB18CC663590"
+				type: "kill"
+				value: 1L
+			}]
+			x: 4.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["154DB2DC3E3026E5"]
+			icon: {
+				Count: 1b
+				id: "soulsweapons:chaos_crown"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "26C8E1274FDBBCB0"
+			shape: "gear"
+			size: 2.5d
+			tasks: [{
+				entity: "soulsweapons:chaos_monarch"
+				id: "596796F78D0DE646"
+				type: "kill"
+				value: 1L
+			}]
+			x: 0.0d
+			y: -7.5d
+		}
+		{
+			dependencies: ["6451DE7E82516D8E"]
+			icon: "graveyard:upper_bone_staff"
+			id: "2BE12711F2344E4C"
+			shape: "gear"
+			size: 2.5d
+			tasks: [{
+				entity: "graveyard:lich"
+				id: "0A753CDA442BDA94"
+				type: "kill"
+				value: 1L
+			}]
+			x: 0.0d
+			y: 7.5d
+		}
+		{
+			dependencies: ["4509A9E74F396C00"]
+			description: ["使用混沌宝珠召唤。"]
+			icon: {
+				Count: 1b
+				id: "soulsweapons:soul_reaper"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "743A164FDBE5A468"
+			shape: "gear"
+			size: 2.0d
+			tasks: [{
+				entity: "soulsweapons:day_stalker"
+				id: "5F2FA91613789092"
+				type: "kill"
+				value: 1L
+			}]
+			x: -7.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["40C6BF2B7A9C60F1"]
+			description: ["使用混沌宝珠召唤。"]
+			icon: {
+				Count: 1b
+				id: "soulsweapons:forlorn_scythe"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "418AA51A09F1B996"
+			shape: "gear"
+			size: 2.0d
+			tasks: [{
+				entity: "soulsweapons:night_prowler"
+				id: "5D12BCD8F41AA14D"
+				type: "kill"
+				value: 1L
+			}]
+			x: 7.0d
+			y: 0.0d
+		}
+	]
+	title: "地狱"
+}

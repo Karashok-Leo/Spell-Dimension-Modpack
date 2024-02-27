@@ -1,0 +1,286 @@
+{
+	autofocus_id: "6074203D526E4AE6"
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "immersive_aircraft"
+	group: "7DB71F008F582E22"
+	icon: {
+		Count: 1b
+		id: "immersive_aircraft:biplane"
+		tag: { }
+	}
+	id: "1174119BB3B58F0A"
+	order_index: 6
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["6074203D526E4AE6"]
+			id: "4DD638D93FCCF0BC"
+			rewards: [{
+				count: 8
+				id: "62FA638B88CB8C17"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			size: 1.5d
+			tasks: [{
+				id: "3061006656B5930C"
+				item: "immersive_aircraft:airship"
+				type: "item"
+			}]
+			x: -0.75d
+			y: 2.75d
+		}
+		{
+			dependencies: ["6074203D526E4AE6"]
+			id: "22FA530BEECAC57F"
+			rewards: [{
+				count: 8
+				id: "417D78C9274B204C"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			size: 1.5d
+			tasks: [{
+				id: "2B09E38BF92D2B67"
+				item: "immersive_aircraft:cargo_airship"
+				type: "item"
+			}]
+			x: 0.75d
+			y: 2.75d
+		}
+		{
+			dependencies: ["6074203D526E4AE6"]
+			id: "481EADD40D9EA824"
+			rewards: [{
+				count: 8
+				id: "2D3927EB28E58428"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			size: 1.5d
+			tasks: [{
+				id: "5942267320467601"
+				item: "immersive_aircraft:biplane"
+				type: "item"
+			}]
+			x: -2.25d
+			y: -1.0d
+		}
+		{
+			dependencies: ["6074203D526E4AE6"]
+			id: "0D9E0F8EFC5E4FDD"
+			rewards: [{
+				count: 8
+				id: "17F2D11A21312D8F"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			size: 1.5d
+			tasks: [{
+				id: "272F9BE51148EFFF"
+				item: "immersive_aircraft:gyrodyne"
+				type: "item"
+			}]
+			x: 0.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["6074203D526E4AE6"]
+			id: "79F4D8E675D9A7D5"
+			rewards: [{
+				count: 8
+				id: "6C304B68D6B89569"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			size: 1.5d
+			tasks: [{
+				id: "792DC122386325AF"
+				item: "immersive_aircraft:quadrocopter"
+				type: "item"
+			}]
+			x: 2.25d
+			y: -1.0d
+		}
+		{
+			dependencies: ["6074203D526E4AE6"]
+			id: "25080AAE0E3A30A1"
+			rewards: [{
+				count: 8
+				id: "1B3C9DA002966656"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "0BED1CA267B71D0F"
+				item: "immersive_aircraft:enhanced_propeller"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["6074203D526E4AE6"]
+			id: "7F94301DAC64968E"
+			rewards: [{
+				count: 8
+				id: "757D42CD52E5B2A1"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "25A97BB30360ECAB"
+				item: "immersive_aircraft:eco_engine"
+				type: "item"
+			}]
+			x: -1.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["6074203D526E4AE6"]
+			id: "528F50399AC5EF55"
+			rewards: [{
+				count: 8
+				id: "13FB26C2FDABC593"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "147EF8E39BD5FD11"
+				item: "immersive_aircraft:nether_engine"
+				type: "item"
+			}]
+			x: 1.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["6074203D526E4AE6"]
+			id: "4214DC21F797056A"
+			rewards: [{
+				count: 8
+				id: "3682FD49CA2E829A"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "491946AF6F6936E8"
+				item: "immersive_aircraft:steel_boiler"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["6074203D526E4AE6"]
+			id: "7BF5D7AFF9DBBA40"
+			rewards: [{
+				count: 8
+				id: "44AABEC47F7FB274"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "74ABA383D9E54634"
+				item: "immersive_aircraft:industrial_gears"
+				type: "item"
+			}]
+			x: -3.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["6074203D526E4AE6"]
+			id: "75DE7A4973B5F8B4"
+			rewards: [{
+				count: 8
+				id: "589A8B0A89B31541"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "1F5CB8F178CFC875"
+				item: "immersive_aircraft:sturdy_pipes"
+				type: "item"
+			}]
+			x: -3.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["6074203D526E4AE6"]
+			id: "610FE4DF4F1233A9"
+			rewards: [{
+				count: 8
+				id: "480B1DF2D4B44B12"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "7431FA7F44C73C31"
+				item: "immersive_aircraft:gyroscope"
+				type: "item"
+			}]
+			x: -1.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["6074203D526E4AE6"]
+			id: "5AF77A8B514AB495"
+			rewards: [{
+				count: 8
+				id: "16C265B9F0C321AC"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "17CE5C834F422B2B"
+				item: "immersive_aircraft:hull_reinforcement"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["6074203D526E4AE6"]
+			id: "6D710181A4FEA9FB"
+			rewards: [{
+				count: 8
+				id: "6FF025C226B63428"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "762535B3564F6FE8"
+				item: "immersive_aircraft:improved_landing_gear"
+				type: "item"
+			}]
+			x: 3.5d
+			y: 0.0d
+		}
+		{
+			description: [
+				"在飞机上时"
+				""
+				"按E键打开飞机界面"
+				"在此界面可装配升级"
+				""
+				"按R键离开飞机"
+			]
+			id: "6074203D526E4AE6"
+			rewards: [{
+				count: 8
+				id: "6FEF93C2A9A44AF6"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			size: 1.2d
+			tasks: [{
+				id: "7AA5D843A7635DE3"
+				title: "飞行员须知"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+	]
+	title: "Immersive Aircraft"
+}

@@ -1,0 +1,76 @@
+{
+  "processors": [
+    {
+      "processor_type": "minecraft:rule",
+      "rules": [
+        {
+          "location_predicate": {
+            "predicate_type": "minecraft:random_block_match",
+            "block": "minecraft:red_mushroom_block",
+            "probability": 0.8
+          },
+          "input_predicate": {
+            "predicate_type": "minecraft:always_true"
+          },
+          "output_state": {
+            "Name": "minecraft:brown_mushroom_block",
+            "Properties": {
+              "down": "true",
+              "east": "true",
+              "north": "true",
+              "south": "true",
+              "up": "true",
+              "west": "true"
+            }
+          }
+        },
+        {
+          "location_predicate": {
+            "predicate_type": "minecraft:random_block_match",
+            "block": "minecraft:brown_mushroom_block",
+            "probability": 0.8
+          },
+          "input_predicate": {
+            "predicate_type": "minecraft:always_true"
+          },
+          "output_state": {
+            "Name": "minecraft:red_mushroom_block",
+            "Properties": {
+              "down": "true",
+              "east": "true",
+              "north": "true",
+              "south": "true",
+              "up": "true",
+              "west": "true"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "processor_type": "minecraft:rule",
+      "rules": [
+        {
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          },
+          "input_predicate": {
+            "predicate_type": "minecraft:block_match",
+            "block": "minecraft:light_gray_wool"
+          },
+          "output_state": {
+            "Name": "minecraft:mushroom_stem",
+            "Properties": {
+              "down": "false",
+              "east": "false",
+              "north": "false",
+              "south": "false",
+              "up": "false",
+              "west": "false"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "school": "PHYSICAL_MELEE",
+  "range": 4,
+  "cast": {
+    "duration": 8,
+    "animation": "spellbladenext:spin",
+    "channel_ticks": 8,
+    "sound": {
+      "id": "spell_engine:generic_fire_casting",
+      "randomness": 0
+    },
+    "particles": [
+      {
+        "particle_id": "firework",
+        "shape": "CIRCLE",
+        "origin": "CENTER",
+        "count": 5.0,
+        "min_speed": 0.05,
+        "max_speed": 0.35
+      }
+    ]
+  },
+  "release": {
+    "target": {
+      "type": "AREA",
+      "area": {
+        "vertical_range_multiplier": 0.5
+      }
+    }
+  },
+  "impact": [
+    {
+      "action": {
+        "school": "PHYSICAL_MELEE",
+        "type": "DAMAGE",
+        "damage": {
+          "knockback": 0.25,
+          "spell_power_coefficient": 1.0
+        }
+      },
+      "particles": [
+        {
+          "particle_id": "sweep_attack",
+          "shape": "SPHERE",
+          "origin": "CENTER",
+          "count": 1
+        }
+      ],
+      "sound": {
+        "id": "minecraft:entity.player.attack.sweep"
+      }
+    }
+  ],
+  "cost": {
+    "cooldown_duration": 8,
+    "cooldown_proportional": true
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "armorSetName": "celestium_armor",
+  "performanceMode": true,
+  "head": {
+    "itemKey": "mythicmetals:celestium_helmet"
+  },
+  "chest": {
+    "itemKey": "mythicmetals:celestium_chestplate"
+  },
+  "legs": {
+    "itemKey": "mythicmetals:celestium_leggings"
+  },
+  "boots": {
+    "itemKey": "mythicmetals:celestium_boots"
+  },
+  "fullSetBonuses": [
+    {
+      "type": "attribute",
+      "name": "minecraft:generic.attack_damage",
+      "value": 1.6,
+      "modifierUUID": "893f7062-650c-41e2-9f90-4263e95653bc",
+      "attributeOperation": 1,
+      "interactionType": "self"
+    },
+    {
+      "type": "attribute",
+      "name": "minecraft:generic.armor",
+      "value": 14.0,
+      "modifierUUID": "59d96520-e56a-44ad-a515-ba5cfba53458",
+      "attributeOperation": 0,
+      "interactionType": "self"
+    }
+  ]
+}

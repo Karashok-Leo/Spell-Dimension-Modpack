@@ -1,0 +1,40 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "ABC",
+        "DEF",
+        "GHI"
+    ],
+    "key": {
+        "A": {
+            "item": "bosses_of_mass_destruction:void_thorn"
+        },
+        "B": {
+            "item": "soulsweapons:chaos_crown"
+        },
+        "C": {
+            "item": "bosses_of_mass_destruction:ancient_anima"
+        },
+        "D": {
+            "item": "soulsweapons:essence_of_eventide"
+        },
+        "E": {
+            "item": "soulsweapons:arkenstone"
+        },
+        "F": {
+            "item": "soulsweapons:essence_of_luminescence"
+        },
+        "G": {
+            "item": "soulsweapons:withered_demon_heart"
+        },
+        "H": {
+            "item": "aquamirae:ship_graveyard_echo"
+        },
+        "I": {
+            "item": "adventurez:gilded_netherite_fragment"
+        }
+    },
+    "result": {
+        "item": "soulsweapons:chaos_orb"
+    }
+}

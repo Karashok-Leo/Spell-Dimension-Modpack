@@ -1,0 +1,30 @@
+{
+	"structures": [
+		{
+			"structure": "imst:farm/crimson_fungus",
+			"weight": 1
+		},
+		{
+			"structure": "imst:farm/warped_fungus",
+			"weight": 1
+		},
+		{
+			"structure": "imst:mine/crimson_mine",
+			"weight": 1
+		},
+		{
+			"structure": "imst:mine/warped_mine",
+			"weight": 1
+		},
+		{
+			"structure": "imst:mine/basalt_mine",
+			"weight": 1
+		}
+	],
+	"placement": {
+		"type": "minecraft:random_spread",
+		"salt": 369633171,
+		"spacing": 8,
+		"separation": 4
+	}
+}

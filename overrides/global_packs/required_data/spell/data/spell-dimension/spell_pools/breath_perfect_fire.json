@@ -1,0 +1,20 @@
+{
+  "creatable_as_spellbook": false,
+  "spell_ids": [
+    "spell-dimension:breath3",
+    
+    "wizards:fireball",
+    "wizards:fire_meteor",
+    "wizards:fire_scorch",
+
+    "spellbladenext:fireoverdrive",
+    "spellbladenext:flameslash",
+
+    "spellbladenext:combustion",
+    "spellbladenext:frostvert",
+
+    "spellbladenext:phoenixdive",
+    "spellbladenext:flicker_strike",
+    "spellbladenext:inferno"
+  ]
+}

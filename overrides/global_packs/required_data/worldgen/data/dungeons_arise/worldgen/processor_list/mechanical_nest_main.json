@@ -1,0 +1,124 @@
+{
+  "processors": [
+    {
+      "processor_type": "minecraft:rule",
+      "rules": [
+        {
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          },
+          "input_predicate": {
+            "predicate_type": "minecraft:random_block_match",
+            "block": "minecraft:mud_bricks",
+            "probability": 0.8
+          },
+          "output_state": {
+            "Name": "minecraft:packed_mud"
+          }
+        },
+        {
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          },
+          "input_predicate": {
+            "predicate_type": "minecraft:random_block_match",
+            "block": "minecraft:waxed_cut_copper",
+            "probability": 0.4
+          },
+          "output_state": {
+            "Name": "minecraft:waxed_exposed_cut_copper"
+          }
+        },
+        {
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          },
+          "input_predicate": {
+            "predicate_type": "minecraft:random_block_match",
+            "block": "minecraft:mud_bricks",
+            "probability": 0.2
+          },
+          "output_state": {
+            "Name": "minecraft:waxed_exposed_cut_copper"
+          }
+        },
+        {
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          },
+          "input_predicate": {
+            "predicate_type": "minecraft:random_blockstate_match",
+            "block_state": {
+              "Name": "minecraft:lantern",
+              "Properties": {
+                "hanging": "true",
+                "waterlogged": "false"
+              }
+            },
+            "probability": 0.8
+          },
+          "output_state": {
+            "Name": "minecraft:soul_lantern",
+            "Properties": {
+              "hanging": "true",
+              "waterlogged": "false"
+            }
+          }
+        },
+        {
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          },
+          "input_predicate": {
+            "predicate_type": "minecraft:random_blockstate_match",
+            "block_state": {
+              "Name": "minecraft:lantern",
+              "Properties": {
+                "hanging": "false",
+                "waterlogged": "false"
+              }
+            },
+            "probability": 0.8
+          },
+          "output_state": {
+            "Name": "minecraft:soul_lantern",
+            "Properties": {
+              "hanging": "false",
+              "waterlogged": "false"
+            }
+          }
+        },
+        {
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          },
+          "input_predicate": {
+            "predicate_type": "minecraft:random_block_match",
+            "block": "minecraft:lantern",
+            "probability": 0.8
+          },
+          "output_state": {
+            "Name": "minecraft:air"
+          }
+        }
+      ]
+    },
+    {
+      "processor_type": "minecraft:rule",
+      "rules": [
+        {
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          },
+          "input_predicate": {
+            "predicate_type": "minecraft:block_match",
+            "block": "minecraft:magenta_glazed_terracotta"
+          },
+          "output_state": {
+            "Name": "minecraft:tnt"
+          }
+        }
+      ]
+    }
+  ]
+}

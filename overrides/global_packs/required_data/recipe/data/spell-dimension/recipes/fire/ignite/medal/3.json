@@ -1,0 +1,31 @@
+{
+  "type": "spell-dimension:medal_upgrade",
+  "ingredients": [
+    [],
+    {
+      "item": "soulsweapons:lich_bane"
+    },
+    [],
+    {
+      "item": "spell-dimension:advanced_fire_essence"
+    },
+    {
+      "item": "spell-dimension:advanced_fire_essence"
+    },
+    [],
+    {
+      "item": "minecraft:nether_star"
+    },
+    []
+  ],
+  "original": {
+    "Grade": 2,
+    "Major": "IGNITE",
+    "School": "FIRE"
+  },
+  "upgraded": {
+    "Grade": 3,
+    "Major": "IGNITE",
+    "School": "FIRE"
+  }
+}

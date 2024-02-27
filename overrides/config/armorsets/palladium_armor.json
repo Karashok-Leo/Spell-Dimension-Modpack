@@ -1,0 +1,26 @@
+{
+  "armorSetName": "palladium_armor",
+  "performanceMode": true,
+  "head": {
+    "itemKey": "mythicmetals:palladium_helmet"
+  },
+  "chest": {
+    "itemKey": "mythicmetals:palladium_chestplate"
+  },
+  "legs": {
+    "itemKey": "mythicmetals:palladium_leggings"
+  },
+  "boots": {
+    "itemKey": "mythicmetals:palladium_boots"
+  },
+  "fullSetBonuses": [
+    {
+      "type": "attribute",
+      "name": "minecraft:generic.armor",
+      "value": 5.0,
+      "modifierUUID": "c2198c01-d08c-4ea7-9bb4-bbf244a4624e",
+      "attributeOperation": 0,
+      "interactionType": "self"
+    }
+  ]
+}

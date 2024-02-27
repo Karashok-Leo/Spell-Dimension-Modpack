@@ -1,0 +1,20 @@
+{
+  "type": "advancement_reward",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "item",
+          "name": "lootbags:loot_bag",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{Type: \"COMMON\",Color:-256,Loot:\"spell-dimension:start_bag\",Name:\"spell-dimension.bag.start\"}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

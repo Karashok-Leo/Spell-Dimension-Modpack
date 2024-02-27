@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "spell-dimension:primary_healing_essence"
+    },
+    "*": {
+      "item": "spell-dimension:primary_healing_spell_book"
+    },
+    "A": {
+      "item": "minecraft:glow_berries"
+    },
+    "B": {
+      "item": "minecraft:golden_apple"
+    },
+    "C": {
+      "item": "midashunger:dried_golden_kelp_block"
+    }
+  },
+  "pattern": [
+    "#A#",
+    "B*B",
+    "#C#"
+  ],
+  "result": {
+    "item": "spell-dimension:regen_secondary_healing_spell_book"
+  },
+  "show_notification": true
+}

@@ -1,0 +1,119 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "storage"
+	group: "7DB71F008F582E22"
+	icon: {
+		Count: 1b
+		id: "toms_storage:ts.wireless_terminal"
+		tag: { }
+	}
+	id: "56DCD3C50CB18AFE"
+	order_index: 4
+	quest_links: [ ]
+	quests: [
+		{
+			id: "6A9CF9EDBCBA236A"
+			rewards: [{
+				count: 8
+				id: "4BC086C1ACCE3429"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			size: 1.5d
+			tasks: [{
+				id: "379C053CBA428929"
+				item: "toms_storage:ts.inventory_connector"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 2.25d
+		}
+		{
+			id: "2478900360C2EB13"
+			rewards: [{
+				count: 8
+				id: "1F8862E53767AA67"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			size: 1.5d
+			tasks: [{
+				id: "4347DCB72AE2917D"
+				item: "toms_storage:ts.storage_terminal"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 2.25d
+		}
+		{
+			id: "52A0D5FF50545776"
+			rewards: [{
+				count: 8
+				id: "34150118F42E1E5D"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			size: 1.5d
+			tasks: [{
+				id: "3C489401A1813383"
+				item: "toms_storage:ts.crafting_terminal"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 2.25d
+		}
+		{
+			id: "591CC96CA428AE12"
+			rewards: [{
+				count: 8
+				id: "7E7BC1D614A277EE"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			size: 1.5d
+			tasks: [{
+				id: "59A37FF1496B967A"
+				item: "toms_storage:ts.trim"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 3.75d
+		}
+		{
+			id: "32A5DEA46F658871"
+			rewards: [{
+				count: 8
+				id: "49AB0DD5782310ED"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			size: 1.5d
+			tasks: [{
+				id: "680F5EA19F1E58CD"
+				item: "toms_storage:ts.wireless_terminal"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 3.75d
+		}
+		{
+			id: "432E94043838A217"
+			rewards: [{
+				count: 8
+				id: "3795AD7DF79DD26A"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			size: 1.5d
+			tasks: [{
+				id: "29FF4B1F28069FC9"
+				item: "toms_storage:ts.adv_wireless_terminal"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 3.75d
+		}
+	]
+	title: "Storage"
+}

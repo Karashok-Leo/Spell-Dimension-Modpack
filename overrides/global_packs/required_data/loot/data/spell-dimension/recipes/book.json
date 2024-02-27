@@ -1,0 +1,13 @@
+{
+    "type": "lootbags:loot",
+    "name": "spell-dimension.bag.book",
+    "color": {
+        "r": 255,
+        "g": 255,
+        "b": 0
+    },
+    "rarity": "EPIC",
+    "output": {
+        "table": "spell-dimension:bag/book"
+    }
+}

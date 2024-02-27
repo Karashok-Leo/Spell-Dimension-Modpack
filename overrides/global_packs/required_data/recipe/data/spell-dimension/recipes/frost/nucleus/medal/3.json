@@ -1,0 +1,31 @@
+{
+  "type": "spell-dimension:medal_upgrade",
+  "ingredients": [
+    [],
+    {
+      "item": "spellbladenext:frost_orb"
+    },
+    [],
+    {
+      "item": "spell-dimension:advanced_frost_essence"
+    },
+    {
+      "item": "spell-dimension:advanced_frost_essence"
+    },
+    [],
+    {
+      "item": "aquamirae:rune_of_the_storm"
+    },
+    []
+  ],
+  "original": {
+    "Grade": 2,
+    "Major": "NUCLEUS",
+    "School": "FROST"
+  },
+  "upgraded": {
+    "Grade": 3,
+    "Major": "NUCLEUS",
+    "School": "FROST"
+  }
+}

@@ -1,0 +1,1142 @@
+{
+	autofocus_id: "5BF3A8CFCEB6F338"
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "kibe"
+	group: "7DB71F008F582E22"
+	icon: {
+		Count: 1b
+		id: "kibe:golden_kibe"
+		tag: { }
+	}
+	id: "497FED1F25AF73DE"
+	order_index: 5
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["5BF3A8CFCEB6F338"]
+			id: "6639FE0C22A34F59"
+			rewards: [{
+				count: 8
+				id: "54653C3B70F59270"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "2388DFF9D105C777"
+				item: {
+					Count: 1b
+					id: "kibe:cursed_lasso"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: -1.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["5BF3A8CFCEB6F338"]
+			id: "607C365663C335D4"
+			rewards: [{
+				count: 8
+				id: "6088F9F93C91F6F3"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "69D011920A523200"
+				item: {
+					Count: 1b
+					id: "kibe:golden_lasso"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["5BF3A8CFCEB6F338"]
+			id: "3DE1FC9B8554B4B5"
+			rewards: [{
+				count: 8
+				id: "4B2B242099C012A9"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "087997E6A60CBB9F"
+				item: {
+					Count: 1b
+					id: "kibe:diamond_lasso"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 1.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["5BF3A8CFCEB6F338"]
+			id: "15A639C667AF484F"
+			rewards: [{
+				count: 8
+				id: "5B36EB679C0C502F"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "4E64EA8A98303D1D"
+				item: "kibe:entangled_chest"
+				type: "item"
+			}]
+			x: -1.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["5BF3A8CFCEB6F338"]
+			id: "6E6A3363352D28E0"
+			rewards: [{
+				count: 8
+				id: "6214F9BE69621E66"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "56C76AE913444C97"
+				item: "kibe:entangled_bag"
+				type: "item"
+			}]
+			x: -0.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["5BF3A8CFCEB6F338"]
+			id: "1C96A40FABBD0012"
+			rewards: [{
+				count: 8
+				id: "720679B696871363"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "74EB36B20AC92F0E"
+				item: "kibe:entangled_tank"
+				type: "item"
+			}]
+			x: 0.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["5BF3A8CFCEB6F338"]
+			id: "7030EBC37A913392"
+			rewards: [{
+				count: 8
+				id: "7C0CCAAC83AEC921"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "3625907E79222FC7"
+				item: "kibe:entangled_bucket"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["5BF3A8CFCEB6F338"]
+			id: "233B7B35B627080E"
+			rewards: [{
+				count: 8
+				id: "4DE96F72B7CB674F"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "60D7A6C9A3E0A45F"
+				item: "kibe:fluid_hopper"
+				type: "item"
+			}]
+			x: -1.0d
+			y: 11.5d
+		}
+		{
+			dependencies: ["5BF3A8CFCEB6F338"]
+			id: "4DDC6C6152D10696"
+			rewards: [{
+				count: 8
+				id: "1A6328C8ACE3DFBB"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "71D985FC548F6177"
+				item: "kibe:obsidian_sand"
+				type: "item"
+			}]
+			x: -2.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["5BF3A8CFCEB6F338"]
+			id: "789E54C42E84BE64"
+			rewards: [{
+				count: 8
+				id: "13186B50C302AA05"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "2CAEB53EE6D72C64"
+				item: "kibe:wither_proof_block"
+				type: "item"
+			}]
+			x: -1.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["5BF3A8CFCEB6F338"]
+			id: "48248CCA10A37106"
+			rewards: [{
+				count: 8
+				id: "005E365AC054EE18"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "10F5BADDC356E467"
+				item: "kibe:wither_proof_sand"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["5BF3A8CFCEB6F338"]
+			id: "088D4245CF31E6EC"
+			rewards: [{
+				count: 8
+				id: "085657496C4311BD"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "44CFABEF756711D5"
+				item: "kibe:wither_proof_glass"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["5BF3A8CFCEB6F338"]
+			id: "620481478611CDA2"
+			rewards: [{
+				count: 8
+				id: "44A2DB7265FD87BD"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "4E4874334326BFF4"
+				item: "kibe:wither_builder"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["5BF3A8CFCEB6F338"]
+			id: "65C4CDCE380A2DAF"
+			rewards: [{
+				count: 8
+				id: "4AAEE0B546059704"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "4B953E952D425A16"
+				item: "kibe:placer"
+				type: "item"
+			}]
+			x: -1.5d
+			y: 6.5d
+		}
+		{
+			dependencies: ["5BF3A8CFCEB6F338"]
+			id: "15F4482C135328B3"
+			rewards: [{
+				count: 8
+				id: "6BE3DA38A1360293"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "15ABC37453D2EA1A"
+				item: "kibe:breaker"
+				type: "item"
+			}]
+			x: -0.5d
+			y: 6.5d
+		}
+		{
+			dependencies: ["5BF3A8CFCEB6F338"]
+			id: "2BAD066EEB22796D"
+			rewards: [{
+				count: 8
+				id: "71ABB266C01D78B6"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "0FB195BAAD291147"
+				item: "kibe:igniter"
+				type: "item"
+			}]
+			x: 0.5d
+			y: 6.5d
+		}
+		{
+			dependencies: ["5BF3A8CFCEB6F338"]
+			id: "6912406F66F9E40D"
+			rewards: [{
+				count: 8
+				id: "596BA22FE6B012EE"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "59F358AAB7FFAFFA"
+				item: "kibe:drawbridge"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 6.5d
+		}
+		{
+			dependencies: ["5BF3A8CFCEB6F338"]
+			id: "50FB9CC4676A0E18"
+			rewards: [{
+				count: 8
+				id: "1A252AA5F02FC642"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "05A3C4F169DE76F8"
+				item: "kibe:pocket_trash_can"
+				type: "item"
+			}]
+			x: -0.5d
+			y: 13.5d
+		}
+		{
+			dependencies: ["5BF3A8CFCEB6F338"]
+			id: "4E20748B031070E8"
+			rewards: [{
+				count: 8
+				id: "3B953C89E5DF2AD4"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "1FE87D5C833C6BB3"
+				item: "kibe:pocket_crafting_table"
+				type: "item"
+			}]
+			x: -1.5d
+			y: 13.5d
+		}
+		{
+			dependencies: ["5BF3A8CFCEB6F338"]
+			id: "1CCD0F6A285D7F57"
+			rewards: [{
+				count: 8
+				id: "61EFD4A1CDCFBE6F"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "4E873CE8677FE13D"
+				item: "kibe:redstone_timer"
+				type: "item"
+			}]
+			x: -2.0d
+			y: 7.5d
+		}
+		{
+			dependencies: ["5BF3A8CFCEB6F338"]
+			id: "3DE11BD00AAAF2B7"
+			rewards: [{
+				count: 8
+				id: "62F3C937416DFC4A"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "2A1A7AA5FABDA7A2"
+				item: "kibe:trash_can"
+				type: "item"
+			}]
+			x: -1.0d
+			y: 7.5d
+		}
+		{
+			dependencies: ["5BF3A8CFCEB6F338"]
+			id: "5006E7814D357304"
+			rewards: [{
+				count: 8
+				id: "3187C4EA92176BD9"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "0173B7ABA3776365"
+				item: "kibe:vacuum_hopper"
+				type: "item"
+			}]
+			x: -2.0d
+			y: 11.5d
+		}
+		{
+			dependencies: ["5BF3A8CFCEB6F338"]
+			id: "72F8E3AF67F3F1A4"
+			rewards: [{
+				count: 8
+				id: "411DA315145A9801"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "3C0CDC62C414A60C"
+				item: "kibe:xp_shower"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 11.5d
+		}
+		{
+			dependencies: ["5BF3A8CFCEB6F338"]
+			id: "42EAFAD132C4CC51"
+			rewards: [{
+				count: 8
+				id: "441F4CD449004B2E"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "684684B9C1038254"
+				item: "kibe:xp_drain"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 11.5d
+		}
+		{
+			dependencies: ["5BF3A8CFCEB6F338"]
+			id: "652B9F6546A024B2"
+			rewards: [{
+				count: 8
+				id: "424255F92CD5029C"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "20F9DE745CAB83D7"
+				item: {
+					Count: 1b
+					id: "kibe:magnet"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: -1.5d
+			y: 15.5d
+		}
+		{
+			dependencies: ["5BF3A8CFCEB6F338"]
+			id: "07AC03E295D2ECE8"
+			rewards: [{
+				count: 8
+				id: "38A523C11A85542B"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "35F33983D2CC90AD"
+				item: {
+					Count: 1b
+					id: "kibe:angel_ring"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: -1.5d
+			y: 16.5d
+		}
+		{
+			dependencies: ["5BF3A8CFCEB6F338"]
+			id: "5A31B625FA355D04"
+			rewards: [{
+				count: 8
+				id: "1DAF66C98D987E9D"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "77DA611216A5F193"
+				item: {
+					Count: 1b
+					id: "kibe:magma_ring"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: -0.5d
+			y: 16.5d
+		}
+		{
+			dependencies: ["5BF3A8CFCEB6F338"]
+			id: "03BA7FF804DC9CB8"
+			rewards: [{
+				count: 8
+				id: "7E179297E95E61F1"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "68C167A87948724E"
+				item: {
+					Count: 1b
+					id: "kibe:water_ring"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 0.5d
+			y: 16.5d
+		}
+		{
+			dependencies: ["5BF3A8CFCEB6F338"]
+			id: "2A35F20A9FC5806E"
+			rewards: [{
+				count: 8
+				id: "725651B1F6BD0DA2"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "68070EEB96E11171"
+				item: "kibe:light_ring"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 16.5d
+		}
+		{
+			dependencies: ["5BF3A8CFCEB6F338"]
+			id: "276C1F0F6C8F67C7"
+			rewards: [{
+				count: 8
+				id: "10FC345067D90299"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "01EA2AE87B5F4E33"
+				item: {
+					Count: 1b
+					id: "kibe:white_glider"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 0.5d
+			y: 13.5d
+		}
+		{
+			dependencies: ["5BF3A8CFCEB6F338"]
+			id: "5708B4F3B70EA013"
+			rewards: [{
+				count: 8
+				id: "582EC705857DD973"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "37E7008D8BFA4794"
+				item: "kibe:void_bucket"
+				type: "item"
+			}]
+			x: -0.5d
+			y: 14.5d
+		}
+		{
+			dependencies: ["5BF3A8CFCEB6F338"]
+			id: "7A5D983DBBF4DBFA"
+			rewards: [{
+				count: 8
+				id: "43A2E944FD54F2EA"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "198F4BDF720BEE37"
+				item: "kibe:wooden_bucket"
+				type: "item"
+			}]
+			x: -1.5d
+			y: 14.5d
+		}
+		{
+			dependencies: ["5BF3A8CFCEB6F338"]
+			id: "6FC11175E15467D2"
+			rewards: [{
+				count: 8
+				id: "258BD020CC1F6314"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "7EED86159E5D0A1D"
+				item: {
+					Count: 1b
+					id: "kibe:slime_boots"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 0.5d
+			y: 14.5d
+		}
+		{
+			dependencies: ["5BF3A8CFCEB6F338"]
+			id: "31E61B68FEDE1074"
+			rewards: [{
+				count: 8
+				id: "6A62C9AF05D67135"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "6F78C12904017CF2"
+				item: "kibe:slime_sling"
+				type: "item"
+			}]
+			x: 0.5d
+			y: 15.5d
+		}
+		{
+			dependencies: ["5BF3A8CFCEB6F338"]
+			id: "3E74E81CEACAAE00"
+			rewards: [{
+				count: 8
+				id: "4164C092F8B41EFF"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "323F4315F9351D7C"
+				item: "kibe:torch_sling"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 15.5d
+		}
+		{
+			dependencies: ["5BF3A8CFCEB6F338"]
+			id: "365689477D7981C9"
+			rewards: [{
+				count: 8
+				id: "6E4B7C9F8E7E78F2"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "1EB1EA355E4D9FCC"
+				item: {
+					Count: 1b
+					id: "kibe:escape_rope"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 1.5d
+			y: 14.5d
+		}
+		{
+			dependencies: ["5BF3A8CFCEB6F338"]
+			id: "4AD09C6DC937E299"
+			rewards: [{
+				count: 8
+				id: "377CDAB7333ED2A6"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "11ED3C17864BF790"
+				item: {
+					Count: 1b
+					id: "kibe:cooler"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 1.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["5BF3A8CFCEB6F338"]
+			id: "5101D21A7383668A"
+			rewards: [{
+				count: 8
+				id: "523262FDDE56272E"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "70E866B7E73A8D89"
+				item: "kibe:big_torch"
+				type: "item"
+			}]
+			x: -1.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["5BF3A8CFCEB6F338"]
+			id: "5409FA5C9A9E747E"
+			rewards: [{
+				count: 8
+				id: "586881579E5851BD"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "28E4BE959C795564"
+				item: "kibe:heater"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 7.5d
+		}
+		{
+			dependencies: ["5BF3A8CFCEB6F338"]
+			id: "10C71B9D686B348A"
+			rewards: [{
+				count: 8
+				id: "369C4DEF505C0977"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "41B3ED8C87448451"
+				item: "kibe:dehumidifier"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 7.5d
+		}
+		{
+			dependencies: ["5BF3A8CFCEB6F338"]
+			description: [
+				"你不必制作它。"
+				""
+				"因为你可以直接按M键打开世界地图选择一个区块右键认领并强加载。"
+			]
+			id: "68D928D78552FDD7"
+			rewards: [{
+				count: 8
+				id: "05BF50C340B673FD"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "51A2B83DBBEB7613"
+				item: "kibe:chunk_loader"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 7.5d
+		}
+		{
+			dependencies: ["5BF3A8CFCEB6F338"]
+			id: "02044BF8E260F99C"
+			rewards: [{
+				count: 8
+				id: "70768865FBB0E392"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "299171063C19343F"
+				item: "kibe:stone_spikes"
+				type: "item"
+			}]
+			x: -1.5d
+			y: 10.5d
+		}
+		{
+			dependencies: ["5BF3A8CFCEB6F338"]
+			id: "3517DBF625791F7C"
+			rewards: [{
+				count: 8
+				id: "6464188CFF7539B8"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "10780EA125EA8237"
+				item: "kibe:iron_spikes"
+				type: "item"
+			}]
+			x: -0.5d
+			y: 10.5d
+		}
+		{
+			dependencies: ["5BF3A8CFCEB6F338"]
+			id: "0A41258B7C36E904"
+			rewards: [{
+				count: 8
+				id: "551B1D65DB4F0AEB"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "254545858B5633DB"
+				item: "kibe:gold_spikes"
+				type: "item"
+			}]
+			x: 0.5d
+			y: 10.5d
+		}
+		{
+			dependencies: ["5BF3A8CFCEB6F338"]
+			id: "1593AD7D80F3E68E"
+			rewards: [{
+				count: 8
+				id: "74B05830A5831CD8"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "24ABEE5E1BFA3FE8"
+				item: "kibe:diamond_spikes"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 10.5d
+		}
+		{
+			dependencies: ["5BF3A8CFCEB6F338"]
+			id: "42BA39D750AC591E"
+			rewards: [{
+				count: 8
+				id: "728372731393F811"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "216A226C733BB8FF"
+				item: "kibe:measuring_tape"
+				type: "item"
+			}]
+			x: -0.5d
+			y: 15.5d
+		}
+		{
+			dependencies: ["5BF3A8CFCEB6F338"]
+			id: "66A2672C1FE869B9"
+			rewards: [{
+				count: 8
+				id: "6EF27A65B693B664"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "43A9900337BCBE67"
+				item: "kibe:white_sleeping_bag"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 13.5d
+		}
+		{
+			dependencies: ["5BF3A8CFCEB6F338"]
+			id: "48731267E80C0F4D"
+			rewards: [{
+				count: 8
+				id: "427C3B930B521102"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "547BEA57BA083560"
+				item: "kibe:cobblestone_generator_mk1"
+				type: "item"
+			}]
+			x: -2.0d
+			y: 18.5d
+		}
+		{
+			dependencies: ["5BF3A8CFCEB6F338"]
+			id: "30F44685B0681A4A"
+			rewards: [{
+				count: 8
+				id: "157136C0BE3D85C0"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "131F4406C30817B2"
+				item: "kibe:cobblestone_generator_mk2"
+				type: "item"
+			}]
+			x: -1.0d
+			y: 18.5d
+		}
+		{
+			dependencies: ["5BF3A8CFCEB6F338"]
+			id: "44A0AC0D09F0BB6F"
+			rewards: [{
+				count: 8
+				id: "5543A7D36E08C410"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "5FF9F3DDF5D80F04"
+				item: "kibe:cobblestone_generator_mk3"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 18.5d
+		}
+		{
+			dependencies: ["5BF3A8CFCEB6F338"]
+			id: "69C0D71D3541F2C6"
+			rewards: [{
+				count: 8
+				id: "23CE09D8ECF7A986"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "76149550EFDFA83B"
+				item: "kibe:cobblestone_generator_mk4"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 18.5d
+		}
+		{
+			dependencies: ["5BF3A8CFCEB6F338"]
+			id: "053D6A0A9AECF1D2"
+			rewards: [{
+				count: 8
+				id: "66F7329C2B3DD646"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "3D2DED1BBEE1F353"
+				item: "kibe:cobblestone_generator_mk5"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 18.5d
+		}
+		{
+			dependencies: ["5BF3A8CFCEB6F338"]
+			id: "299C0084F807EA3A"
+			rewards: [{
+				count: 8
+				id: "3780A8FCB5AF2568"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "356844FEA90542E0"
+				item: "kibe:basalt_generator_mk1"
+				type: "item"
+			}]
+			x: -2.0d
+			y: 19.5d
+		}
+		{
+			dependencies: ["5BF3A8CFCEB6F338"]
+			id: "20EA257FA0D324A6"
+			rewards: [{
+				count: 8
+				id: "254D5BEE21DC41A7"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "663DCEB368F5829E"
+				item: "kibe:basalt_generator_mk2"
+				type: "item"
+			}]
+			x: -1.0d
+			y: 19.5d
+		}
+		{
+			dependencies: ["5BF3A8CFCEB6F338"]
+			id: "5635FF5E8EC77BEC"
+			rewards: [{
+				count: 8
+				id: "2B9DFB0627E67BEE"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "5903ADA3B326FA7E"
+				item: "kibe:basalt_generator_mk3"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 19.5d
+		}
+		{
+			dependencies: ["5BF3A8CFCEB6F338"]
+			id: "62BBB0EC3F1E975B"
+			rewards: [{
+				count: 8
+				id: "656ACE30106A2121"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "74B17049DF27CACE"
+				item: "kibe:basalt_generator_mk4"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 19.5d
+		}
+		{
+			dependencies: ["5BF3A8CFCEB6F338"]
+			id: "6B606DEBD85D8C3B"
+			rewards: [{
+				count: 8
+				id: "6F3EF223EDD04619"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "4AAE8BA27743447C"
+				item: "kibe:basalt_generator_mk5"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 19.5d
+		}
+		{
+			dependencies: ["5BF3A8CFCEB6F338"]
+			id: "28E5029A70EFF32E"
+			rewards: [{
+				count: 8
+				id: "6DE09523F5A0FB41"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "7F5A8679C1C8BE6E"
+				item: "kibe:regular_conveyor_belt"
+				type: "item"
+			}]
+			x: -1.0d
+			y: 9.5d
+		}
+		{
+			dependencies: ["5BF3A8CFCEB6F338"]
+			id: "3A8CC749DFA9AF38"
+			rewards: [{
+				count: 8
+				id: "5B24C2CE22C61E20"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "7A41818C97115646"
+				item: "kibe:fast_conveyor_belt"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 9.5d
+		}
+		{
+			dependencies: ["5BF3A8CFCEB6F338"]
+			id: "78F197FEAF3DBEF7"
+			rewards: [{
+				count: 8
+				id: "36EF5458714A4B03"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "00B9C2154F4021EF"
+				item: "kibe:express_conveyor_belt"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 9.5d
+		}
+		{
+			dependencies: ["5BF3A8CFCEB6F338"]
+			id: "51BFB6A0661EBD3D"
+			rewards: [{
+				count: 8
+				id: "040A13098DCFC890"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "35A77FAD62E22CC1"
+				item: "kibe:white_elevator"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["5BF3A8CFCEB6F338"]
+			id: "14FC4BB50965AAEA"
+			rewards: [{
+				count: 8
+				id: "591BFB7877BA9439"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "76D6F31CE87838C7"
+				item: {
+					Count: 1b
+					id: "kibe:tank"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 2.0d
+			y: 11.5d
+		}
+		{
+			hide_dependent_lines: true
+			id: "5BF3A8CFCEB6F338"
+			tasks: [{
+				id: "047A32A2CEBB3796"
+				title: "C"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+	]
+	title: "Kibe"
+}

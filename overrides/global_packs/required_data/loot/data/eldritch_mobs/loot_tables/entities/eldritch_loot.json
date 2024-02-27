@@ -1,0 +1,17 @@
+{
+  "pools": [
+    {
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "name": "spell-dimension:pool/legendary"
+        }
+      ],
+      "rolls": {
+        "type": "minecraft:uniform",
+        "min": 1,
+        "max": 3
+      }
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "spell-dimension:advanced_arcane_essence"
+    },
+    "*": {
+      "item": "spell-dimension:flourish_advanced_arcane_spell_book"
+    },
+    "A": {
+      "item": "illagerinvasion:hallowed_gem"
+    },
+    "B": {
+      "item": "aquamirae:divider"
+    },
+    "C": {
+      "item": "simplyswords:empowered_remnant"
+    },
+    "D": {
+      "item": "soulsweapons:master_sword"
+    }
+  },
+  "pattern": [
+    "#A#",
+    "D*B",
+    "#C#"
+  ],
+  "result": {
+    "item": "spell-dimension:flourish_perfect_arcane_spell_book"
+  },
+  "show_notification": true
+}

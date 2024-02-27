@@ -1,0 +1,29 @@
+{
+  "type": "spell-dimension:medal_upgrade",
+  "ingredients": [
+    [],
+    {
+      "item": "plentyofarmors:hardened_ice_shard"
+    },
+    [],
+    {
+      "item": "runes:frost_stone"
+    },
+    {
+      "item": "runes:frost_stone"
+    },
+    [],
+    {
+      "item": "plentyofarmors:hardened_ice_shard"
+    },
+    []
+  ],
+  "original": {
+    "Grade": 0
+  },
+  "upgraded": {
+    "Grade": 1,
+    "Major": "ICICLE",
+    "School": "FROST"
+  }
+}

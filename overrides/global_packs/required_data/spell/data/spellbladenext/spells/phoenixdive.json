@@ -1,0 +1,77 @@
+{
+  "school": "FIRE",
+  "range": 16,
+  "learn": {
+    "tier": 2
+  },
+  "cast": {
+    "animation": "spellbladenext:phoenixdive",
+    "sound": {
+      "id": "spell_engine:generic_fire_casting",
+      "randomness": 0
+    },
+    "duration": 1
+  },
+  "release": {
+    "custom_impact": true,
+    "target": {
+      "type": "AREA",
+      "area": {
+        "vertical_range_multiplier": 0.5
+      }
+    },
+    "particles": [
+      {
+        "particle_id": "spell_engine:flame",
+        "shape": "CIRCLE",
+        "origin": "CENTER",
+        "count": 80.0,
+        "min_speed": 0.5,
+        "max_speed": 0.6
+      },
+      {
+        "particle_id": "minecraft:smoke",
+        "shape": "CIRCLE",
+        "origin": "CENTER",
+        "count": 40.0,
+        "min_speed": 0.5,
+        "max_speed": 0.9
+      }
+    ],
+    "sound": {
+      "id": "spell_engine:generic_fire_release"
+    }
+  },
+  "impact": [
+    {
+      "action": {
+        "type": "DAMAGE",
+        "damage": {
+          "knockback": 0.5,
+          "spell_power_coefficient": 0.5
+        }
+      },
+      "particles": [
+        {
+          "particle_id": "spell_engine:flame",
+          "shape": "SPHERE",
+          "origin": "CENTER",
+          "count": 30,
+          "min_speed": 0.2,
+          "max_speed": 0.7
+        }
+      ]
+    },
+    {
+      "action": {
+        "type": "FIRE",
+        "fire": {
+          "duration": 4
+        }
+      }
+    }
+  ],
+  "cost": {
+    "cooldown_duration": 8
+  }
+}

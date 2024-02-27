@@ -1,0 +1,39 @@
+{
+  "type": "spell-dimension:medal_upgrade",
+  "ingredients": [
+    {
+      "item": "minecraft:blue_ice"
+    },
+    {
+      "item": "minecraft:blue_ice"
+    },
+    {
+      "item": "minecraft:blue_ice"
+    },
+    {
+      "item": "minecraft:blue_ice"
+    },
+    {
+      "item": "minecraft:blue_ice"
+    },
+    {
+      "item": "minecraft:blue_ice"
+    },
+    {
+      "item": "minecraft:blue_ice"
+    },
+    {
+      "item": "minecraft:blue_ice"
+    }
+  ],
+  "original": {
+    "Grade": 1,
+    "Major": "NUCLEUS",
+    "School": "FROST"
+  },
+  "upgraded": {
+    "Grade": 2,
+    "Major": "NUCLEUS",
+    "School": "FROST"
+  }
+}

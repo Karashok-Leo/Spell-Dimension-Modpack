@@ -1,0 +1,959 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "mythic_upgrade"
+	group: "5BB7BD8D0BB0ED9A"
+	icon: {
+		Count: 1b
+		id: "mythicupgrades:sapphire_sword"
+		tag: {
+			Damage: 0
+		}
+	}
+	id: "51EF6B874928937F"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			description: ["生成于沼泽群系Y=-32~16。"]
+			id: "375EC2106965891D"
+			rewards: [{
+				count: 8
+				id: "3F7DAC4E3EE56BEC"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "088969230F952440"
+				item: "mythicupgrades:jade"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			description: ["生成于恶地群系Y=-32~16。"]
+			id: "42927B1878B0E3E4"
+			rewards: [{
+				count: 8
+				id: "058981622E651938"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "775E0C01EE0C7E4F"
+				item: "mythicupgrades:topaz"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			description: ["生成于寒冷群系Y=-32~16。"]
+			id: "45EA4F32CD024DEB"
+			rewards: [{
+				count: 8
+				id: "41A23916CDE970D2"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "3667B34A62AB5AA1"
+				item: "mythicupgrades:aquamarine"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 0.0d
+		}
+		{
+			description: ["生成于灵魂沙峡谷群系Y=0~96。"]
+			id: "27BFD01665C228A3"
+			rewards: [{
+				count: 8
+				id: "222B84D6B42026E8"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "1FBCC45DDCAAA3A5"
+				item: "mythicupgrades:sapphire"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			description: ["生成于绯红森林群系Y=0~96。"]
+			id: "219A719C4594D234"
+			rewards: [{
+				count: 8
+				id: "11B703C61040967E"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "01D7224026DA10A2"
+				item: "mythicupgrades:ruby"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			description: ["生成于末地群系Y=0~60。"]
+			id: "3A464F0141516EC1"
+			rewards: [{
+				count: 8
+				id: "777D6B6AC48C59B4"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "5FC669DE10EAD5EA"
+				item: "mythicupgrades:ametrine"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["375EC2106965891D"]
+			id: "47D163D7B27EDCBB"
+			rewards: [{
+				count: 8
+				id: "0494C68E4FF544B1"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "2A34DA80D0CF3836"
+				item: "mythicupgrades:jade_ingot"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["45EA4F32CD024DEB"]
+			id: "4BC647B8C4DFBEBC"
+			rewards: [{
+				count: 8
+				id: "4810AD0125FEFEB2"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "7713447DB04F1D81"
+				item: "mythicupgrades:aquamarine_ingot"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["219A719C4594D234"]
+			id: "7A481AF459CFD685"
+			rewards: [{
+				count: 8
+				id: "25C9220223097220"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "6E4F110A9A02C5A9"
+				item: "mythicupgrades:ruby_ingot"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["3A464F0141516EC1"]
+			id: "127539F0231C3FDA"
+			rewards: [{
+				count: 8
+				id: "56E384A261800AB6"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "33D577C588673B4B"
+				item: "mythicupgrades:ametrine_ingot"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["27BFD01665C228A3"]
+			id: "2E46AE5EE2C6638B"
+			rewards: [{
+				count: 8
+				id: "41B726EB3017050E"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "6008B89C88A29712"
+				item: "mythicupgrades:sapphire_ingot"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["42927B1878B0E3E4"]
+			id: "4B45DD7AFAFFFA2E"
+			rewards: [{
+				count: 8
+				id: "035F8E58E5268FAA"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "10569ACD6649EB89"
+				item: "mythicupgrades:topaz_ingot"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 2.0d
+		}
+		{
+			dependencies: [
+				"47D163D7B27EDCBB"
+				"6A0A4A3092665C16"
+			]
+			description: [
+				"穿戴整套额外获得："
+				""
+				"+8 护甲值 (共+28)"
+				""
+				"永久 Poisonous Thorns III"
+				""
+				"免疫 中毒"
+			]
+			id: "309D508714222D4D"
+			rewards: [{
+				count: 8
+				id: "4049BB072B7797E5"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "42F97EADFDF603EF"
+					item: {
+						Count: 1b
+						id: "mythicupgrades:jade_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "7DC57D3842487A7E"
+					item: {
+						Count: 1b
+						id: "mythicupgrades:jade_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "1B72268286C54116"
+					item: {
+						Count: 1b
+						id: "mythicupgrades:jade_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "0AD2AF4084F98884"
+					item: {
+						Count: 1b
+						id: "mythicupgrades:jade_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "翡翠合金套装"
+			x: 2.0d
+			y: 5.0d
+		}
+		{
+			dependencies: [
+				"47D163D7B27EDCBB"
+				"6A0A4A3092665C16"
+			]
+			description: [
+				"在主手时获得："
+				""
+				"+4 攻击伤害"
+				""
+				"受击者获得："
+				""
+				"2s 中毒 IV"
+			]
+			id: "2BF0AE1A889455BD"
+			rewards: [{
+				count: 8
+				id: "1EE36F36631CE2A3"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "2BFC79776ECD100E"
+					item: {
+						Count: 1b
+						id: "mythicupgrades:jade_sword"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "4429DBC6F088EDC1"
+					item: {
+						Count: 1b
+						id: "mythicupgrades:jade_axe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "翡翠合金武器"
+			x: 2.0d
+			y: 4.0d
+		}
+		{
+			dependencies: [
+				"4B45DD7AFAFFFA2E"
+				"78D3354E345DB87C"
+			]
+			description: [
+				"穿戴整套额外获得："
+				""
+				"+7 护甲值 (共+32)"
+				""
+				"永久 抗火"
+			]
+			id: "60F00FC7E0BB8C01"
+			rewards: [{
+				count: 8
+				id: "2D07F555D09213A3"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "4C78ED88F59B38E4"
+					item: {
+						Count: 1b
+						id: "mythicupgrades:topaz_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "40625D1038A92FED"
+					item: {
+						Count: 1b
+						id: "mythicupgrades:topaz_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "117877207383918B"
+					item: {
+						Count: 1b
+						id: "mythicupgrades:topaz_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "64995D31EB49ADEB"
+					item: {
+						Count: 1b
+						id: "mythicupgrades:topaz_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "黄玉合金套装"
+			x: 0.0d
+			y: 5.0d
+		}
+		{
+			dependencies: [
+				"4B45DD7AFAFFFA2E"
+				"78D3354E345DB87C"
+			]
+			description: [
+				"在主手时获得："
+				""
+				"+3.5 攻击伤害"
+				""
+				"受击者获得："
+				""
+				"2.5s 虚弱"
+			]
+			id: "0B97FDE795F3843A"
+			rewards: [{
+				count: 8
+				id: "3D7F6AB39B1826C7"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "70ED76E0A9E6B28E"
+					item: {
+						Count: 1b
+						id: "mythicupgrades:topaz_sword"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "7A930BE1F10F32EE"
+					item: {
+						Count: 1b
+						id: "mythicupgrades:topaz_axe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "4C69772A8060A15A"
+					item: {
+						Count: 1b
+						id: "mythicupgrades:topaz_pickaxe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "56E001021145D92A"
+					item: {
+						Count: 1b
+						id: "mythicupgrades:topaz_shovel"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "3CFE1CB60474EBCA"
+					item: {
+						Count: 1b
+						id: "mythicupgrades:topaz_hoe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 4.0d
+		}
+		{
+			dependencies: [
+				"4BC647B8C4DFBEBC"
+				"2E5ACA9B5D97EE02"
+			]
+			description: [
+				"在主手时获得："
+				""
+				"+4 攻击伤害"
+				""
+				"受击者获得："
+				""
+				"1s Freeze"
+			]
+			id: "5EF6D94E8E1F41F9"
+			rewards: [{
+				count: 8
+				id: "2C45AC761AE67E18"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "115C34D82EFACF84"
+					item: {
+						Count: 1b
+						id: "mythicupgrades:aquamarine_sword"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "213AB0BF0515179E"
+					item: {
+						Count: 1b
+						id: "mythicupgrades:aquamarine_axe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "海蓝合金武器/工具"
+			x: 1.0d
+			y: 4.0d
+		}
+		{
+			dependencies: [
+				"2E46AE5EE2C6638B"
+				"2A2C2F5284EDFC69"
+			]
+			description: [
+				"穿戴整套额外获得："
+				""
+				"+8 护甲值 (共+28)"
+				""
+				"永久 Damage Deflection III"
+			]
+			id: "266700885F13DB8C"
+			rewards: [{
+				count: 8
+				id: "37CC375C3F9EF273"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "73E6C56CFCBA6375"
+					item: {
+						Count: 1b
+						id: "mythicupgrades:sapphire_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "658C09518E1911A5"
+					item: {
+						Count: 1b
+						id: "mythicupgrades:sapphire_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "7E686F3D4B061632"
+					item: {
+						Count: 1b
+						id: "mythicupgrades:sapphire_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "4313EA51A4155068"
+					item: {
+						Count: 1b
+						id: "mythicupgrades:sapphire_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: 3.0d
+			y: 5.0d
+		}
+		{
+			dependencies: [
+				"2E46AE5EE2C6638B"
+				"2A2C2F5284EDFC69"
+			]
+			description: [
+				"在主手时获得："
+				""
+				"+3 攻击伤害"
+			]
+			id: "2D46D572E18DFE16"
+			rewards: [{
+				count: 8
+				id: "0F4350A3FBFCCB92"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "317F3D555B8D77D5"
+					item: {
+						Count: 1b
+						id: "mythicupgrades:sapphire_sword"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "5A09F9D7841F94D3"
+					item: {
+						Count: 1b
+						id: "mythicupgrades:sapphire_axe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: 3.0d
+			y: 4.0d
+		}
+		{
+			dependencies: [
+				"7A481AF459CFD685"
+				"5F00E77269BF32D4"
+			]
+			description: [
+				"在主手时获得："
+				""
+				"+2 攻击伤害"
+				""
+				"永久 急迫"
+				""
+				"受击者获得："
+				""
+				"1s 挖掘疲劳"
+			]
+			id: "16A6F0A7F44352DF"
+			rewards: [{
+				count: 8
+				id: "2C654429F33376BD"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "173C797FEF54F451"
+					item: {
+						Count: 1b
+						id: "mythicupgrades:ruby_sword"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "47447F7CFE9118D8"
+					item: {
+						Count: 1b
+						id: "mythicupgrades:ruby_axe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "4E13B0B281EF9136"
+					item: {
+						Count: 1b
+						id: "mythicupgrades:ruby_pickaxe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "7620C2BCC693F0F4"
+					item: {
+						Count: 1b
+						id: "mythicupgrades:ruby_shovel"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "6CCB11F13999DF9C"
+					item: {
+						Count: 1b
+						id: "mythicupgrades:ruby_hoe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "红宝石合金武器/工具"
+			x: 4.0d
+			y: 4.0d
+		}
+		{
+			dependencies: [
+				"127539F0231C3FDA"
+				"3564A096513D50BC"
+			]
+			description: [
+				"在主手时获得："
+				""
+				"永久 力量 II"
+				""
+				"受击者获得："
+				""
+				"1s 飘浮 V"
+			]
+			id: "5870BC41835A4461"
+			rewards: [{
+				count: 8
+				id: "2BF4B8A58A9435A9"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "4F5096C9AD2DF0FC"
+					item: {
+						Count: 1b
+						id: "mythicupgrades:ametrine_sword"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "58AEFD61673E736E"
+					item: {
+						Count: 1b
+						id: "mythicupgrades:ametrine_axe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "紫黄晶合金武器/工具"
+			x: 5.0d
+			y: 4.0d
+		}
+		{
+			dependencies: [
+				"127539F0231C3FDA"
+				"3564A096513D50BC"
+			]
+			description: [
+				"穿戴整套额外获得："
+				""
+				"+8 护甲值 (共+28)"
+				""
+				"永久 跳跃提升 II"
+				""
+				"永久 迅捷 II"
+			]
+			id: "6A848F7EBD301189"
+			rewards: [{
+				count: 8
+				id: "0F40710CEA15F956"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "573092EB327330C6"
+					item: {
+						Count: 1b
+						id: "mythicupgrades:ametrine_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "7D94528C39A86258"
+					item: {
+						Count: 1b
+						id: "mythicupgrades:ametrine_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "55AB98A3EF523C4E"
+					item: {
+						Count: 1b
+						id: "mythicupgrades:ametrine_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "495D94E62C903F5F"
+					item: {
+						Count: 1b
+						id: "mythicupgrades:ametrine_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: 5.0d
+		}
+		{
+			description: ["发现于丛林神庙。"]
+			id: "6A0A4A3092665C16"
+			rewards: [{
+				count: 8
+				id: "442108935C0C0116"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "783915DD47C0B5BC"
+				item: "mythicupgrades:jade_upgrade_smithing_template"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 7.0d
+		}
+		{
+			description: ["发现于沙漠神殿。"]
+			id: "78D3354E345DB87C"
+			rewards: [{
+				count: 8
+				id: "57446167AA22B10F"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "4E2833679275C498"
+				item: "mythicupgrades:topaz_upgrade_smithing_template"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 7.0d
+		}
+		{
+			description: ["发现于雪屋。"]
+			id: "2E5ACA9B5D97EE02"
+			rewards: [{
+				count: 8
+				id: "14C20C5DFA58F7C3"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "0D4CFFD25A9224B4"
+				item: "mythicupgrades:aquamarine_upgrade_smithing_template"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 7.0d
+		}
+		{
+			description: ["发现于下界要塞。"]
+			id: "2A2C2F5284EDFC69"
+			rewards: [{
+				count: 8
+				id: "734FC7450D2CD31A"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "3E0648B6EF0E4A9D"
+				item: "mythicupgrades:sapphire_upgrade_smithing_template"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 7.0d
+		}
+		{
+			description: ["发现于猪灵堡垒。"]
+			id: "5F00E77269BF32D4"
+			rewards: [{
+				count: 8
+				id: "04EEFD1D3B8E1E7A"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "1DD1CC259F3739E8"
+				item: "mythicupgrades:ruby_upgrade_smithing_template"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 7.0d
+		}
+		{
+			description: ["发现于末地城。"]
+			id: "3564A096513D50BC"
+			rewards: [{
+				count: 8
+				id: "30D9D0D1005712AE"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "3FCD845387DDC122"
+				item: "mythicupgrades:ametrine_upgrade_smithing_template"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 7.0d
+		}
+	]
+	title: "Mythic Upgrade"
+}

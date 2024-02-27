@@ -1,0 +1,39 @@
+{
+  "type": "spell-dimension:medal_upgrade",
+  "ingredients": [
+    {
+      "item": "minecraft:arrow"
+    },
+    {
+      "item": "minecraft:arrow"
+    },
+    {
+      "item": "minecraft:arrow"
+    },
+    {
+      "item": "minecraft:arrow"
+    },
+    {
+      "item": "minecraft:arrow"
+    },
+    {
+      "item": "minecraft:arrow"
+    },
+    {
+      "item": "minecraft:arrow"
+    },
+    {
+      "item": "minecraft:arrow"
+    }
+  ],
+  "original": {
+    "Grade": 1,
+    "Major": "CONVERGE",
+    "School": "ARCANE"
+  },
+  "upgraded": {
+    "Grade": 2,
+    "Major": "CONVERGE",
+    "School": "ARCANE"
+  }
+}

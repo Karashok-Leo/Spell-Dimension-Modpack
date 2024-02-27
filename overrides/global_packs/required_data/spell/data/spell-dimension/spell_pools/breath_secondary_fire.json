@@ -1,0 +1,13 @@
+{
+  "creatable_as_spellbook": false,
+  "spell_ids": [
+    "spell-dimension:breath1",
+    
+    "wizards:fireball",
+    "wizards:fire_meteor",
+    "wizards:fire_scorch",
+
+    "spellbladenext:fireoverdrive",
+    "spellbladenext:flameslash"
+  ]
+}

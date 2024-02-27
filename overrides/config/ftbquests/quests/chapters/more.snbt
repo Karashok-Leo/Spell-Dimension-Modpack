@@ -1,0 +1,311 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "more"
+	group: "7DB71F008F582E22"
+	id: "62E2DE4AAC8DDE75"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			description: [
+				"/spawn"
+				"传送至出生点"
+				""
+				"/home xxx"
+				"传送至已设置的家xxx处"
+				""
+				"/sethome xxx"
+				"将当前位置设置为家xxx"
+				""
+				"/back"
+				"回到上一个传送点/死亡点"
+				""
+				"/rtp"
+				"随机传送"
+				""
+				"/tpa xxx"
+				"请求传送至玩家xxx处"
+				""
+				"/tpahere xxx"
+				"请求将玩家xxx传送至当前位置"
+				""
+				"/crafting /anvil /smithing /stonecutter /enderchest /trashcan"
+				"打开工作台/铁砧/锻造台/切石机/末影箱/垃圾桶界面"
+			]
+			icon: "minecraft:command_block"
+			id: "43F7311FC89C3683"
+			tasks: [{
+				id: "65000C0C3E5D2F6A"
+				title: "Checked"
+				type: "checkmark"
+			}]
+			title: "一些指令"
+			x: -1.0d
+			y: -1.0d
+		}
+		{
+			description: [
+				"` (~)：连锁采集"
+				""
+				"R：翻滚"
+				""
+				"R：刷新交易"
+				""
+				"H：打开箭袋"
+				""
+				"G：打开末影袋"
+				""
+				"K：打开技能菜单"
+				""
+				"中键：整理物品栏"
+				""
+				"左Shift+W：攀墙跳"
+			]
+			icon: "minecraft:cherry_sign"
+			id: "282FB4825FB49A6E"
+			tasks: [{
+				id: "62D8887D5CF56D14"
+				title: "Checked"
+				type: "checkmark"
+			}]
+			title: "一些热键"
+			x: 1.0d
+			y: -1.0d
+		}
+		{
+			id: "4164059F261A372D"
+			tasks: [{
+				id: "5BD44FF049C6F494"
+				item: "dark-enchanting:dark_enchanter"
+				type: "item"
+			}]
+			title: "暗黑附魔台"
+			x: 1.0d
+			y: 1.0d
+		}
+		{
+			description: ["把带有附魔的装备和书放在砂轮上，将魔咒转移至书上。"]
+			id: "0023991717C79393"
+			tasks: [{
+				id: "10BEA4312A16162A"
+				item: "minecraft:grindstone"
+				type: "item"
+			}]
+			title: "祛魔"
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			description: ["在锻造台上使用对应的修复材料重铸装备词条。"]
+			id: "7142A75996C9CF2F"
+			tasks: [{
+				id: "6A630BA985CEE596"
+				item: "minecraft:smithing_table"
+				type: "item"
+			}]
+			title: "重铸"
+			x: -2.0d
+			y: 0.0d
+		}
+		{
+			description: [
+				"你的难度会随时间和你离出生点的距离增加。"
+				""
+				"一些怪物生成时会带有Buff。"
+				""
+				"在遗迹内刷新的怪物各方面属性都会更高。"
+			]
+			icon: "minecraft:zombie_head"
+			id: "7B2CE9625F338976"
+			tasks: [{
+				id: "743EDD805DBE05CA"
+				title: "Checked"
+				type: "checkmark"
+			}]
+			title: "怪物增强"
+			x: 0.0d
+			y: -2.0d
+		}
+		{
+			id: "54C388CE6DCA152A"
+			tasks: [{
+				id: "47DB0B6E119E078E"
+				item: {
+					Count: 1b
+					id: "itemfilters:or"
+					tag: {
+						items: [
+							{
+								Count: 1b
+								id: "alloy_forgery:bricks_forge_controller"
+							}
+							{
+								Count: 1b
+								id: "alloy_forgery:stone_bricks_forge_controller"
+							}
+							{
+								Count: 1b
+								id: "alloy_forgery:prismarine_bricks_forge_controller"
+							}
+							{
+								Count: 1b
+								id: "alloy_forgery:deepslate_bricks_forge_controller"
+							}
+							{
+								Count: 1b
+								id: "alloy_forgery:polished_blackstone_forge_controller"
+							}
+							{
+								Count: 1b
+								id: "alloy_forgery:adamantite_block_forge_controller"
+							}
+							{
+								Count: 1b
+								id: "alloy_forgery:end_stone_bricks_forge_controller"
+							}
+						]
+					}
+				}
+				title: "冶炼控制器"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 2.0d
+		}
+		{
+			description: [
+				"VanitySlots是一款增加了四个额外盔甲槽位的mod。实际会被渲染的是放置在这四个额外槽位中的盔甲，而不是你实际穿着的盔甲，这意味着你可以穿着你想要的任何盔甲，同时看起来仍然时尚。"
+				""
+				"VanitySlots还增加了四件额外的盔甲，用来隐藏你现在穿的盔甲。这些盔甲可以通过在工作台上用八个萤石粉围绕皮革盔甲来制作。"
+				""
+				"敌人会对他们所看到的做出反应，而不是对你所穿的盔甲做出反应。如果你的Vanity槽位里有金质盔甲，小猪就不会攻击你。如果你穿着亲水套装，同时有隐身效果，除非你离得足够近，否则别人就看不到你。"
+			]
+			id: "1AB805142D49364D"
+			tasks: [
+				{
+					id: "63335138E7461991"
+					item: {
+						Count: 1b
+						id: "vanityslots:familiar_wig"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "4E836BB0AC698834"
+					item: {
+						Count: 1b
+						id: "vanityslots:familiar_shirt"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "49C91531D9CF9ECD"
+					item: {
+						Count: 1b
+						id: "vanityslots:familiar_pants"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "657474F6211C853B"
+					item: {
+						Count: 1b
+						id: "vanityslots:familiar_sneakers"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Vanity"
+			x: -2.0d
+			y: 2.0d
+		}
+		{
+			id: "594E8890635975EB"
+			tasks: [{
+				id: "6DDB3DE01077EA2C"
+				item: "dummmmmmy:target_dummy"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 2.0d
+		}
+		{
+			description: ["初始的生命值为10，需要通过击杀生物来提升位于生命值条下方的生命等级，每级提供一颗心的生命值加成。"]
+			icon: "victus:bundle_heart_aspect"
+			id: "3540E89DBE23C379"
+			tasks: [{
+				id: "0181E6A71A8B246B"
+				title: "Checked"
+				type: "checkmark"
+			}]
+			title: "Health Levels"
+			x: 2.0d
+			y: -2.0d
+		}
+		{
+			description: ["分别可以定位生物群系、地牢结构、最近玩家。"]
+			id: "5695DECACDB08E49"
+			tasks: [
+				{
+					id: "13A0E43AAFAF1673"
+					item: {
+						Count: 1b
+						id: "naturescompass:naturescompass"
+						tag: { }
+					}
+					type: "item"
+				}
+				{
+					id: "64799E6CFFAEA8E5"
+					item: {
+						Count: 1b
+						id: "explorerscompass:explorerscompass"
+						tag: { }
+					}
+					type: "item"
+				}
+				{
+					id: "3AF979163647A304"
+					item: "playertrackingcompass:tracking_compass"
+					type: "item"
+				}
+			]
+			title: "指南针"
+			x: -2.0d
+			y: -2.0d
+		}
+		{
+			id: "6E087F09014D81BA"
+			tasks: [{
+				id: "14F51CB2227E5071"
+				item: "endercage:endercage"
+				type: "item"
+			}]
+			x: -1.0d
+			y: 1.0d
+		}
+		{
+			id: "5D749FDD79A0A3A7"
+			tasks: [{
+				id: "569215C5A93D8A60"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+	]
+	title: "More"
+}

@@ -1,0 +1,31 @@
+{
+  "type": "spell-dimension:medal_upgrade",
+  "ingredients": [
+    [],
+    {
+      "item": "soulsweapons:dragon_staff"
+    },
+    [],
+    {
+      "item": "spell-dimension:advanced_fire_essence"
+    },
+    {
+      "item": "spell-dimension:advanced_fire_essence"
+    },
+    [],
+    {
+      "item": "minecraft:nether_star"
+    },
+    []
+  ],
+  "original": {
+    "Grade": 2,
+    "Major": "BREATH",
+    "School": "FIRE"
+  },
+  "upgraded": {
+    "Grade": 3,
+    "Major": "BREATH",
+    "School": "FIRE"
+  }
+}

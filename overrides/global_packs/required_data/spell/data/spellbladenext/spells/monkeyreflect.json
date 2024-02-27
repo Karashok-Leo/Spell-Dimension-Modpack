@@ -1,0 +1,75 @@
+{
+  "school": "PHYSICAL_MELEE",
+  "range": 6,
+  "learn": {
+    "tier": 0
+  },
+  "cast": {
+    "duration": 8,
+    "animation": "spellbladenext:twirl",
+    "channel_ticks": 5,
+    "sound": {
+      "id": "spell_engine:generic_frost_casting",
+      "randomness": 0
+    },
+    "particles": [
+      {
+        "particle_id": "smoke",
+        "shape": "CIRCLE",
+        "origin": "CENTER",
+        "count": 8.0,
+        "min_speed": 0.2,
+        "max_speed": 0.6
+      },
+      {
+        "particle_id": "cloud",
+        "shape": "CIRCLE",
+        "origin": "CENTER",
+        "count": 8.0,
+        "min_speed": 0.5,
+        "max_speed": 0.9
+      }
+    ]
+  },
+  "release": {
+    "target": {
+      "type": "CURSOR"
+    }
+  },
+  "impact": [
+    {
+      "action": {
+        "type": "DAMAGE",
+        "damage": {
+          "knockback": 4,
+          "spell_power_coefficient": 6
+        }
+      },
+      "particles": [
+        {
+          "particle_id": "cloud",
+          "shape": "SPHERE",
+          "origin": "CENTER",
+          "count": 15,
+          "min_speed": 0.2,
+          "max_speed": 0.7
+        },
+        {
+          "particle_id": "firework",
+          "shape": "SPHERE",
+          "origin": "CENTER",
+          "count": 10,
+          "min_speed": 0.05,
+          "max_speed": 0.2
+        }
+      ],
+      "sound": {
+        "id": "minecraft:entity.player.attack.sweep"
+      }
+    }
+  ],
+  "cost": {
+    "cooldown_duration": 8,
+    "cooldown_proportional": true
+  }
+}

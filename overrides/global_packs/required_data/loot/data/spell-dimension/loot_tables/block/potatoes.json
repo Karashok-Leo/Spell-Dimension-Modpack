@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "conditions": [
+        {
+          "block": "minecraft:potatoes",
+          "condition": "minecraft:block_state_property",
+          "properties": {
+            "age": "7"
+          }
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "midashunger:baked_golden_potato",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "midashunger:poisonous_golden_potato",
+          "weight": 2
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:baked_potato",
+          "weight": 3
+        },
+        {
+          "type": "minecraft:empty",
+          "weight": 30
+        }
+      ],
+      "rolls": 1.0
+    }
+  ]
+}

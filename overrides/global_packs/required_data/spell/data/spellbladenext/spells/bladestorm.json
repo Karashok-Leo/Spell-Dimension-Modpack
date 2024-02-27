@@ -1,0 +1,64 @@
+{
+  "school": "ARCANE",
+  "range": 16,
+  "learn": {
+    "tier": 2
+  },
+  "cast": {
+    "animation": "spell_engine:one_handed_projectile_charge",
+    "duration": 0.5
+  },
+  "release": {
+    "custom_impact": true,
+    "target": {
+      "type": "CURSOR"
+    },
+    "particles": [
+      {
+        "particle_id": "spell_engine:arcane_hit",
+        "shape": "SPHERE",
+        "origin": "CENTER",
+        "count": 20.0,
+        "min_speed": 0.2,
+        "max_speed": 0.6
+      },
+      {
+        "particle_id": "firework",
+        "shape": "SPHERE",
+        "origin": "CENTER",
+        "count": 30.0,
+        "min_speed": 0.2,
+        "max_speed": 0.4
+      }
+    ],
+    "sound": {
+      "id": "minecraft:entity.player.attack.knockback"
+    },
+    "animation": "spellbladenext:flourish"
+  },
+  "impact": [
+    {
+      "action": {
+        "type": "DAMAGE",
+        "damage": {
+          "knockback": 1,
+          "spell_power_coefficient": 0.6
+        }
+      },
+      "particles": [
+        {
+          "particle_id": "sweep_attack",
+          "shape": "SPHERE",
+          "origin": "CENTER",
+          "count": 1
+        }
+      ],
+      "sound": {
+        "id": "minecraft:entity.player.attack.sweep"
+      }
+    }
+
+  ],
+  "cost": {
+  }
+}

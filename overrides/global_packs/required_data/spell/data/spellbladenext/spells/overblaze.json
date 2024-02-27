@@ -1,0 +1,58 @@
+{
+  "school": "FIRE",
+  "range": 96,
+  "learn": {
+    "tier": 1
+  },
+  "cast": {
+    "duration": 2,
+    "animation": "spellbladenext:aim",
+
+    "sound": {
+      "id": "entity.warden.sonic_charge"
+    },
+    "particles": [
+      {
+        "particle_id": "spell_engine:flame",
+        "shape": "PIPE",
+        "origin": "FEET",
+        "count": 1.0,
+        "min_speed": 0.05,
+        "max_speed": 0.1
+      }
+    ]
+  },
+  "release": {
+    "target": {
+      "type": "BEAM"
+    },
+    "animation": "spellbladenext:recoil",
+    "sound": {
+      "id": "minecraft:entity.generic.explode"
+    }
+  },
+  "impact": [
+    {
+      "action": {
+        "type": "DAMAGE",
+        "damage": {
+          "spell_power_coefficient": 3.0
+        }
+      },
+      "particles": [
+        {
+          "particle_id": "lava",
+          "shape": "CIRCLE",
+          "origin": "CENTER",
+          "count": 100.0,
+          "min_speed": 3.0,
+          "max_speed": 18.0
+        }
+      ]
+    }
+  ],
+  "cost": {
+    "cooldown_duration": 4
+
+  }
+}

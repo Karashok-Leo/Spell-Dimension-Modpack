@@ -1,0 +1,1054 @@
+{
+	autofocus_id: "60919AAECCCE970D"
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "advanced_combat"
+	group: "5BB7BD8D0BB0ED9A"
+	icon: {
+		Count: 1b
+		id: "advancedcombat:advanced_nether_star_sword"
+		tag: {
+			Damage: 0
+		}
+	}
+	id: "1F70D62C7A50E1E0"
+	order_index: 3
+	quest_links: [ ]
+	quests: [
+		{
+			description: ["这些武器可以使用特殊的物品升级。"]
+			id: "1678CD2ABDBD16DD"
+			rewards: [{
+				count: 8
+				id: "03BFD55BCF19D1F6"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			size: 1.5d
+			tasks: [
+				{
+					id: "326A4A486F374F0E"
+					item: {
+						Count: 1b
+						id: "itemfilters:or"
+						tag: {
+							items: [
+								{
+									Count: 1b
+									id: "advancedcombat:advanced_wood_sword"
+									tag: {
+										Damage: 0
+									}
+								}
+								{
+									Count: 1b
+									id: "advancedcombat:advanced_stone_sword"
+									tag: {
+										Damage: 0
+									}
+								}
+								{
+									Count: 1b
+									id: "advancedcombat:advanced_iron_sword"
+									tag: {
+										Damage: 0
+										itemModifier: "modifiers:slow"
+									}
+								}
+								{
+									Count: 1b
+									id: "advancedcombat:advanced_gold_sword"
+									tag: {
+										Damage: 0
+										itemModifier: "modifiers:slow"
+									}
+								}
+								{
+									Count: 1b
+									id: "advancedcombat:advanced_emerald_sword"
+									tag: {
+										Damage: 0
+										itemModifier: "modifiers:vicious"
+									}
+								}
+								{
+									Count: 1b
+									id: "advancedcombat:advanced_diamond_sword"
+									tag: {
+										Damage: 0
+										itemModifier: "modifiers:agile"
+									}
+								}
+								{
+									Count: 1b
+									id: "advancedcombat:nether_star_sword"
+									tag: {
+										Damage: 0
+										itemModifier: "modifiers:slow"
+									}
+								}
+								{
+									Count: 1b
+									id: "advancedcombat:advanced_nether_star_sword"
+									tag: {
+										Damage: 0
+										itemModifier: "modifiers:damaged"
+									}
+								}
+								{
+									Count: 1b
+									id: "advancedcombat:emerald_sword"
+									tag: {
+										Damage: 0
+									}
+								}
+							]
+						}
+					}
+					title: "高级剑"
+					type: "item"
+				}
+				{
+					id: "4D9E1879682904CA"
+					item: {
+						Count: 1b
+						id: "itemfilters:or"
+						tag: {
+							items: [
+								{
+									Count: 1b
+									id: "advancedcombat:advanced_bow"
+									tag: {
+										Damage: 0
+									}
+								}
+								{
+									Count: 1b
+									id: "advancedcombat:advanced_shield"
+									tag: {
+										Damage: 0
+									}
+								}
+							]
+						}
+					}
+					title: "高级弓与盾"
+					type: "item"
+				}
+			]
+			title: "高级战斗装备"
+			x: -1.5d
+			y: 0.0d
+		}
+		{
+			description: ["这些盔甲可以使用特殊的物品升级。"]
+			id: "6ED78EF9647532B7"
+			rewards: [{
+				count: 8
+				id: "431EC75780E6C42B"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			size: 1.5d
+			tasks: [{
+				id: "15033A8D7835387C"
+				item: {
+					Count: 1b
+					id: "itemfilters:or"
+					tag: {
+						items: [
+							{
+								Count: 1b
+								id: "advancedcombat:obsidian_helmet"
+								tag: {
+									Damage: 0
+								}
+							}
+							{
+								Count: 1b
+								id: "advancedcombat:obsidian_chestplate"
+								tag: {
+									Damage: 0
+								}
+							}
+							{
+								Count: 1b
+								id: "advancedcombat:obsidian_leggings"
+								tag: {
+									Damage: 0
+								}
+							}
+							{
+								Count: 1b
+								id: "advancedcombat:obsidian_boots"
+								tag: {
+									Damage: 0
+								}
+							}
+							{
+								Count: 1b
+								id: "advancedcombat:nether_helmet"
+								tag: {
+									Damage: 0
+								}
+							}
+							{
+								Count: 1b
+								id: "advancedcombat:nether_chestplate"
+								tag: {
+									Damage: 0
+								}
+							}
+							{
+								Count: 1b
+								id: "advancedcombat:nether_leggings"
+								tag: {
+									Damage: 0
+								}
+							}
+							{
+								Count: 1b
+								id: "advancedcombat:nether_boots"
+								tag: {
+									Damage: 0
+								}
+							}
+							{
+								Count: 1b
+								id: "advancedcombat:stone_helmet"
+								tag: {
+									Damage: 0
+								}
+							}
+							{
+								Count: 1b
+								id: "advancedcombat:stone_chestplate"
+								tag: {
+									Damage: 0
+								}
+							}
+							{
+								Count: 1b
+								id: "advancedcombat:stone_leggings"
+								tag: {
+									Damage: 0
+								}
+							}
+							{
+								Count: 1b
+								id: "advancedcombat:stone_boots"
+								tag: {
+									Damage: 0
+								}
+							}
+							{
+								Count: 1b
+								id: "advancedcombat:wood_helmet"
+								tag: {
+									Damage: 0
+								}
+							}
+							{
+								Count: 1b
+								id: "advancedcombat:wood_chestplate"
+								tag: {
+									Damage: 0
+								}
+							}
+							{
+								Count: 1b
+								id: "advancedcombat:wood_leggings"
+								tag: {
+									Damage: 0
+								}
+							}
+							{
+								Count: 1b
+								id: "advancedcombat:wood_boots"
+								tag: {
+									Damage: 0
+								}
+							}
+						]
+					}
+				}
+				title: "高级盔甲"
+				type: "item"
+			}]
+			title: "高级战斗盔甲"
+			x: 1.5d
+			y: 0.0d
+		}
+		{
+			id: "52D46D74D6B420F7"
+			rewards: [{
+				count: 8
+				id: "10B65EA5F95AB0CD"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "1CAFAFAF868F8F3A"
+				item: "advancedcombat:sharpness_upgrade"
+				type: "item"
+			}]
+			x: -2.5d
+			y: 2.0d
+		}
+		{
+			id: "30A4D90545192133"
+			rewards: [{
+				count: 8
+				id: "34B6686711934D88"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "5CBD2EE46FE66FF6"
+				item: "advancedcombat:elite_sharpness_upgrade"
+				type: "item"
+			}]
+			x: -2.5d
+			y: 3.0d
+		}
+		{
+			id: "1649FCB36F3D78CC"
+			rewards: [{
+				count: 8
+				id: "368393100B588AAA"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "49103122C2F2AB9A"
+				item: "advancedcombat:smite_upgrade"
+				type: "item"
+			}]
+			x: -1.5d
+			y: 2.0d
+		}
+		{
+			id: "6C699226C920A9FC"
+			rewards: [{
+				count: 8
+				id: "0FF301223801E732"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "415D36E8B77E6A86"
+				item: "advancedcombat:elite_smite_upgrade"
+				type: "item"
+			}]
+			x: -1.5d
+			y: 3.0d
+		}
+		{
+			id: "026B7CE285FBCD68"
+			rewards: [{
+				count: 8
+				id: "7CD8B53D19B400DE"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "557C75B2A39BA063"
+				item: "advancedcombat:bane_upgrade"
+				type: "item"
+			}]
+			x: -0.5d
+			y: 2.0d
+		}
+		{
+			id: "51A5056A7FEE8E81"
+			rewards: [{
+				count: 8
+				id: "11DFE4CD569D8C90"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "0A55C6534A7EC3E7"
+				item: "advancedcombat:elite_bane_upgrade"
+				type: "item"
+			}]
+			x: -0.5d
+			y: 3.0d
+		}
+		{
+			id: "25039FA4C92A4111"
+			rewards: [{
+				count: 8
+				id: "6D14314D07E28496"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "0147A10EACB80586"
+				item: "advancedcombat:knockback_upgrade"
+				type: "item"
+			}]
+			x: 0.5d
+			y: 2.0d
+		}
+		{
+			id: "2D4394E0AD54ED87"
+			rewards: [{
+				count: 8
+				id: "06EB6B0A894097ED"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "495879E1E08C28C0"
+				item: "advancedcombat:elite_knockback_upgrade"
+				type: "item"
+			}]
+			x: 0.5d
+			y: 3.0d
+		}
+		{
+			id: "351B22E7A60B05C1"
+			rewards: [{
+				count: 8
+				id: "0D907A501065539D"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "1ACDCBB08775CAC8"
+				item: "advancedcombat:fire_upgrade"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 2.0d
+		}
+		{
+			id: "3275A7BC27801CF0"
+			rewards: [{
+				count: 8
+				id: "06194E0CAD68A6D0"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "5D386DEFD06873FF"
+				item: "advancedcombat:elite_fire_upgrade"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 3.0d
+		}
+		{
+			id: "6134779B107CBC62"
+			rewards: [{
+				count: 8
+				id: "16F519BD5ED414FA"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "13225B5F29FFDFD8"
+				item: "advancedcombat:looting_upgrade"
+				type: "item"
+			}]
+			x: 2.5d
+			y: 2.0d
+		}
+		{
+			id: "582B2C5D4D62CEC7"
+			rewards: [{
+				count: 8
+				id: "25A41856C2BE0001"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "1E2C5A1A4E8E4A4E"
+				item: "advancedcombat:elite_looting_upgrade"
+				type: "item"
+			}]
+			x: 2.5d
+			y: 3.0d
+		}
+		{
+			id: "446C84B654DCA5E1"
+			rewards: [{
+				count: 8
+				id: "5C4D45D580F1CED9"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "51A7829DEBA64068"
+				item: "advancedcombat:unbreaking_upgrade"
+				type: "item"
+			}]
+			x: -2.0d
+			y: 8.0d
+		}
+		{
+			id: "21160822465CD6A9"
+			rewards: [{
+				count: 8
+				id: "3507DDC2D841C71D"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "127B1307746A22A0"
+				item: "advancedcombat:elite_unbreaking_upgrade"
+				type: "item"
+			}]
+			x: -2.0d
+			y: 9.0d
+		}
+		{
+			id: "68E5C441B9478432"
+			rewards: [{
+				count: 8
+				id: "762BEF5414D7D133"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "4F4442A761FD9247"
+				item: "advancedcombat:protection_upgrade"
+				type: "item"
+			}]
+			x: -2.0d
+			y: 5.0d
+		}
+		{
+			id: "38B075BDA4FE3AE3"
+			rewards: [{
+				count: 8
+				id: "56A57CD9B6F0EF49"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "5FE5AE1EBCB981BA"
+				item: "advancedcombat:elite_protection_upgrade"
+				type: "item"
+			}]
+			x: -2.0d
+			y: 6.0d
+		}
+		{
+			id: "5B38C290F5B56AD6"
+			rewards: [{
+				count: 8
+				id: "6ECF12D300257A08"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "09E11DCB53736224"
+				item: "advancedcombat:fire_protection_upgrade"
+				type: "item"
+			}]
+			x: -1.0d
+			y: 5.0d
+		}
+		{
+			id: "168DA15F2160DA06"
+			rewards: [{
+				count: 8
+				id: "3D37EAC657C5E68B"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "67EF62813D71979C"
+				item: "advancedcombat:elite_fire_protection_upgrade"
+				type: "item"
+			}]
+			x: -1.0d
+			y: 6.0d
+		}
+		{
+			id: "40E87B705C70C548"
+			rewards: [{
+				count: 8
+				id: "6BD9CD6F07CBF059"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "2F9F53CB9E064CFD"
+				item: "advancedcombat:blast_protection_upgrade"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 5.0d
+		}
+		{
+			id: "00B8784EC7612CDB"
+			rewards: [{
+				count: 8
+				id: "589078631B5CCB6E"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "68220980A3519751"
+				item: "advancedcombat:elite_blast_protection_upgrade"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 6.0d
+		}
+		{
+			id: "749079EE4D4BE7F2"
+			rewards: [{
+				count: 8
+				id: "45937A1E11C54122"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "263225741C40E80F"
+				item: "advancedcombat:proj_protection_upgrade"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 5.0d
+		}
+		{
+			id: "4FE9737F56E4D683"
+			rewards: [{
+				count: 8
+				id: "54CD940388F6C507"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "04D620810463F6E8"
+				item: "advancedcombat:elite_proj_protection_upgrade"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 6.0d
+		}
+		{
+			id: "5CC704C6F9E3E1D5"
+			rewards: [{
+				count: 8
+				id: "7A17C7234E911BF3"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "1AD14A2CBA2BC878"
+				item: "advancedcombat:feather_falling_upgrade"
+				type: "item"
+			}]
+			x: -1.0d
+			y: 8.0d
+		}
+		{
+			id: "030E1A7EFDF1CE44"
+			rewards: [{
+				count: 8
+				id: "79A3B9D8B82C6450"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "5A6FAC9E442FA63C"
+				item: "advancedcombat:elite_feather_falling_upgrade"
+				type: "item"
+			}]
+			x: -1.0d
+			y: 9.0d
+		}
+		{
+			id: "11F2F0D9E4D971B8"
+			rewards: [{
+				count: 8
+				id: "089C04A192218145"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "6DA48EBC4893190F"
+				item: "advancedcombat:thorns_upgrade"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 5.0d
+		}
+		{
+			id: "452343891427112F"
+			rewards: [{
+				count: 8
+				id: "64B544E1ED7F9E05"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "54A7A20693830F32"
+				item: "advancedcombat:elite_thorns_upgrade"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 6.0d
+		}
+		{
+			id: "0CA47297D6824919"
+			rewards: [{
+				count: 8
+				id: "61C6867C04EA6A3A"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "6A6DCABAB37F81C5"
+				item: "advancedcombat:frost_upgrade"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 8.0d
+		}
+		{
+			id: "081393A5F61A52E3"
+			rewards: [{
+				count: 8
+				id: "7E88C42BF38B082B"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "44C008275C0EBA4A"
+				item: "advancedcombat:elite_frost_upgrade"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 9.0d
+		}
+		{
+			id: "658C28ED0A468986"
+			rewards: [{
+				count: 8
+				id: "0D46373148E04703"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "5F5831B4FB8588E6"
+				item: "advancedcombat:efficiency_upgrade"
+				type: "item"
+			}]
+			x: -1.5d
+			y: 11.5d
+		}
+		{
+			id: "5B3ABDEF31E14A85"
+			rewards: [{
+				count: 8
+				id: "31C6DC57BCAB75EF"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "47429846B65A3D86"
+				item: "advancedcombat:elite_efficiency_upgrade"
+				type: "item"
+			}]
+			x: -1.5d
+			y: 12.5d
+		}
+		{
+			id: "7959CCB53DF07ECB"
+			rewards: [{
+				count: 8
+				id: "6530F4F952A5EB5D"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "1C09D2EA944C0CAC"
+				item: "advancedcombat:fortune_upgrade"
+				type: "item"
+			}]
+			x: -0.5d
+			y: 11.5d
+		}
+		{
+			id: "1575564E31D11E34"
+			rewards: [{
+				count: 8
+				id: "27F1CF8399E9AE2F"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "75B864BDC5F3B4F3"
+				item: "advancedcombat:elite_fortune_upgrade"
+				type: "item"
+			}]
+			x: -0.5d
+			y: 12.5d
+		}
+		{
+			id: "5C01B5E81B6460B3"
+			rewards: [{
+				count: 8
+				id: "52DBA9B498424E96"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "48FA2AF59BD0149A"
+				item: "advancedcombat:power_upgrade"
+				type: "item"
+			}]
+			x: -1.0d
+			y: 14.5d
+		}
+		{
+			id: "1F6C58A5C11F7C25"
+			rewards: [{
+				count: 8
+				id: "7654F7C07B41219E"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "077D864364A85696"
+				item: "advancedcombat:elite_power_upgrade"
+				type: "item"
+			}]
+			x: -1.0d
+			y: 15.5d
+		}
+		{
+			id: "6FC6144EE5D5A10D"
+			rewards: [{
+				count: 8
+				id: "606CC327257EEB0C"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "5EEB53CEB10DDDB0"
+				item: "advancedcombat:punch_upgrade"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 14.5d
+		}
+		{
+			id: "1AD702C6D8596051"
+			rewards: [{
+				count: 8
+				id: "1BF931841E356C73"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "3F03AA3336191CEE"
+				item: "advancedcombat:elite_punch_upgrade"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 15.5d
+		}
+		{
+			id: "130BC5285E080003"
+			rewards: [{
+				count: 8
+				id: "105353EDEA38B1A3"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "47855FDD7802E999"
+				item: "advancedcombat:lots_upgrade"
+				type: "item"
+			}]
+			x: 0.5d
+			y: 11.5d
+		}
+		{
+			id: "038908E4847F38D7"
+			rewards: [{
+				count: 8
+				id: "2E68A0C6BA50D983"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "40E14D1FB10665A2"
+				item: "advancedcombat:elite_lots_upgrade"
+				type: "item"
+			}]
+			x: 0.5d
+			y: 12.5d
+		}
+		{
+			id: "01AF9FEA8B2C7D85"
+			rewards: [{
+				count: 8
+				id: "0975BE4B1CA0851D"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "2D9BD13862D54B5C"
+				item: "advancedcombat:lure_upgrade"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 11.5d
+		}
+		{
+			id: "4564601FFE02549C"
+			rewards: [{
+				count: 8
+				id: "6D58B5CA3132BF95"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "6B18E9874A2681BE"
+				item: "advancedcombat:elite_lure_upgrade"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 12.5d
+		}
+		{
+			id: "2273238016DA71C5"
+			rewards: [{
+				count: 8
+				id: "63DD3282CD17AA95"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "773C396A801FC033"
+				item: "advancedcombat:mending_upgrade"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 17.5d
+		}
+		{
+			id: "1A93662A01D75521"
+			rewards: [{
+				count: 8
+				id: "40E193D3CEB86BB1"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "2FF2B74FC23FA0FC"
+				item: "advancedcombat:respiration_upgrade"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 8.0d
+		}
+		{
+			id: "37951729723CD53A"
+			rewards: [{
+				count: 8
+				id: "6FCAB8CC7FECE031"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "1AC4F9AA70BA5CDE"
+				item: "advancedcombat:aqua_upgrade"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 9.0d
+		}
+		{
+			id: "2514CAD9B61911DD"
+			rewards: [{
+				count: 8
+				id: "12E78D3892E1BBA9"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "5AFC154610B6869D"
+				item: "advancedcombat:depth_upgrade"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 8.0d
+		}
+		{
+			id: "57308A267A15A074"
+			rewards: [{
+				count: 8
+				id: "73AC2F5F7A9C1DB4"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "6CDC15D56C909263"
+				item: "advancedcombat:silk_upgrade"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 9.0d
+		}
+		{
+			id: "3D37A6EEC762E84D"
+			rewards: [{
+				count: 8
+				id: "45B6194423F8AC75"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "4F3FD3FFCBF9DEC2"
+				item: "advancedcombat:flame_upgrade"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 14.5d
+		}
+		{
+			id: "3EE8A26FBA408B0D"
+			rewards: [{
+				count: 8
+				id: "48D96C989D69631E"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "67B725F943E95E00"
+				item: "advancedcombat:infinity_upgrade"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 15.5d
+		}
+		{
+			description: ["&o以下装备&r可以在&n工作台&r上与&o其兼容的升级&r合成，以提升属性或者强化功能。"]
+			id: "60919AAECCCE970D"
+			rewards: [{
+				count: 8
+				id: "6F9E35E4A43167A6"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			size: 2.0d
+			tasks: [{
+				id: "14C706E1898C70FB"
+				title: "Advanced Combat"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: -2.0d
+		}
+	]
+	title: "Advanced Combat"
+}

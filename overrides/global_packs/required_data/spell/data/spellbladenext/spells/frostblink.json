@@ -1,0 +1,84 @@
+{
+  "school": "ARCANE",
+  "range": 6,
+  "learn": {
+    "tier": 2
+  },
+  "cast": {
+    "animation": "spell_engine:one_handed_projectile_charge",
+    "duration": 0.5
+
+
+  },
+  "release": {
+    "custom_impact": true,
+    "target": {
+      "type": "PROJECTILE"
+    },
+    "animation": "spellbladenext:dashslash",
+    "sound": {
+      "id": "minecraft:entity.player.attack.sweep"
+    },
+    "particles": [
+      {
+        "particle_id": "spell_engine:arcane_hit",
+        "shape": "SPHERE",
+        "origin": "CENTER",
+        "count": 20.0,
+        "min_speed": 0.2,
+        "max_speed": 0.6
+      },
+      {
+        "particle_id": "firework",
+        "shape": "SPHERE",
+        "origin": "CENTER",
+        "count": 30.0,
+        "min_speed": 0.5,
+        "max_speed": 0.9
+      }
+    ]
+  },
+  "impact": [
+    {
+      "school": "PHYSICAL_MELEE",
+      "action": {
+        "type": "DAMAGE",
+        "damage": {
+          "knockback": 0.5,
+          "spell_power_coefficient": 1
+        }
+      }
+    },
+    {
+      "action": {
+        "type": "DAMAGE",
+        "damage": {
+          "knockback": 0.5,
+          "spell_power_coefficient": 1.5
+        }
+      },
+      "particles": [
+        {
+          "particle_id": "spell_engine:arcane_hit",
+          "shape": "SPHERE",
+          "origin": "CENTER",
+          "count": 20.0,
+          "min_speed": 0.2,
+          "max_speed": 0.6
+        },
+        {
+          "particle_id": "firework",
+          "shape": "SPHERE",
+          "origin": "CENTER",
+          "count": 30.0,
+          "min_speed": 0.5,
+          "max_speed": 0.9
+        }
+      ]
+    }
+
+  ],
+  "cost": {
+    "cooldown_duration": 2
+  }
+}

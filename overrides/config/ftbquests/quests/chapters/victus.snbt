@@ -1,0 +1,407 @@
+{
+	autofocus_id: "438682E770E781AB"
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "victus"
+	group: "7DB71F008F582E22"
+	icon: {
+		Count: 1b
+		id: "victus:broken_heart"
+		tag: { }
+	}
+	id: "5943E72BCF36F20F"
+	order_index: 7
+	quest_links: [ ]
+	quests: [
+		{
+			id: "60005CAABAD9215C"
+			rewards: [{
+				id: "7A55080D135F5803"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "4AE85F939BA35D0F"
+				item: "victus:victus_journal"
+				type: "item"
+			}]
+			x: 0.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["438682E770E781AB"]
+			id: "1CFA956887B8A5A1"
+			rewards: [{
+				id: "0DF9315123390DCF"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
+			size: 1.0d
+			tasks: [{
+				id: "5ADF9582956CE22D"
+				item: "victus:grilled_heart_aspect"
+				type: "item"
+			}]
+			x: -4.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["438682E770E781AB"]
+			id: "48E4C884453AFC2D"
+			rewards: [{
+				id: "2390E9C1B9B5044A"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
+			size: 1.0d
+			tasks: [{
+				id: "3DC0746E99ADE1B8"
+				item: "victus:bundle_heart_aspect"
+				type: "item"
+			}]
+			x: -3.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["438682E770E781AB"]
+			id: "42CFAA610E687244"
+			rewards: [{
+				id: "593CF08C66A61E93"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
+			size: 1.0d
+			tasks: [{
+				id: "4874F59016208C10"
+				item: "victus:creeper_heart_aspect"
+				type: "item"
+			}]
+			x: -3.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["438682E770E781AB"]
+			id: "017DCDA36213A5B2"
+			rewards: [{
+				id: "4A75E4AD87048DBF"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
+			size: 1.0d
+			tasks: [{
+				id: "17A010BA406839A8"
+				item: "victus:diamond_heart_aspect"
+				type: "item"
+			}]
+			x: -2.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["438682E770E781AB"]
+			id: "3772EA1A288EF8FB"
+			rewards: [{
+				id: "37E2BDC64104800D"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
+			size: 1.0d
+			tasks: [{
+				id: "783D254D0751E8C4"
+				item: "victus:light_heart_aspect"
+				type: "item"
+			}]
+			x: -1.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["438682E770E781AB"]
+			id: "6638DB53253F460B"
+			rewards: [{
+				id: "47C13D33075F53F1"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
+			size: 1.0d
+			tasks: [{
+				id: "31E6E2D715A9E750"
+				item: "victus:ocean_heart_aspect"
+				type: "item"
+			}]
+			x: 1.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["438682E770E781AB"]
+			id: "205CD521AB0D28F4"
+			rewards: [{
+				id: "01D940B309FEDDEF"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
+			size: 1.0d
+			tasks: [{
+				id: "597ADE0C1A396EC1"
+				item: "victus:totem_heart_aspect"
+				type: "item"
+			}]
+			x: 2.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["438682E770E781AB"]
+			id: "70432B5A627EA427"
+			rewards: [{
+				id: "1FE064B0F0917536"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
+			size: 1.0d
+			tasks: [{
+				id: "14B2737437180D93"
+				item: "victus:potion_heart_aspect"
+				type: "item"
+			}]
+			x: 3.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["438682E770E781AB"]
+			id: "3351C5F544E215F7"
+			rewards: [{
+				id: "4F82DED1AF1B1805"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
+			size: 1.0d
+			tasks: [{
+				id: "7337FCC0CBD34397"
+				item: "victus:archery_heart_aspect"
+				type: "item"
+			}]
+			x: -4.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["438682E770E781AB"]
+			id: "3432157B5027B33D"
+			rewards: [{
+				id: "55EC2A3B3FC1A19E"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
+			size: 1.0d
+			tasks: [{
+				id: "753FD91B8D1253D5"
+				item: "victus:blazing_heart_aspect"
+				type: "item"
+			}]
+			x: -4.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["438682E770E781AB"]
+			id: "5181BDE673352DAC"
+			rewards: [{
+				id: "7B64FE58D493EFD8"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
+			size: 1.0d
+			tasks: [{
+				id: "77A70E6F7093CDD7"
+				item: "victus:draconic_heart_aspect"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["438682E770E781AB"]
+			id: "2CEDAD09E4B5AFAC"
+			rewards: [{
+				id: "09B411E53C862EBE"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
+			size: 1.0d
+			tasks: [{
+				id: "26787262FA7D19DF"
+				item: "victus:emerald_heart_aspect"
+				type: "item"
+			}]
+			x: -3.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["438682E770E781AB"]
+			id: "4A5C830150F21FD6"
+			rewards: [{
+				id: "2E8C3F428F693927"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
+			size: 1.0d
+			tasks: [{
+				id: "3373BB4927BCABDE"
+				item: "victus:evoking_heart_aspect"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["438682E770E781AB"]
+			id: "49CC3204B59F2FBD"
+			rewards: [{
+				id: "00DDED43BECA357F"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
+			size: 1.0d
+			tasks: [{
+				id: "771E44B7BD069856"
+				item: "victus:golden_heart_aspect"
+				type: "item"
+			}]
+			x: 3.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["438682E770E781AB"]
+			id: "27F21463DE1F6C8F"
+			rewards: [{
+				id: "49CED711C8BD6317"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
+			size: 1.0d
+			tasks: [{
+				id: "2BFEBFCC1E3B024C"
+				item: "victus:icy_heart_aspect"
+				type: "item"
+			}]
+			x: 4.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["438682E770E781AB"]
+			id: "5A8AB95F9A56FA96"
+			rewards: [{
+				id: "7773461D6CB0E81C"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
+			size: 1.0d
+			tasks: [{
+				id: "0878998AE69BC002"
+				item: "victus:iron_heart_aspect"
+				type: "item"
+			}]
+			x: 4.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["438682E770E781AB"]
+			id: "6FD5BEABCF994A95"
+			rewards: [{
+				id: "3599DB87810A4724"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
+			size: 1.0d
+			tasks: [{
+				id: "4C854CE5D371C359"
+				item: "victus:lapis_heart_aspect"
+				type: "item"
+			}]
+			x: 4.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["438682E770E781AB"]
+			id: "5393BBB7939F9C47"
+			rewards: [{
+				id: "11CBF4B9D4AC3B70"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
+			size: 1.0d
+			tasks: [{
+				id: "42AF754BFC6FCEE0"
+				item: "victus:sweet_heart_aspect"
+				type: "item"
+			}]
+			x: -2.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["438682E770E781AB"]
+			id: "6449172DAF12C8F7"
+			rewards: [{
+				id: "052517B522209C3D"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
+			size: 1.0d
+			tasks: [{
+				id: "1B66154F529E720C"
+				item: "victus:cheese_heart_aspect"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["438682E770E781AB"]
+			id: "36BEDB3BAF75C006"
+			rewards: [{
+				id: "6ADBADFB383F350E"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
+			size: 1.0d
+			tasks: [{
+				id: "2C61A883DB4BE2E9"
+				item: "victus:void_heart_aspect"
+				type: "item"
+			}]
+			x: -1.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["438682E770E781AB"]
+			id: "46B84AE4B230616C"
+			rewards: [{
+				id: "1ED34A114D546744"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
+			size: 1.0d
+			tasks: [{
+				id: "4AC81A20E8B65B06"
+				item: "victus:broken_heart"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["60005CAABAD9215C"]
+			id: "438682E770E781AB"
+			rewards: [{
+				id: "7D49994DB9049FB8"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
+			size: 1.5d
+			tasks: [{
+				id: "3A0AA176BAF5E914"
+				item: "victus:blank_heart_aspect"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+	]
+	title: "Victus"
+}

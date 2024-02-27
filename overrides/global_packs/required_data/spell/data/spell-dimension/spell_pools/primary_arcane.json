@@ -1,0 +1,8 @@
+{
+  "creatable_as_spellbook":true,
+  "spell_ids": [
+    "wizards:arcane_missile",
+    "wizards:arcane_beam",
+    "wizards:arcane_blast"
+  ]
+}

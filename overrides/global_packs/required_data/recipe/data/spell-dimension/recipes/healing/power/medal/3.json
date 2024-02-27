@@ -1,0 +1,31 @@
+{
+  "type": "spell-dimension:medal_upgrade",
+  "ingredients": [
+    [],
+    {
+      "item": "mythicmetals:celestium_ingot"
+    },
+    [],
+    {
+      "item": "spell-dimension:advanced_healing_essence"
+    },
+    {
+      "item": "spell-dimension:advanced_healing_essence"
+    },
+    [],
+    {
+      "item": "mythicmetals:durasteel_engine"
+    },
+    []
+  ],
+  "original": {
+    "Grade": 2,
+    "Major": "POWER",
+    "School": "HEALING"
+  },
+  "upgraded": {
+    "Grade": 3,
+    "Major": "POWER",
+    "School": "HEALING"
+  }
+}

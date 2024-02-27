@@ -1,0 +1,4 @@
+#Sat Dec 09 13:43:25 CST 2023
+cloudVolume1Enabled=false
+fogVolumeEnabled=false
+shadowFilterIterations=9

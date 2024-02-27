@@ -1,0 +1,49 @@
+{
+  "school": "PHYSICAL_MELEE",
+  "range": 0,
+  "learn": {
+    "tier": 1
+  },
+  "cast": {
+    "duration": 4,
+    "sound": {
+      "id": "spell_engine:generic_frost_casting",
+      "randomness": 0
+    }
+  },
+  "release": {
+    "custom_impact": true,
+    "target": {
+      "type": "SELF",
+      "area": {
+        "vertical_range_multiplier": 0.5
+      }
+    }
+  },
+  "impact": [
+    {
+      "action": {
+        "type": "DAMAGE",
+        "damage": {
+          "knockback": 0.5,
+          "spell_power_coefficient": 1.5
+        }
+      },
+      "particles": [
+        {
+          "particle_id": "sweep_attack",
+          "shape": "SPHERE",
+          "origin": "CENTER",
+          "count": 1
+        }
+      ],
+      "sound": {
+        "id": "minecraft:entity.player.attack.sweep"
+      }
+    }
+  ],
+  "cost": {
+    "cooldown_duration": 4,
+    "cooldown_proportional": true
+  }
+}

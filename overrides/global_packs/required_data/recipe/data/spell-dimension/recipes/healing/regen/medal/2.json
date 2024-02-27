@@ -1,0 +1,39 @@
+{
+  "type": "spell-dimension:medal_upgrade",
+  "ingredients": [
+    {
+      "item": "minecraft:bamboo"
+    },
+    {
+      "item": "minecraft:bamboo"
+    },
+    {
+      "item": "minecraft:bamboo"
+    },
+    {
+      "item": "minecraft:bamboo"
+    },
+    {
+      "item": "minecraft:bamboo"
+    },
+    {
+      "item": "minecraft:bamboo"
+    },
+    {
+      "item": "minecraft:bamboo"
+    },
+    {
+      "item": "minecraft:bamboo"
+    }
+  ],
+  "original": {
+    "Grade": 1,
+    "Major": "REGEN",
+    "School": "HEALING"
+  },
+  "upgraded": {
+    "Grade": 2,
+    "Major": "REGEN",
+    "School": "HEALING"
+  }
+}

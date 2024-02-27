@@ -1,0 +1,31 @@
+{
+  "type": "spell-dimension:medal_upgrade",
+  "ingredients": [
+    [],
+    {
+      "item": "mythicmetals:metallurgium_ingot"
+    },
+    [],
+    {
+      "item": "spell-dimension:advanced_healing_essence"
+    },
+    {
+      "item": "spell-dimension:advanced_healing_essence"
+    },
+    [],
+    {
+      "item": "minecraft:grass_block"
+    },
+    []
+  ],
+  "original": {
+    "Grade": 2,
+    "Major": "REGEN",
+    "School": "HEALING"
+  },
+  "upgraded": {
+    "Grade": 3,
+    "Major": "REGEN",
+    "School": "HEALING"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "creatable_as_spellbook":false,
+  "spell_ids": [
+    "spell-dimension:resist3",
+    
+    "paladins:heal",
+    "paladins:holy_shock",
+    "paladins:divine_protection",
+
+    "paladins:flash_heal",
+    "paladins:judgement",
+
+    "paladins:holy_beam",
+    "paladins:circle_of_healing"
+  ]
+}

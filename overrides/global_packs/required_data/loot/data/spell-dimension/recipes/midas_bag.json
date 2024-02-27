@@ -1,0 +1,13 @@
+{
+    "type": "lootbags:loot",
+    "name": "spell-dimension.bag.midas",
+    "color": {
+        "r": 255,
+        "g": 255,
+        "b": 0
+    },
+    "rarity": "COMMON",
+    "output": {
+        "table": "spell-dimension:bag/midas"
+    }
+}

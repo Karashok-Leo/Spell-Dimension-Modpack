@@ -1,0 +1,91 @@
+{
+  "school": "PHYSICAL_RANGED",
+  "range": 4,
+  "learn": {
+    "tier": 3
+  },
+  "cast": {
+    "duration": 0.8,
+    "animation": "spellbladenext:dual_handed_slash_cross",
+    "sound": {
+      "id": "entity.warden.sonic_charge"
+    },
+    "particles": [
+      {
+        "particle_id": "spell_engine:flame",
+        "shape": "PIPE",
+        "origin": "FEET",
+        "count": 1.0,
+        "min_speed": 0.1,
+        "max_speed": 0.25
+      }
+    ]
+  },
+  "release": {
+    "target": {
+      "type": "AREA",
+      "area": {
+        "angle_degrees": 160,
+        "vertical_range_multiplier": 1,
+        "include_caster": true
+      }
+    },
+    "animation": "spellbladenext:dashslash",
+    "sound": {
+      "id": "entity.warden.sonic_boom"
+    },
+    "particles": [
+      {
+        "particle_id": "spell_engine:dripping_blood",
+        "shape": "CIRCLE",
+        "origin": "CENTER",
+        "count": 54.0,
+        "min_speed": 0.3,
+        "max_speed": 0.6
+      },
+      {
+        "particle_id": "soul_fire_flame",
+        "shape": "SPHERE",
+        "origin": "CENTER",
+        "count": 24.0,
+        "min_speed": 0.2,
+        "max_speed": 0.4
+      }
+    ]
+  },
+  "impact": [
+    {
+      "action": {
+        "school": "PHYSICAL_MELEE",
+        "type": "HEAL",
+        "heal": {
+          "spell_power_coefficient": 1.0
+        }
+      }
+    },
+    {
+      "action": {
+        "school": "PHYSICAL_MELEE",
+        "type": "DAMAGE",
+        "damage": {
+          "knockback": 2,
+          "spell_power_coefficient": 0.6
+        }
+      },
+      "particles": [
+        {
+          "particle_id": "sweep_attack",
+          "shape": "SPHERE",
+          "origin": "CENTER",
+          "count": 1
+        }
+      ],
+      "sound": {
+        "id": "minecraft:entity.player.attack.sweep"
+      }
+    }
+  ],
+  "cost": {
+    "cooldown_duration": 5
+  }
+}

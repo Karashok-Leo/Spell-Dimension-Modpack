@@ -1,0 +1,29 @@
+{
+  "type": "spell-dimension:medal_upgrade",
+  "ingredients": [
+    [],
+    {
+      "item": "minecraft:amethyst_shard"
+    },
+    [],
+    {
+      "item": "runes:arcane_stone"
+    },
+    {
+      "item": "runes:arcane_stone"
+    },
+    [],
+    {
+      "item": "minecraft:amethyst_shard"
+    },
+    []
+  ],
+  "original": {
+    "Grade": 0
+  },
+  "upgraded": {
+    "Grade": 1,
+    "Major": "FLOURISH",
+    "School": "ARCANE"
+  }
+}

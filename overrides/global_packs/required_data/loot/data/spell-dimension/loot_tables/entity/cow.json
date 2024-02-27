@@ -1,0 +1,28 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "item",
+          "name": "midashunger:cooked_golden_beef",
+          "weight": 1
+        },
+        {
+          "type": "item",
+          "name": "minecraft:cooked_beef",
+          "weight": 2
+        },
+        {
+          "type": "item",
+          "name": "minecraft:leather",
+          "weight": 3
+        },
+				{
+					"type": "minecraft:empty",
+					"weight": 10
+				}
+      ]
+    }
+  ]
+}

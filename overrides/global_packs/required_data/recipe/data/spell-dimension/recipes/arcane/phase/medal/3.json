@@ -1,0 +1,31 @@
+{
+  "type": "spell-dimension:medal_upgrade",
+  "ingredients": [
+    [],
+    {
+      "item": "bosses_of_mass_destruction:earthdive_spear"
+    },
+    [],
+    {
+      "item": "spell-dimension:advanced_arcane_essence"
+    },
+    {
+      "item": "spell-dimension:advanced_arcane_essence"
+    },
+    [],
+    {
+      "item": "plentyofarmors:stardusite_ingot"
+    },
+    []
+  ],
+  "original": {
+    "Grade": 2,
+    "Major": "PHASE",
+    "School": "ARCANE"
+  },
+  "upgraded": {
+    "Grade": 3,
+    "Major": "PHASE",
+    "School": "ARCANE"
+  }
+}

@@ -1,0 +1,487 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "soulslike_weaponry"
+	group: "5BB7BD8D0BB0ED9A"
+	icon: {
+		Count: 1b
+		id: "soulsweapons:chaos_orb"
+		tag: { }
+	}
+	id: "7291EA69AED08AB1"
+	order_index: 4
+	quest_links: [ ]
+	quests: [
+		{
+			id: "36000A51550FFA8F"
+			tasks: [
+				{
+					id: "6934A9A6A0128FF4"
+					item: {
+						Count: 1b
+						id: "itemfilters:or"
+						tag: {
+							items: [
+								{
+									Count: 1b
+									id: "soulsweapons:bluemoon_shortsword"
+									tag: {
+										Damage: 0
+									}
+								}
+								{
+									Count: 1b
+									id: "soulsweapons:bluemoon_greatsword"
+									tag: {
+										Damage: 0
+									}
+								}
+								{
+									Count: 1b
+									id: "soulsweapons:moonlight_shortsword"
+									tag: {
+										Damage: 0
+									}
+								}
+								{
+									Count: 1b
+									id: "soulsweapons:moonlight_greatsword"
+									tag: {
+										Damage: 0
+									}
+								}
+								{
+									Count: 1b
+									id: "soulsweapons:pure_moonlight_greatsword"
+									tag: {
+										Damage: 0
+									}
+								}
+								{
+									Count: 1b
+									id: "soulsweapons:bloodthirster"
+									tag: {
+										Damage: 0
+									}
+								}
+								{
+									Count: 1b
+									id: "soulsweapons:darkin_blade"
+									tag: {
+										Damage: 0
+									}
+								}
+								{
+									Count: 1b
+									id: "soulsweapons:dragon_staff"
+									tag: {
+										Damage: 0
+									}
+								}
+								{
+									Count: 1b
+									id: "soulsweapons:withered_wabbajack"
+									tag: {
+										Damage: 0
+									}
+								}
+								{
+									Count: 1b
+									id: "soulsweapons:whirligig_sawblade"
+									tag: {
+										Damage: 0
+									}
+								}
+								{
+									Count: 1b
+									id: "soulsweapons:dragonslayer_swordspear"
+									tag: {
+										Damage: 0
+										raining_id: 0b
+									}
+								}
+								{
+									Count: 1b
+									id: "soulsweapons:rageblade"
+									tag: {
+										Damage: 0
+									}
+								}
+								{
+									Count: 1b
+									id: "soulsweapons:guts_sword"
+									tag: {
+										Damage: 0
+									}
+								}
+								{
+									Count: 1b
+									id: "soulsweapons:nightfall"
+									tag: {
+										Damage: 0
+									}
+								}
+								{
+									Count: 1b
+									id: "soulsweapons:comet_spear"
+									tag: {
+										Damage: 0
+									}
+								}
+								{
+									Count: 1b
+									id: "soulsweapons:lich_bane"
+									tag: {
+										Damage: 0
+									}
+								}
+								{
+									Count: 1b
+									id: "soulsweapons:galeforce"
+									tag: {
+										Damage: 0
+									}
+								}
+								{
+									Count: 1b
+									id: "soulsweapons:translucent_sword"
+									tag: {
+										Damage: 0
+									}
+								}
+								{
+									Count: 1b
+									id: "soulsweapons:translucent_glaive"
+									tag: {
+										Damage: 0
+									}
+								}
+								{
+									Count: 1b
+									id: "soulsweapons:translucent_double_greatsword"
+									tag: {
+										Damage: 0
+									}
+								}
+								{
+									Count: 1b
+									id: "soulsweapons:draugr"
+									tag: {
+										Damage: 0
+										night: 0b
+									}
+								}
+								{
+									Count: 1b
+									id: "soulsweapons:dawnbreaker"
+									tag: {
+										Damage: 0
+									}
+								}
+								{
+									Count: 1b
+									id: "soulsweapons:soul_reaper"
+									tag: {
+										Damage: 0
+									}
+								}
+								{
+									Count: 1b
+									id: "soulsweapons:forlorn_scythe"
+									tag: {
+										Damage: 0
+									}
+								}
+								{
+									Count: 1b
+									id: "soulsweapons:leviathan_axe"
+									tag: {
+										Damage: 0
+									}
+								}
+								{
+									Count: 1b
+									id: "soulsweapons:skofnung"
+									tag: {
+										Damage: 0
+									}
+								}
+								{
+									Count: 1b
+									id: "soulsweapons:mjolnir"
+									tag: {
+										Damage: 0
+										lightning_status: 0
+										raining: 0b
+										should_update_lightning: 0b
+									}
+								}
+							]
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "73022773C2B63549"
+					item: {
+						Count: 1b
+						id: "itemfilters:or"
+						tag: {
+							items: [
+								{
+									Count: 1b
+									id: "soulsweapons:freyr_sword"
+									tag: {
+										Damage: 0
+									}
+								}
+								{
+									Count: 1b
+									id: "soulsweapons:sting"
+									tag: {
+										Damage: 0
+										active_glowing: 0b
+									}
+								}
+								{
+									Count: 1b
+									id: "soulsweapons:featherlight"
+									tag: {
+										Damage: 0
+									}
+								}
+								{
+									Count: 1b
+									id: "soulsweapons:crucible_sword"
+									tag: {
+										Damage: 0
+										empowered: 1b
+									}
+								}
+								{
+									Count: 1b
+									id: "soulsweapons:darkin_scythe_pre"
+									tag: {
+										Damage: 0
+									}
+								}
+								{
+									Count: 1b
+									id: "soulsweapons:shadow_assassin_scythe"
+									tag: {
+										Damage: 0
+										in_combat: 1b
+									}
+								}
+								{
+									Count: 1b
+									id: "soulsweapons:kirkhammer"
+									tag: {
+										Damage: 0
+									}
+								}
+								{
+									Count: 1b
+									id: "soulsweapons:silver_sword"
+									tag: {
+										Damage: 0
+									}
+								}
+								{
+									Count: 1b
+									id: "soulsweapons:holy_greatsword"
+									tag: {
+										Damage: 0
+									}
+								}
+								{
+									Count: 1b
+									id: "soulsweapons:draupnir_spear"
+									tag: {
+										Damage: 0
+									}
+								}
+								{
+									Count: 1b
+									id: "soulsweapons:holy_moonlight_greatsword"
+									tag: {
+										Damage: 0
+										current_charge: 0
+									}
+								}
+								{
+									Count: 1b
+									id: "soulsweapons:holy_moonlight_sword"
+									tag: {
+										Damage: 0
+										current_charge: 0
+									}
+								}
+								{
+									Count: 1b
+									id: "soulsweapons:frostmourne"
+									tag: {
+										Damage: 0
+									}
+								}
+								{
+									Count: 1b
+									id: "soulsweapons:master_sword"
+									tag: {
+										Damage: 0
+									}
+								}
+								{
+									Count: 1b
+									id: "soulsweapons:hunter_pistol"
+									tag: {
+										Damage: 0
+									}
+								}
+								{
+									Count: 1b
+									id: "soulsweapons:blunderbuss"
+									tag: {
+										Damage: 0
+									}
+								}
+								{
+									Count: 1b
+									id: "soulsweapons:gatling_gun"
+									tag: {
+										Damage: 0
+									}
+								}
+								{
+									Count: 1b
+									id: "soulsweapons:hunter_cannon"
+									tag: {
+										Damage: 0
+									}
+								}
+							]
+						}
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 1.0d
+		}
+		{
+			id: "0D9703558665F447"
+			tasks: [{
+				id: "6A05B4CAC8B74E30"
+				item: {
+					Count: 1b
+					id: "itemfilters:or"
+					tag: {
+						items: [
+							{
+								Count: 1b
+								id: "soulsweapons:soul_ingot_helmet"
+								tag: {
+									Damage: 0
+								}
+							}
+							{
+								Count: 1b
+								id: "soulsweapons:soul_ingot_chestplate"
+								tag: {
+									Damage: 0
+								}
+							}
+							{
+								Count: 1b
+								id: "soulsweapons:soul_ingot_leggings"
+								tag: {
+									Damage: 0
+								}
+							}
+							{
+								Count: 1b
+								id: "soulsweapons:soul_ingot_boots"
+								tag: {
+									Damage: 0
+								}
+							}
+							{
+								Count: 1b
+								id: "soulsweapons:soul_robes_helmet"
+								tag: {
+									Damage: 0
+								}
+							}
+							{
+								Count: 1b
+								id: "soulsweapons:soul_robes_chestplate"
+								tag: {
+									Damage: 0
+								}
+							}
+							{
+								Count: 1b
+								id: "soulsweapons:soul_robes_leggings"
+								tag: {
+									Damage: 0
+								}
+							}
+							{
+								Count: 1b
+								id: "soulsweapons:soul_robes_boots"
+								tag: {
+									Damage: 0
+								}
+							}
+							{
+								Count: 1b
+								id: "soulsweapons:chaos_helmet"
+								tag: {
+									Damage: 0
+								}
+							}
+							{
+								Count: 1b
+								id: "soulsweapons:arkenplate"
+								tag: {
+									Damage: 0
+								}
+							}
+							{
+								Count: 1b
+								id: "soulsweapons:chaos_robes"
+								tag: {
+									Damage: 0
+								}
+							}
+						]
+					}
+				}
+				type: "item"
+			}]
+			x: 1.0d
+			y: 1.0d
+		}
+		{
+			id: "48E29657FB4EF861"
+			tasks: [{
+				id: "7FADF9489DBFF20C"
+				item: "soulsweapons:verglas"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			id: "0D37B7DAE1E20484"
+			tasks: [{
+				id: "3A768CC00D22FB15"
+				item: "soulsweapons:moonstone"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 0.0d
+		}
+	]
+	title: "Soulslike Weaponry"
+}

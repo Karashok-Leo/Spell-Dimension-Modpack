@@ -1,0 +1,13 @@
+{
+    "type": "lootbags:loot",
+    "name": "spell-dimension.bag.uncommon",
+    "color": {
+        "r": 0,
+        "g": 255,
+        "b": 0
+    },
+    "rarity": "UNCOMMON",
+    "output": {
+        "table": "spell-dimension:bag/uncommon_gear"
+    }
+}

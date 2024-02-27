@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:entity",
+  "pools": [
+    {
+      "conditions": [
+        {
+          "condition": "minecraft:killed_by_player"
+        },
+        {
+          "condition": "extra-loot:entity_tier",
+          "entity": "this",
+          "min": 0,
+          "max": 50
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "name": "spell-dimension:pool/common",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:empty",
+          "weight": 100
+        }
+      ],
+      "rolls": 1.0
+    }
+  ]
+}

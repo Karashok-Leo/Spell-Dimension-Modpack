@@ -1,0 +1,501 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "bows_and"
+	group: "5BB7BD8D0BB0ED9A"
+	icon: {
+		Count: 1b
+		id: "archers:netherite_shortbow"
+		tag: {
+			Damage: 0
+		}
+	}
+	id: "16206A145CA9843E"
+	order_index: 5
+	quest_links: [ ]
+	quests: [
+		{
+			id: "514499F43593CF73"
+			rewards: [{
+				count: 8
+				id: "4AF5E1A7818633B0"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "3AB6B8D6CFD9BE61"
+				item: {
+					Count: 1b
+					id: "nyfsquiver:basic_quiver"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: -3.0d
+			y: 2.0d
+		}
+		{
+			id: "49A2CB2EE21B4CA8"
+			rewards: [{
+				count: 8
+				id: "74F1A4B826DFB345"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "1CC9AE97F7231DFE"
+				item: {
+					Count: 1b
+					id: "nyfsquiver:iron_quiver"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: -2.0d
+			y: 2.0d
+		}
+		{
+			id: "183EC2A1D354F7A2"
+			rewards: [{
+				count: 8
+				id: "3EAD73126B792475"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "585C11C267EA9685"
+				item: {
+					Count: 1b
+					id: "nyfsquiver:copper_quiver"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: -1.0d
+			y: 2.0d
+		}
+		{
+			id: "493E2E985E406CFF"
+			rewards: [{
+				count: 8
+				id: "5DE0E8DA40573D38"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "42D93BC6AD7FF798"
+				item: {
+					Count: 1b
+					id: "nyfsquiver:gold_quiver"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: 2.0d
+		}
+		{
+			id: "660629CC3C7C97D8"
+			rewards: [{
+				count: 8
+				id: "0E73A4366926B202"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "49DA9FB23F11DCD2"
+				item: {
+					Count: 1b
+					id: "nyfsquiver:silver_quiver"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 1.0d
+			y: 2.0d
+		}
+		{
+			id: "2F302CA2B908C783"
+			rewards: [{
+				count: 8
+				id: "1F8CA24F0AF8B87C"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "433C2AA341376F70"
+				item: {
+					Count: 1b
+					id: "nyfsquiver:diamond_quiver"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 2.0d
+			y: 2.0d
+		}
+		{
+			id: "6EBACF38938EE97F"
+			rewards: [{
+				count: 8
+				id: "5D12DCFA6EE02F68"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "0A3C3CE0DBDBC6ED"
+				item: {
+					Count: 1b
+					id: "nyfsquiver:netherite_quiver"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 3.0d
+			y: 2.0d
+		}
+		{
+			id: "4D30BC8D87AD05D6"
+			rewards: [{
+				count: 8
+				id: "451707B2246A879A"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "226ED824E35D4A1C"
+				item: {
+					Count: 1b
+					id: "minecraft:bow"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -4.0d
+			y: 0.0d
+		}
+		{
+			id: "3275C15E2E14025C"
+			rewards: [{
+				count: 8
+				id: "2575B5D4D8F68F1B"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "48DBEC0D7765E25B"
+				item: {
+					Count: 1b
+					id: "morebows:stone_bow"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -3.0d
+			y: 0.0d
+		}
+		{
+			id: "266B447F69D61B84"
+			rewards: [{
+				count: 8
+				id: "5DDE9C6358A5C2F8"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "4859FC44503C139B"
+				item: {
+					Count: 1b
+					id: "morebows:iron_bow"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -2.0d
+			y: 0.0d
+		}
+		{
+			id: "2411021023190FD8"
+			rewards: [{
+				count: 8
+				id: "217B98D3C622BA4B"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "59691CE0F546FE52"
+				item: {
+					Count: 1b
+					id: "morebows:multi_bow"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -1.0d
+			y: 0.0d
+		}
+		{
+			id: "514BE1C156D33EF0"
+			rewards: [{
+				count: 8
+				id: "5AD61F13C2EBC601"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "09F4E4BC065B8419"
+				item: {
+					Count: 1b
+					id: "morebows:gold_bow"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			id: "64356994BF26BCF0"
+			rewards: [{
+				count: 8
+				id: "1BB353D562AEF5AD"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "6DB15269B8B44980"
+				item: {
+					Count: 1b
+					id: "morebows:diamond_bow"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 1.0d
+			y: 0.0d
+		}
+		{
+			id: "7905C12B66D3C217"
+			rewards: [{
+				count: 8
+				id: "40F25C6A58D91C76"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "3FB8E1152E405C30"
+				item: {
+					Count: 1b
+					id: "morebows:flame_bow"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			id: "624A1B7234B297CD"
+			rewards: [{
+				count: 8
+				id: "1820012B46C78968"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "523C04CDF6BFF82E"
+				item: {
+					Count: 1b
+					id: "morebows:frost_bow"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			id: "41F17FD5402C3592"
+			rewards: [{
+				count: 8
+				id: "49CE05DB34140A08"
+				item: "numismatic-overhaul:bronze_coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "52C8920AB3CE65A2"
+				item: {
+					Count: 1b
+					id: "morebows:ender_bow"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			id: "6B9EC79F03A981A9"
+			tasks: [{
+				id: "0449E6845337414B"
+				item: {
+					Count: 1b
+					id: "archers:composite_longbow"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -4.0d
+			y: -2.0d
+		}
+		{
+			id: "55A5E792837185AB"
+			tasks: [{
+				id: "6EBABFE5DDA4C82B"
+				item: {
+					Count: 1b
+					id: "archers:mechanic_shortbow"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -3.0d
+			y: -2.0d
+		}
+		{
+			id: "3C9DFD62E9267F16"
+			tasks: [{
+				id: "6FD09EF21D86AB16"
+				item: {
+					Count: 1b
+					id: "archers:royal_longbow"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -2.0d
+			y: -2.0d
+		}
+		{
+			id: "5F209D66F81AE9DE"
+			tasks: [{
+				id: "5C4281729BC49ECB"
+				item: {
+					Count: 1b
+					id: "archers:netherite_shortbow"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -1.0d
+			y: -2.0d
+		}
+		{
+			id: "574C7B8E1B989A49"
+			tasks: [{
+				id: "27013B9B92297E20"
+				item: {
+					Count: 1b
+					id: "archers:netherite_longbow"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: -2.0d
+		}
+		{
+			id: "22C6FF9CE1A8826F"
+			tasks: [{
+				id: "59DE2B7F16E2898A"
+				item: {
+					Count: 1b
+					id: "archers:rapid_crossbow"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 1.0d
+			y: -2.0d
+		}
+		{
+			id: "6E2B59BB4A58B89A"
+			tasks: [{
+				id: "61721CA236F73782"
+				item: {
+					Count: 1b
+					id: "archers:heavy_crossbow"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 2.0d
+			y: -2.0d
+		}
+		{
+			id: "749272C76E901C9A"
+			tasks: [{
+				id: "2AFAB91CE3B33F36"
+				item: {
+					Count: 1b
+					id: "archers:netherite_rapid_crossbow"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 3.0d
+			y: -2.0d
+		}
+		{
+			id: "0DBEF5BCB08E8EEC"
+			tasks: [{
+				id: "15352ED1A9FF6BED"
+				item: {
+					Count: 1b
+					id: "archers:netherite_heavy_crossbow"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 4.0d
+			y: -2.0d
+		}
+	]
+	title: "Archery"
+}

@@ -1,0 +1,148 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "trinkets"
+	group: "7DB71F008F582E22"
+	icon: {
+		Count: 1b
+		id: "jewelry:netherite_jade_necklace"
+		tag: { }
+	}
+	id: "24B93122BB2E2BD9"
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			id: "44D1886EE8CB4B29"
+			tasks: [
+				{
+					id: "62D22A49F8DB19A1"
+					item: {
+						Count: 1b
+						id: "itemfilters:tag"
+						tag: {
+							value: "jewelry:rings"
+						}
+					}
+					title: "珠宝戒指"
+					type: "item"
+				}
+				{
+					id: "36BA77AA41B4A3FA"
+					item: {
+						Count: 1b
+						id: "itemfilters:tag"
+						tag: {
+							value: "jewelry:necklaces"
+						}
+					}
+					title: "珠宝项链"
+					type: "item"
+				}
+			]
+			title: "珠宝饰品"
+			x: 1.0d
+			y: 0.0d
+		}
+		{
+			description: ["击杀宝箱怪随机掉落。"]
+			id: "592962F990EE3ADF"
+			tasks: [{
+				id: "6EFA4E031FEFCEE8"
+				item: {
+					Count: 1b
+					id: "itemfilters:tag"
+					tag: {
+						value: "artifacts:artifacts"
+					}
+				}
+				title: "奇异饰品"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			id: "3750809B2C10C4A8"
+			tasks: [{
+				id: "6E9F9F19CD66C658"
+				item: {
+					Count: 1b
+					id: "itemfilters:tag"
+					tag: {
+						value: "trinkets:mythic_charms/mythic_charm"
+					}
+				}
+				title: "神秘护符"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 1.0d
+		}
+		{
+			description: [
+				"“符文”是一种为你提供增益的物品，它可以被附魔。"
+				""
+				"当持有时，消耗自身耐久为你提供增益，不持有时可以自动恢复耐久，符文的附魔等级越高，耐久越高。"
+				""
+				"在流浪商人与图书管理员处有售。"
+				""
+				"注意：附有“免疫”堕落附魔时，符文无法自动恢复。"
+			]
+			id: "09FFE3A0F01045FE"
+			tasks: [{
+				id: "761CDADE1928B449"
+				item: {
+					Count: 1b
+					id: "itemfilters:or"
+					tag: {
+						items: [
+							{
+								Count: 1b
+								id: "qu-enchantments:rune_0"
+							}
+							{
+								Count: 1b
+								id: "qu-enchantments:rune_1"
+							}
+							{
+								Count: 1b
+								id: "qu-enchantments:rune_2"
+							}
+							{
+								Count: 1b
+								id: "qu-enchantments:rune_3"
+							}
+							{
+								Count: 1b
+								id: "qu-enchantments:rune_4"
+							}
+							{
+								Count: 1b
+								id: "qu-enchantments:rune_5"
+							}
+							{
+								Count: 1b
+								id: "qu-enchantments:rune_6"
+							}
+							{
+								Count: 1b
+								id: "qu-enchantments:rune_7"
+							}
+							{
+								Count: 1b
+								id: "qu-enchantments:rune_8"
+							}
+						]
+					}
+				}
+				title: "符文"
+				type: "item"
+			}]
+			title: "附魔符文"
+			x: 1.0d
+			y: 1.0d
+		}
+	]
+	title: "Trinkets"
+}

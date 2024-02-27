@@ -1,0 +1,31 @@
+{
+  "type": "spell-dimension:medal_upgrade",
+  "ingredients": [
+    [],
+    {
+      "item": "mythicmetals:aquarium_pearl"
+    },
+    [],
+    {
+      "item": "spell-dimension:advanced_frost_essence"
+    },
+    {
+      "item": "spell-dimension:advanced_frost_essence"
+    },
+    [],
+    {
+      "item": "victus:icy_heart_aspect"
+    },
+    []
+  ],
+  "original": {
+    "Grade": 2,
+    "Major": "AURA",
+    "School": "FROST"
+  },
+  "upgraded": {
+    "Grade": 3,
+    "Major": "AURA",
+    "School": "FROST"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "type": "spell-dimension:medal_upgrade",
+  "ingredients": [
+    [],
+    {
+      "tag": "minecraft:coals"
+    },
+    [],
+    {
+      "item": "runes:fire_stone"
+    },
+    {
+      "item": "runes:fire_stone"
+    },
+    [],
+    {
+      "item": "minecraft:gunpowder"
+    },
+    []
+  ],
+  "original": {
+    "Grade": 0
+  },
+  "upgraded": {
+    "Grade": 1,
+    "Major": "BLAST",
+    "School": "FIRE"
+  }
+}

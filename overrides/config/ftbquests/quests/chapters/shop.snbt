@@ -1,0 +1,901 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "shop"
+	group: "7DB71F008F582E22"
+	icon: "numismatic-overhaul:gold_coin"
+	id: "259904028D54A0FB"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			can_repeat: true
+			id: "2DAA23051E59CD6B"
+			rewards: [{
+				auto: "enabled"
+				id: "6E894377AAFBEDB9"
+				item: "numismatic-overhaul:gold_coin"
+				random_bonus: 9
+				type: "item"
+			}]
+			tasks: [{
+				entity: "minecraft:player"
+				id: "7400118E5A259C1A"
+				type: "kill"
+				value: 1L
+			}]
+			title: "PVP!"
+			x: 0.0d
+			y: -1.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				Count: 1b
+				id: "mythicmetals:steel_sword"
+				tag: {
+					AttributeModifiers: [
+						{
+							Amount: 6.0d
+							AttributeName: "minecraft:generic.attack_damage"
+							Name: "DD Multiply"
+							Operation: 0
+							Slot: "mainhand"
+							UUID: [I;
+								-885041709
+								1683771192
+								-1533567981
+								-1556236849
+							]
+						}
+						{
+							Amount: -2.4000000953674316d
+							AttributeName: "minecraft:generic.attack_speed"
+							Name: "Weapon modifier"
+							Operation: 0
+							Slot: "mainhand"
+							UUID: [I;
+								-98353636
+								1098926181
+								-1340359474
+								-1752847197
+							]
+						}
+					]
+					DDS: 1b
+					Damage: 0
+					Tiered: {
+						Tier: "tiered:common_melee_2"
+					}
+					durable: -0.3d
+				}
+			}
+			id: "6F1832CDE4538FB2"
+			rewards: [{
+				id: "3BC70AFB17C45E48"
+				item: {
+					Count: 1b
+					id: "lootbags:loot_bag"
+					tag: {
+						Color: -256
+						Loot: "spell-dimension:common_bag"
+						Name: "spell-dimension.bag.common"
+						Type: "COMMON"
+					}
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				id: "62C276D3DF2A4EC7"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
+			title: "购买 随机普通装备"
+			x: -2.0d
+			y: -3.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				Count: 1b
+				id: "simplyswords:emberblade"
+				tag: {
+					Damage: 0
+					nether_power: "no_socket"
+					runic_power: "no_socket"
+				}
+			}
+			id: "52A4B63EC7AFC63E"
+			rewards: [{
+				id: "52C0A82ACB275C93"
+				item: {
+					Count: 1b
+					id: "lootbags:loot_bag"
+					tag: {
+						Color: -65281
+						Loot: "spell-dimension:epic_bag"
+						Name: "spell-dimension.bag.epic"
+						Type: "EPIC"
+					}
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 8L
+				id: "010A7D723FC15A0E"
+				item: "numismatic-overhaul:gold_coin"
+				type: "item"
+			}]
+			title: "购买 随机史诗装备"
+			x: 1.0d
+			y: -2.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				Count: 1b
+				id: "simplyswords:mythicmetals_compat/metallurgium/metallurgium_rapier"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "18A0E1862E2373D0"
+			rewards: [{
+				id: "5B467FE9C9A1F4DA"
+				item: {
+					Count: 1b
+					id: "lootbags:loot_bag"
+					tag: {
+						Color: -10496
+						Loot: "spell-dimension:legendary_bag"
+						Name: "spell-dimension.bag.legendary"
+						Type: "LEGENDARY"
+					}
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 32L
+				id: "2F66A7FDCD739AAE"
+				item: { Count: 16b, id: "numismatic-overhaul:gold_coin" }
+				type: "item"
+			}]
+			title: "购买 随机传奇装备"
+			x: 2.0d
+			y: -3.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				Count: 1b
+				id: "ringsofascension:ring_magnetism"
+				tag: { }
+			}
+			id: "35F842B316FD65D1"
+			rewards: [{
+				id: "16923A8273B31724"
+				item: {
+					Count: 1b
+					id: "lootbags:loot_bag"
+					tag: {
+						Color: -65281
+						Loot: "spell-dimension:a_ring_bag"
+						Name: "spell-dimension.bag.a_ring"
+						Type: "EPIC"
+					}
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				id: "24BAB3033D320DDD"
+				item: "numismatic-overhaul:gold_coin"
+				type: "item"
+			}]
+			title: "购买 随机提升戒指"
+			x: 3.0d
+			y: 1.0d
+		}
+		{
+			can_repeat: true
+			icon: "qu-enchantments:rune_3"
+			id: "3A16CEE9C4CA5E16"
+			rewards: [
+				{
+					command: "/loot give @p loot battlemage:reward/qu_ruin"
+					icon: "qu-enchantments:rune_3"
+					id: "175DB9532022A334"
+					title: "随机提升符文"
+					type: "command"
+				}
+				{
+					id: "2A89B326FFF3BEC7"
+					item: {
+						Count: 1b
+						id: "lootbags:loot_bag"
+						tag: {
+							Color: -16711936
+							Loot: "spell-dimension:qu_ruin_bag"
+							Name: "spell-dimension.bag.qu_ruin"
+							Type: "UNCOMMON"
+						}
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				consume_items: true
+				count: 16L
+				id: "375B95C0C9B576C5"
+				item: { Count: 16b, id: "numismatic-overhaul:silver_coin" }
+				type: "item"
+			}]
+			title: "购买 随机提升符文"
+			x: -1.0d
+			y: 1.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				Count: 1b
+				id: "jewelry:ruby_ring"
+				tag: { }
+			}
+			id: "21CB767E0957E418"
+			rewards: [{
+				id: "6CB4853671495113"
+				item: {
+					Count: 1b
+					id: "lootbags:loot_bag"
+					tag: {
+						Color: -16711681
+						Loot: "spell-dimension:jewelry_rings_bag"
+						Name: "spell-dimension.bag.jewelry_rings"
+						Type: "RARE"
+					}
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 16L
+				id: "5219707F47648F9A"
+				item: { Count: 16b, id: "numismatic-overhaul:silver_coin" }
+				type: "item"
+			}]
+			title: "购买 随机珠宝戒指"
+			x: 1.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				Count: 1b
+				id: "jewelry:netherite_jade_necklace"
+				tag: { }
+			}
+			id: "12D9CDE37A6DA74C"
+			rewards: [{
+				id: "64BE7B10B88C4FCD"
+				item: {
+					Count: 1b
+					id: "lootbags:loot_bag"
+					tag: {
+						Color: -16711681
+						Loot: "spell-dimension:jewelry_necklaces_bag"
+						Name: "spell-dimension.bag.jewelry_necklaces"
+						Type: "RARE"
+					}
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 16L
+				id: "71E30E0A79FD20F6"
+				item: { Count: 16b, id: "numismatic-overhaul:silver_coin" }
+				type: "item"
+			}]
+			title: "购买 随机珠宝项链"
+			x: 1.0d
+			y: 1.0d
+		}
+		{
+			can_repeat: true
+			icon: "artifacts:fire_gauntlet"
+			id: "5B93CF9402FD367F"
+			rewards: [{
+				id: "137FE325DE8DAEAA"
+				item: {
+					Count: 1b
+					id: "lootbags:loot_bag"
+					tag: {
+						Color: -65281
+						Loot: "spell-dimension:artifact_bag"
+						Name: "spell-dimension.bag.artifact"
+						Type: "EPIC"
+					}
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 32L
+				id: "6077C5529F9C97DD"
+				item: { Count: 32b, id: "numismatic-overhaul:silver_coin" }
+				type: "item"
+			}]
+			title: "购买 随机奇异饰品"
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				Count: 1b
+				id: "mythic_charms:fragile_charm_of_mountains_strength"
+				tag: { }
+			}
+			id: "18C309F3DEC32CAE"
+			rewards: [{
+				id: "560E0E075666B15D"
+				item: {
+					Count: 1b
+					id: "lootbags:loot_bag"
+					tag: {
+						Color: -65281
+						Loot: "spell-dimension:charm_bag"
+						Name: "spell-dimension.bag.charm"
+						Type: "EPIC"
+					}
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 32L
+				id: "56677391F211FE27"
+				item: { Count: 32b, id: "numismatic-overhaul:silver_coin" }
+				type: "item"
+			}]
+			title: "购买 随机易碎护符"
+			x: -1.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: true
+			icon: "midashunger:cooked_golden_beef"
+			id: "52BBF26D27D6730A"
+			rewards: [{
+				id: "642F21EE44D40AFE"
+				item: {
+					Count: 1b
+					id: "lootbags:loot_bag"
+					tag: {
+						Color: -256
+						Loot: "spell-dimension:midas_bag"
+						Name: "spell-dimension.bag.midas"
+						Type: "COMMON"
+					}
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 32L
+				id: "7C459EC3F88F6169"
+				item: { Count: 32b, id: "numismatic-overhaul:bronze_coin" }
+				type: "item"
+			}]
+			title: "购买 随机金色食品"
+			x: -3.0d
+			y: 1.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				Count: 1b
+				id: "simplyswords:mythicmetals_compat/kyber/kyber_cutlass"
+				tag: {
+					AttributeModifiers: [
+						{
+							Amount: 6.5d
+							AttributeName: "minecraft:generic.attack_damage"
+							Name: "DD Multiply"
+							Operation: 0
+							Slot: "mainhand"
+							UUID: [I;
+								-885041709
+								1683771192
+								-1533567981
+								-1556236849
+							]
+						}
+						{
+							Amount: -2.0d
+							AttributeName: "minecraft:generic.attack_speed"
+							Name: "Weapon modifier"
+							Operation: 0
+							Slot: "mainhand"
+							UUID: [I;
+								-98353636
+								1098926181
+								-1340359474
+								-1752847197
+							]
+						}
+					]
+					DDS: 1b
+					Damage: 0
+					Tiered: {
+						Tier: "tiered:common_melee_3"
+					}
+					durable: -0.3d
+				}
+			}
+			id: "144600D4893E78D7"
+			rewards: [{
+				id: "0DD81D7F9C37E1D7"
+				item: {
+					Count: 1b
+					id: "lootbags:loot_bag"
+					tag: {
+						Color: -16711681
+						Loot: "spell-dimension:rare_bag"
+						Name: "spell-dimension.bag.rare"
+						Type: "RARE"
+					}
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 32L
+				id: "5E3E68662F93FC06"
+				item: {
+					Count: 16b
+					id: "numismatic-overhaul:silver_coin"
+					tag: { }
+				}
+				type: "item"
+			}]
+			title: "购买 随机罕见装备"
+			x: 0.0d
+			y: -3.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				Count: 1b
+				id: "minecraft:diamond_sword"
+				tag: {
+					AttributeModifiers: [
+						{
+							Amount: 6.5d
+							AttributeName: "minecraft:generic.attack_damage"
+							Name: "DD Multiply"
+							Operation: 0
+							Slot: "mainhand"
+							UUID: [I;
+								-885041709
+								1683771192
+								-1533567981
+								-1556236849
+							]
+						}
+						{
+							Amount: -2.4000000953674316d
+							AttributeName: "minecraft:generic.attack_speed"
+							Name: "Weapon modifier"
+							Operation: 0
+							Slot: "mainhand"
+							UUID: [I;
+								-98353636
+								1098926181
+								-1340359474
+								-1752847197
+							]
+						}
+					]
+					DDS: 1b
+					Damage: 0
+					Tiered: {
+						Tier: "tiered:common_melee_2"
+					}
+					durable: -0.3d
+				}
+			}
+			id: "7565A2E079927527"
+			rewards: [{
+				id: "41F8ABBC52F4856E"
+				item: {
+					Count: 1b
+					id: "lootbags:loot_bag"
+					tag: {
+						Color: -16711936
+						Loot: "spell-dimension:uncommon_bag"
+						Name: "spell-dimension.bag.uncommon"
+						Type: "UNCOMMON"
+					}
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 8L
+				id: "4FD9D009BBC29856"
+				item: {
+					Count: 16b
+					id: "numismatic-overhaul:silver_coin"
+					tag: { }
+				}
+				type: "item"
+			}]
+			title: "购买 随机不凡装备"
+			x: -1.0d
+			y: -2.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				Count: 1b
+				id: "minecraft:enchanted_book"
+				tag: {
+					StoredEnchantments: [{
+						id: "x_enchantment:increment_attack_damage"
+						lvl: 4s
+					}]
+				}
+			}
+			id: "62964D3C727041AC"
+			rewards: [{
+				id: "7B904717A1E44C79"
+				item: {
+					Count: 1b
+					id: "lootbags:loot_bag"
+					tag: {
+						Color: -256
+						Loot: "spell-dimension:book"
+						Name: "spell-dimension.bag.book"
+						Type: "EPIC"
+					}
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 8L
+				id: "58B9A0330E2B13C6"
+				item: {
+					Count: 4b
+					id: "numismatic-overhaul:gold_coin"
+					tag: { }
+				}
+				type: "item"
+			}]
+			title: "购买 随机附魔书"
+			x: -3.0d
+			y: 0.0d
+		}
+		{
+			description: ["限购一个。"]
+			icon: {
+				Count: 1b
+				id: "bankstorage:bank_6"
+				tag: { }
+			}
+			id: "3BDCEF2E1D068C91"
+			rewards: [{
+				id: "17D5F685566214B3"
+				item: {
+					Count: 1b
+					id: "bankstorage:bank_6"
+					tag: { }
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				id: "12CB20E8FBAAA0AB"
+				item: {
+					Count: 1b
+					id: "numismatic-overhaul:gold_coin"
+					tag: { }
+				}
+				type: "item"
+			}]
+			title: "购买 Bank存储器"
+			x: -3.0d
+			y: 3.0d
+		}
+		{
+			description: ["限购一个。"]
+			icon: {
+				Count: 1b
+				id: "toms_storage:ts.inventory_connector"
+				tag: { }
+			}
+			id: "69EBA92209A7FE90"
+			rewards: [{
+				id: "70CC2C65C9B0C672"
+				item: {
+					Count: 1b
+					id: "toms_storage:ts.inventory_connector"
+					tag: { }
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 8L
+				id: "0BAF6DA260E86DC4"
+				item: {
+					Count: 1b
+					id: "numismatic-overhaul:silver_coin"
+					tag: { }
+				}
+				type: "item"
+			}]
+			title: "购买 存储驱动器"
+			x: -1.0d
+			y: 3.0d
+		}
+		{
+			description: ["限购一个。"]
+			icon: {
+				Count: 1b
+				id: "artifacts:night_vision_goggles"
+				tag: { }
+			}
+			id: "6807C18619C60A6B"
+			rewards: [{
+				id: "6B4AA57D19F83ABF"
+				item: {
+					Count: 1b
+					id: "artifacts:night_vision_goggles"
+					tag: { }
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 16L
+				id: "174569DC3899F15B"
+				item: {
+					Count: 16b
+					id: "numismatic-overhaul:silver_coin"
+					tag: { }
+				}
+				type: "item"
+			}]
+			title: "购买 夜视仪"
+			x: 1.0d
+			y: 3.0d
+		}
+		{
+			description: ["限购一个。"]
+			icon: {
+				Count: 1b
+				id: "artifacts:snorkel"
+				tag: { }
+			}
+			id: "2CA330D9E83DFC90"
+			rewards: [{
+				id: "0EF05671E1B07983"
+				item: {
+					Count: 1b
+					id: "artifacts:snorkel"
+					tag: { }
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 16L
+				id: "15256E8682216A57"
+				item: {
+					Count: 16b
+					id: "numismatic-overhaul:silver_coin"
+					tag: { }
+				}
+				type: "item"
+			}]
+			title: "购买 通气管"
+			x: 3.0d
+			y: 3.0d
+		}
+		{
+			description: ["限购一个。"]
+			icon: {
+				Count: 1b
+				id: "playertrackingcompass:tracking_compass"
+				tag: { }
+			}
+			id: "60EC85AFC35FD683"
+			rewards: [{
+				id: "56B09AD76F0A60C0"
+				item: {
+					Count: 1b
+					id: "playertrackingcompass:tracking_compass"
+					tag: { }
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 8L
+				id: "39043A8C31119730"
+				item: {
+					Count: 1b
+					id: "numismatic-overhaul:silver_coin"
+					tag: { }
+				}
+				type: "item"
+			}]
+			title: "购买 玩家追踪指南针"
+			x: 3.0d
+			y: 4.0d
+		}
+		{
+			description: ["限购一个。"]
+			icon: {
+				Count: 1b
+				id: "dummmmmmy:target_dummy"
+				tag: { }
+			}
+			id: "2B53D20A980B7F1B"
+			rewards: [{
+				id: "622CC2FDB5AAD8B1"
+				item: {
+					Count: 1b
+					id: "dummmmmmy:target_dummy"
+					tag: { }
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				id: "15E621E4FD5FDE63"
+				item: {
+					Count: 1b
+					id: "numismatic-overhaul:silver_coin"
+					tag: { }
+				}
+				type: "item"
+			}]
+			title: "购买 训练假人"
+			x: -3.0d
+			y: 4.0d
+		}
+		{
+			description: ["限购一个。"]
+			icon: {
+				Count: 1b
+				id: "explorerscompass:explorerscompass"
+				tag: { }
+			}
+			id: "02D483E3DF682E4B"
+			rewards: [{
+				id: "48DB10B73A72F1CF"
+				item: {
+					Count: 1b
+					id: "explorerscompass:explorerscompass"
+					tag: { }
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 8L
+				id: "33920BD3C545EC8A"
+				item: {
+					Count: 1b
+					id: "numismatic-overhaul:silver_coin"
+					tag: { }
+				}
+				type: "item"
+			}]
+			title: "购买 探险家指南针"
+			x: -1.0d
+			y: 4.0d
+		}
+		{
+			description: ["限购一个。"]
+			icon: {
+				Count: 1b
+				id: "naturescompass:naturescompass"
+				tag: { }
+			}
+			id: "20081D627A096DBF"
+			rewards: [{
+				id: "26E917578C975626"
+				item: {
+					Count: 1b
+					id: "naturescompass:naturescompass"
+					tag: { }
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 8L
+				id: "6485FA48BD554CC3"
+				item: {
+					Count: 8b
+					id: "numismatic-overhaul:silver_coin"
+					tag: { }
+				}
+				type: "item"
+			}]
+			title: "购买 自然罗盘"
+			x: 1.0d
+			y: 4.0d
+		}
+		{
+			icon: {
+				Count: 1b
+				id: "spell-dimension:disenchanted_essence"
+				tag: { }
+			}
+			id: "46A2959481D51EE4"
+			rewards: [{
+				id: "337C2B0B4FEE113A"
+				item: {
+					Count: 1b
+					id: "spell-dimension:disenchanted_essence"
+					tag: { }
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 8L
+				id: "2F09CD4B3FFEC2C2"
+				item: {
+					Count: 8b
+					id: "numismatic-overhaul:gold_coin"
+					tag: { }
+				}
+				type: "item"
+			}]
+			title: "购买 祛魔精华"
+			x: -2.0d
+			y: 2.0d
+		}
+		{
+			icon: {
+				Count: 1b
+				id: "spell-dimension:mage_medal"
+				tag: { }
+			}
+			id: "1DEA9DF2E0D006ED"
+			rewards: [{
+				id: "1071C7323FB1C7F5"
+				item: {
+					Count: 1b
+					id: "spell-dimension:mage_medal"
+					tag: { }
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 64L
+				id: "75E513D2B177306B"
+				item: {
+					Count: 64b
+					id: "numismatic-overhaul:gold_coin"
+					tag: { }
+				}
+				type: "item"
+			}]
+			title: "购买 空白法师勋章"
+			x: 2.0d
+			y: 2.0d
+		}
+	]
+	title: "Shop"
+}

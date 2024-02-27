@@ -1,0 +1,8 @@
+{
+  "creatable_as_spellbook":true,
+  "spell_ids": [
+    "paladins:heal",
+    "paladins:holy_shock",
+    "paladins:divine_protection"
+  ]
+}

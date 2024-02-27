@@ -1,0 +1,658 @@
+{
+  "version": 1,
+  "Enable difficulty scaling": {
+    "__comment": [
+      "Disable/Enables the whole difficulty scaling of this mod. Requires a mc restart"
+    ],
+    "input": true
+  },
+  "Difficulty Delay": {
+    "__comment": [
+      "Time in ticks for which the difficulty shouldnt increase at the beginning. One full minecraft day is 24000 ticks",
+      "Range: > 0"
+    ],
+    "input": 100000
+  },
+  "Ignore Spawner": {
+    "__comment": [
+      "If true ignores mobs from spawners"
+    ],
+    "input": false
+  },
+  "Difficulty Increase": {
+    "__comment": [
+      "Handles increase in difficulty regarding current difficulty.",
+      "Format is <minimum current difficulty>-<increase every 2400 ticks>",
+      "Example [\"0-0.01\",\"10-0.1\",\"30-0\"]",
+      "-> So the difficulty increases by 0.01 every 2400 ticks (->0.1 per mc day since a mc day has 24000 ticks) till it reaches a difficulty of 10.",
+      "Then it increases by 1 per mc day till it reaches 30 and then stops."
+    ],
+    "input": [
+      "0-0.01",
+      "10-0.1",
+      "100-0"
+    ]
+  },
+  "Ignore Players": {
+    "__comment": [
+      "Wether difficulty should only increase with at least one online players or not"
+    ],
+    "input": false
+  },
+  "Punish Time Skip": {
+    "__comment": [
+      "If true will increase difficulty by the amount of time skipped. Else will only increase difficulty once."
+    ],
+    "input": false
+  },
+  "FriendlyFire": {
+    "__comment": [
+      "Disable/Enable friendly fire for owned pets."
+    ],
+    "input": false
+  },
+  "Pet Blacklist": {
+    "__comment": [
+      "Blacklist for pet you should't be able to give armor to. Pets from mods, which have custom armor already should be included here (for balancing reasons)."
+    ],
+    "input": []
+  },
+  "Pet Whitelist": {
+    "__comment": [
+      "Treat pet blacklist as whitelist"
+    ],
+    "input": false
+  },
+  "Difficulty toggle": {
+    "__comment": [
+      "Increase difficulty with time",
+      "Here untill its back as a gamerule"
+    ],
+    "input": true
+  },
+  "Difficulty type": {
+    "__comment": [
+      "How the difficulty at a position is calculated. Supported values are: ",
+      "GLOBAL: Serverwide difficulty value",
+      "PLAYERMAX: Maximum difficulty of players in a 256 radius around the position",
+      "PLAYERMEAN: Average difficulty of players in a 256 radius around the position",
+      "DISTANCE: Uses the distance to the position defined in Center Position to define the difficulty",
+      "DISTANCESPAWN: Uses the distance to the world spawn to define the difficulty",
+      "If the type is any of the distance types the functionality of Difficulty Increase is changed to the following where the 1. value is the minimum distance and the 2. is the difficulty that applies. ",
+      "E.g. [\"0-0\",\"1000-5\" translates to 0 difficulty between 0-1000 distance and 5 difficulty for distance >= 1000",
+      "Allowed Values: GLOBAL, PLAYERMAX, PLAYERMEAN, DISTANCE, DISTANCESPAWN"
+    ],
+    "input": "PLAYERMEAN"
+  },
+  "Center Position": {
+    "__comment": [
+      "Position used for DISTANCE difficulty type"
+    ],
+    "input": "0-0"
+  },
+  "Entity Configs": {
+    "__comment": [
+      "Entities added here will be blacklisted from their assigned flags. Usage:",
+      "<entity registry name> or <namespace> followed by any of:",
+      "[ALL,ATTRIBUTES,ARMOR,HELDITEMS,BLOCKBREAK,USEITEM,LADDER,STEAL,GUARDIAN,PARROT,TARGETVILLAGER,NEUTRALAGGRO,REVERSE].",
+      "Having no flags is equal to ALL. Use REVERSE to reverse all flags. Some flags do nothing for certain mobs!",
+      "Examples (without <>):",
+      "<minecraft:sheep> (equal to minecraft:sheep|ALL) excludes sheeps from all modifications",
+      "<minecraft:sheep|REVERSE|ATTRIBUTES will> add sheep to attributes modification only",
+      "<minecraft:sheep|ATTRIBUTES> will add sheep to everything except attributes",
+      "<minecraft> blacklists all minecraft mobs from everything"
+    ],
+    "input": [
+      "graveyard:nameless_hanged",
+      "minecraft:glow_squid",
+      "minecraft:strider",
+      "minecraft:trader_llama",
+      "minecraft:parrot",
+      "aquamirae:spinefish",
+      "minecraft:horse",
+      "minecraft:polar_bear",
+      "adventurez:mammoth",
+      "minecraft:bat",
+      "minecraft:wandering_trader",
+      "simplyswords:battlestandarddark",
+      "minecraft:llama",
+      "minecraft:pig",
+      "minecraft:frog",
+      "minecraft:turtle",
+      "minecraft:sheep",
+      "minecraft:tadpole",
+      "minecraft:goat",
+      "minecraft:dolphin",
+      "adventurez:red_fungus",
+      "soulsweapons:freyr_sword_entity",
+      "adventurez:brown_fungus",
+      "minecraft:cod",
+      "adventurez:deer",
+      "soulsweapons:warmth_entity",
+      "minecraft:donkey",
+      "minecraft:squid",
+      "minecraft:mule",
+      "minecraft:skeleton_horse",
+      "minecraft:sniffer",
+      "adventurez:nightmare",
+      "adventurez:ender_whale",
+      "minecraft:cow",
+      "minecraft:zombie_horse",
+      "minecraft:camel",
+      "aquamirae:golden_moth",
+      "minecraft:bee",
+      "simplyswords:battlestandard",
+      "minecraft:cat",
+      "minecraft:pufferfish",
+      "adventurez:iguana",
+      "minecraft:salmon",
+      "minecraft:fox",
+      "minecraft:allay",
+      "minecraft:tropical_fish",
+      "minecraft:snow_golem",
+      "minecraft:mooshroom",
+      "minecraft:villager",
+      "deeperdarker:sculk_snapper",
+      "minecraft:ocelot",
+      "minecraft:chicken",
+      "minecraft:wolf",
+      "minecraft:panda",
+      "minecraft:rabbit",
+      "minecraft:axolotl",
+      "dummmmmmy:target_dummy"
+    ]
+  },
+  "Flag Blacklist": {
+    "__comment": [
+      "Any of the following ",
+      "[ATTRIBUTES, ARMOR, HELDITEMS, BLOCKBREAK, USEITEM, LADDER, STEAL, GUARDIAN, PARROT, TARGETVILLAGER, NEUTRALAGGRO]",
+      "added here will disable that feature completely.",
+      "E.g. [\"GUARDIAN\"] will disable the guardian feature"
+    ],
+    "input": [
+      "STEAL",
+      "GUARDIAN",
+      "PARROT"
+    ]
+  },
+  "Attribute Whitelist": {
+    "__comment": [
+      "Treat ATTRIBUTES flags as whitelist"
+    ],
+    "input": false
+  },
+  "Armor Equip Whitelist": {
+    "__comment": [
+      "Treat ARMOR flags as whitelist"
+    ],
+    "input": false
+  },
+  "Held Equip Whitelist": {
+    "__comment": [
+      "Treat HELDITEMS flags as whitelist"
+    ],
+    "input": false
+  },
+  "Breaker Whitelist": {
+    "__comment": [
+      "Treat BLOCKBREAK flags as whitelist"
+    ],
+    "input": false
+  },
+  "Use Flag Whitelist": {
+    "__comment": [
+      "Treat USEITEM flags as whitelist"
+    ],
+    "input": false
+  },
+  "Ladder Whitelist": {
+    "__comment": [
+      "Treat LADDER flags as whitelist"
+    ],
+    "input": false
+  },
+  "Steal Whitelist": {
+    "__comment": [
+      "Treat STEAL flags as whitelist"
+    ],
+    "input": false
+  },
+  "Guardian Whitelist": {
+    "__comment": [
+      "Treat GUARDIAN flags as whitelist"
+    ],
+    "input": false
+  },
+  "Phantom Whitelist": {
+    "__comment": [
+      "Treat PARROT flags as whitelist"
+    ],
+    "input": false
+  },
+  "Villager Whitelist": {
+    "__comment": [
+      "Treat TARGETVILLAGER flags as whitelist"
+    ],
+    "input": false
+  },
+  "Neutral Aggro Whitelist": {
+    "__comment": [
+      "Treat NEUTRALAGGRO flags as whitelist"
+    ],
+    "input": false
+  },
+  "Use Scaling Health Mod": {
+    "__comment": [
+      "Should the scaling health mods difficulty system be used instead of this ones. (Requires scaling health mod)"
+    ],
+    "input": true
+  },
+  "Use Player EX Mod": {
+    "__comment": [
+      "If true and playerEx is installed will use the level from playerEx as difficulty"
+    ],
+    "input": true
+  },
+  "Use LevelZ Mod": {
+    "__comment": [
+      "If true and LevelZ is installed will use the the total skill level from LevelZ as difficulty"
+    ],
+    "input": true
+  },
+  "Use pehkui Mod": {
+    "__comment": [
+      "Using pehkui to vary the size of mobs"
+    ],
+    "input": false
+  },
+  "Max size Multiplier": {
+    "__comment": [
+      "The Max scale of mobs. Range [1.0,10], default 2.0",
+      "Range: 1.0 ~ 10.0"
+    ],
+    "input": 2.0
+  },
+  "Minimum size Multiplier": {
+    "__comment": [
+      "The Minimum scale of mobs. Range (0,1.0), default 0.5",
+      "Range: 0.0 ~ 1.0"
+    ],
+    "input": 0.5
+  },
+  "Block Break Whitelist": {
+    "__comment": [
+      "Whitelist for blocks, which can be actively broken. ",
+      "Usage: <registry name;classname;tag;namespace> put \"!\" infront to exclude blocks",
+      "Note: If you include common blocks (like grass blocks) the pathfinding can have undesirable results."
+    ],
+    "input": [
+      "forge:glass",
+      "forge:glass_panes",
+      "minecraft:fence_gates",
+      "forge:fence_gates",
+      "minecraft:wooden_doors"
+    ]
+  },
+  "Breaklist as Blacklist": {
+    "__comment": [
+      "Treat Block Whitelist as Blocklist"
+    ],
+    "input": false
+  },
+  "Sound": {
+    "__comment": [
+      "Use the block breaking sound instead of a knocking sound"
+    ],
+    "input": false
+  },
+  "Breaker Chance": {
+    "__comment": [
+      "Chance for a mob to be able to break blocks",
+      "Range: 0.0 ~ 1.0"
+    ],
+    "input": 0.3
+  },
+  "Breaker Initial Cooldown": {
+    "__comment": [
+      "Initial cooldown for block breaking mobs",
+      "Range: > 0"
+    ],
+    "input": 120
+  },
+  "Breaker Cooldown": {
+    "__comment": [
+      "Cooldown for breaking blocks",
+      "Range: > 0"
+    ],
+    "input": 20
+  },
+  "Restore delay": {
+    "__comment": [
+      "Blocks will be restored after x ticks being broken. If set to 0 will never restore",
+      "This will not restore block entity data!",
+      "Range: > 0"
+    ],
+    "input": 0
+  },
+  "Idle Break": {
+    "__comment": [
+      "If mobs should break blocks when not chasing a target"
+    ],
+    "input": false
+  },
+  "Stealer Chance": {
+    "__comment": [
+      "Chance for a mob to be able to steal items from inventory blocks",
+      "Range: 0.0 ~ 1.0"
+    ],
+    "input": 0.3
+  },
+  "Steal Block Blacklist": {
+    "__comment": [
+      "List of blocks mobs shouldn't steal from. You can also add a modid to blacklist whole mods"
+    ],
+    "input": []
+  },
+  "Breaking items": {
+    "__comment": [
+      "Items which will be given to mobs who can break blocks. Empty list = no items. Syntax: id;weight",
+      "Note: Mobs can only break blocks if the tool they are holding can break the blocks"
+    ],
+    "input": [
+      "minecraft:diamond_pickaxe;1",
+      "minecraft:iron_axe;2"
+    ]
+  },
+  "Break BlockEntities": {
+    "__comment": [
+      "Should mobs be able to break block entities? Evaluated before the break list"
+    ],
+    "input": true
+  },
+  "Neutral Aggressive Chance": {
+    "__comment": [
+      "Chance for neutral mobs to be aggressive",
+      "Range: 0.0 ~ 1.0"
+    ],
+    "input": 0.7
+  },
+  "Auto Target List": {
+    "__comment": [
+      "List for of pairs containing which mobs auto target others. Syntax is [mob id]-[mob id] where second value is the target.",
+      " e.g. minecraft:zombie-minecraft:skeleton makes all zombies target skeletons"
+    ],
+    "input": []
+  },
+  "Difficulty Break AI": {
+    "__comment": [
+      "Difficulty at which mobs are able to break blocks",
+      "Range: > 0.0"
+    ],
+    "input": 0.0
+  },
+  "Difficulty Steal AI": {
+    "__comment": [
+      "Difficulty at which mobs are able to steal items",
+      "Range: > 0.0"
+    ],
+    "input": 0.0
+  },
+  "Guardian Chance": {
+    "__comment": [
+      "Chance for mobs to be able to summon an aquatic mount",
+      "Range: 0.0 ~ 1.0"
+    ],
+    "input": 1.0
+  },
+  "Phantom Chance": {
+    "__comment": [
+      "Chance for mobs to be able to summon a flying mount",
+      "Range: 0.0 ~ 1.0"
+    ],
+    "input": 0.5
+  },
+  "Item Blacklist": {
+    "__comment": [
+      "Blacklist items from whole mods. Add modid to prevent items from that mod being equipped. (For individual items use the equipment.json)"
+    ],
+    "input": []
+  },
+  "Item Whitelist": {
+    "__comment": [
+      "Use blacklist as whitelist"
+    ],
+    "input": false
+  },
+  "Item Use Blacklist": {
+    "__comment": [
+      "Blacklist for items mobs should never be able to use.",
+      "Use as in using the item similar to players (e.g. shooting bows)"
+    ],
+    "input": [
+      "bigbrain:buckler"
+    ]
+  },
+  "Item Use Whitelist": {
+    "__comment": [
+      "Turn the use blacklist into a whitelist"
+    ],
+    "input": false
+  },
+  "Entity Item Use Blacklist": {
+    "__comment": [
+      "Blacklist for specific mobs and items they shouldnt use (e.g. skeletons already use bows)",
+      "<entity registry name-item>",
+      "For different items but same entity use multiple lines",
+      "Some special names are BOW, TRIDEN, CROSSBOW refering to every bow/trident/crossbow item (So you dont need to type e.g. every bow item)"
+    ],
+    "input": [
+      "minecraft:drowned;TRIDENT",
+      "minecraft:illusioner;BOW",
+      "minecraft:piglin;CROSSBOW",
+      "minecraft:pillager;CROSSBOW",
+      "minecraft:skeleton;BOW",
+      "minecraft:snow_golem;minecraft:snowball",
+      "minecraft:stray;BOW",
+      "minecraft:wither_skeleton;BOW"
+    ]
+  },
+  "Equipment Chance": {
+    "__comment": [
+      "Base chance that a mob can have one piece of armor",
+      "Range: 0.0 ~ 1.0"
+    ],
+    "input": 0.1
+  },
+  "Additional Equipment Chance": {
+    "__comment": [
+      "Base chance for each additional armor pieces",
+      "Range: 0.0 ~ 1.0"
+    ],
+    "input": 0.3
+  },
+  "Equipment Addition": {
+    "__comment": [
+      "Adds additional x*difficulty% to base equip chance",
+      "Range: > 0.0"
+    ],
+    "input": 0.3
+  },
+  "Weapon Chance": {
+    "__comment": [
+      "Chance for mobs to have a weapon",
+      "Range: 0.0 ~ 1.0"
+    ],
+    "input": 0.05
+  },
+  "Weapon Chance Add": {
+    "__comment": [
+      "Adds additional x*difficulty% to base weapon chance",
+      "Range: > 0.0"
+    ],
+    "input": 0.3
+  },
+  "Enchanting Chance": {
+    "__comment": [
+      "Base chance for each armor pieces to get enchanted",
+      "Range: 0.0 ~ 1.0"
+    ],
+    "input": 0.2
+  },
+  "Enchanting Addition": {
+    "__comment": [
+      "Adds additional x*difficulty% to base enchanting chance",
+      "Range: > 0.0"
+    ],
+    "input": 0.2
+  },
+  "Enchanting Calc": {
+    "__comment": [
+      "Specify min and max enchanting levels according to difficulty. difficulty-minLevel-maxLevel"
+    ],
+    "input": [
+      "0-5-10",
+      "25-5-15",
+      "50-10-17",
+      "100-15-25",
+      "200-20-30",
+      "250-30-35"
+    ]
+  },
+  "Enchanting Blacklist": {
+    "__comment": [
+      "Blacklist enchantments from being applied to equipments"
+    ],
+    "input": []
+  },
+  "Enchanting Whitelist": {
+    "__comment": [
+      "Turn the enchant blacklist to a whitelist"
+    ],
+    "input": false
+  },
+  "Item Equip Chance": {
+    "__comment": [
+      "Chance for mobs to have an item in offhand",
+      "Range: 0.0 ~ 1.0"
+    ],
+    "input": 0.05
+  },
+  "Item Chance add": {
+    "__comment": [
+      "Adds additional x*difficulty% to base item chance",
+      "Range: > 0.0"
+    ],
+    "input": 0.2
+  },
+  "Should drop equipment": {
+    "__comment": [
+      "Should mobs drop the armor equipped through this mod? Will not change drops if the mob obtained the armor through other means (e.g. vanilla)"
+    ],
+    "input": false
+  },
+  "Health Increase Multiplier": {
+    "__comment": [
+      "Health will be multiplied by 1 + difficulty*0.016*x. Set to 0 to disable",
+      "Range: > 0.0"
+    ],
+    "input": 1.0
+  },
+  "Max Health Increase": {
+    "__comment": [
+      "Health will be multiplied by at maximum this. Set to 0 means no limit",
+      "Range: > 0.0"
+    ],
+    "input": 5.0
+  },
+  "Round HP": {
+    "__comment": [
+      "Round health to the nearest x. Set to 0 to disable",
+      "Range: > 0.0"
+    ],
+    "input": 0.5
+  },
+  "Damage Increase Multiplier": {
+    "__comment": [
+      "Damage will be multiplied by 1 + difficulty*0.008*x. Set to 0 to disable",
+      "Range: > 0.0"
+    ],
+    "input": 1.0
+  },
+  "Max Damage Increase": {
+    "__comment": [
+      "Damage will be multiplied by at maximum this. Set to 0 means no limit",
+      "Range: > 0.0"
+    ],
+    "input": 3.0
+  },
+  "Speed Increase": {
+    "__comment": [
+      "Speed will be increased by difficulty*0.0008*x. Set to 0 to disable",
+      "Range: > 0.0"
+    ],
+    "input": 1.0
+  },
+  "Max Speed": {
+    "__comment": [
+      "Maximum increase in speed",
+      "Range: 0.0 ~ 1.0"
+    ],
+    "input": 0.1
+  },
+  "Knockback Increase": {
+    "__comment": [
+      "Knockback will be increased by difficulty*0.002*x. Set to 0 to disable",
+      "Range: > 0.0"
+    ],
+    "input": 1.0
+  },
+  "Max Knockback": {
+    "__comment": [
+      "Maximum increase in knockback",
+      "Range: 0.0 ~ 1.0"
+    ],
+    "input": 0.5
+  },
+  "Magic Resistance Increase": {
+    "__comment": [
+      "Magic resistance will be increased by difficulty*0.0016*x. Set to 0 to disable",
+      "Range: > 0.0"
+    ],
+    "input": 1.0
+  },
+  "Max Magic Resistance": {
+    "__comment": [
+      "Maximum increase in magic resistance. Magic reduction is percentage",
+      "Range: 0.0 ~ 1.0"
+    ],
+    "input": 0.4
+  },
+  "Projectile Damage Increase": {
+    "__comment": [
+      "Projectile Damage will be multiplied by 1 + difficulty*0.008*x. Set to 0 to disable",
+      "Range: > 0.0"
+    ],
+    "input": 1.0
+  },
+  "Max Projectile Damage": {
+    "__comment": [
+      "Projectile damage will be multiplied by maximum of this",
+      "Range: > 0.0"
+    ],
+    "input": 2.0
+  },
+  "Explosion Damage Increase": {
+    "__comment": [
+      "Explosion Damage will be multiplied by 1 + difficulty*0.003*x. Set to 0 to disable",
+      "Range: > 0.0"
+    ],
+    "input": 1.0
+  },
+  "Max Explosion Damage": {
+    "__comment": [
+      "Explosion damage will be multiplied by maximum of this",
+      "Range: > 0.0"
+    ],
+    "input": 1.75
+  }
+}

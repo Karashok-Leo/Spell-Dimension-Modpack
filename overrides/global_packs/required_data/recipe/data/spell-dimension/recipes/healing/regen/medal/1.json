@@ -1,0 +1,29 @@
+{
+  "type": "spell-dimension:medal_upgrade",
+  "ingredients": [
+    [],
+    {
+      "item": "minecraft:moss_block"
+    },
+    [],
+    {
+      "item": "runes:healing_stone"
+    },
+    {
+      "item": "runes:healing_stone"
+    },
+    [],
+    {
+      "item": "mythicmetals:silver_ingot"
+    },
+    []
+  ],
+  "original": {
+    "Grade": 0
+  },
+  "upgraded": {
+    "Grade": 1,
+    "Major": "REGEN",
+    "School": "HEALING"
+  }
+}

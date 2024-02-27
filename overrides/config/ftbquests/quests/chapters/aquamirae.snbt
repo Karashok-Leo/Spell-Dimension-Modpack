@@ -1,0 +1,699 @@
+{
+	autofocus_id: "63D732CDD1B6F306"
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "aquamirae"
+	group: "08486B419F39364A"
+	icon: "minecraft:blue_ice"
+	id: "1EE918E9E55826E2"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["492E50442742C42A"]
+			id: "6AB49BCD535F8DB9"
+			rewards: [{
+				id: "42A3F1B0EDA8E8F1"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
+			shape: "diamond"
+			size: 1.5d
+			tasks: [{
+				id: "2BE9063F84117804"
+				item: {
+					Count: 1b
+					id: "itemfilters:or"
+					tag: {
+						items: [
+							{
+								Count: 1b
+								id: "aquamirae:terrible_sword"
+								tag: {
+									Damage: 0
+								}
+							}
+							{
+								Count: 1b
+								id: "aquamirae:fin_cutter"
+								tag: {
+									Damage: 0
+								}
+							}
+							{
+								Count: 1b
+								id: "aquamirae:divider"
+								tag: {
+									Damage: 0
+								}
+							}
+							{
+								Count: 1b
+								id: "aquamirae:whisper_of_the_abyss"
+								tag: {
+									Damage: 0
+								}
+							}
+							{
+								Count: 1b
+								id: "aquamirae:remnants_saber"
+								tag: {
+									Damage: 0
+								}
+							}
+							{
+								Count: 1b
+								id: "aquamirae:poisoned_blade"
+								tag: {
+									Damage: 0
+								}
+							}
+							{
+								Count: 1b
+								id: "aquamirae:coral_lance"
+								tag: {
+									Damage: 0
+									Enchantments: [{
+										id: "minecraft:unbreaking"
+										lvl: 4s
+									}]
+								}
+							}
+							{
+								Count: 1b
+								id: "aquamirae:dagger_of_greed"
+								tag: {
+									Damage: 0
+								}
+							}
+						]
+					}
+				}
+				type: "item"
+			}]
+			x: -3.0d
+			y: 4.0d
+		}
+		{
+			dependencies: [
+				"3E789ABF72D7CE14"
+				"26EC96F853A3E039"
+			]
+			hide: true
+			id: "492E50442742C42A"
+			rewards: [{
+				id: "65142A3F0B26105C"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
+			shape: "hexagon"
+			size: 1.5d
+			tasks: [
+				{
+					biome: "minecraft:frozen_ocean"
+					icon: "minecraft:ice"
+					id: "3C5C7A6A39B92A45"
+					type: "biome"
+				}
+				{
+					biome: "minecraft:deep_frozen_ocean"
+					icon: "minecraft:packed_ice"
+					id: "07AE16A2FB02302A"
+					type: "biome"
+				}
+			]
+			title: "冰洋"
+			x: 0.0d
+			y: 3.25d
+		}
+		{
+			dependencies: ["492E50442742C42A"]
+			icon: "aquamirae:fin"
+			id: "6338172DA51E6896"
+			rewards: [{
+				id: "788BCFF76D4334C5"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "aquamirae:maw"
+				id: "773D8D900113BF24"
+				type: "kill"
+				value: 3L
+			}]
+			x: -1.5d
+			y: 3.25d
+		}
+		{
+			dependencies: ["492E50442742C42A"]
+			icon: "aquamirae:anglers_fang"
+			id: "39E2CA0BCBBF7229"
+			rewards: [{
+				id: "528C4BB4639BEE7E"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "aquamirae:anglerfish"
+				id: "440A54FE39D150F5"
+				type: "kill"
+				value: 3L
+			}]
+			x: -1.0d
+			y: 4.25d
+		}
+		{
+			dependencies: ["492E50442742C42A"]
+			icon: "aquamirae:spinefish"
+			id: "7E2244EBAB0ED720"
+			rewards: [{
+				id: "7C0E47B66DAC280B"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "aquamirae:spinefish"
+				id: "317A1D087242F876"
+				type: "kill"
+				value: 3L
+			}]
+			x: 1.0d
+			y: 4.25d
+		}
+		{
+			dependencies: ["492E50442742C42A"]
+			icon: "aquamirae:sharp_bones"
+			id: "00294A39363B28A0"
+			rewards: [{
+				id: "041F9C519D2EC0C6"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "aquamirae:eel"
+				id: "612204143E1DEF30"
+				type: "kill"
+				value: 3L
+			}]
+			x: 1.5d
+			y: 3.25d
+		}
+		{
+			dependencies: [
+				"0AF0761F6C152AA4"
+				"492E50442742C42A"
+			]
+			icon: "aquamirae:frozen_key"
+			id: "36F8A9188C4E54D8"
+			rewards: [{
+				id: "77B1ADA0A71138F6"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
+			shape: "diamond"
+			size: 1.5d
+			tasks: [{
+				entity: "aquamirae:captain_cornelia"
+				id: "0D82EC4EDA85EB67"
+				type: "kill"
+				value: 1L
+			}]
+			x: 0.75d
+			y: 6.25d
+		}
+		{
+			dependencies: ["492E50442742C42A"]
+			icon: "aquamirae:abyssal_amethyst"
+			id: "379563D84A18B982"
+			rewards: [{
+				id: "68A5588632C2B483"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
+			shape: "diamond"
+			size: 1.5d
+			tasks: [{
+				entity: "aquamirae:maze_mother"
+				id: "24C1F14B5646467D"
+				type: "kill"
+				value: 1L
+			}]
+			x: -1.5d
+			y: 5.5d
+		}
+		{
+			dependencies: ["492E50442742C42A"]
+			description: [
+				"穿戴整套额外获得："
+				""
+				"+5 生命值"
+				""
+				"+8 护甲值 (共+30)"
+				""
+				"在水下时："
+				""
+				"+6 攻击伤害"
+				""
+				"+0.7 水下速度"
+				""
+				"+100 水下视力"
+			]
+			id: "5A636081A958B312"
+			rewards: [{
+				id: "7A20DB9B27048F36"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
+			shape: "diamond"
+			size: 1.5d
+			tasks: [
+				{
+					id: "5B4CC95D39118FB5"
+					item: {
+						Count: 1b
+						id: "aquamirae:abyssal_heaume"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "515F200F25088753"
+					item: {
+						Count: 1b
+						id: "aquamirae:abyssal_brigantine"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "172566095B08E635"
+					item: {
+						Count: 1b
+						id: "aquamirae:abyssal_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "3EB368CC05D4956E"
+					item: {
+						Count: 1b
+						id: "aquamirae:abyssal_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "晦暗深海套装"
+			x: -2.25d
+			y: 4.75d
+		}
+		{
+			dependencies: [
+				"1F544CCA5382DA0C"
+				"66C0DE5F6EEAB62F"
+				"0BA731D28EE04795"
+				"782D97D5B8A53BA3"
+			]
+			description: [
+				"使用探险家指南针搜索："
+				"Ocean Monument"
+				""
+				"或使用指令："
+				"/locate structure betteroceanmonuments：ocean_monument"
+			]
+			icon: "minecraft:heart_of_the_sea"
+			id: "63D732CDD1B6F306"
+			rewards: [{
+				id: "3C351E9C31B2FD62"
+				item: {
+					Count: 1b
+					id: "minecraft:potion"
+					tag: {
+						Potion: "minecraft:water_breathing"
+					}
+				}
+				type: "item"
+			}]
+			size: 2.0d
+			tasks: [{
+				id: "04A273DD750BF985"
+				structure: "betteroceanmonuments:ocean_monument"
+				type: "structure"
+			}]
+			title: "神殿"
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["63D732CDD1B6F306"]
+			icon: {
+				Count: 1b
+				id: "minecraft:player_head"
+				tag: {
+					SkullOwner: {
+						Id: [I;
+							-219597913
+							1632584928
+							-1088935781
+							270599339
+						]
+						Properties: {
+							textures: [{
+								Value: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMWM3OTc0ODJhMTRiZmNiODc3MjU3Y2IyY2ZmMWI2ZTZhOGI4NDEzMzM2ZmZiNGMyOWE2MTM5Mjc4YjQzNmIifX19"
+							}]
+						}
+					}
+					display: {
+						Name: "{\"text\":\"Elder Guardian Head\"}"
+					}
+				}
+			}
+			id: "26EC96F853A3E039"
+			shape: "hexagon"
+			size: 1.5d
+			tasks: [{
+				entity: "minecraft:elder_guardian"
+				id: "557221AF7F07C0A1"
+				type: "kill"
+				value: 1L
+			}]
+			x: 0.75d
+			y: 1.5d
+		}
+		{
+			dependencies: ["63D732CDD1B6F306"]
+			icon: {
+				Count: 1b
+				id: "minecraft:player_head"
+				tag: {
+					SkullOwner: {
+						Id: [I;
+							-444704576
+							-1147384656
+							-1599946441
+							-540470940
+						]
+						Properties: {
+							textures: [{
+								Value: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGZiNjc1Y2I1YTdlM2ZkMjVlMjlkYTgyNThmMjRmYzAyMGIzZmE5NTAzNjJiOGJjOGViMjUyZTU2ZTc0In19fQ=="
+							}]
+						}
+					}
+					display: {
+						Name: "{\"text\":\"Guardian Head\"}"
+					}
+				}
+			}
+			id: "3E789ABF72D7CE14"
+			shape: "hexagon"
+			size: 1.5d
+			tasks: [{
+				entity: "minecraft:guardian"
+				id: "6E1393A306E05173"
+				type: "kill"
+				value: 10L
+			}]
+			x: -0.75d
+			y: 1.5d
+		}
+		{
+			icon: {
+				Count: 1b
+				id: "minecraft:player_head"
+				tag: {
+					SkullOwner: {
+						Id: [I;
+							449435050
+							1190088049
+							-1334360732
+							942410307
+						]
+						Properties: {
+							textures: [{
+								Value: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNGFlZTZiYjM3Y2JmYzkyYjBkODZkYjVhZGE0NzkwYzY0ZmY0NDY4ZDY4Yjg0OTQyZmRlMDQ0MDVlOGVmNTMzMyJ9fX0="
+							}]
+						}
+					}
+					display: {
+						Name: "{\"text\":\"Pillager Head\"}"
+					}
+				}
+			}
+			id: "1F544CCA5382DA0C"
+			shape: "hexagon"
+			size: 1.5d
+			tasks: [{
+				id: "00E8DBA8B2391D9A"
+				structure: "dungeons_arise:illager_galley"
+				type: "structure"
+			}]
+			title: "你就是个海盗！"
+			x: -0.75d
+			y: -1.5d
+		}
+		{
+			icon: "minecraft:skeleton_skull"
+			id: "66C0DE5F6EEAB62F"
+			shape: "hexagon"
+			size: 1.5d
+			tasks: [{
+				id: "7C3E83C020151A1F"
+				structure: "dungeons_arise:undead_pirate_ship"
+				type: "structure"
+			}]
+			title: "你这个幽灵海盗！"
+			x: 1.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["492E50442742C42A"]
+			description: [""]
+			id: "1998ECDBE6CF684B"
+			shape: "diamond"
+			size: 1.5d
+			tasks: [
+				{
+					id: "55581127CB1FB3CF"
+					item: {
+						Count: 1b
+						id: "aquamirae:terrible_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "58E634DF03261C3C"
+					item: {
+						Count: 1b
+						id: "aquamirae:terrible_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "3C6CF63663E3C553"
+					item: {
+						Count: 1b
+						id: "aquamirae:terrible_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "74FA8EEFB8EFB1C8"
+					item: {
+						Count: 1b
+						id: "aquamirae:terrible_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "可怖套装"
+			x: 1.5d
+			y: 5.5d
+		}
+		{
+			dependencies: ["492E50442742C42A"]
+			id: "2E7739459626FDBA"
+			shape: "diamond"
+			size: 1.5d
+			tasks: [
+				{
+					id: "1DCD893D05030D4E"
+					item: {
+						Count: 1b
+						id: "aquamirae:three_bolt_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "683512836EDB6B67"
+					item: {
+						Count: 1b
+						id: "aquamirae:three_bolt_suit"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "3909EEFBA709D96A"
+					item: {
+						Count: 1b
+						id: "aquamirae:three_bolt_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "76D9CAE67C6D8144"
+					item: {
+						Count: 1b
+						id: "aquamirae:three_bolt_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "潜水套装"
+			x: 2.25d
+			y: 4.75d
+		}
+		{
+			dependencies: ["492E50442742C42A"]
+			icon: "aquamirae:shell_horn"
+			id: "0AF0761F6C152AA4"
+			shape: "diamond"
+			size: 1.5d
+			tasks: [
+				{
+					id: "4EC81412E34225EF"
+					item: "aquamirae:shell_horn"
+					type: "item"
+				}
+				{
+					id: "5608DF0CE2A257E3"
+					structure: "aquamirae:ship"
+					type: "structure"
+				}
+			]
+			x: -0.75d
+			y: 6.25d
+		}
+		{
+			dependencies: ["492E50442742C42A"]
+			icon: "aquamirae:ship_graveyard_echo"
+			id: "13C92042D304C64D"
+			shape: "hexagon"
+			size: 1.0d
+			tasks: [{
+				entity: "aquamirae:tortured_soul"
+				id: "4F62954AF25377E4"
+				type: "kill"
+				value: 1L
+			}]
+			x: 0.0d
+			y: 4.75d
+		}
+		{
+			dependencies: [
+				"36F8A9188C4E54D8"
+				"492E50442742C42A"
+			]
+			icon: "aquamirae:rune_of_the_storm"
+			id: "6F9B6D7DEA8A96C7"
+			shape: "diamond"
+			size: 1.5d
+			tasks: [
+				{
+					id: "680E6CDD1DC3024B"
+					item: "aquamirae:rune_of_the_storm"
+					type: "item"
+				}
+				{
+					id: "64A7C2B5E29E529C"
+					structure: "aquamirae:shelter"
+					type: "structure"
+				}
+			]
+			x: 0.0d
+			y: 7.0d
+		}
+		{
+			icon: "minecraft:bone_block"
+			id: "0BA731D28EE04795"
+			shape: "hexagon"
+			size: 1.5d
+			tasks: [{
+				id: "7D7B7C5763EFC28E"
+				structure: "dungeons_arise:typhon"
+				type: "structure"
+			}]
+			title: "大白鲨"
+			x: -1.5d
+			y: 0.0d
+		}
+		{
+			icon: {
+				Count: 1b
+				id: "minecraft:player_head"
+				tag: {
+					SkullOwner: {
+						Id: [I;
+							921599579
+							-1064154963
+							-1770837389
+							-1331410097
+						]
+						Properties: {
+							textures: [{
+								Value: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTAwZDNmZmYxNmMyZGNhNTliOWM1OGYwOTY1MjVjODY5NzExNjZkYmFlMTMzYjFiMDUwZTVlZTcxNjQ0MyJ9fX0="
+							}]
+						}
+					}
+					display: {
+						Name: "{\"text\":\"Vindicator Head\"}"
+					}
+				}
+			}
+			id: "782D97D5B8A53BA3"
+			shape: "hexagon"
+			size: 1.5d
+			tasks: [{
+				id: "43534D642F5F35A6"
+				structure: "dungeons_arise:illager_corsair"
+				type: "structure"
+			}]
+			title: "你也是个海盗！"
+			x: 0.75d
+			y: -1.5d
+		}
+	]
+	title: "冰洋"
+}

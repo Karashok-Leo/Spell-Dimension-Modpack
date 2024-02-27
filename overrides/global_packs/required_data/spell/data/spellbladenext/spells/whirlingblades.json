@@ -1,0 +1,60 @@
+{
+  "school": "FROST",
+  "range": 3,
+  "learn": {
+    "tier": 2
+  },
+  "cast": {
+    "animation": "spell_engine:one_handed_projectile_charge",
+    "duration": 0.5
+  },
+  "release": {
+    "custom_impact": true,
+    "target": {
+      "type": "AREA",
+      "area": {
+        "angle_degrees": 90,
+        "vertical_range_multiplier": 6
+      }
+    },
+    "sound": {
+      "id": "minecraft:entity.player.attack.knockback"
+    }
+  },
+  "impact": [
+    {
+      "action": {
+        "type": "DAMAGE",
+        "damage": {
+          "knockback": 1,
+          "spell_power_coefficient": 1.5
+        }
+      },
+      "particles": [
+        {
+          "particle_id": "spell_engine:frost_hit",
+          "shape": "SPHERE",
+          "origin": "CENTER",
+          "count": 20.0,
+          "min_speed": 0.2,
+          "max_speed": 0.6
+        },
+        {
+          "particle_id": "spell_engine:snowflake",
+          "shape": "SPHERE",
+          "origin": "CENTER",
+          "count": 30.0,
+          "min_speed": 0.5,
+          "max_speed": 0.9
+        }
+      ],
+      "sound": {
+        "id": "minecraft:entity.player.attack.sweep"
+      }
+    }
+
+  ],
+  "cost": {
+    "cooldown_duration": 4
+  }
+}

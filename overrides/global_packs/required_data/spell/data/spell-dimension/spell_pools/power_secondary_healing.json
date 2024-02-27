@@ -1,0 +1,13 @@
+{
+  "creatable_as_spellbook":false,
+  "spell_ids": [
+    "spell-dimension:power1",
+    
+    "paladins:heal",
+    "paladins:holy_shock",
+    "paladins:divine_protection",
+
+    "paladins:flash_heal",
+    "paladins:judgement"
+  ]
+}

@@ -1,0 +1,963 @@
+{
+  "meta": {
+    "comment": "IMPORTANT! Make sure to set `allow_customization` to `true` to allow customization of the config",
+    "allow_customization": true,
+    "sanitize_config": true,
+    "rounding_unit": 0.5
+  },
+  "perPlayerDifficulty": {
+    "enabled": true,
+    "counting": "EVERYWHERE",
+    "entities": [
+      {
+        "entity_matches": {
+          "attitude": "ANY",
+          "entity_id_regex": ".*"
+        },
+        "attributes": [
+          {
+            "attribute": "damage",
+            "operation": "MULTIPLY_BASE",
+            "randomness": 0.0,
+            "value": 0.2
+          },
+          {
+            "attribute": "generic.max_health",
+            "operation": "MULTIPLY_BASE",
+            "randomness": 0.0,
+            "value": 0.2
+          }
+        ],
+        "experience_multiplier": 0.0
+      }
+    ]
+  },
+  "difficulty_types": [
+    {
+      "name": "mul",
+      "entities": [
+        {
+          "entity_matches": {
+            "attitude": "ANY",
+            "entity_id_regex": ".*"
+          },
+          "attributes": [
+            {
+              "attribute": "damage",
+              "operation": "MULTIPLY_BASE",
+              "randomness": 0.05,
+              "value": 0.2
+            },
+            {
+              "attribute": "generic.armor",
+              "operation": "MULTIPLY_BASE",
+              "randomness": 0.05,
+              "value": 0.2
+            },
+            {
+              "attribute": "generic.max_health",
+              "operation": "MULTIPLY_BASE",
+              "randomness": 0.05,
+              "value": 0.2
+            }
+          ],
+          "spawners": {
+            "spawn_range_multiplier": 0.0,
+            "spawn_count_multiplier": 0.1,
+            "max_nearby_entities_multiplier": 0.6,
+            "min_spawn_delay_multiplier": -0.08,
+            "max_spawn_delay_multiplier": -0.08,
+            "required_player_range_multiplier": 0.0
+          },
+          "experience_multiplier": 0.2
+        }
+      ],
+      "rewards": {
+        "armor": [
+          {
+            "item_matches": {
+              "item_id_regex": ".*",
+              "loot_table_regex": ".*",
+              "rarity_regex": ".*"
+            },
+            "attributes": [
+              {
+                "attribute": "generic.armor",
+                "operation": "MULTIPLY_BASE",
+                "randomness": 0.05,
+                "value": 0.1
+              },
+              {
+                "attribute": "generic.max_health",
+                "operation": "MULTIPLY_BASE",
+                "randomness": 0.05,
+                "value": 0.1
+              }
+            ]
+          }
+        ],
+        "weapons": [
+          {
+            "item_matches": {
+              "item_id_regex": ".*",
+              "loot_table_regex": ".*",
+              "rarity_regex": ".*"
+            },
+            "attributes": [
+              {
+                "attribute": "damage",
+                "operation": "MULTIPLY_BASE",
+                "randomness": 0.05,
+                "value": 0.1
+              },
+              {
+                "attribute": "power",
+                "operation": "MULTIPLY_BASE",
+                "randomness": 0.05,
+                "value": 0.1
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "name": "add",
+      "entities": [
+        {
+          "entity_matches": {
+            "attitude": "ANY",
+            "entity_id_regex": ".*"
+          },
+          "attributes": [
+            {
+              "attribute": "damage",
+              "operation": "ADDITION",
+              "randomness": 1.0,
+              "value": 5.0
+            },
+            {
+              "attribute": "generic.armor",
+              "operation": "ADDITION",
+              "randomness": 1.0,
+              "value": 5.0
+            },
+            {
+              "attribute": "generic.max_health",
+              "operation": "ADDITION",
+              "randomness": 2.0,
+              "value": 10.0
+            }
+          ],
+          "spawners": {
+            "spawn_range_multiplier": 0.0,
+            "spawn_count_multiplier": 0.3,
+            "max_nearby_entities_multiplier": 1.2,
+            "min_spawn_delay_multiplier": -0.15,
+            "max_spawn_delay_multiplier": -0.15,
+            "required_player_range_multiplier": 0.0
+          },
+          "experience_multiplier": 0.4
+        }
+      ],
+      "rewards": {
+        "armor": [
+          {
+            "item_matches": {
+              "item_id_regex": ".*",
+              "loot_table_regex": ".*",
+              "rarity_regex": ".*"
+            },
+            "attributes": [
+              {
+                "attribute": "generic.armor",
+                "operation": "ADDITION",
+                "randomness": 2.0,
+                "value": 2.0
+              },
+              {
+                "attribute": "generic.max_health",
+                "operation": "ADDITION",
+                "randomness": 2.0,
+                "value": 2.0
+              }
+            ]
+          }
+        ],
+        "weapons": [
+          {
+            "item_matches": {
+              "item_id_regex": ".*",
+              "loot_table_regex": ".*",
+              "rarity_regex": ".*"
+            },
+            "attributes": [
+              {
+                "attribute": "damage",
+                "operation": "ADDITION",
+                "randomness": 2.0,
+                "value": 2.0
+              },
+              {
+                "attribute": "power",
+                "operation": "ADDITION",
+                "randomness": 2.0,
+                "value": 2.0
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "name": "mul_add",
+      "parent": "add",
+      "entities": [
+        {
+          "entity_matches": {
+            "attitude": "ANY",
+            "entity_id_regex": ".*"
+          },
+          "attributes": [
+            {
+              "attribute": "damage",
+              "operation": "MULTIPLY_BASE",
+              "randomness": 0.05,
+              "value": 0.2
+            },
+            {
+              "attribute": "generic.armor",
+              "operation": "MULTIPLY_BASE",
+              "randomness": 0.05,
+              "value": 0.2
+            },
+            {
+              "attribute": "generic.max_health",
+              "operation": "MULTIPLY_BASE",
+              "randomness": 0.05,
+              "value": 0.2
+            }
+          ],
+          "spawners": {
+            "spawn_range_multiplier": 0.0,
+            "spawn_count_multiplier": 0.1,
+            "max_nearby_entities_multiplier": 0.6,
+            "min_spawn_delay_multiplier": -0.08,
+            "max_spawn_delay_multiplier": -0.08,
+            "required_player_range_multiplier": 0.0
+          },
+          "experience_multiplier": 0.2
+        }
+      ],
+      "rewards": {
+        "armor": [
+          {
+            "item_matches": {
+              "item_id_regex": ".*",
+              "loot_table_regex": ".*",
+              "rarity_regex": ".*"
+            },
+            "attributes": [
+              {
+                "attribute": "generic.armor",
+                "operation": "MULTIPLY_BASE",
+                "randomness": 0.05,
+                "value": 0.1
+              },
+              {
+                "attribute": "generic.max_health",
+                "operation": "MULTIPLY_BASE",
+                "randomness": 0.05,
+                "value": 0.1
+              }
+            ]
+          }
+        ],
+        "weapons": [
+          {
+            "item_matches": {
+              "item_id_regex": ".*",
+              "loot_table_regex": ".*",
+              "rarity_regex": ".*"
+            },
+            "attributes": [
+              {
+                "attribute": "damage",
+                "operation": "MULTIPLY_BASE",
+                "randomness": 0.05,
+                "value": 0.1
+              },
+              {
+                "attribute": "power",
+                "operation": "MULTIPLY_BASE",
+                "randomness": 0.05,
+                "value": 0.1
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "dimensions": [
+    {
+      "world_matches": {
+        "dimension_regex": "minecraft:overworld"
+      },
+      "difficulty": {
+        "name": "mul",
+        "level": 1
+      },
+      "zones": [
+        {
+          "zone_matches": {
+            "biome_regex": ".*",
+            "biome_tag_regex": ".*",
+            "structure_id": "dungeons_arise:mushroom_house"
+          },
+          "difficulty": {
+            "name": "mul_add",
+            "level": 1
+          }
+        },
+        {
+          "zone_matches": {
+            "biome_regex": ".*",
+            "biome_tag_regex": ".*",
+            "structure_id": "dungeons_arise:giant_mushroom"
+          },
+          "difficulty": {
+            "name": "mul_add",
+            "level": 1
+          }
+        },
+        {
+          "zone_matches": {
+            "biome_regex": ".*",
+            "biome_tag_regex": ".*",
+            "structure_id": "dungeons_arise:mushroom_village"
+          },
+          "difficulty": {
+            "name": "mul_add",
+            "level": 1
+          }
+        },
+        {
+          "zone_matches": {
+            "biome_regex": ".*",
+            "biome_tag_regex": ".*",
+            "structure_id": "dungeons_arise:mushroom_mines"
+          },
+          "difficulty": {
+            "name": "mul_add",
+            "level": 1
+          }
+        },
+        {
+          "zone_matches": {
+            "biome_regex": ".*",
+            "biome_tag_regex": ".*",
+            "structure_id": "dungeons_arise:foundry"
+          },
+          "difficulty": {
+            "name": "mul_add",
+            "level": 1
+          }
+        },
+        {
+          "zone_matches": {
+            "biome_regex": ".*",
+            "biome_tag_regex": ".*",
+            "structure_id": "dungeons_arise:plague_asylum"
+          },
+          "difficulty": {
+            "name": "mul_add",
+            "level": 1
+          }
+        },
+        {
+          "zone_matches": {
+            "biome_regex": ".*",
+            "biome_tag_regex": ".*",
+            "structure_id": "dungeons_arise:scorched_mines"
+          },
+          "difficulty": {
+            "name": "mul_add",
+            "level": 1
+          }
+        },
+        {
+          "zone_matches": {
+            "biome_regex": ".*",
+            "biome_tag_regex": ".*",
+            "structure_id": "dungeons_arise:mining_system"
+          },
+          "difficulty": {
+            "name": "mul_add",
+            "level": 1
+          }
+        },
+        {
+          "zone_matches": {
+            "biome_regex": ".*",
+            "biome_tag_regex": ".*",
+            "structure_id": "philipsruins:bone_dungeon"
+          },
+          "difficulty": {
+            "name": "mul_add",
+            "level": 1
+          }
+        },
+        {
+          "zone_matches": {
+            "biome_regex": ".*",
+            "biome_tag_regex": ".*",
+            "structure_id": "philipsruins:desert_structures"
+          },
+          "difficulty": {
+            "name": "mul_add",
+            "level": 1
+          }
+        },
+        {
+          "zone_matches": {
+            "biome_regex": ".*",
+            "biome_tag_regex": ".*",
+            "structure_id": "dungeons_arise:ceryneian_hind"
+          },
+          "difficulty": {
+            "name": "mul_add",
+            "level": 1
+          }
+        },
+        {
+          "zone_matches": {
+            "biome_regex": ".*",
+            "biome_tag_regex": ".*",
+            "structure_id": "red:sphinx"
+          },
+          "difficulty": {
+            "name": "mul_add",
+            "level": 1
+          }
+        },
+        {
+          "zone_matches": {
+            "biome_regex": ".*",
+            "biome_tag_regex": ".*",
+            "structure_id": "red:desert_pyramid"
+          },
+          "difficulty": {
+            "name": "mul_add",
+            "level": 1
+          }
+        },
+        {
+          "zone_matches": {
+            "biome_regex": ".*",
+            "biome_tag_regex": ".*",
+            "structure_id": "betterdeserttemples:desert_temple"
+          },
+          "difficulty": {
+            "name": "mul_add",
+            "level": 1
+          }
+        },
+        {
+          "zone_matches": {
+            "biome_regex": ".*",
+            "biome_tag_regex": ".*",
+            "structure_id": "additionalstructures:pyramid_1"
+          },
+          "difficulty": {
+            "name": "mul_add",
+            "level": 1
+          }
+        },
+        {
+          "zone_matches": {
+            "biome_regex": ".*",
+            "biome_tag_regex": ".*",
+            "structure_id": "additionalstructures:pyramid_dungeon"
+          },
+          "difficulty": {
+            "name": "mul_add",
+            "level": 1
+          }
+        },
+        {
+          "zone_matches": {
+            "biome_regex": ".*",
+            "biome_tag_regex": ".*",
+            "structure_id": "imst:pyramid"
+          },
+          "difficulty": {
+            "name": "mul_add",
+            "level": 1
+          }
+        },
+        {
+          "zone_matches": {
+            "biome_regex": ".*",
+            "biome_tag_regex": ".*",
+            "structure_id": "illagerinvasion:firecaller_hut"
+          },
+          "difficulty": {
+            "name": "mul_add",
+            "level": 1
+          }
+        },
+        {
+          "zone_matches": {
+            "biome_regex": ".*",
+            "biome_tag_regex": ".*",
+            "structure_id": "illagerinvasion:sourcerer_hut"
+          },
+          "difficulty": {
+            "name": "mul_add",
+            "level": 1
+          }
+        },
+        {
+          "zone_matches": {
+            "biome_regex": ".*",
+            "biome_tag_regex": ".*",
+            "structure_id": "illagerinvasion:illusioner_tower"
+          },
+          "difficulty": {
+            "name": "mul_add",
+            "level": 1
+          }
+        },
+        {
+          "zone_matches": {
+            "biome_regex": ".*",
+            "biome_tag_regex": ".*",
+            "structure_id": "illagerinvasion:labyrinth"
+          },
+          "difficulty": {
+            "name": "mul_add",
+            "level": 1
+          }
+        },
+        {
+          "zone_matches": {
+            "biome_regex": ".*",
+            "biome_tag_regex": ".*",
+            "structure_id": "illagerinvasion:illager_fort"
+          },
+          "difficulty": {
+            "name": "mul_add",
+            "level": 1
+          }
+        },
+        {
+          "zone_matches": {
+            "biome_regex": ".*",
+            "biome_tag_regex": ".*",
+            "structure_id": "dungeons_arise:illager_fort"
+          },
+          "difficulty": {
+            "name": "mul_add",
+            "level": 1
+          }
+        },
+        {
+          "zone_matches": {
+            "biome_regex": ".*",
+            "biome_tag_regex": ".*",
+            "structure_id": "dungeons_arise:illager_windwill"
+          },
+          "difficulty": {
+            "name": "mul_add",
+            "level": 1
+          }
+        },
+        {
+          "zone_matches": {
+            "biome_regex": ".*",
+            "biome_tag_regex": ".*",
+            "structure_id": "dungeons_arise:illager_campsite"
+          },
+          "difficulty": {
+            "name": "mul_add",
+            "level": 1
+          }
+        },
+        {
+          "zone_matches": {
+            "biome_regex": ".*",
+            "biome_tag_regex": ".*",
+            "structure_id": "minecraft:mansion"
+          },
+          "difficulty": {
+            "name": "mul_add",
+            "level": 1
+          }
+        },
+        {
+          "zone_matches": {
+            "biome_regex": ".*",
+            "biome_tag_regex": ".*",
+            "structure_id": "biomemakeover:mansion"
+          },
+          "difficulty": {
+            "name": "mul_add",
+            "level": 1
+          }
+        },
+        {
+          "zone_matches": {
+            "biome_regex": ".*",
+            "biome_tag_regex": ".*",
+            "structure_id": "dungeons_arise:bandit_towers"
+          },
+          "difficulty": {
+            "name": "mul_add",
+            "level": 1
+          }
+        },
+        {
+          "zone_matches": {
+            "biome_regex": ".*",
+            "biome_tag_regex": ".*",
+            "structure_id": "dungeons_arise:bandit_village"
+          },
+          "difficulty": {
+            "name": "mul_add",
+            "level": 1
+          }
+        },
+        {
+          "zone_matches": {
+            "biome_regex": ".*",
+            "biome_tag_regex": ".*",
+            "structure_id": "dungeons_arise:thornborn_towers"
+          },
+          "difficulty": {
+            "name": "mul_add",
+            "level": 2
+          }
+        },
+        {
+          "zone_matches": {
+            "biome_regex": ".*",
+            "biome_tag_regex": ".*",
+            "structure_id": "dungeons_arise:coliseum"
+          },
+          "difficulty": {
+            "name": "mul_add",
+            "level": 2
+          }
+        },
+        {
+          "zone_matches": {
+            "biome_regex": ".*",
+            "biome_tag_regex": ".*",
+            "structure_id": "dungeons_arise:shiraz_palace"
+          },
+          "difficulty": {
+            "name": "mul_add",
+            "level": 2
+          }
+        },
+        {
+          "zone_matches": {
+            "biome_regex": ".*",
+            "biome_tag_regex": ".*",
+            "structure_id": "dungeons_arise:keep_kayra"
+          },
+          "difficulty": {
+            "name": "mul_add",
+            "level": 2
+          }
+        }
+      ]
+    },
+    {
+      "world_matches": {
+        "dimension_regex": "minecraft:overworld"
+      },
+      "difficulty": {
+        "name": "mul",
+        "level": 1
+      },
+      "zones": [
+        {
+          "zone_matches": {
+            "biome_regex": "frozen|ice|ocean|snow",
+            "biome_tag_regex": ".*"
+          },
+          "difficulty": {
+            "name": "mul",
+            "level": 2
+          }
+        },
+        {
+          "zone_matches": {
+            "biome_regex": ".*",
+            "biome_tag_regex": ".*",
+            "structure_id": "dungeons_arise:typhon"
+          },
+          "difficulty": {
+            "name": "mul_add",
+            "level": 2
+          }
+        },
+        {
+          "zone_matches": {
+            "biome_regex": ".*",
+            "biome_tag_regex": ".*",
+            "structure_id": "dungeons_arise:illager_galley"
+          },
+          "difficulty": {
+            "name": "mul_add",
+            "level": 2
+          }
+        },
+        {
+          "zone_matches": {
+            "biome_regex": ".*",
+            "biome_tag_regex": ".*",
+            "structure_id": "dungeons_arise:illager_corsair"
+          },
+          "difficulty": {
+            "name": "mul_add",
+            "level": 2
+          }
+        },
+        {
+          "zone_matches": {
+            "biome_regex": ".*",
+            "biome_tag_regex": ".*",
+            "structure_id": "dungeons_arise:undead_pirate_ship"
+          },
+          "difficulty": {
+            "name": "mul_add",
+            "level": 2
+          }
+        },
+        {
+          "zone_matches": {
+            "biome_regex": ".*",
+            "biome_tag_regex": ".*",
+            "structure_id": "betteroceanmonuments:ocean_monuments"
+          },
+          "difficulty": {
+            "name": "mul_add",
+            "level": 2
+          }
+        },
+        {
+          "zone_matches": {
+            "biome_regex": ".*",
+            "biome_tag_regex": ".*",
+            "structure_id": "aquamirae:ship"
+          },
+          "difficulty": {
+            "name": "mul_add",
+            "level": 2
+          }
+        },
+        {
+          "zone_matches": {
+            "biome_regex": ".*",
+            "biome_tag_regex": ".*",
+            "structure_id": "aquamirae:outpost"
+          },
+          "difficulty": {
+            "name": "mul_add",
+            "level": 2
+          }
+        },
+        {
+          "zone_matches": {
+            "biome_regex": ".*",
+            "biome_tag_regex": ".*",
+            "structure_id": "aquamirae:shelter"
+          },
+          "difficulty": {
+            "name": "mul_add",
+            "level": 2
+          }
+        }
+      ]
+    },
+    {
+      "world_matches": {
+        "dimension_regex": "minecraft:the_nether"
+      },
+      "difficulty": {
+        "name": "mul",
+        "level": 3
+      },
+      "zones": [
+        {
+          "zone_matches": {
+            "biome_regex": ".*",
+            "biome_tag_regex": ".*",
+            "structure_id": "betterfortress:fortress"
+          },
+          "difficulty": {
+            "name": "mul_add",
+            "level": 3
+          }
+        },
+        {
+          "zone_matches": {
+            "biome_regex": ".*",
+            "biome_tag_regex": ".*",
+            "structure_id": "minecraft:bastion_remnant"
+          },
+          "difficulty": {
+            "name": "mul_add",
+            "level": 3
+          }
+        }
+      ]
+    },
+    {
+      "world_matches": {
+        "dimension_regex": "minecraft:overworld"
+      },
+      "difficulty": {
+        "name": "mul",
+        "level": 1
+      },
+      "zones": [
+        {
+          "zone_matches": {
+            "biome_regex": ".*",
+            "biome_tag_regex": ".*",
+            "structure_id": "minecraft:ancient_city"
+          },
+          "difficulty": {
+            "name": "mul_add",
+            "level": 4
+          }
+        }
+      ]
+    },
+    {
+      "world_matches": {
+        "dimension_regex": "deeperdarker:otherside"
+      },
+      "difficulty": {
+        "name": "mul",
+        "level": 4
+      },
+      "zones": [
+        {
+          "zone_matches": {
+            "biome_regex": ".*",
+            "biome_tag_regex": ".*",
+            "structure_id": "deeperdarker:ancient_temple"
+          },
+          "difficulty": {
+            "name": "mul_add",
+            "level": 4
+          }
+        }
+      ]
+    },
+    {
+      "world_matches": {
+        "dimension_regex": "minecraft:the_end"
+      },
+      "difficulty": {
+        "name": "mul",
+        "level": 5
+      },
+      "zones": [
+        {
+          "zone_matches": {
+            "biome_regex": ".*",
+            "biome_tag_regex": ".*",
+            "structure_id": "minecraft:end_city"
+          },
+          "difficulty": {
+            "name": "mul_add",
+            "level": 5
+          }
+        },
+        {
+          "zone_matches": {
+            "biome_regex": ".*",
+            "biome_tag_regex": ".*",
+            "structure_id": "dungeons_arise:aviary"
+          },
+          "difficulty": {
+            "name": "mul_add",
+            "level": 5
+          }
+        },
+        {
+          "zone_matches": {
+            "biome_regex": ".*",
+            "biome_tag_regex": ".*",
+            "structure_id": "dungeons_arise:heavenly_challenger"
+          },
+          "difficulty": {
+            "name": "mul_add",
+            "level": 5
+          }
+        },
+        {
+          "zone_matches": {
+            "biome_regex": ".*",
+            "biome_tag_regex": ".*",
+            "structure_id": "dungeons_arise:heavenly_conqueror"
+          },
+          "difficulty": {
+            "name": "mul_add",
+            "level": 5
+          }
+        },
+        {
+          "zone_matches": {
+            "biome_regex": ".*",
+            "biome_tag_regex": ".*",
+            "structure_id": "dungeons_arise:heavenly_rider"
+          },
+          "difficulty": {
+            "name": "mul_add",
+            "level": 5
+          }
+        },
+        {
+          "zone_matches": {
+            "biome_regex": ".*",
+            "biome_tag_regex": ".*",
+            "structure_id": "philipsruins:end_gate_fortress"
+          },
+          "difficulty": {
+            "name": "mul_add",
+            "level": 5
+          }
+        },
+        {
+          "zone_matches": {
+            "biome_regex": ".*",
+            "biome_tag_regex": ".*",
+            "structure_id": "repurposed_structures:ancient_city_end"
+          },
+          "difficulty": {
+            "name": "mul_add",
+            "level": 5
+          }
+        },
+        {
+          "zone_matches": {
+            "biome_regex": ".*",
+            "biome_tag_regex": ".*",
+            "structure_id": "mes:phantom_citadel"
+          },
+          "difficulty": {
+            "name": "mul_add",
+            "level": 5
+          }
+        }
+      ]
+    }
+  ]
+}

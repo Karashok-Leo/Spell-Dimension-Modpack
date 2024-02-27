@@ -1,0 +1,89 @@
+{
+  "school": "ARCANE",
+  "range": 12,
+  "learn": {
+    "tier": 3
+  },
+  "cast": {
+    "duration": 6,
+    "animation": "spellbladenext:flameslash",
+    "sound": {
+      "id": "spell_engine:generic_arcane_casting",
+      "randomness": 0
+    },
+    "channel_ticks": 3
+  },
+  "release": {
+    "target": {
+      "type": "PROJECTILE",
+
+      "projectile": {
+        "launch_properties": {
+          "velocity": 3.0
+        },
+        "projectile": {
+          "homing_angle": 0,
+          "divergence": 15,
+          "perks": {
+            "pierce": 2
+          },
+          "client_data": {
+            "travel_particles": [
+              {
+                "particle_id": "spell_engine:arcane_spell",
+                "shape": "CIRCLE",
+                "rotation": "LOOK",
+                "origin": "CENTER",
+                "count": 2.0,
+                "min_speed": 0.05,
+                "max_speed": 0.1
+              },
+              {
+                "particle_id": "firework",
+                "shape": "CIRCLE",
+                "rotation": "LOOK",
+                "origin": "CENTER",
+                "count": 2.0,
+                "min_speed": 0.05,
+                "max_speed": 0.1
+              }
+            ],
+
+            "model": {
+              "model_id": "spellbladenext:projectile/amethyst",
+              "render": "DEEP",
+              "scale": 3
+            }
+          }
+        }
+      }
+    }
+  },
+  "impact": [
+    {
+      "action": {
+        "type": "DAMAGE",
+        "damage": {
+          "spell_power_coefficient": 1.8
+        }
+      },
+      "particles": [
+        {
+          "particle_id": "spell_engine:arcane_hit",
+          "shape": "SPHERE",
+          "origin": "CENTER",
+          "count": 40.0,
+          "min_speed": 0.2,
+          "max_speed": 0.7
+        }
+        ],
+      "sound": {
+        "id": "spell_engine:generic_healing_impact_1"
+      }
+    }
+  ],
+  "cost": {
+    "cooldown_duration": 4,
+    "cooldown_proportional": true
+  }
+}
