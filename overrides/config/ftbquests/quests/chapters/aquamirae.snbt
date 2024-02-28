@@ -13,7 +13,7 @@
 			dependencies: ["492E50442742C42A"]
 			id: "6AB49BCD535F8DB9"
 			rewards: [{
-				id: "42A3F1B0EDA8E8F1"
+				id: "7174F49134506B02"
 				item: "numismatic-overhaul:silver_coin"
 				type: "item"
 			}]
@@ -102,7 +102,7 @@
 			hide: true
 			id: "492E50442742C42A"
 			rewards: [{
-				id: "65142A3F0B26105C"
+				id: "41F04438E6C4AACC"
 				item: "numismatic-overhaul:silver_coin"
 				type: "item"
 			}]
@@ -131,7 +131,7 @@
 			icon: "aquamirae:fin"
 			id: "6338172DA51E6896"
 			rewards: [{
-				id: "788BCFF76D4334C5"
+				id: "02A65DEEA9EEA0BA"
 				item: "numismatic-overhaul:silver_coin"
 				type: "item"
 			}]
@@ -149,7 +149,7 @@
 			icon: "aquamirae:anglers_fang"
 			id: "39E2CA0BCBBF7229"
 			rewards: [{
-				id: "528C4BB4639BEE7E"
+				id: "3D809423B8C9D158"
 				item: "numismatic-overhaul:silver_coin"
 				type: "item"
 			}]
@@ -167,7 +167,7 @@
 			icon: "aquamirae:spinefish"
 			id: "7E2244EBAB0ED720"
 			rewards: [{
-				id: "7C0E47B66DAC280B"
+				id: "6B36D1E6634FCD4D"
 				item: "numismatic-overhaul:silver_coin"
 				type: "item"
 			}]
@@ -185,7 +185,7 @@
 			icon: "aquamirae:sharp_bones"
 			id: "00294A39363B28A0"
 			rewards: [{
-				id: "041F9C519D2EC0C6"
+				id: "700F371B3B277401"
 				item: "numismatic-overhaul:silver_coin"
 				type: "item"
 			}]
@@ -206,8 +206,8 @@
 			icon: "aquamirae:frozen_key"
 			id: "36F8A9188C4E54D8"
 			rewards: [{
-				id: "77B1ADA0A71138F6"
-				item: "numismatic-overhaul:silver_coin"
+				id: "177AB05A9F44438E"
+				item: "numismatic-overhaul:gold_coin"
 				type: "item"
 			}]
 			shape: "diamond"
@@ -226,7 +226,7 @@
 			icon: "aquamirae:abyssal_amethyst"
 			id: "379563D84A18B982"
 			rewards: [{
-				id: "68A5588632C2B483"
+				id: "295460D5A43B273C"
 				item: "numismatic-overhaul:silver_coin"
 				type: "item"
 			}]
@@ -260,7 +260,7 @@
 			]
 			id: "5A636081A958B312"
 			rewards: [{
-				id: "7A20DB9B27048F36"
+				id: "5256BAA19A7CD755"
 				item: "numismatic-overhaul:silver_coin"
 				type: "item"
 			}]
@@ -378,6 +378,11 @@
 				}
 			}
 			id: "26EC96F853A3E039"
+			rewards: [{
+				id: "230B2EDA942B43FE"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
 			shape: "hexagon"
 			size: 1.5d
 			tasks: [{
@@ -414,6 +419,11 @@
 				}
 			}
 			id: "3E789ABF72D7CE14"
+			rewards: [{
+				id: "64F21CDD2BF9053C"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
 			shape: "hexagon"
 			size: 1.5d
 			tasks: [{
@@ -449,6 +459,11 @@
 				}
 			}
 			id: "1F544CCA5382DA0C"
+			rewards: [{
+				id: "18DCD0BB54DDB1D1"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
 			shape: "hexagon"
 			size: 1.5d
 			tasks: [{
@@ -463,6 +478,11 @@
 		{
 			icon: "minecraft:skeleton_skull"
 			id: "66C0DE5F6EEAB62F"
+			rewards: [{
+				id: "10463C50B37437A3"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
 			shape: "hexagon"
 			size: 1.5d
 			tasks: [{
@@ -478,6 +498,11 @@
 			dependencies: ["492E50442742C42A"]
 			description: [""]
 			id: "1998ECDBE6CF684B"
+			rewards: [{
+				id: "1E32D9CB4A4E5FF7"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
 			shape: "diamond"
 			size: 1.5d
 			tasks: [
@@ -533,6 +558,11 @@
 		{
 			dependencies: ["492E50442742C42A"]
 			id: "2E7739459626FDBA"
+			rewards: [{
+				id: "0A6591840CED810E"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
 			shape: "diamond"
 			size: 1.5d
 			tasks: [
@@ -589,6 +619,11 @@
 			dependencies: ["492E50442742C42A"]
 			icon: "aquamirae:shell_horn"
 			id: "0AF0761F6C152AA4"
+			rewards: [{
+				id: "30148673F59CA7D9"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
 			shape: "diamond"
 			size: 1.5d
 			tasks: [
@@ -610,6 +645,11 @@
 			dependencies: ["492E50442742C42A"]
 			icon: "aquamirae:ship_graveyard_echo"
 			id: "13C92042D304C64D"
+			rewards: [{
+				id: "3F4075EFCB90E970"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
 			shape: "hexagon"
 			size: 1.0d
 			tasks: [{
@@ -628,6 +668,11 @@
 			]
 			icon: "aquamirae:rune_of_the_storm"
 			id: "6F9B6D7DEA8A96C7"
+			rewards: [{
+				id: "5BD862EDB9347930"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
 			shape: "diamond"
 			size: 1.5d
 			tasks: [
@@ -648,6 +693,11 @@
 		{
 			icon: "minecraft:bone_block"
 			id: "0BA731D28EE04795"
+			rewards: [{
+				id: "24E192F3458DC7F2"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
 			shape: "hexagon"
 			size: 1.5d
 			tasks: [{
@@ -683,6 +733,11 @@
 				}
 			}
 			id: "782D97D5B8A53BA3"
+			rewards: [{
+				id: "33FE9E39BA47EDE4"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
 			shape: "hexagon"
 			size: 1.5d
 			tasks: [{

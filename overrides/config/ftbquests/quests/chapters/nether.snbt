@@ -748,6 +748,12 @@
 			hide: true
 			icon: "bosses_of_mass_destruction:blazing_eye"
 			id: "40C6BF2B7A9C60F1"
+			rewards: [{
+				count: 2
+				id: "1421A41DAA990421"
+				item: "numismatic-overhaul:gold_coin"
+				type: "item"
+			}]
 			shape: "gear"
 			size: 2.0d
 			tasks: [{
@@ -764,6 +770,12 @@
 			hide: true
 			icon: "minecraft:nether_star"
 			id: "154DB2DC3E3026E5"
+			rewards: [{
+				count: 2
+				id: "4C5456A9F4CF8AEF"
+				item: "numismatic-overhaul:gold_coin"
+				type: "item"
+			}]
 			shape: "gear"
 			size: 2.0d
 			tasks: [{
@@ -784,6 +796,12 @@
 				tag: { }
 			}
 			id: "4509A9E74F396C00"
+			rewards: [{
+				count: 2
+				id: "7BB8C6A043EECA31"
+				item: "numismatic-overhaul:gold_coin"
+				type: "item"
+			}]
 			shape: "gear"
 			size: 2.0d
 			tasks: [{
@@ -806,6 +824,12 @@
 				}
 			}
 			id: "6451DE7E82516D8E"
+			rewards: [{
+				count: 2
+				id: "2077C1AE87C4BE54"
+				item: "numismatic-overhaul:gold_coin"
+				type: "item"
+			}]
 			shape: "gear"
 			size: 2.0d
 			tasks: [{
@@ -827,6 +851,12 @@
 				}
 			}
 			id: "26C8E1274FDBBCB0"
+			rewards: [{
+				count: 2
+				id: "6F5E2A7E8049B7AE"
+				item: "numismatic-overhaul:gold_coin"
+				type: "item"
+			}]
 			shape: "gear"
 			size: 2.5d
 			tasks: [{
@@ -842,6 +872,12 @@
 			dependencies: ["6451DE7E82516D8E"]
 			icon: "graveyard:upper_bone_staff"
 			id: "2BE12711F2344E4C"
+			rewards: [{
+				count: 2
+				id: "040C8C6B829073DB"
+				item: "numismatic-overhaul:gold_coin"
+				type: "item"
+			}]
 			shape: "gear"
 			size: 2.5d
 			tasks: [{
@@ -864,6 +900,12 @@
 				}
 			}
 			id: "743A164FDBE5A468"
+			rewards: [{
+				count: 2
+				id: "392105845DDC7135"
+				item: "numismatic-overhaul:gold_coin"
+				type: "item"
+			}]
 			shape: "gear"
 			size: 2.0d
 			tasks: [{
@@ -886,6 +928,12 @@
 				}
 			}
 			id: "418AA51A09F1B996"
+			rewards: [{
+				count: 2
+				id: "4BF6318DE11182B3"
+				item: "numismatic-overhaul:gold_coin"
+				type: "item"
+			}]
 			shape: "gear"
 			size: 2.0d
 			tasks: [{

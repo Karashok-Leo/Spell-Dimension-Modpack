@@ -17,7 +17,7 @@
 			hide: true
 			id: "1AD052D463DACF03"
 			rewards: [{
-				id: "6EC2F9C33522108A"
+				id: "6D2D01D8130A7D88"
 				item: "numismatic-overhaul:silver_coin"
 				type: "item"
 			}]
@@ -45,7 +45,7 @@
 			]
 			id: "60C4314B17B890C1"
 			rewards: [{
-				id: "59AD740AE87E6F6A"
+				id: "7578EFF8EA5D9E38"
 				item: "numismatic-overhaul:silver_coin"
 				type: "item"
 			}]
@@ -117,7 +117,7 @@
 			]
 			id: "446562E889890311"
 			rewards: [{
-				id: "58464F5008AE6425"
+				id: "46CC87C2F4F86A23"
 				item: "numismatic-overhaul:silver_coin"
 				type: "item"
 			}]
@@ -170,7 +170,7 @@
 			hide: true
 			id: "7EBC8D23C9E4E5C2"
 			rewards: [{
-				id: "1D5FD149097BE80D"
+				id: "4E2D9AD7F97A968A"
 				item: "numismatic-overhaul:silver_coin"
 				type: "item"
 			}]
@@ -187,7 +187,7 @@
 			dependencies: ["18167DB222DBB829"]
 			id: "30DAE359D44B461F"
 			rewards: [{
-				id: "22CE94AC9262197C"
+				id: "08B9D7772A55128B"
 				item: "numismatic-overhaul:silver_coin"
 				type: "item"
 			}]
@@ -202,6 +202,11 @@
 		{
 			icon: "minecraft:reinforced_deepslate"
 			id: "1B50EEE82EA5E76E"
+			rewards: [{
+				id: "234209221D0090BA"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
 			size: 1.5d
 			tasks: [{
 				id: "74BE29D0CB30DE58"
@@ -238,32 +243,39 @@
 				}
 			}
 			id: "18167DB222DBB829"
-			rewards: [{
-				id: "62E2270531F34F45"
-				item: {
-					Count: 1b
-					id: "minecraft:player_head"
-					tag: {
-						SkullOwner: {
-							Id: [I;
-								1531857479
-								-78233159
-								-1681038604
-								1859460671
-							]
-							Properties: {
-								textures: [{
-									Value: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNmNmMzY3NGIyZGRjMGVmN2MzOWUzYjljNmI1ODY3N2RlNWNmMzc3ZDJlYjA3M2YyZjNmZTUwOTE5YjFjYTRjOSJ9fX0="
-								}]
+			rewards: [
+				{
+					id: "62E2270531F34F45"
+					item: {
+						Count: 1b
+						id: "minecraft:player_head"
+						tag: {
+							SkullOwner: {
+								Id: [I;
+									1531857479
+									-78233159
+									-1681038604
+									1859460671
+								]
+								Properties: {
+									textures: [{
+										Value: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNmNmMzY3NGIyZGRjMGVmN2MzOWUzYjljNmI1ODY3N2RlNWNmMzc3ZDJlYjA3M2YyZjNmZTUwOTE5YjFjYTRjOSJ9fX0="
+									}]
+								}
+							}
+							display: {
+								Name: "{\"text\":\"Warden Head\"}"
 							}
 						}
-						display: {
-							Name: "{\"text\":\"Warden Head\"}"
-						}
 					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					id: "03CDECA1E2ED9C9F"
+					item: "numismatic-overhaul:gold_coin"
+					type: "item"
+				}
+			]
 			size: 1.5d
 			tasks: [{
 				entity: "minecraft:warden"
@@ -278,6 +290,11 @@
 			dependencies: ["1AD052D463DACF03"]
 			icon: "minecraft:chiseled_deepslate"
 			id: "37A28DAECBBE5324"
+			rewards: [{
+				id: "5831BAE72F3DEA52"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
 			size: 1.5d
 			tasks: [{
 				id: "457785305CA2978B"
@@ -293,6 +310,11 @@
 			description: ["这些瓶瓶罐罐中可能藏着些什么......"]
 			icon: "deeperdarker:ancient_vase"
 			id: "6409BA1D02E46951"
+			rewards: [{
+				id: "6577FAE127D5C99F"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "0E70949623EDD486"
 				title: "Checked"
@@ -306,6 +328,11 @@
 			dependencies: ["6409BA1D02E46951"]
 			icon: "deeperdarker:soul_crystal"
 			id: "5B65D57273ECE985"
+			rewards: [{
+				id: "0C672AC33779DD1A"
+				item: "numismatic-overhaul:gold_coin"
+				type: "item"
+			}]
 			size: 1.5d
 			tasks: [{
 				entity: "deeperdarker:stalker"
@@ -320,6 +347,11 @@
 			dependencies: ["1AD052D463DACF03"]
 			icon: "deeperdarker:sculk_bone"
 			id: "65DC64587A60EB3D"
+			rewards: [{
+				id: "2F4B17C686FD3317"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
 			tasks: [{
 				entity: "deeperdarker:shattered"
 				id: "6082D624FE3190E6"
@@ -333,6 +365,11 @@
 			dependencies: ["1AD052D463DACF03"]
 			icon: "deeperdarker:grime_ball"
 			id: "1A8EE29C59E60221"
+			rewards: [{
+				id: "49FB2B6192783540"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
 			tasks: [{
 				entity: "deeperdarker:sculk_snapper"
 				id: "7AF33AFAF1AC5097"
@@ -346,6 +383,11 @@
 			dependencies: ["1AD052D463DACF03"]
 			icon: "deeperdarker:soul_dust"
 			id: "12E4854D361C21C7"
+			rewards: [{
+				id: "27D977067F415134"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
 			tasks: [{
 				entity: "deeperdarker:sculk_leech"
 				id: "49A81E8628CC5E99"
@@ -359,6 +401,11 @@
 			dependencies: ["1AD052D463DACF03"]
 			icon: "deeperdarker:sculk_tendrils"
 			id: "69F798E2405207E1"
+			rewards: [{
+				id: "2F77B6AF92403D12"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
 			tasks: [{
 				entity: "deeperdarker:sculk_centipede"
 				id: "086F0DC510A7E171"
@@ -372,6 +419,11 @@
 			dependencies: ["1AD052D463DACF03"]
 			icon: "deeperdarker:sculk_vines"
 			id: "1EC7D65E9A88298E"
+			rewards: [{
+				id: "123C8A1318629548"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
 			tasks: [{
 				entity: "deeperdarker:shriek_worm"
 				id: "1A311D93B52FDE12"
@@ -384,6 +436,11 @@
 		{
 			dependencies: ["5B65D57273ECE985"]
 			id: "1A3060F4088DF19C"
+			rewards: [{
+				id: "2CD01D54631B3DD9"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "4CEDB3D36FA28D57"
 				item: {

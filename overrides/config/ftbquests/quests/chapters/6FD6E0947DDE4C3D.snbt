@@ -452,6 +452,12 @@
 			]
 			hide: true
 			id: "327300655EEACA85"
+			rewards: [{
+				count: 4
+				id: "318E7CE169585AED"
+				item: "numismatic-overhaul:gold_coin"
+				type: "item"
+			}]
 			shape: "hexagon"
 			size: 2.0d
 			tasks: [{
@@ -468,6 +474,12 @@
 			dependencies: ["0A012658616D8B14"]
 			hide: true
 			id: "6266ED3C4AF1B1AB"
+			rewards: [{
+				count: 4
+				id: "7815487761C8FBBD"
+				item: "numismatic-overhaul:gold_coin"
+				type: "item"
+			}]
 			shape: "hexagon"
 			size: 2.0d
 			tasks: [{
@@ -484,6 +496,12 @@
 			dependencies: ["0A012658616D8B14"]
 			hide: true
 			id: "3A96085229B29733"
+			rewards: [{
+				count: 4
+				id: "2518C185677BF972"
+				item: "numismatic-overhaul:gold_coin"
+				type: "item"
+			}]
 			shape: "hexagon"
 			size: 2.0d
 			tasks: [{
@@ -501,6 +519,11 @@
 			hide: true
 			icon: "philipsruins:obsidian_brick"
 			id: "01E8AA911620AD79"
+			rewards: [{
+				id: "36A8002EC5FDA101"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
 			shape: "diamond"
 			tasks: [{
 				id: "6F28A8F8719C3421"
@@ -516,6 +539,11 @@
 			hide: true
 			icon: "minecraft:purpur_block"
 			id: "5BED2CFA9727FF68"
+			rewards: [{
+				id: "2D1605055A1C4B52"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
 			shape: "diamond"
 			tasks: [{
 				id: "3C57441961908586"
@@ -531,6 +559,11 @@
 			hide: true
 			icon: "minecraft:acacia_planks"
 			id: "6CF223A7ABD4732F"
+			rewards: [{
+				id: "241638167F1574D9"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
 			shape: "diamond"
 			tasks: [{
 				id: "797E4E7FB3FB9D9A"
@@ -546,6 +579,11 @@
 			hide: true
 			icon: "minecraft:stripped_birch_wood"
 			id: "3677D8F8BCF5EB6D"
+			rewards: [{
+				id: "306AA8FF0C90F1F9"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
 			shape: "diamond"
 			tasks: [{
 				id: "4ECFA43DF76B3318"
@@ -561,6 +599,11 @@
 			hide: true
 			icon: "minecraft:white_wool"
 			id: "634C68A98E47EA19"
+			rewards: [{
+				id: "75CFC824CF2F1988"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
 			shape: "diamond"
 			tasks: [{
 				id: "146333F520C80991"
@@ -576,6 +619,11 @@
 			hide: true
 			icon: "minecraft:pink_concrete"
 			id: "4D8E960D98C3838B"
+			rewards: [{
+				id: "667173B44AF66F06"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
 			shape: "diamond"
 			tasks: [{
 				id: "528FBB43B6B47856"
@@ -591,6 +639,12 @@
 			hide: true
 			icon: "bosses_of_mass_destruction:obsidian_heart"
 			id: "37E5538DAC8C06D7"
+			rewards: [{
+				count: 4
+				id: "69AE118A4BF3A356"
+				item: "numismatic-overhaul:gold_coin"
+				type: "item"
+			}]
 			shape: "hexagon"
 			size: 2.0d
 			tasks: [{
@@ -607,6 +661,11 @@
 			hide: true
 			icon: "minecraft:end_stone_bricks"
 			id: "0261AA28A711708E"
+			rewards: [{
+				id: "687FE8691A9A6D88"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
 			shape: "diamond"
 			tasks: [{
 				id: "0991E6C55E1B928E"
@@ -622,6 +681,11 @@
 			hide: true
 			icon: "minecraft:pearlescent_froglight"
 			id: "18EBF0677D88C05B"
+			rewards: [{
+				id: "52A5384B74A8F9F4"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
 			shape: "diamond"
 			tasks: [{
 				id: "136742CCC4B26EB9"

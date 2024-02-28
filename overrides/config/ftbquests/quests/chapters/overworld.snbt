@@ -13,6 +13,11 @@
 			dependencies: ["6A14FA01BCA1AD90"]
 			icon: "minecraft:crying_obsidian"
 			id: "143BE57947B1A5C7"
+			rewards: [{
+				id: "2571A5D6CC81D5FE"
+				item: "numismatic-overhaul:gold_coin"
+				type: "item"
+			}]
 			shape: "hexagon"
 			size: 2.0d
 			tasks: [{
@@ -27,6 +32,11 @@
 		{
 			dependencies: ["6A14FA01BCA1AD90"]
 			id: "27A82EDA0DAAE84C"
+			rewards: [{
+				id: "79624275F0609D0E"
+				item: "numismatic-overhaul:gold_coin"
+				type: "item"
+			}]
 			shape: "hexagon"
 			size: 2.0d
 			tasks: [{
@@ -42,6 +52,11 @@
 		{
 			dependencies: ["6A14FA01BCA1AD90"]
 			id: "5930D2120FF1D56B"
+			rewards: [{
+				id: "44912C745D116383"
+				item: "numismatic-overhaul:gold_coin"
+				type: "item"
+			}]
 			shape: "hexagon"
 			size: 2.0d
 			tasks: [{
@@ -58,6 +73,11 @@
 			dependencies: ["272AACD1A17AB630"]
 			hide: true
 			id: "6A14FA01BCA1AD90"
+			rewards: [{
+				id: "0734E9F51EDDBF04"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
 			shape: "square"
 			size: 1.5d
 			tasks: [{
@@ -120,6 +140,11 @@
 				}
 			}
 			id: "1BF4D791EF70CACC"
+			rewards: [{
+				id: "53F00EAB91E6EC06"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "455D6AD1A132FFD9"
 				structure: "minecraft:mansion"
@@ -132,6 +157,12 @@
 		{
 			dependencies: ["1BF4D791EF70CACC"]
 			id: "08436C894452B0B1"
+			rewards: [{
+				count: 8
+				id: "4DA597C466EC497F"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
 			shape: "octagon"
 			size: 1.5d
 			tasks: [{
@@ -148,6 +179,11 @@
 			dependencies: ["3C01769F7E31E668"]
 			icon: "minecraft:rail"
 			id: "16240FD3A25E78C3"
+			rewards: [{
+				id: "4156361F9C257579"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "43A731E3A395185E"
 				structure: "dungeons_arise:mining_system"
@@ -161,6 +197,11 @@
 			dependencies: ["3C01769F7E31E668"]
 			icon: "minecraft:powered_rail"
 			id: "3ACAB0553432D655"
+			rewards: [{
+				id: "23EC529B1B993EC7"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "7A22737B8EA6FE3A"
 				structure: "dungeons_arise:scorched_mines"
@@ -174,6 +215,11 @@
 			dependencies: ["3C01769F7E31E668"]
 			icon: "minecraft:acacia_wood"
 			id: "3F85FBC4060C0D3A"
+			rewards: [{
+				id: "50FB190F49C2DBB2"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "2CC4BE63E888A337"
 				structure: "dungeons_arise:plague_asylum"
@@ -193,6 +239,11 @@
 				}
 			}
 			id: "049DBDBA800AA993"
+			rewards: [{
+				id: "29625DFDDD208FF2"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "460E474CA33CDBE9"
 				structure: "dungeons_arise:foundry"
@@ -206,6 +257,11 @@
 			dependencies: ["5281DA9F5B9AE83E"]
 			icon: "minecraft:smooth_quartz"
 			id: "14A7F595A0CE2F77"
+			rewards: [{
+				id: "554FFD586685D4F2"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "3BE5F57D0815952E"
 				structure: "dungeons_arise:small_blimp"
@@ -219,6 +275,11 @@
 			dependencies: ["5281DA9F5B9AE83E"]
 			icon: "minecraft:dark_prismarine"
 			id: "6B57EBA4BED0C92C"
+			rewards: [{
+				id: "14165BF5FBF9A64C"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "790E048391C197FC"
 				structure: "dungeons_arise:abandoned_temple"
@@ -232,6 +293,11 @@
 			dependencies: ["272AACD1A17AB630"]
 			icon: "minecraft:bone_block"
 			id: "7E4ED45BA325198F"
+			rewards: [{
+				id: "48DC1718FB7EC4ED"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "3B4E71DE8633C105"
 				structure: "dungeons_arise:ceryneian_hind"
@@ -245,6 +311,11 @@
 			dependencies: ["3C01769F7E31E668"]
 			icon: "minecraft:red_mushroom_block"
 			id: "3FD52DAC66E2EC46"
+			rewards: [{
+				id: "194BA0F9C860FFEE"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "79A0F3DE33F4714D"
 				structure: "dungeons_arise:giant_mushroom"
@@ -258,6 +329,11 @@
 			dependencies: ["3C01769F7E31E668"]
 			icon: "minecraft:red_mushroom_block"
 			id: "21365F4BA94F42E7"
+			rewards: [{
+				id: "6637C386A7493963"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "4D7A9642C566B926"
 				structure: "dungeons_arise:mushroom_house"
@@ -271,6 +347,11 @@
 			dependencies: ["3C01769F7E31E668"]
 			icon: "minecraft:red_mushroom_block"
 			id: "4BCDF0B9DDEBE13C"
+			rewards: [{
+				id: "0FBCF13C8E9FD504"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "55BC5367DDCCEA07"
 				structure: "dungeons_arise:mushroom_mines"
@@ -284,6 +365,11 @@
 			dependencies: ["3C01769F7E31E668"]
 			icon: "minecraft:red_mushroom_block"
 			id: "0ABDA219874986A4"
+			rewards: [{
+				id: "29BE05654266D036"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "7FCEA952F6F4313A"
 				structure: "dungeons_arise:mushroom_village"
@@ -297,6 +383,11 @@
 			dependencies: ["6A14FA01BCA1AD90"]
 			icon: "minecraft:iron_bars"
 			id: "1715083BDE390795"
+			rewards: [{
+				id: "60F95B9E72ED2357"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "1ADFCAB1D719220D"
 				structure: "dungeons_arise:coliseum"
@@ -310,6 +401,11 @@
 			dependencies: ["6A14FA01BCA1AD90"]
 			icon: "minecraft:bricks"
 			id: "3AD61B769F45CB2C"
+			rewards: [{
+				id: "060E4BFDC43484A5"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "1EDAC6AF4F25624B"
 				structure: "dungeons_arise:bandit_towers"
@@ -323,6 +419,11 @@
 			dependencies: ["6A14FA01BCA1AD90"]
 			icon: "minecraft:purple_concrete_powder"
 			id: "062CE642413D9383"
+			rewards: [{
+				id: "6CBB5C053CC7BF48"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "59230B74FBF4BD3F"
 				structure: "dungeons_arise:bandit_village"
@@ -382,6 +483,11 @@
 				}
 			}
 			id: "1E3BC0A81411F267"
+			rewards: [{
+				id: "0FD8F04CF013025E"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "555FA8973161EAF5"
 				structure: "dungeons_arise:illager_campsite"
@@ -441,6 +547,11 @@
 				}
 			}
 			id: "3FC345170E7DDFE7"
+			rewards: [{
+				id: "34C79CCFDA62B331"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "509D4A5E1B5FAFF9"
 				structure: "dungeons_arise:illager_windmill"
@@ -454,6 +565,11 @@
 			dependencies: ["5281DA9F5B9AE83E"]
 			icon: "minecraft:yellow_terracotta"
 			id: "3628C7F5A3CAC77A"
+			rewards: [{
+				id: "77FC6392EFFC8978"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "7FF5EAE30D1DF13D"
 				structure: "dungeons_arise:infested_temple"
@@ -513,6 +629,11 @@
 				}
 			}
 			id: "312C8CC6D9F4F595"
+			rewards: [{
+				id: "18ABAB571FC5DC2C"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "0CB7BA40AD73AA3B"
 				structure: "dungeons_arise:illager_fort"
@@ -526,6 +647,11 @@
 			dependencies: ["5281DA9F5B9AE83E"]
 			icon: "minecraft:jungle_log"
 			id: "15BE15671F553F24"
+			rewards: [{
+				id: "40B2CFA13CCB6BD7"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "3A3B50096BC5B629"
 				structure: "dungeons_arise:jungle_tree_house"
@@ -539,6 +665,11 @@
 			dependencies: ["73731DC2FBA48BCF"]
 			icon: "minecraft:redstone_lamp"
 			id: "706973F29899696B"
+			rewards: [{
+				id: "46315ACD6FC5961E"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "03BDF6DEEA9F521D"
 				structure: "dungeons_arise:lighthouse"
@@ -552,6 +683,11 @@
 			dependencies: ["73731DC2FBA48BCF"]
 			icon: "minecraft:purple_wool"
 			id: "01DA43F8C84FD770"
+			rewards: [{
+				id: "081E32E3F632BDF8"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "0DB084D5D95F1953"
 				structure: "dungeons_arise:merchant_campsite"
@@ -565,6 +701,11 @@
 			dependencies: ["5281DA9F5B9AE83E"]
 			icon: "minecraft:warped_planks"
 			id: "5B7CC68D28E0D0C0"
+			rewards: [{
+				id: "2E85748C1DE837AE"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "6B6D1F50BE11493B"
 				structure: "dungeons_arise:monastery"
@@ -578,6 +719,11 @@
 			dependencies: ["5281DA9F5B9AE83E"]
 			icon: "minecraft:waxed_cut_copper"
 			id: "0DDF357070B781A5"
+			rewards: [{
+				id: "28CB5A8300527446"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "6A224E7BB1DB27BB"
 				structure: "dungeons_arise:bathhouse"
@@ -591,6 +737,11 @@
 			dependencies: ["6A14FA01BCA1AD90"]
 			icon: "minecraft:polished_granite"
 			id: "56AC5533A43F42EF"
+			rewards: [{
+				id: "7E2B01351A9871BE"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "20EB55072764F6A0"
 				structure: "dungeons_arise:thornborn_towers"
@@ -604,6 +755,11 @@
 			dependencies: ["6A14FA01BCA1AD90"]
 			icon: "minecraft:yellow_glazed_terracotta"
 			id: "66CE3140C26D1DB7"
+			rewards: [{
+				id: "495DF61E939C77BC"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "4F790D6AF42D1128"
 				structure: "dungeons_arise:keep_kayra"
@@ -621,6 +777,11 @@
 				tag: { }
 			}
 			id: "1A4A4871E959D3F8"
+			rewards: [{
+				id: "60C4304490A294C4"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "11E2F9DFBD3BF5ED"
 				structure: "dungeons_arise:greenwood_pub"
@@ -634,6 +795,11 @@
 			dependencies: ["73731DC2FBA48BCF"]
 			icon: "minecraft:cauldron"
 			id: "442C295C74341D93"
+			rewards: [{
+				id: "2BDD97AB93BBF4EB"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "2EC8BEF2A463809F"
 				structure: "dungeons_arise:wishing_well"
@@ -647,6 +813,11 @@
 			dependencies: ["6A14FA01BCA1AD90"]
 			icon: "minecraft:rose_bush"
 			id: "3EF6A8C3AFCEAF4C"
+			rewards: [{
+				id: "443E1C41E59069B4"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "77272E58E33FC53F"
 				structure: "dungeons_arise:shiraz_palace"
@@ -706,6 +877,11 @@
 				}
 			}
 			id: "00AF0B02FA60C105"
+			rewards: [{
+				id: "47F78197E2E9D8B4"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "003B4D8994FFC0C4"
 				structure: "illagerinvasion:firecaller_hut"
@@ -765,6 +941,11 @@
 				}
 			}
 			id: "339474030D7DD9B2"
+			rewards: [{
+				id: "0F4B1F423CCAEDC3"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "795F8B3346C057FE"
 				structure: "illagerinvasion:illager_fort"
@@ -824,6 +1005,11 @@
 				}
 			}
 			id: "31444F6BD73E51A0"
+			rewards: [{
+				id: "5F49CEBA5F1AB1FE"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "1976841E9184B70E"
 				structure: "illagerinvasion:illusioner_tower"
@@ -883,6 +1069,11 @@
 				}
 			}
 			id: "388B8F0409D35B9A"
+			rewards: [{
+				id: "0DABB1D331B3AA83"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "13F5F35671938AE5"
 				structure: "illagerinvasion:labyrinth"
@@ -942,6 +1133,11 @@
 				}
 			}
 			id: "2B96D84F6A763D27"
+			rewards: [{
+				id: "42FE880087C220C0"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "38C0125C3A916696"
 				structure: "illagerinvasion:sorcerer_hut"
@@ -955,6 +1151,11 @@
 			dependencies: ["5281DA9F5B9AE83E"]
 			icon: "minecraft:warped_planks"
 			id: "63E86F9C614238BC"
+			rewards: [{
+				id: "7BF968481B7179A8"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "2CA0344C6BE17A85"
 				structure: "mvs:houses/large_warped_tower"
@@ -969,6 +1170,11 @@
 			description: [""]
 			icon: "minecraft:stone_bricks"
 			id: "6A63DCBF2359AE68"
+			rewards: [{
+				id: "01EC7E7284C2FABE"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "68A1220B376AB5EF"
 				structure: "philipsruins:ancient_crypt"
@@ -983,6 +1189,11 @@
 			description: [""]
 			icon: "minecraft:mossy_stone_bricks"
 			id: "1E55078B7ED4A49F"
+			rewards: [{
+				id: "305C7E09F5085313"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "36B2C93F7E4AD63F"
 				structure: "philipsruins:antiquus_crypta"
@@ -996,6 +1207,11 @@
 			dependencies: ["5281DA9F5B9AE83E"]
 			icon: "minecraft:terracotta"
 			id: "79CB2010416B91C6"
+			rewards: [{
+				id: "65A5B912F2A8AFF1"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "5E69701A69D41CE1"
 				structure: "philipsruins:badlands_start_dungeon"
@@ -1009,6 +1225,11 @@
 			dependencies: ["5281DA9F5B9AE83E"]
 			icon: "minecraft:orange_terracotta"
 			id: "26204E9522A9B27D"
+			rewards: [{
+				id: "002B04DA05A305DA"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "28A840F6DD7487B0"
 				structure: "philipsruins:badlands_structures"
@@ -1022,6 +1243,11 @@
 			dependencies: ["272AACD1A17AB630"]
 			icon: "minecraft:bone_block"
 			id: "169AE754285AF8B0"
+			rewards: [{
+				id: "294665F116EFE71B"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "4ABECC1F8B8D5E98"
 				structure: "philipsruins:bone_dungeon"
@@ -1035,6 +1261,11 @@
 			dependencies: ["272AACD1A17AB630"]
 			icon: "minecraft:sand"
 			id: "185B62083861A0A4"
+			rewards: [{
+				id: "4624B215E8B92CE8"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "4EDF426661A596C1"
 				structure: "philipsruins:desert_structures"
@@ -1048,6 +1279,11 @@
 			dependencies: ["73731DC2FBA48BCF"]
 			hide: true
 			id: "5281DA9F5B9AE83E"
+			rewards: [{
+				id: "4EA9556B0E077349"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
 			shape: "square"
 			size: 1.5d
 			tasks: [{
@@ -1063,6 +1299,11 @@
 			dependencies: ["5281DA9F5B9AE83E"]
 			hide: true
 			id: "3C01769F7E31E668"
+			rewards: [{
+				id: "5921BA22EE273E27"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
 			shape: "square"
 			size: 1.5d
 			tasks: [{
@@ -1078,6 +1319,11 @@
 			dependencies: ["3C01769F7E31E668"]
 			hide: true
 			id: "272AACD1A17AB630"
+			rewards: [{
+				id: "6146996A914BEDC6"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
 			shape: "square"
 			size: 1.5d
 			tasks: [{
@@ -1093,6 +1339,11 @@
 			dependencies: ["42180D8ADFC6C3FA"]
 			hide: true
 			id: "73731DC2FBA48BCF"
+			rewards: [{
+				id: "0B3FFCE3AF8C831F"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
 			shape: "square"
 			size: 1.5d
 			tasks: [{
@@ -1108,6 +1359,11 @@
 			dependencies: ["272AACD1A17AB630"]
 			icon: "minecraft:sand"
 			id: "6DCBBC78C3A485C7"
+			rewards: [{
+				id: "65CF1375BE489001"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "39918CE5312650F7"
 				structure: "betterdeserttemples:desert_temple"
@@ -1121,6 +1377,11 @@
 			dependencies: ["5281DA9F5B9AE83E"]
 			icon: "minecraft:mossy_cobblestone"
 			id: "1F7C4428CF50714E"
+			rewards: [{
+				id: "6A046864B6D5A952"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "4B5B06853DE8B038"
 				structure: "minecraft:jungle_pyramid"
@@ -1134,6 +1395,11 @@
 			dependencies: ["73731DC2FBA48BCF"]
 			icon: "minecraft:lantern"
 			id: "1549B3A48CEF50DC"
+			rewards: [{
+				id: "2B769FC0D1F3A869"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "0A7A75A0C3A06A52"
 				structure: "#minecraft:village"
@@ -1147,6 +1413,11 @@
 			dependencies: ["73731DC2FBA48BCF"]
 			icon: "minecraft:dandelion"
 			id: "1A2F77E9E1209F88"
+			rewards: [{
+				id: "5542F38899302E44"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "2834673FE8F52B97"
 				structure: "imst:flowerdome"
@@ -1160,6 +1431,11 @@
 			dependencies: ["73731DC2FBA48BCF"]
 			icon: "minecraft:crying_obsidian"
 			id: "0A990A2CD387548E"
+			rewards: [{
+				id: "49AD921886865318"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "585797D050D03F3E"
 				structure: "#minecraft:ruined_portal"
@@ -1183,6 +1459,12 @@
 			]
 			icon: "soulsweapons:essence_of_eventide"
 			id: "7D005A7B0222C0BB"
+			rewards: [{
+				count: 4
+				id: "698A77287C4A02EC"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
 			shape: "octagon"
 			size: 1.5d
 			tasks: [{
@@ -1199,6 +1481,12 @@
 			description: ["手持迷失的灵魂对破旧的月光祭坛右键召唤复仇骑士。"]
 			icon: "soulsweapons:arkenstone"
 			id: "4108563ADE414DBE"
+			rewards: [{
+				count: 8
+				id: "5822349E0AC04025"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
 			shape: "octagon"
 			size: 1.5d
 			tasks: [{
@@ -1214,6 +1502,12 @@
 			dependencies: ["3C01769F7E31E668"]
 			icon: "bosses_of_mass_destruction:ancient_anima"
 			id: "3E10E3CBCACB72E4"
+			rewards: [{
+				count: 4
+				id: "7C42BEAF1187DE58"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
 			shape: "octagon"
 			size: 1.5d
 			tasks: [{
@@ -1229,6 +1523,12 @@
 			dependencies: ["3C01769F7E31E668"]
 			icon: "bosses_of_mass_destruction:void_thorn"
 			id: "0C9B50F990FD6D36"
+			rewards: [{
+				count: 4
+				id: "1E89FCA8EDC2273A"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
 			shape: "octagon"
 			size: 1.5d
 			tasks: [{
@@ -1245,6 +1545,12 @@
 			description: ["手持日暮精粹对破旧的月光祭坛右键召唤陨落王者。"]
 			icon: "soulsweapons:essence_of_luminescence"
 			id: "0AE42157F0855C51"
+			rewards: [{
+				count: 4
+				id: "30BCC1205920207B"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
 			shape: "octagon"
 			size: 1.5d
 			tasks: [{
@@ -1260,6 +1566,11 @@
 			dependencies: ["272AACD1A17AB630"]
 			icon: "minecraft:sand"
 			id: "4B092DA1FCCC0A6C"
+			rewards: [{
+				id: "1C880DF9CA536CAF"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "09EE760A53EFF38C"
 				structure: "additionalstructures:pyramid_1"
@@ -1273,6 +1584,11 @@
 			dependencies: ["272AACD1A17AB630"]
 			icon: "minecraft:sand"
 			id: "7B3D19E62721D54A"
+			rewards: [{
+				id: "06481275F52E9BC8"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "4BA466443D9F2DE1"
 				structure: "additionalstructures:pyramid_dungeon"
@@ -1286,6 +1602,11 @@
 			dependencies: ["272AACD1A17AB630"]
 			icon: "minecraft:sand"
 			id: "3B6E4989A2089459"
+			rewards: [{
+				id: "4F57401A6B094C53"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "5A77A5CEAE7BD413"
 				structure: "imst:pyramid"
@@ -1299,6 +1620,11 @@
 			dependencies: ["272AACD1A17AB630"]
 			icon: "minecraft:sand"
 			id: "4F1844624DAB8CEA"
+			rewards: [{
+				id: "7174924E4A8478B6"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "23AC1E481C22FB9B"
 				structure: "red:desert_pyramid"
@@ -1312,6 +1638,11 @@
 			dependencies: ["272AACD1A17AB630"]
 			icon: "minecraft:sand"
 			id: "1D86267DCF636B2F"
+			rewards: [{
+				id: "6234669B034F2C54"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "196F8D3BA94A28B6"
 				structure: "red:sphinx"
@@ -1325,6 +1656,11 @@
 			dependencies: ["73731DC2FBA48BCF"]
 			icon: "minecraft:bell"
 			id: "28699DA740B94295"
+			rewards: [{
+				id: "1E447A03BB9E34BC"
+				item: "numismatic-overhaul:silver_coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "5C3FB24CBDBBD2AC"
 				structure: "skyvillages:skyvillage"
