@@ -59,6 +59,12 @@
               "operation": "MULTIPLY_BASE",
               "randomness": 0.05,
               "value": 0.2
+            },
+            {
+              "attribute": "generic.armor",
+              "operation": "ADDITION",
+              "randomness": 1.0,
+              "value": 10.0
             }
           ],
           "spawners": {
