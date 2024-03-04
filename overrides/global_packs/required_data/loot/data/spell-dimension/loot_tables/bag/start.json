@@ -6,16 +6,40 @@
       "entries": [
         {
           "type": "item",
-          "name": "lootbags:loot_bag",
-          "functions": [
-            {
-              "function": "set_nbt",
-              "tag": "{Type: \"COMMON\",Color:-256,Loot:\"spell-dimension:common_bag\",Name:\"spell-dimension.bag.common\"}"
-            }
-          ]
+          "name": "wizards:wizard_robe_head"
         }
       ],
-      "rolls": 4.0
+      "rolls": 1.0
+    },
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "item",
+          "name": "wizards:wizard_robe_chest"
+        }
+      ],
+      "rolls": 1.0
+    },
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "item",
+          "name": "wizards:wizard_robe_legs"
+        }
+      ],
+      "rolls": 1.0
+    },
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "item",
+          "name": "wizards:wizard_robe_feet"
+        }
+      ],
+      "rolls": 1.0
     },
     {
       "bonus_rolls": 0.0,
