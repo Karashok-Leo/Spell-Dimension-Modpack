@@ -1,0 +1,26 @@
+{
+    "armorSetName": "emerald_armor",
+    "performanceMode": true,
+    "head": {
+      "itemKey": "plentyofarmors:emerald_helmet"
+    },
+    "chest": {
+      "itemKey": "plentyofarmors:emerald_chestplate"
+    },
+    "legs": {
+      "itemKey": "plentyofarmors:emerald_leggings"
+    },
+    "boots": {
+      "itemKey": "plentyofarmors:emerald_boots"
+    },
+    "fullSetBonuses": [
+      {
+        "type": "attribute",
+        "name": "minecraft:generic.luck",
+        "value": 3,
+        "modifierUUID": "cd0d6ffc-18cf-45f8-96ff-1e69261dc7bd",
+        "attributeOperation": 2,
+        "interactionType": "self"
+      }
+    ]
+  }

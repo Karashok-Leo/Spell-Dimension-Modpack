@@ -1,0 +1,7 @@
+{
+  "damage": {
+    "addition": 2.0,
+    "multiplier": 0.4,
+    "base": 1.2
+  }
+}

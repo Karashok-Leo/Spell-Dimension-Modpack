@@ -1,17 +1,17 @@
 {
-  "armorSetName": "orichalcum_armor",
+  "armorSetName": "prometheum_armor",
   "performanceMode": true,
   "head": {
-    "itemKey": "mythicmetals:orichalcum_helmet"
+    "itemKey": "mythicmetals:prometheum_helmet"
   },
   "chest": {
-    "itemKey": "mythicmetals:orichalcum_chestplate"
+    "itemKey": "mythicmetals:prometheum_chestplate"
   },
   "legs": {
-    "itemKey": "mythicmetals:orichalcum_leggings"
+    "itemKey": "mythicmetals:prometheum_leggings"
   },
   "boots": {
-    "itemKey": "mythicmetals:orichalcum_boots"
+    "itemKey": "mythicmetals:prometheum_boots"
   },
   "fullSetBonuses": [
     {

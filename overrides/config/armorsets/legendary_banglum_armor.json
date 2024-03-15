@@ -1,0 +1,34 @@
+{
+    "armorSetName": "legendary_banglum_armor",
+    "performanceMode": true,
+    "head": {
+      "itemKey": "mythicmetals:legendary_banglum_helmet"
+    },
+    "chest": {
+      "itemKey": "mythicmetals:legendary_banglum_chestplate"
+    },
+    "legs": {
+      "itemKey": "mythicmetals:legendary_banglum_leggings"
+    },
+    "boots": {
+      "itemKey": "mythicmetals:legendary_banglum_boots"
+    },
+    "fullSetBonuses": [
+      {
+        "type": "attribute",
+        "name": "spell_power:fire",
+        "value": 10.0,
+        "modifierUUID": "4a90f42c-75b0-4307-98fb-4f9539809638",
+        "attributeOperation": 0,
+        "interactionType": "self"
+      },
+      {
+        "type": "attribute",
+        "name": "spell_power:critical_damage",
+        "value": 1.2,
+        "modifierUUID": "47332973-9b3d-42b2-9b32-7eeda71ccacf",
+        "attributeOperation": 1,
+        "interactionType": "self"
+      }
+    ]
+  }

@@ -1,0 +1,57 @@
+{
+  "verifiers": [
+    {
+      "tag": "equipment_standard:boots"
+    },
+    {
+      "tag": "equipment_standard:elytra"
+    }
+  ],
+  "attributes": [
+    {
+      "type": "generic.movement_speed",
+      "chance": 1,
+      "modifiers": [
+        {
+          "weights": 20,
+          "operation": "MULTIPLY_BASE",
+          "min": -0.2,
+          "max": 0,
+          "bonus": {
+            "lucky": -1,
+            "proficiency": -0.01
+          }
+        },
+        {
+          "weights": 40,
+          "operation": "ADDITION",
+          "amount": 0,
+          "bonus": {
+            "lucky": -0.1,
+            "proficiency": -0.002
+          }
+        },
+        {
+          "weights": 50,
+          "operation": "MULTIPLY_BASE",
+          "min": 0,
+          "max": 0.2,
+          "bonus": {
+            "lucky": 0.05,
+            "proficiency": 0.002
+          }
+        },
+        {
+          "weights": 1,
+          "operation": "MULTIPLY_BASE",
+          "min": 0.2,
+          "max": 0.3,
+          "bonus": {
+            "lucky": 0.1,
+            "proficiency": 0.01
+          }
+        }
+      ]
+    }
+  ]
+}

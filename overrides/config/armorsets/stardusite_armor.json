@@ -1,0 +1,41 @@
+{
+    "armorSetName": "stardusite_armor",
+    "performanceMode": true,
+    "head": {
+      "itemKey": "plentyofarmors:stardusite_helmet"
+    },
+    "chest": {
+      "itemKey": "plentyofarmors:stardusite_chestplate"
+    },
+    "legs": {
+      "itemKey": "plentyofarmors:stardusite_leggings"
+    },
+    "boots": {
+      "itemKey": "plentyofarmors:stardusite_boots"
+    },
+    "fullSetBonuses": [
+      {
+        "type": "attribute",
+        "name": "minecraft:generic.armor",
+        "value": 6.0,
+        "modifierUUID": "5fe8e488-5a9d-43c5-ad19-425ff2398705",
+        "attributeOperation": 0,
+        "interactionType": "self"
+      },
+      {
+        "type": "attribute",
+        "name": "spell_power:critical_damage",
+        "value": 2.0,
+        "modifierUUID": "c65a1f64-d503-4a14-b5f5-34c1cc08a443",
+        "attributeOperation": 1,
+        "interactionType": "self"
+      },
+      {
+        "type": "effect",
+        "name": "minecraft:glowing",
+        "value": 0.0,
+        "interactionType": "self",
+        "interactionDuration": 300
+      }
+    ]
+  }

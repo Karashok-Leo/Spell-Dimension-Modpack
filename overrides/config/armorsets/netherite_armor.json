@@ -1,0 +1,34 @@
+{
+    "armorSetName": "netherite_armor",
+    "performanceMode": true,
+    "head": {
+      "itemKey": "minecraft:netherite_helmet"
+    },
+    "chest": {
+      "itemKey": "minecraft:netherite_chestplate"
+    },
+    "legs": {
+      "itemKey": "minecraft:netherite_leggings"
+    },
+    "boots": {
+      "itemKey": "minecraft:netherite_boots"
+    },
+    "fullSetBonuses": [
+      {
+        "type": "attribute",
+        "name": "minecraft:generic.attack_damage",
+        "value": 4.0,
+        "modifierUUID": "c7f1d00d-5d0b-4aa2-8527-e9283baa9446",
+        "attributeOperation": 0,
+        "interactionType": "self"
+      },
+      {
+        "type": "attribute",
+        "name": "spell_power:critical_chance",
+        "value": 1.1,
+        "modifierUUID": "af60c52d-3dc2-4f99-a594-4a0f3e446bc1",
+        "attributeOperation": 1,
+        "interactionType": "self"
+      }
+    ]
+  }

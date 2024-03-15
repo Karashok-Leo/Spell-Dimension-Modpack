@@ -1,0 +1,104 @@
+{
+  "desc": "护甲在 items/armors 里，因为护甲自带属性，鞘翅和马铠没属性",
+  "verifiers": [
+    "#equipment_standard:elytra",
+    "#equipment_standard:horse_armor"
+  ],
+  "excludes": [
+    "#equipment_standard:magic"
+  ],
+  "attributes": [
+    {
+      "type": "generic.armor",
+      "chance": 1,
+      "step": 0.5,
+      "modifiers": [
+        {
+          "weights": 30,
+          "operation": "ADDITION",
+          "min": -2,
+          "max": 0,
+          "bonus": {
+            "lucky": -1,
+            "proficiency": -0.01
+          }
+        },
+        {
+          "weights": 40,
+          "operation": "ADDITION",
+          "amount": 0,
+          "bonus": {
+            "lucky": -0.1,
+            "proficiency": -0.002
+          }
+        },
+        {
+          "weights": 50,
+          "operation": "ADDITION",
+          "min": 0,
+          "max": 3,
+          "bonus": {
+            "lucky": 0.1,
+            "proficiency": 0.002
+          }
+        },
+        {
+          "weights": 1,
+          "operation": "ADDITION",
+          "min": 3,
+          "max": 5,
+          "bonus": {
+            "lucky": 0.5,
+            "proficiency": 0.01
+          }
+        }
+      ]
+    },
+    {
+      "type": "generic.armor_toughness",
+      "chance": 1,
+      "step": 0.5,
+      "modifiers": [
+        {
+          "weights": 30,
+          "operation": "ADDITION",
+          "min": -1,
+          "max": 0,
+          "bonus": {
+            "lucky": -1,
+            "proficiency": -0.01
+          }
+        },
+        {
+          "weights": 40,
+          "operation": "ADDITION",
+          "amount": 0,
+          "bonus": {
+            "lucky": -0.1,
+            "proficiency": -0.002
+          }
+        },
+        {
+          "weights": 50,
+          "operation": "ADDITION",
+          "min": 0,
+          "max": 2,
+          "bonus": {
+            "lucky": 0.1,
+            "proficiency": 0.002
+          }
+        },
+        {
+          "weights": 1,
+          "operation": "ADDITION",
+          "min": 2,
+          "max": 4,
+          "bonus": {
+            "lucky": 0.5,
+            "proficiency": 0.01
+          }
+        }
+      ]
+    }
+  ]
+}

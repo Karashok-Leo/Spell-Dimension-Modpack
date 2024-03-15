@@ -1,0 +1,147 @@
+{
+  "verifiers": [
+    "#equipment_standard:melee_weapons",
+    "#equipment_standard:diggers"
+  ],
+  "excludes": [
+  ],
+  "attributes": [
+    {
+      "type": "generic.attack_damage",
+      "chance": 1,
+      "modifiers": [
+        {
+          "weights": 30,
+          "operation": "MULTIPLY_ADDITION",
+          "min": -0.2,
+          "max": 0,
+          "bonus": {
+            "lucky": -1,
+            "proficiency": -0.01
+          }
+        },
+        {
+          "weights": 40,
+          "operation": "ADDITION",
+          "amount": 0,
+          "bonus": {
+            "lucky": -0.1,
+            "proficiency": -0.002
+          }
+        },
+        {
+          "weights": 50,
+          "operation": "MULTIPLY_ADDITION",
+          "min": 0,
+          "max": 0.2,
+          "bonus": {
+            "lucky": 0.05,
+            "proficiency": 0.002
+          }
+        },
+        {
+          "weights": 1,
+          "operation": "MULTIPLY_ADDITION",
+          "min": 0.2,
+          "max": 0.5,
+          "bonus": {
+            "lucky": 0.1,
+            "proficiency": 0.01
+          }
+        }
+      ]
+    },
+    {
+      "type": "generic.attack_speed",
+      "chance": 1,
+      "modifiers": [
+        {
+          "weights": 30,
+          "operation": "ADDITION",
+          "min": -0.2,
+          "max": 0,
+          "bonus": {
+            "lucky": -1,
+            "proficiency": -0.01
+          }
+        },
+        {
+          "weights": 40,
+          "operation": "ADDITION",
+          "amount": 0,
+          "bonus": {
+            "lucky": -0.1,
+            "proficiency": -0.002
+          }
+        },
+        {
+          "weights": 50,
+          "operation": "ADDITION",
+          "min": 0,
+          "max": 0.2,
+          "bonus": {
+            "lucky": 0.05,
+            "proficiency": 0.002
+          }
+        },
+        {
+          "weights": 1,
+          "operation": "ADDITION",
+          "min": 0.2,
+          "max": 0.5,
+          "bonus": {
+            "lucky": 0.1,
+            "proficiency": 0.01
+          }
+        }
+      ]
+    },
+    {
+      "type": "generic.attack_knockback",
+      "desc": "感觉是废物属性，不加了",
+      "chance": 0,
+      "modifiers": [
+        {
+          "operation": "ADDITION",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "type": "equipment_standard:generic.real_damage",
+      "chance": 1,
+      "step": 0.1,
+      "modifiers": [
+        {
+          "weights": 100,
+          "operation": "ADDITION",
+          "amount": 0,
+          "bonus": {
+            "lucky": -0.1,
+            "proficiency": -0.002
+          }
+        },
+        {
+          "weights": 50,
+          "operation": "ADDITION",
+          "min": 0.5,
+          "max": 2,
+          "bonus": {
+            "lucky": 0.05,
+            "proficiency": 0.002
+          }
+        },
+        {
+          "weights": 1,
+          "operation": "ADDITION",
+          "min": 2,
+          "max": 5,
+          "bonus": {
+            "lucky": 0.1,
+            "proficiency": 0.01
+          }
+        }
+      ]
+    }
+  ]
+}

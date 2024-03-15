@@ -1,0 +1,482 @@
+{
+  "modLoaded": [
+    "spell_power"
+  ],
+  "verifiers": [
+    "wizards:wizard_robe_head",
+    "wizards:wizard_robe_chest",
+    "wizards:wizard_robe_legs",
+    "wizards:wizard_robe_feet",
+    "wizards:arcane_robe_head",
+    "wizards:arcane_robe_chest",
+    "wizards:arcane_robe_legs",
+    "wizards:arcane_robe_feet",
+    "wizards:fire_robe_head",
+    "wizards:fire_robe_chest",
+    "wizards:fire_robe_legs",
+    "wizards:fire_robe_feet",
+    "wizards:frost_robe_head",
+    "wizards:frost_robe_chest",
+    "wizards:frost_robe_legs",
+    "wizards:frost_robe_feet",
+    "paladins:priest_robe_head",
+    "paladins:priest_robe_chest",
+    "paladins:priest_robe_legs",
+    "paladins:priest_robe_feet",
+    "paladins:prior_robe_head",
+    "paladins:prior_robe_chest",
+    "paladins:prior_robe_legs",
+    "paladins:prior_robe_feet",
+    "wizards:wand_novice",
+    "wizards:wand_arcane",
+    "wizards:wand_fire",
+    "wizards:wand_frost",
+    "wizards:wand_netherite_arcane",
+    "wizards:wand_netherite_fire",
+    "wizards:wand_netherite_frost",
+    "wizards:staff_wizard",
+    "wizards:staff_arcane",
+    "wizards:staff_fire",
+    "wizards:staff_frost",
+    "wizards:staff_netherite_arcane",
+    "wizards:staff_netherite_fire",
+    "wizards:staff_netherite_frost",
+    "paladins:acolyte_wand",
+    "paladins:holy_wand",
+    "paladins:netherite_holy_wand",
+    "paladins:holy_staff",
+    "paladins:diamond_holy_staff",
+    "paladins:netherite_holy_staff",
+    "paladins:ruby_holy_staff"
+  ],
+  "attributes": [
+    {
+      "type": "spell_power:critical_chance",
+      "chance": 1,
+      "modifiers": [
+        {
+          "weights": 70,
+          "operation": "MULTIPLY_BASE",
+          "amount": 0,
+          "bonus": {
+            "lucky": -1,
+            "proficiency": -0.02
+          }
+        },
+        {
+          "weights": 50,
+          "operation": "MULTIPLY_BASE",
+          "min": 0,
+          "max": 0.1,
+          "bonus": {
+            "lucky": 0.1,
+            "proficiency": 0.002
+          }
+        },
+        {
+          "weights": 1,
+          "operation": "MULTIPLY_BASE",
+          "min": 0.1,
+          "max": 0.2,
+          "bonus": {
+            "lucky": 0.5,
+            "proficiency": 0.01
+          }
+        }
+      ]
+    },
+    {
+      "type": "spell_power:critical_damage",
+      "chance": 1,
+      "modifiers": [
+        {
+          "weights": 70,
+          "operation": "MULTIPLY_BASE",
+          "amount": 0,
+          "bonus": {
+            "lucky": -1,
+            "proficiency": -0.02
+          }
+        },
+        {
+          "weights": 50,
+          "operation": "MULTIPLY_BASE",
+          "min": 0,
+          "max": 0.2,
+          "bonus": {
+            "lucky": 0.1,
+            "proficiency": 0.002
+          }
+        },
+        {
+          "weights": 1,
+          "operation": "MULTIPLY_BASE",
+          "min": 0.2,
+          "max": 0.5,
+          "bonus": {
+            "lucky": 0.5,
+            "proficiency": 0.01
+          }
+        }
+      ]
+    },
+    {
+      "type": "spell_power:haste",
+      "chance": 1,
+      "step": 1,
+      "modifiers": [
+        {
+          "weights": 30,
+          "operation": "ADDITION",
+          "min": -20,
+          "max": 0,
+          "bonus": {
+            "lucky": -1,
+            "proficiency": -0.01
+          }
+        },
+        {
+          "weights": 40,
+          "operation": "ADDITION",
+          "amount": 0,
+          "bonus": {
+            "lucky": -0.1,
+            "proficiency": -0.002
+          }
+        },
+        {
+          "weights": 50,
+          "operation": "ADDITION",
+          "min": 0,
+          "max": 15,
+          "bonus": {
+            "lucky": 0.05,
+            "proficiency": 0.002
+          }
+        },
+        {
+          "weights": 1,
+          "operation": "ADDITION",
+          "min": 15,
+          "max": 20,
+          "bonus": {
+            "lucky": 0.1,
+            "proficiency": 0.01
+          }
+        }
+      ]
+    },
+    {
+      "type": "spell_power:fire",
+      "chance": 1,
+      "step": 0.5,
+      "modifiers": [
+        {
+          "weights": 30,
+          "operation": "MULTIPLY_ADDITION",
+          "min": -0.2,
+          "max": 0,
+          "bonus": {
+            "lucky": -1,
+            "proficiency": -0.01
+          }
+        },
+        {
+          "weights": 40,
+          "operation": "ADDITION",
+          "amount": 0,
+          "bonus": {
+            "lucky": -0.1,
+            "proficiency": -0.002
+          }
+        },
+        {
+          "weights": 5,
+          "operation": "ADDITION",
+          "min": 0,
+          "max": 2
+        },
+        {
+          "weights": 50,
+          "operation": "MULTIPLY_ADDITION",
+          "min": 0,
+          "max": 0.4,
+          "bonus": {
+            "lucky": 0.05,
+            "proficiency": 0.002
+          }
+        },
+        {
+          "weights": 1,
+          "operation": "MULTIPLY_ADDITION",
+          "min": 0.4,
+          "max": 0.8,
+          "bonus": {
+            "lucky": 0.1,
+            "proficiency": 0.01
+          }
+        }
+      ]
+    },
+    {
+      "type": "spell_power:frost",
+      "chance": 1,
+      "step": 0.5,
+      "modifiers": [
+        {
+          "weights": 30,
+          "operation": "MULTIPLY_ADDITION",
+          "min": -0.2,
+          "max": 0,
+          "bonus": {
+            "lucky": -1,
+            "proficiency": -0.01
+          }
+        },
+        {
+          "weights": 40,
+          "operation": "ADDITION",
+          "amount": 0,
+          "bonus": {
+            "lucky": -0.1,
+            "proficiency": -0.002
+          }
+        },
+        {
+          "weights": 5,
+          "operation": "ADDITION",
+          "min": 0,
+          "max": 2
+        },
+        {
+          "weights": 50,
+          "operation": "MULTIPLY_ADDITION",
+          "min": 0,
+          "max": 0.4,
+          "bonus": {
+            "lucky": 0.05,
+            "proficiency": 0.002
+          }
+        },
+        {
+          "weights": 1,
+          "operation": "MULTIPLY_ADDITION",
+          "min": 0.4,
+          "max": 0.8,
+          "bonus": {
+            "lucky": 0.1,
+            "proficiency": 0.01
+          }
+        }
+      ]
+    },
+    {
+      "type": "spell_power:arcane",
+      "chance": 1,
+      "step": 0.5,
+      "modifiers": [
+        {
+          "weights": 30,
+          "operation": "MULTIPLY_ADDITION",
+          "min": -0.2,
+          "max": 0,
+          "bonus": {
+            "lucky": -1,
+            "proficiency": -0.01
+          }
+        },
+        {
+          "weights": 40,
+          "operation": "ADDITION",
+          "amount": 0,
+          "bonus": {
+            "lucky": -0.1,
+            "proficiency": -0.002
+          }
+        },
+        {
+          "weights": 5,
+          "operation": "ADDITION",
+          "min": 0,
+          "max": 2
+        },
+        {
+          "weights": 50,
+          "operation": "MULTIPLY_ADDITION",
+          "min": 0,
+          "max": 0.4,
+          "bonus": {
+            "lucky": 0.05,
+            "proficiency": 0.002
+          }
+        },
+        {
+          "weights": 1,
+          "operation": "MULTIPLY_ADDITION",
+          "min": 0.4,
+          "max": 0.8,
+          "bonus": {
+            "lucky": 0.1,
+            "proficiency": 0.01
+          }
+        }
+      ]
+    },
+    {
+      "type": "spell_power:healing",
+      "chance": 1,
+      "modifiers": [
+        {
+          "weights": 30,
+          "operation": "MULTIPLY_ADDITION",
+          "min": -0.2,
+          "max": 0,
+          "bonus": {
+            "lucky": -1,
+            "proficiency": -0.01
+          }
+        },
+        {
+          "weights": 40,
+          "operation": "ADDITION",
+          "amount": 0,
+          "bonus": {
+            "lucky": -0.1,
+            "proficiency": -0.002
+          }
+        },
+        {
+          "weights": 5,
+          "operation": "ADDITION",
+          "step": 0.5,
+          "min": 0,
+          "max": 2
+        },
+        {
+          "weights": 50,
+          "operation": "MULTIPLY_ADDITION",
+          "min": 0,
+          "max": 0.4,
+          "bonus": {
+            "lucky": 0.05,
+            "proficiency": 0.002
+          }
+        },
+        {
+          "weights": 1,
+          "operation": "MULTIPLY_ADDITION",
+          "min": 0.4,
+          "max": 0.8,
+          "bonus": {
+            "lucky": 0.1,
+            "proficiency": 0.01
+          }
+        }
+      ]
+    },
+    {
+      "type": "spell_power:lightning",
+      "chance": 1,
+      "modifiers": [
+        {
+          "weights": 30,
+          "operation": "MULTIPLY_ADDITION",
+          "min": -0.2,
+          "max": 0,
+          "bonus": {
+            "lucky": -1,
+            "proficiency": -0.01
+          }
+        },
+        {
+          "weights": 40,
+          "operation": "ADDITION",
+          "amount": 0,
+          "bonus": {
+            "lucky": -0.1,
+            "proficiency": -0.002
+          }
+        },
+        {
+          "weights": 5,
+          "operation": "ADDITION",
+          "step": 0.5,
+          "min": 0,
+          "max": 2
+        },
+        {
+          "weights": 50,
+          "operation": "MULTIPLY_ADDITION",
+          "min": 0,
+          "max": 0.4,
+          "bonus": {
+            "lucky": 0.05,
+            "proficiency": 0.002
+          }
+        },
+        {
+          "weights": 1,
+          "operation": "MULTIPLY_ADDITION",
+          "min": 0.4,
+          "max": 0.8,
+          "bonus": {
+            "lucky": 0.1,
+            "proficiency": 0.01
+          }
+        }
+      ]
+    },
+    {
+      "type": "spell_power:soul",
+      "chance": 1,
+      "modifiers": [
+        {
+          "weights": 30,
+          "operation": "MULTIPLY_ADDITION",
+          "min": -0.2,
+          "max": 0,
+          "bonus": {
+            "lucky": -1,
+            "proficiency": -0.01
+          }
+        },
+        {
+          "weights": 40,
+          "operation": "ADDITION",
+          "amount": 0,
+          "bonus": {
+            "lucky": -0.1,
+            "proficiency": -0.002
+          }
+        },
+        {
+          "weights": 5,
+          "operation": "ADDITION",
+          "step": 0.5,
+          "min": 0,
+          "max": 2
+        },
+        {
+          "weights": 50,
+          "operation": "MULTIPLY_ADDITION",
+          "min": 0,
+          "max": 0.4,
+          "bonus": {
+            "lucky": 0.05,
+            "proficiency": 0.002
+          }
+        },
+        {
+          "weights": 1,
+          "operation": "MULTIPLY_ADDITION",
+          "min": 0.4,
+          "max": 0.8,
+          "bonus": {
+            "lucky": 0.1,
+            "proficiency": 0.01
+          }
+        }
+      ]
+    }
+  ]
+}

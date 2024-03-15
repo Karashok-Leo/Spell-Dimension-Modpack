@@ -1,0 +1,9 @@
+{
+  "type": "spell_power:critical_chance",
+  "scores": [
+    {
+      "operation": "MULTIPLY_BASE",
+      "score": 1000
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+    "armorSetName": "heliodor_armor",
+    "performanceMode": true,
+    "head": {
+      "itemKey": "crystals_overhauled:heliodor_armor_helmet"
+    },
+    "chest": {
+      "itemKey": "crystals_overhauled:heliodor_armor_chestplate"
+    },
+    "legs": {
+      "itemKey": "crystals_overhauled:heliodor_armor_leggings"
+    },
+    "boots": {
+      "itemKey": "crystals_overhauled:heliodor_armor_boots"
+    },
+    "fullSetBonuses": [
+      {
+        "type": "attribute",
+        "name": "spell_power:haste",
+        "value": 1.2,
+        "modifierUUID": "494b431d-f00a-4331-9d83-af4bd3784be9",
+        "attributeOperation": 1,
+        "interactionType": "self"
+      }
+    ]
+  }

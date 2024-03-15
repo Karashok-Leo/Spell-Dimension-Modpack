@@ -39,13 +39,13 @@
         {
           "type": "item",
           "name": "minecraft:bone_block",
-          "weight": 3,
+          "weight": 2,
           "functions": [
             {
               "function": "set_count",
               "count": {
-                "min": 2,
-                "max": 4
+                "min": 0,
+                "max": 2
               }
             }
           ]
@@ -66,36 +66,7 @@
         },
         {
           "type": "minecraft:empty",
-          "weight": 12
-        }
-      ]
-    },
-    {
-      "rolls": 1,
-      "entries": [
-        {
-          "type": "item",
-          "name": "minecraft:diamond",
-          "weight": 1
-        },
-        {
-          "type": "item",
-          "name": "minecraft:amethyst_shard",
-          "weight": 2
-        },
-        {
-          "type": "item",
-          "name": "minecraft:lapis_lazuli",
-          "weight": 3
-        },
-        {
-          "type": "item",
-          "name": "minecraft:redstone",
-          "weight": 4
-        },
-        {
-          "type": "minecraft:empty",
-          "weight": 40
+          "weight": 23
         }
       ]
     }

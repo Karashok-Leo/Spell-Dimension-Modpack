@@ -1,0 +1,17 @@
+{
+  "type": "equipment_standard:generic.crit_chance",
+  "scores": [
+    {
+      "operation": "ADDITION",
+      "score": 600
+    },
+    {
+      "operation": "MULTIPLY_BASE",
+      "score": 600
+    },
+    {
+      "operation": "MULTIPLY_TOTAL",
+      "score": 600
+    }
+  ]
+}

@@ -25,6 +25,10 @@
       "extra_table": "spell-dimension:tier/legendary_drop"
     },
     {
+      "target_regex": "^(?!.*spell-dimension).*entities.*",
+      "extra_table": "spell-dimension:entity/ore"
+    },
+    {
       "target_regex": "minecraft:blocks/dirt",
       "extra_table": "spell-dimension:block/dirt"
     },

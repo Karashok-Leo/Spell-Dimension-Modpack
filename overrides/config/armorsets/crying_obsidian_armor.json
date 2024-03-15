@@ -1,0 +1,34 @@
+{
+    "armorSetName": "crying_obsidian_armor",
+    "performanceMode": true,
+    "head": {
+      "itemKey": "plentyofarmors:crying_obsidian_helmet"
+    },
+    "chest": {
+      "itemKey": "plentyofarmors:crying_obsidian_chestplate"
+    },
+    "legs": {
+      "itemKey": "plentyofarmors:crying_obsidian_leggings"
+    },
+    "boots": {
+      "itemKey": "plentyofarmors:crying_obsidian_boots"
+    },
+    "fullSetBonuses": [
+      {
+        "type": "attribute",
+        "name": "spell_power:arcane",
+        "value": 4.0,
+        "modifierUUID": "f0f0084b-c306-4eb4-acb1-8561980d48c6",
+        "attributeOperation": 0,
+        "interactionType": "self"
+      },
+      {
+        "type": "attribute",
+        "name": "spell_power:critical_chance",
+        "value": 10,
+        "modifierUUID": "9efbde80-e2de-4168-9aea-bb7f95768c01",
+        "attributeOperation": 1,
+        "interactionType": "self"
+      }
+    ]
+  }

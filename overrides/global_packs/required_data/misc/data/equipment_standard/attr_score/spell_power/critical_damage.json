@@ -1,0 +1,9 @@
+{
+  "type": "spell_power:critical_damage",
+  "scores": [
+    {
+      "operation": "MULTIPLY_BASE",
+      "score": 800
+    }
+  ]
+}

@@ -23,6 +23,14 @@
       "interactionType": "self"
     },
     {
+      "type": "attribute",
+      "name": "minecraft:generic.armor_toughness",
+      "value": 4.0,
+      "modifierUUID": "63738153-f14c-47ba-9f89-e4d204bfb7e8",
+      "attributeOperation": 0,
+      "interactionType": "self"
+    },
+    {
       "type": "effect",
       "name": "minecraft:slow_falling",
       "value": 0.0,

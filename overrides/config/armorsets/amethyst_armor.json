@@ -1,0 +1,26 @@
+{
+    "armorSetName": "amethyst_armor",
+    "performanceMode": true,
+    "head": {
+      "itemKey": "plentyofarmors:amethyst_helmet"
+    },
+    "chest": {
+      "itemKey": "plentyofarmors:amethyst_chestplate"
+    },
+    "legs": {
+      "itemKey": "plentyofarmors:amethyst_leggings"
+    },
+    "boots": {
+      "itemKey": "plentyofarmors:amethyst_boots"
+    },
+    "fullSetBonuses": [
+      {
+        "type": "attribute",
+        "name": "spell_power:arcane",
+        "value": 8.0,
+        "modifierUUID": "273ff460-c99a-4d88-a110-010adbf4baf3",
+        "attributeOperation": 0,
+        "interactionType": "self"
+      }
+    ]
+  }

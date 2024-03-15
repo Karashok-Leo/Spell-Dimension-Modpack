@@ -1,0 +1,156 @@
+{
+  "verifiers": [
+    {
+      "tag": "equipment_standard:armor"
+    }
+  ],
+  "excludes": [
+  ],
+  "attributes": [
+    {
+      "type": "generic.armor",
+      "chance": 1,
+      "modifiers": [
+        {
+          "weights": 30,
+          "operation": "MULTIPLY_ADDITION",
+          "min": -0.2,
+          "max": 0,
+          "bonus": {
+            "lucky": -1,
+            "proficiency": -0.01
+          }
+        },
+        {
+          "weights": 40,
+          "operation": "ADDITION",
+          "amount": 0,
+          "bonus": {
+            "lucky": -0.1,
+            "proficiency": -0.002
+          }
+        },
+        {
+          "weights": 50,
+          "operation": "MULTIPLY_ADDITION",
+          "min": 0,
+          "max": 0.3,
+          "bonus": {
+            "lucky": 0.05,
+            "proficiency": 0.002
+          }
+        },
+        {
+          "weights": 5,
+          "operation": "ADDITION",
+          "min": 0,
+          "max": 2,
+          "step": 0.5,
+          "bonus": {
+            "lucky": 0.05,
+            "proficiency": 0.002
+          }
+        },
+        {
+          "weights": 1,
+          "operation": "MULTIPLY_ADDITION",
+          "min": 0.3,
+          "max": 0.5,
+          "bonus": {
+            "lucky": 0.1,
+            "proficiency": 0.01
+          }
+        }
+      ]
+    },
+    {
+      "type": "generic.armor_toughness",
+      "chance": 1,
+      "modifiers": [
+        {
+          "weights": 30,
+          "operation": "MULTIPLY_ADDITION",
+          "min": -0.2,
+          "max": 0,
+          "bonus": {
+            "lucky": -1,
+            "proficiency": -0.01
+          }
+        },
+        {
+          "weights": 40,
+          "operation": "ADDITION",
+          "amount": 0,
+          "bonus": {
+            "lucky": -0.1,
+            "proficiency": -0.002
+          }
+        },
+        {
+          "weights": 50,
+          "operation": "MULTIPLY_ADDITION",
+          "min": 0,
+          "max": 0.5,
+          "bonus": {
+            "lucky": 0.05,
+            "proficiency": 0.002
+          }
+        },
+        {
+          "weights": 20,
+          "operation": "ADDITION",
+          "min": 0,
+          "max": 2,
+          "step": 0.5,
+          "bonus": {
+            "lucky": 0.05,
+            "proficiency": 0.002
+          }
+        },
+        {
+          "weights": 1,
+          "operation": "MULTIPLY_ADDITION",
+          "min": 0.5,
+          "max": 1,
+          "bonus": {
+            "lucky": 0.1,
+            "proficiency": 0.01
+          }
+        }
+      ]
+    },
+    {
+      "type": "generic.knockback_resistance",
+      "chance": 1,
+      "modifiers": [
+        {
+          "weights": 50,
+          "operation": "ADDITION",
+          "amount": 0,
+          "bonus": {
+            "lucky": -0.1,
+            "proficiency": -0.002
+          }
+        },
+        {
+          "weights": 30,
+          "operation": "ADDITION",
+          "amount": 0.1,
+          "bonus": {
+            "lucky": 0.05,
+            "proficiency": 0.002
+          }
+        },
+        {
+          "weights": 1,
+          "operation": "MULTIPLY_ADDITION",
+          "amount": 0.2,
+          "bonus": {
+            "lucky": 0.1,
+            "proficiency": 0.01
+          }
+        }
+      ]
+    }
+  ]
+}

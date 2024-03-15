@@ -23,6 +23,14 @@
       "interactionType": "self"
     },
     {
+      "type": "attribute",
+      "name": "spell_power:healing",
+      "value": 8.0,
+      "modifierUUID": "bee61deb-fb74-4f62-a88f-29eb47e13462",
+      "attributeOperation": 0,
+      "interactionType": "self"
+    },
+    {
       "type": "effect",
       "name": "minecraft:poison",
       "interactionType": "immunity"

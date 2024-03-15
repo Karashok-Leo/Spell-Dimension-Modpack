@@ -1,0 +1,9 @@
+{
+  "type": "equipment_standard:generic.dig_speed",
+  "scores": [
+    {
+      "operation": "MULTIPLY_BASE",
+      "score": 1000
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+    "armorSetName": "durasteel_armor",
+    "performanceMode": true,
+    "head": {
+      "itemKey": "mythicmetals:durasteel_helmet"
+    },
+    "chest": {
+      "itemKey": "mythicmetals:durasteel_chestplate"
+    },
+    "legs": {
+      "itemKey": "mythicmetals:durasteel_leggings"
+    },
+    "boots": {
+      "itemKey": "mythicmetals:durasteel_boots"
+    },
+    "fullSetBonuses": [
+        {
+          "type": "attribute",
+          "name": "minecraft:generic.armor",
+          "value": 6.0,
+          "modifierUUID": "af4fb957-941f-49d9-b527-f022ee006f0f",
+          "attributeOperation": 0,
+          "interactionType": "self"
+        },
+        {
+          "type": "attribute",
+          "name": "minecraft:generic.armor_toughness",
+          "value": 8.0,
+          "modifierUUID": "05487192-7e64-40d1-a4a7-c3d7de0c3e0b",
+          "attributeOperation": 0,
+          "interactionType": "self"
+        }
+    ]
+  }

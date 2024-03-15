@@ -1,0 +1,41 @@
+{
+    "armorSetName": "ender_netherite_armor",
+    "performanceMode": true,
+    "head": {
+      "itemKey": "plentyofarmors:ender_netherite_helmet"
+    },
+    "chest": {
+      "itemKey": "plentyofarmors:ender_netherite_chestplate"
+    },
+    "legs": {
+      "itemKey": "plentyofarmors:ender_netherite_leggings"
+    },
+    "boots": {
+      "itemKey": "plentyofarmors:ender_netherite_boots"
+    },
+    "fullSetBonuses": [
+      {
+        "type": "attribute",
+        "name": "minecraft:generic.armor",
+        "value": 6.0,
+        "modifierUUID": "9352825a-1948-48e6-b9ea-ff6a8a205e26",
+        "attributeOperation": 0,
+        "interactionType": "self"
+      },
+      {
+        "type": "attribute",
+        "name": "spell_power:arcane",
+        "value": 12.0,
+        "modifierUUID": "d565d9eb-8de2-49e5-8b58-3bdf13884b22",
+        "attributeOperation": 0,
+        "interactionType": "self"
+      },
+      {
+        "type": "effect",
+        "name": "minecraft:invisibility",
+        "value": 0.0,
+        "interactionType": "self",
+        "interactionDuration": 300
+      }
+    ]
+  }

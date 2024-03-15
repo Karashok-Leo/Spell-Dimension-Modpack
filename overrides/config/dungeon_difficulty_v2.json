@@ -64,6 +64,12 @@
               "attribute": "generic.armor",
               "operation": "ADDITION",
               "randomness": 1.0,
+              "value": 20.0
+            },
+            {
+              "attribute": "generic.armor_toughness",
+              "operation": "ADDITION",
+              "randomness": 1.0,
               "value": 10.0
             }
           ],
@@ -143,16 +149,22 @@
               "value": 5.0
             },
             {
+              "attribute": "generic.max_health",
+              "operation": "ADDITION",
+              "randomness": 2.0,
+              "value": 10.0
+            },
+            {
               "attribute": "generic.armor",
               "operation": "ADDITION",
               "randomness": 1.0,
               "value": 5.0
             },
             {
-              "attribute": "generic.max_health",
+              "attribute": "generic.armor_toughness",
               "operation": "ADDITION",
-              "randomness": 2.0,
-              "value": 10.0
+              "randomness": 1.0,
+              "value": 5.0
             }
           ],
           "spawners": {
@@ -232,13 +244,19 @@
               "value": 0.2
             },
             {
+              "attribute": "generic.max_health",
+              "operation": "MULTIPLY_BASE",
+              "randomness": 0.05,
+              "value": 0.2
+            },
+            {
               "attribute": "generic.armor",
               "operation": "MULTIPLY_BASE",
               "randomness": 0.05,
               "value": 0.2
             },
             {
-              "attribute": "generic.max_health",
+              "attribute": "generic.armor_toughness",
               "operation": "MULTIPLY_BASE",
               "randomness": 0.05,
               "value": 0.2

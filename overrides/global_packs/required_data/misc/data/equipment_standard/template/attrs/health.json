@@ -1,0 +1,91 @@
+{
+  "verifiers": [
+    {
+      "tag": "equipment_standard:armor"
+    },
+    {
+      "tag": "equipment_standard:elytra"
+    },
+    {
+      "tag": "equipment_standard:shields"
+    },
+    {
+      "tag": "equipment_standard:horse_armor"
+    }
+  ],
+  "attributes": [
+    {
+      "type": "generic.max_health",
+      "chance": 1,
+      "step": 1,
+      "modifiers": [
+        {
+          "weights": 30,
+          "operation": "ADDITION",
+          "min": -1,
+          "max": 0,
+          "bonus": {
+            "lucky": -1,
+            "proficiency": -0.01
+          }
+        },
+        {
+          "weights": 40,
+          "operation": "ADDITION",
+          "amount": 0,
+          "bonus": {
+            "lucky": -0.1,
+            "proficiency": -0.002
+          }
+        },
+        {
+          "weights": 50,
+          "operation": "ADDITION",
+          "min": 0,
+          "max": 2,
+          "bonus": {
+            "lucky": 0.05,
+            "proficiency": 0.002
+          }
+        },
+        {
+          "weights": 1,
+          "operation": "ADDITION",
+          "min": 2,
+          "max": 5,
+          "bonus": {
+            "lucky": 0.1,
+            "proficiency": 0.01
+          }
+        }
+      ]
+    },
+    {
+      "type": "generic.max_health",
+      "chance": 0.08,
+      "bonus": {
+        "lucky": 0.01,
+        "proficiency": 0.0001
+      },
+      "step": 1,
+      "modifiers": [
+        {
+          "weights": 100,
+          "operation": "MULTIPLY_BASE",
+          "min": 0.1,
+          "max": 0.3
+        },
+        {
+          "weights": 1,
+          "operation": "MULTIPLY_BASE",
+          "min": 0.3,
+          "max": 0.5,
+          "bonus": {
+            "lucky": 0.1,
+            "proficiency": 0.01
+          }
+        }
+      ]
+    }
+  ]
+}

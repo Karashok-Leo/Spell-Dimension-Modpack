@@ -1,0 +1,64 @@
+{
+  "modifiers": [
+    {
+      "attributeId": "minecraft:generic.armor",
+      "amount": 1.0,
+      "operation": "ADDITION",
+      "color": 8947848
+    },
+    {
+      "attributeId": "minecraft:generic.armor_toughness",
+      "amount": 1.0,
+      "operation": "ADDITION",
+      "color": 12447487
+    },
+    {
+      "attributeId": "minecraft:generic.attack_speed",
+      "amount": 0.05,
+      "operation": "ADDITION",
+      "color": 16756843
+    },
+    {
+      "attributeId": "minecraft:generic.knockback_resistance",
+      "amount": 0.1,
+      "operation": "ADDITION",
+      "color": 16764523
+    },
+    {
+      "attributeId": "minecraft:generic.luck",
+      "amount": 1.0,
+      "operation": "ADDITION",
+      "color": 12124011
+    },
+    {
+      "attributeId": "minecraft:generic.max_health",
+      "amount": 1.0,
+      "operation": "ADDITION",
+      "color": 16739179
+    },
+    {
+      "attributeId": "minecraft:generic.movement_speed",
+      "amount": 0.02,
+      "operation": "ADDITION",
+      "color": 7060735
+    },
+    {
+      "attributeId": "spell_power:haste",
+      "amount": 0.01,
+      "operation": "MULTIPLY_BASE",
+      "color": 14652671
+    },
+    {
+      "attributeId": "spell_power:critical_damage",
+      "amount": 0.01,
+      "operation": "MULTIPLY_BASE",
+      "color": 16449428
+    },
+    {
+      "attributeId": "spell_power:critical_chance",
+      "amount": 0.01,
+      "operation": "MULTIPLY_BASE",
+      "color": 9764826
+    }
+  ]
+}

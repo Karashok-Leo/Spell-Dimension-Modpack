@@ -1,0 +1,26 @@
+{
+    "armorSetName": "frozen_diamond_armor",
+    "performanceMode": true,
+    "head": {
+      "itemKey": "plentyofarmors:frozen_diamond_helmet"
+    },
+    "chest": {
+      "itemKey": "plentyofarmors:frozen_diamond_chestplate"
+    },
+    "legs": {
+      "itemKey": "plentyofarmors:frozen_diamond_leggings"
+    },
+    "boots": {
+      "itemKey": "plentyofarmors:frozen_diamond_boots"
+    },
+    "fullSetBonuses": [
+      {
+        "type": "attribute",
+        "name": "spell_power:frost",
+        "value": 8.0,
+        "modifierUUID": "7d0ef5c0-fa5e-4707-b86b-1746063c6722",
+        "attributeOperation": 0,
+        "interactionType": "self"
+      }
+    ]
+  }

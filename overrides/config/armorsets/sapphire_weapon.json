@@ -1,0 +1,20 @@
+{
+  "armorSetName": "sapphire_weapon",
+  "performanceMode": true,
+  "mainHand": {
+    "itemKey": "mythicupgrades:sapphire_sword",
+    "mixAndMatch": [
+      "mythicupgrades:sapphire_axe"
+    ]
+  },
+  "fullSetBonuses": [
+    {
+      "type": "attribute",
+      "name": "minecraft:generic.attack_damage",
+      "value": 3.0,
+      "modifierUUID": "e341cc69-b1ff-f78f-12e6-0983c1745378",
+      "attributeOperation": 0,
+      "interactionType": "self"
+    }
+  ]
+}

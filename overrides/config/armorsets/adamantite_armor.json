@@ -17,17 +17,17 @@
     {
       "type": "attribute",
       "name": "minecraft:generic.armor",
-      "value": 4.0,
+      "value": 6.0,
       "modifierUUID": "2188e807-6aad-4561-b76c-9d8769e8f3e1",
       "attributeOperation": 0,
       "interactionType": "self"
     },
     {
       "type": "attribute",
-      "name": "projectile_damage:generic",
-      "value": 7.5,
+      "name": "spell_power:critical_chance",
+      "value": 1.2,
       "modifierUUID": "2716f485-daf8-4f40-b534-d4590cebeeed",
-      "attributeOperation": 0,
+      "attributeOperation": 1,
       "interactionType": "self"
     }
   ]

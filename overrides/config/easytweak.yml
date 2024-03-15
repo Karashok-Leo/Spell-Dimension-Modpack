@@ -39,7 +39,7 @@ LootTable:
   Wither_Skeleton_Drop_Skull: false
   Mineable_Budding_Amethyst: true
 MobActivity:
-  Disable_Piglin_Zombify: false
+  Disable_Piglin_Zombify: true
   Creeper_Attack_Snow_Golem: false
 Recipes:
   Enchanted_Golden_Apple: false
