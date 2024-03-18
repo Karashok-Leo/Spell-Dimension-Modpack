@@ -1,14 +1,9 @@
 {
-	"type": "minecraft:crafting_shaped",
-	"pattern": [
-		" S ",
-		"L L",
-		"LLL"
+	"type": "crafting_shapeless",
+	"ingredients": [
+		{"item": "minecraft:leather"},
+		{"item": "minecraft:leather"}
 	],
-	"key": {
-		"L": {"item": "minecraft:leather"},
-		"S": {"item": "minecraft:string"}
-		},
 	"result": {
 		"item": "minecraft:bundle"
 	}

@@ -1,0 +1,27 @@
+{
+  "type": "bagofholding:crafting_special_bag_upgrade",
+  "category": "equipment",
+  "key": {
+    "B": {
+      "item": "minecraft:bundle"
+    },
+    "I": {
+      "item": "minecraft:leather"
+    },
+    "S": {
+      "item": "minecraft:string"
+    },
+    "W": {
+      "tag": "minecraft:wool"
+    }
+  },
+  "pattern": [
+    "SIS",
+    "IBI",
+    "WIW"
+  ],
+  "result": {
+    "item": "bagofholding:leather_bag_of_holding"
+  },
+  "show_notification": true
+}
