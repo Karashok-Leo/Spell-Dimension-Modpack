@@ -19,7 +19,7 @@
   "hotbarSettings": {
     "enabled": true,
     "maxFps": 20,
-    "forceBlend": true,
+    "forceBlend": false,
     "forceUpdates": true
   },
   "experienceSettings": {
@@ -31,7 +31,7 @@
   "healthSettings": {
     "enabled": true,
     "maxFps": 20,
-    "forceBlend": true,
+    "forceBlend": false,
     "forceUpdates": true
   },
   "scoreboardSettings": {
