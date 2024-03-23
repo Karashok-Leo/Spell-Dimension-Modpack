@@ -46,11 +46,16 @@
  - FTB Ultimine (Replace)
  - Bank Storage (Replace)
  - Trade Cycling
+ - FTBQ shop page (Replace)
 ##### Changed
  - Slow down the growth rate of difficulty
+ - Rename tags and loot tables
  - Rework the loot system
 	 - Tier Loot: only drop materials and gears with lower chance
-	 - Eldritch Loot:  only drop materials (common&uncommon) and enchanted books
+	 - Eldritch Loot: only drop materials (common&uncommon) and enchanted books
 	 - Boss Loot: drop materials (rare&epic) and gears (rare&epic)
+	 - Spawner Loot: drop materials (common&uncommon)
 ##### Fixed
-- Now bosses will definitely drop eyes (caused by the update of endrem)
+- Now bosses will definitely drop eyes (caused by the update of Endrem)
+- Gears from loot no longer have the "AttributeModifiers" in nbt tag (caused by Dungeon Difficulty)
+- RER mob loot page should not have serious FPS drop any more
