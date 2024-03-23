@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "O O",
+    "AAA"
+  ],
+  "key": {
+    "#": {
+      "tag": "minecraft:wool"
+    },
+    "O": {
+      "tag": "soulsweapons:lord_soul"
+    },
+    "A": {
+      "tag": "minecraft:planks"
+    }
+  },
+  "result": {
+    "item": "exmod:exchange_block",
+    "count": 1
+  }
+}

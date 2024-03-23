@@ -1,108 +1,155 @@
 {
   "trades-amount": 4,
   "trades": {
-    "minecraft:cobblestone": {
-      "currency": "minecraft:iron_ingot",
+    "spell-dimension:mage_medal": {
+      "currency": "numismatic-overhaul:gold_coin",
+      "price": 64,
+      "amount": 1,
+      "rarity": 5
+    },
+    "spell-dimension:disenchanted_essence": {
+      "currency": "numismatic-overhaul:gold_coin",
+      "price": 8,
+      "amount": 1,
+      "rarity": 5
+    },
+    "spell-dimension:mending_essence": {
+      "currency": "numismatic-overhaul:gold_coin",
+      "price": 4,
+      "amount": 1,
+      "rarity": 5
+    },
+    "spell-dimension:loot_bag_qu_ruin": {
+      "currency": "numismatic-overhaul:silver_coin",
+      "price": 32,
+      "amount": 1,
+      "rarity": 4
+    },
+    "spell-dimension:loot_bag_charm": {
+      "currency": "numismatic-overhaul:silver_coin",
+      "price": 32,
+      "amount": 1,
+      "rarity": 4
+    },
+    "spell-dimension:loot_bag_artifact": {
+      "currency": "numismatic-overhaul:gold_coin",
+      "price": 16,
+      "amount": 1,
+      "rarity": 6
+    },
+    "spell-dimension:loot_bag_a_ring": {
+      "currency": "numismatic-overhaul:gold_coin",
+      "price": 32,
+      "amount": 1,
+      "rarity": 8
+    },
+    "spell-dimension:loot_bag_jewelry_rings": {
+      "currency": "numismatic-overhaul:gold_coin",
+      "price": 16,
+      "amount": 1,
+      "rarity": 6
+    },
+    "spell-dimension:loot_bag_jewelry_necklaces": {
+      "currency": "numismatic-overhaul:gold_coin",
+      "price": 16,
+      "amount": 1,
+      "rarity": 6
+    },
+    "spell-dimension:loot_bag_midas": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 32,
+      "amount": 1,
+      "rarity": 1
+    },
+    "spell-dimension:loot_bag_common_book": {
+      "currency": "numismatic-overhaul:silver_coin",
+      "price": 8,
+      "amount": 1,
+      "rarity": 1
+    },
+    "spell-dimension:loot_bag_common_gear": {
+      "currency": "numismatic-overhaul:silver_coin",
+      "price": 8,
+      "amount": 1,
+      "rarity": 1
+    },
+    "spell-dimension:loot_bag_common_material": {
+      "currency": "numismatic-overhaul:silver_coin",
+      "price": 8,
+      "amount": 1,
+      "rarity": 1
+    },
+    "spell-dimension:loot_bag_uncommon_book": {
+      "currency": "numismatic-overhaul:silver_coin",
+      "price": 32,
+      "amount": 1,
+      "rarity": 3
+    },
+    "spell-dimension:loot_bag_uncommon_gear": {
+      "currency": "numismatic-overhaul:silver_coin",
+      "price": 32,
+      "amount": 1,
+      "rarity": 3
+    },
+    "spell-dimension:loot_bag_uncommon_material": {
+      "currency": "numismatic-overhaul:silver_coin",
+      "price": 32,
+      "amount": 1,
+      "rarity": 3
+    },
+    "spell-dimension:loot_bag_rare_book": {
+      "currency": "numismatic-overhaul:gold_coin",
       "price": 1,
-      "amount": 64,
-      "rarity": 1
+      "amount": 1,
+      "rarity": 5
     },
-    "minecraft:glowstone": {
-      "currency": "minecraft:iron_ingot",
-      "price": 3,
-      "amount": 16,
-      "rarity": 1,
-      "color": "FFFFFF00"
-    },
-    "minecraft:wheat_seeds": {
-      "currency": "minecraft:iron_ingot",
+    "spell-dimension:loot_bag_rare_gear": {
+      "currency": "numismatic-overhaul:gold_coin",
       "price": 1,
-      "amount": 64,
-      "rarity": 1
+      "amount": 1,
+      "rarity": 5
     },
-    "minecraft:melon_seeds": {
-      "currency": "minecraft:iron_ingot",
+    "spell-dimension:loot_bag_rare_material": {
+      "currency": "numismatic-overhaul:gold_coin",
       "price": 1,
-      "amount": 64,
-      "rarity": 1
+      "amount": 1,
+      "rarity": 5
     },
-    "minecraft:pumpkin_seeds": {
-      "currency": "minecraft:iron_ingot",
-      "price": 1,
-      "amount": 64,
-      "rarity": 1
+    "spell-dimension:loot_bag_epic_book": {
+      "currency": "numismatic-overhaul:gold_coin",
+      "price": 16,
+      "amount": 1,
+      "rarity": 7
     },
-    "minecraft:beetroot_seeds": {
-      "currency": "minecraft:iron_ingot",
-      "price": 1,
-      "amount": 64,
-      "rarity": 1
+    "spell-dimension:loot_bag_epic_gear": {
+      "currency": "numismatic-overhaul:gold_coin",
+      "price": 16,
+      "amount": 1,
+      "rarity": 7
     },
-    "minecraft:torchflower_seeds": {
-      "currency": "minecraft:iron_ingot",
-      "price": 1,
-      "amount": 64,
-      "rarity": 1
+    "spell-dimension:loot_bag_epic_material": {
+      "currency": "numismatic-overhaul:gold_coin",
+      "price": 16,
+      "amount": 1,
+      "rarity": 7
     },
-    "minecraft:pitcher_pod": {
-      "currency": "minecraft:iron_ingot",
-      "price": 1,
-      "amount": 64,
-      "rarity": 1
+    "spell-dimension:loot_bag_legendary_book": {
+      "currency": "numismatic-overhaul:gold_coin",
+      "price": 64,
+      "amount": 1,
+      "rarity": 9
     },
-    "minecraft:carrot": {
-      "currency": "minecraft:iron_ingot",
-      "price": 2,
-      "amount": 64,
-      "rarity": 1
+    "spell-dimension:loot_bag_legendary_gear": {
+      "currency": "numismatic-overhaul:gold_coin",
+      "price": 64,
+      "amount": 1,
+      "rarity": 9
     },
-    "minecraft:potato": {
-      "currency": "minecraft:iron_ingot",
-      "price": 2,
-      "amount": 64,
-      "rarity": 1
-    },
-    "minecraft:oak_sapling": {
-      "currency": "minecraft:iron_ingot",
-      "price": 2,
-      "amount": 16,
-      "rarity": 1
-    },
-    "minecraft:spruce_sapling": {
-      "currency": "minecraft:iron_ingot",
-      "price": 2,
-      "amount": 16,
-      "rarity": 1
-    },
-    "minecraft:birch_sapling": {
-      "currency": "minecraft:iron_ingot",
-      "price": 2,
-      "amount": 16,
-      "rarity": 1
-    },
-    "minecraft:jungle_sapling": {
-      "currency": "minecraft:iron_ingot",
-      "price": 2,
-      "amount": 16,
-      "rarity": 1
-    },
-    "minecraft:acacia_sapling": {
-      "currency": "minecraft:iron_ingot",
-      "price": 2,
-      "amount": 16,
-      "rarity": 1
-    },
-    "minecraft:dark_oak_sapling": {
-      "currency": "minecraft:iron_ingot",
-      "price": 2,
-      "amount": 16,
-      "rarity": 1
-    },
-    "minecraft:cherry_sapling": {
-      "currency": "minecraft:iron_ingot",
-      "price": 2,
-      "amount": 16,
-      "rarity": 1
+    "spell-dimension:loot_bag_legendary_material": {
+      "currency": "numismatic-overhaul:gold_coin",
+      "price": 64,
+      "amount": 1,
+      "rarity": 9
     }
   }
 }

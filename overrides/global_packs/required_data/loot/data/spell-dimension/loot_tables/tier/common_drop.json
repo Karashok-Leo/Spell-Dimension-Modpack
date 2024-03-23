@@ -10,18 +10,23 @@
           "condition": "extra-loot:entity_tier",
           "entity": "this",
           "min": 0,
-          "max": 50
+          "max": 100
         }
       ],
       "entries": [
         {
-          "type": "minecraft:loot_table",
-          "name": "spell-dimension:pool/common",
+          "type": "minecraft:item",
+          "name": "spell-dimension:loot_bag_common_gear",
           "weight": 1
         },
         {
+          "type": "minecraft:item",
+          "name": "spell-dimension:loot_bag_common_material",
+          "weight": 3
+        },
+        {
           "type": "minecraft:empty",
-          "weight": 100
+          "weight": 300
         }
       ],
       "rolls": 1.0

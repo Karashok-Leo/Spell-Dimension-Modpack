@@ -1,16 +1,2 @@
 {
-  "spell-dimension.bag.common": "Common Loot bag",
-  "spell-dimension.bag.uncommon": "Uncommon Loot bag",
-  "spell-dimension.bag.rare": "Rare Loot bag",
-  "spell-dimension.bag.epic": "Epic Loot bag",
-  "spell-dimension.bag.legendary": "Legendary Loot bag",
-  "spell-dimension.bag.artifact": "Artifact Loot bag",
-  "spell-dimension.bag.charm": "Charm Loot bag",
-  "spell-dimension.bag.a_ring": "Rings of Ascension Loot bag",
-  "spell-dimension.bag.jewelry_rings": "Jewelry Rings Loot bag",
-  "spell-dimension.bag.jewelry_necklaces": "Jewelry Necklaces Loot bag",
-  "spell-dimension.bag.qu_ruin": "Qu Ruin Loot bag",
-  "spell-dimension.bag.midas": "Golden Food Loot bag",
-  "spell-dimension.bag.book": "Enchanted Book Loot bag",
-  "spell-dimension.bag.start": "Starter Loot bag"
 }

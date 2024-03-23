@@ -22,10 +22,9 @@
 			]
 			id: "64ED18BD6535D4B3"
 			rewards: [{
-				exclude_from_claim_all: true
-				id: "7C93939284685C0B"
-				table_id: 2824737794162002312L
-				type: "choice"
+				id: "6A3005E04B29D9D3"
+				item: "spell-dimension:loot_bag_rune"
+				type: "item"
 			}]
 			tasks: [
 				{

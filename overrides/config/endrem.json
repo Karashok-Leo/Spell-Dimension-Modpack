@@ -21,7 +21,7 @@
     "OLD_EYE_LOOT_TABLE_ID": "soulsweapons:entities/moonknight",
     "COLD_EYE_LOOT_TABLE_ID": "aquamirae:entities/captain_cornelia",
     "NETHER_EYE_LOOT_TABLE_ID": "adventurez:entities/blackstone_golem",
-    "CURSED_EYE_LOOT_TABLE_ID": "minecells:entities/conjunctivius",
+    "CURSED_EYE_LOOT_TABLE_ID": "soulsweapons:entities/accursed_lord_boss",
     "MAGICAL_EYE_MANSION_LOOT_TABLE_ID": "minecraft:chests/woodland_mansion",
     "MAGICAL_EYE_EVOKER_LOOT_TABLE_ID": "illagerinvasion:entities/invoker",
     "WITHER_EYE_LOOT_TABLE_ID": "minecraft:entities/wither",

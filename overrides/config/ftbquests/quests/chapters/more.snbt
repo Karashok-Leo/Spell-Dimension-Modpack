@@ -110,7 +110,7 @@
 		}
 		{
 			description: [
-				"你的难度会随时间和你离出生点的距离增加。"
+				"你的难度会随时间增加。"
 				""
 				"一些怪物生成时会带有Buff。"
 				""
@@ -171,65 +171,6 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: 2.0d
-		}
-		{
-			description: [
-				"VanitySlots是一款增加了四个额外盔甲槽位的mod。实际会被渲染的是放置在这四个额外槽位中的盔甲，而不是你实际穿着的盔甲，这意味着你可以穿着你想要的任何盔甲，同时看起来仍然时尚。"
-				""
-				"VanitySlots还增加了四件额外的盔甲，用来隐藏你现在穿的盔甲。这些盔甲可以通过在工作台上用八个萤石粉围绕皮革盔甲来制作。"
-				""
-				"敌人会对他们所看到的做出反应，而不是对你所穿的盔甲做出反应。如果你的Vanity槽位里有金质盔甲，小猪就不会攻击你。如果你穿着亲水套装，同时有隐身效果，除非你离得足够近，否则别人就看不到你。"
-			]
-			id: "1AB805142D49364D"
-			tasks: [
-				{
-					id: "63335138E7461991"
-					item: {
-						Count: 1b
-						id: "vanityslots:familiar_wig"
-						tag: {
-							Damage: 0
-						}
-					}
-					type: "item"
-				}
-				{
-					id: "4E836BB0AC698834"
-					item: {
-						Count: 1b
-						id: "vanityslots:familiar_shirt"
-						tag: {
-							Damage: 0
-						}
-					}
-					type: "item"
-				}
-				{
-					id: "49C91531D9CF9ECD"
-					item: {
-						Count: 1b
-						id: "vanityslots:familiar_pants"
-						tag: {
-							Damage: 0
-						}
-					}
-					type: "item"
-				}
-				{
-					id: "657474F6211C853B"
-					item: {
-						Count: 1b
-						id: "vanityslots:familiar_sneakers"
-						tag: {
-							Damage: 0
-						}
-					}
-					type: "item"
-				}
-			]
-			title: "Vanity"
-			x: -2.0d
 			y: 2.0d
 		}
 		{
@@ -305,6 +246,16 @@
 			}]
 			x: 0.0d
 			y: 0.0d
+		}
+		{
+			id: "61AB3CC2FF51A5DA"
+			tasks: [{
+				id: "4BFB9BC5B0965D3B"
+				item: "exmod:exchange_block"
+				type: "item"
+			}]
+			x: -2.0d
+			y: 2.0d
 		}
 	]
 	title: "More"

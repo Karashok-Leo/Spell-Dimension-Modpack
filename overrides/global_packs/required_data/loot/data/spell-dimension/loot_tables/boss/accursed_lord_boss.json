@@ -10,7 +10,7 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "endrem:cursed_eye"
+          "name": "things:gleaming_powder"
         }
       ],
       "rolls": 1.0

@@ -9,19 +9,24 @@
         {
           "condition": "extra-loot:entity_tier",
           "entity": "this",
-          "min": 400,
+          "min": 1000,
           "max": -1
         }
       ],
       "entries": [
         {
-          "type": "minecraft:loot_table",
-          "name": "spell-dimension:pool/legendary",
+          "type": "minecraft:item",
+          "name": "spell-dimension:loot_bag_legendary_gear",
           "weight": 1
         },
         {
+          "type": "minecraft:item",
+          "name": "spell-dimension:loot_bag_legendary_material",
+          "weight": 3
+        },
+        {
           "type": "minecraft:empty",
-          "weight": 20
+          "weight": 16
         }
       ],
       "rolls": 1.0

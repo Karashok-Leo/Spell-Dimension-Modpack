@@ -58,8 +58,5 @@
     }
   ],
   "cost": {
-    "item_id": "runes:healing_stone",
-    "consume_item": false,
-    "exhaust" : 0.2
   }
 }

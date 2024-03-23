@@ -9,7 +9,7 @@
 		tag: { }
 	}
 	id: "24B93122BB2E2BD9"
-	order_index: 2
+	order_index: 1
 	quest_links: [ ]
 	quests: [
 		{
@@ -61,23 +61,6 @@
 			}]
 			x: 0.0d
 			y: 0.0d
-		}
-		{
-			id: "3750809B2C10C4A8"
-			tasks: [{
-				id: "6E9F9F19CD66C658"
-				item: {
-					Count: 1b
-					id: "itemfilters:tag"
-					tag: {
-						value: "trinkets:mythic_charms/mythic_charm"
-					}
-				}
-				title: "神秘护符"
-				type: "item"
-			}]
-			x: 0.0d
-			y: 1.0d
 		}
 		{
 			description: [
@@ -141,6 +124,23 @@
 			}]
 			title: "附魔符文"
 			x: 1.0d
+			y: 1.0d
+		}
+		{
+			id: "2A801B5EFE6F719B"
+			tasks: [{
+				id: "05A3CC8AAF30ECB0"
+				item: {
+					Count: 1b
+					id: "itemfilters:tag"
+					tag: {
+						value: "trinkets:mythic_charm/mythic_charm"
+					}
+				}
+				title: "护符"
+				type: "item"
+			}]
+			x: 0.0d
 			y: 1.0d
 		}
 	]

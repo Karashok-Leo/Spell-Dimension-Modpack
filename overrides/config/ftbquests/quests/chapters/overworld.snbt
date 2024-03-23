@@ -1672,12 +1672,6 @@
 		}
 		{
 			id: "42180D8ADFC6C3FA"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "319A7D3E829619AA"
-				table_id: 7447699905545334929L
-				type: "choice"
-			}]
 			shape: "square"
 			size: 2.0d
 			tasks: [{

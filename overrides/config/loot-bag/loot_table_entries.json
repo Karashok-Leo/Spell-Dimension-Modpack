@@ -1,0 +1,425 @@
+{
+  "entries": {
+    "start": {
+      "loot_table_id": "spell-dimension:pool/start",
+      "icon": {
+        "texture": "wizards:textures/item/wand_arcane.png",
+        "width": 16,
+        "height": 16
+      },
+      "name": "loot_table.spell-dimension.start.name",
+      "description": [
+        "loot_table.spell-dimension.start.desc.0",
+        "loot_table.spell-dimension.start.desc.1"
+      ]
+    },
+    "qu_ruin": {
+      "loot_table_id": "spell-dimension:pool/qu_ruin",
+      "icon": {
+        "texture": "qu-enchantments:textures/item/rune_0.png",
+        "width": 16,
+        "height": 16
+      },
+      "name": "loot_table.spell-dimension.qu_ruin.name",
+      "description": [
+        "loot_table.spell-dimension.qu_ruin.desc"
+      ]
+    },
+    "charm": {
+      "loot_table_id": "spell-dimension:pool/charm",
+      "icon": {
+        "texture": "mythic_charms:textures/item/fragile_charm_of_gaze_serenity.png",
+        "width": 16,
+        "height": 16
+      },
+      "name": "loot_table.spell-dimension.charm.name",
+      "description": [
+        "loot_table.spell-dimension.charm.desc"
+      ]
+    },
+    "artifact": {
+      "loot_table_id": "spell-dimension:pool/artifact",
+      "icon": {
+        "texture": "artifacts:textures/item/crystal_heart.png",
+        "width": 16,
+        "height": 16
+      },
+      "name": "loot_table.spell-dimension.artifact.name",
+      "description": [
+        "loot_table.spell-dimension.artifact.desc"
+      ]
+    },
+    "a_ring": {
+      "loot_table_id": "spell-dimension:pool/a_ring",
+      "icon": {
+        "texture": "ringsofascension:textures/item/ring_flight.png",
+        "width": 16,
+        "height": 16
+      },
+      "name": "loot_table.spell-dimension.a_ring.name",
+      "description": [
+        "loot_table.spell-dimension.a_ring.desc"
+      ]
+    },
+    "jewelry_rings": {
+      "loot_table_id": "spell-dimension:pool/jewelry_rings",
+      "icon": {
+        "texture": "jewelry:textures/item/ruby_ring.png",
+        "width": 16,
+        "height": 16
+      },
+      "name": "loot_table.spell-dimension.jewelry_rings.name",
+      "description": [
+        "loot_table.spell-dimension.jewelry_rings.desc"
+      ]
+    },
+    "jewelry_necklaces": {
+      "loot_table_id": "spell-dimension:pool/jewelry_necklaces",
+      "icon": {
+        "texture": "jewelry:textures/item/jade_necklace.png",
+        "width": 16,
+        "height": 16
+      },
+      "name": "loot_table.spell-dimension.jewelry_necklaces.name",
+      "description": [
+        "loot_table.spell-dimension.jewelry_necklaces.desc"
+      ]
+    },
+    "midas": {
+      "loot_table_id": "spell-dimension:pool/midas",
+      "icon": {
+        "texture": "midashunger:textures/item/cooked_golden_beef.png",
+        "width": 16,
+        "height": 16
+      },
+      "name": "loot_table.spell-dimension.midas.name",
+      "description": [
+        "loot_table.spell-dimension.midas.desc"
+      ]
+    },
+    "common_book": {
+      "loot_table_id": "spell-dimension:pool/common/book",
+      "icon": {
+        "texture": "minecraft:textures/item/enchanted_book.png",
+        "width": 16,
+        "height": 16
+      },
+      "name": "loot_table.spell-dimension.common_book.name",
+      "description": [
+        "loot_table.spell-dimension.common_book.desc"
+      ]
+    },
+    "common_gear": {
+      "loot_table_id": "spell-dimension:pool/common/gear",
+      "icon": {
+        "texture": "minecraft:textures/item/iron_sword.png",
+        "width": 16,
+        "height": 16
+      },
+      "name": "loot_table.spell-dimension.common_gear.name",
+      "description": [
+        "loot_table.spell-dimension.common_gear.desc"
+      ]
+    },
+    "common_material": {
+      "loot_table_id": "spell-dimension:pool/common/material",
+      "icon": {
+        "texture": "minecraft:textures/item/iron_ingot.png",
+        "width": 16,
+        "height": 16
+      },
+      "name": "loot_table.spell-dimension.common_material.name",
+      "description": [
+        "loot_table.spell-dimension.common_material.desc"
+      ]
+    },
+    "uncommon_book": {
+      "loot_table_id": "spell-dimension:pool/uncommon/book",
+      "icon": {
+        "texture": "minecraft:textures/item/enchanted_book.png",
+        "width": 16,
+        "height": 16
+      },
+      "name": "loot_table.spell-dimension.uncommon_book.name",
+      "description": [
+        "loot_table.spell-dimension.uncommon_book.desc"
+      ]
+    },
+    "uncommon_gear": {
+      "loot_table_id": "spell-dimension:pool/uncommon/gear",
+      "icon": {
+        "texture": "minecraft:textures/item/diamond_sword.png",
+        "width": 16,
+        "height": 16
+      },
+      "name": "loot_table.spell-dimension.uncommon_gear.name",
+      "description": [
+        "loot_table.spell-dimension.uncommon_gear.desc"
+      ]
+    },
+    "uncommon_material": {
+      "loot_table_id": "spell-dimension:pool/uncommon/material",
+      "icon": {
+        "texture": "minecraft:textures/item/diamond.png",
+        "width": 16,
+        "height": 16
+      },
+      "name": "loot_table.spell-dimension.uncommon_material.name",
+      "description": [
+        "loot_table.spell-dimension.uncommon_material.desc"
+      ]
+    },
+    "rare_book": {
+      "loot_table_id": "spell-dimension:pool/rare/book",
+      "icon": {
+        "texture": "minecraft:textures/item/enchanted_book.png",
+        "width": 16,
+        "height": 16
+      },
+      "name": "loot_table.spell-dimension.rare_book.name",
+      "description": [
+        "loot_table.spell-dimension.rare_book.desc"
+      ]
+    },
+    "rare_gear": {
+      "loot_table_id": "spell-dimension:pool/rare/gear",
+      "icon": {
+        "texture": "mythicupgrades:textures/item/sapphire_sword.png",
+        "width": 16,
+        "height": 16
+      },
+      "name": "loot_table.spell-dimension.rare_gear.name",
+      "description": [
+        "loot_table.spell-dimension.rare_gear.desc"
+      ]
+    },
+    "rare_material": {
+      "loot_table_id": "spell-dimension:pool/rare/material",
+      "icon": {
+        "texture": "mythicupgrades:textures/item/sapphire_ingot.png",
+        "width": 16,
+        "height": 16
+      },
+      "name": "loot_table.spell-dimension.rare_material.name",
+      "description": [
+        "loot_table.spell-dimension.rare_material.desc"
+      ]
+    },
+    "epic_book": {
+      "loot_table_id": "spell-dimension:pool/epic/book",
+      "icon": {
+        "texture": "minecraft:textures/item/enchanted_book.png",
+        "width": 16,
+        "height": 16
+      },
+      "name": "loot_table.spell-dimension.epic_book.name",
+      "description": [
+        "loot_table.spell-dimension.epic_book.desc"
+      ]
+    },
+    "epic_gear": {
+      "loot_table_id": "spell-dimension:pool/epic/gear",
+      "icon": {
+        "texture": "mythicmetals:textures/item/tools/adamantite_sword.png",
+        "width": 16,
+        "height": 16
+      },
+      "name": "loot_table.spell-dimension.epic_gear.name",
+      "description": [
+        "loot_table.spell-dimension.epic_gear.desc"
+      ]
+    },
+    "epic_material": {
+      "loot_table_id": "spell-dimension:pool/epic/material",
+      "icon": {
+        "texture": "mythicmetals:textures/item/adamantite_ingot.png",
+        "width": 16,
+        "height": 16
+      },
+      "name": "loot_table.spell-dimension.epic_material.name",
+      "description": [
+        "loot_table.spell-dimension.epic_material.desc"
+      ]
+    },
+    "legendary_book": {
+      "loot_table_id": "spell-dimension:pool/legendary/book",
+      "icon": {
+        "texture": "minecraft:textures/item/enchanted_book.png",
+        "width": 16,
+        "height": 16
+      },
+      "name": "loot_table.spell-dimension.legendary_book.name",
+      "description": [
+        "loot_table.spell-dimension.legendary_book.desc"
+      ]
+    },
+    "legendary_gear": {
+      "loot_table_id": "spell-dimension:pool/legendary/gear",
+      "icon": {
+        "texture": "mythicmetals:textures/item/tools/metallurgium_sword.png",
+        "width": 16,
+        "height": 16
+      },
+      "name": "loot_table.spell-dimension.legendary_gear.name",
+      "description": [
+        "loot_table.spell-dimension.legendary_gear.desc"
+      ]
+    },
+    "legendary_material": {
+      "loot_table_id": "spell-dimension:pool/legendary/material",
+      "icon": {
+        "texture": "mythicmetals:textures/item/metallurgium_ingot.png",
+        "width": 16,
+        "height": 16
+      },
+      "name": "loot_table.spell-dimension.legendary_material.name",
+      "description": [
+        "loot_table.spell-dimension.legendary_material.desc"
+      ]
+    },
+    "arcane_wand": {
+      "loot_table_id": "spell-dimension:pool/optional/wand/arcane",
+      "icon": {
+        "texture": "wizards:textures/item/wand_arcane.png",
+        "width": 16,
+        "height": 16
+      },
+      "name": "loot_table.spell-dimension.arcane_wand.name",
+      "description": [
+        "loot_table.spell-dimension.arcane_wand.desc"
+      ]
+    },
+    "fire_wand": {
+      "loot_table_id": "spell-dimension:pool/optional/wand/fire",
+      "icon": {
+        "texture": "wizards:textures/item/wand_fire.png",
+        "width": 16,
+        "height": 16
+      },
+      "name": "loot_table.spell-dimension.fire_wand.name",
+      "description": [
+        "loot_table.spell-dimension.fire_wand.desc"
+      ]
+    },
+    "frost_wand": {
+      "loot_table_id": "spell-dimension:pool/optional/wand/frost",
+      "icon": {
+        "texture": "wizards:textures/item/wand_frost.png",
+        "width": 16,
+        "height": 16
+      },
+      "name": "loot_table.spell-dimension.frost_wand.name",
+      "description": [
+        "loot_table.spell-dimension.frost_wand.desc"
+      ]
+    },
+    "healing_wand": {
+      "loot_table_id": "spell-dimension:pool/optional/wand/healing",
+      "icon": {
+        "texture": "paladins:textures/item/holy_wand.png",
+        "width": 16,
+        "height": 16
+      },
+      "name": "loot_table.spell-dimension.healing_wand.name",
+      "description": [
+        "loot_table.spell-dimension.healing_wand.desc"
+      ]
+    },
+    "lightning_wand": {
+      "loot_table_id": "spell-dimension:pool/optional/wand/lightning",
+      "icon": {
+        "texture": ":textures/item/gunpowder.png",
+        "width": 16,
+        "height": 16
+      },
+      "name": "loot_table.spell-dimension.lightning_wand.name",
+      "description": [
+        "loot_table.spell-dimension.lightning_wand.desc"
+      ]
+    },
+    "soul_wand": {
+      "loot_table_id": "spell-dimension:pool/optional/wand/soul",
+      "icon": {
+        "texture": ":textures/item/gunpowder.png",
+        "width": 16,
+        "height": 16
+      },
+      "name": "loot_table.spell-dimension.soul_wand.name",
+      "description": [
+        "loot_table.spell-dimension.soul_wand.desc"
+      ]
+    },
+    "arcane_rune": {
+      "loot_table_id": "spell-dimension:pool/optional/rune/arcane",
+      "icon": {
+        "texture": "runes:textures/item/arcane_stone.png",
+        "width": 16,
+        "height": 16
+      },
+      "name": "loot_table.spell-dimension.arcane_rune.name",
+      "description": [
+        "loot_table.spell-dimension.arcane_rune.desc"
+      ]
+    },
+    "fire_rune": {
+      "loot_table_id": "spell-dimension:pool/optional/rune/fire",
+      "icon": {
+        "texture": "runes:textures/item/fire_stone.png",
+        "width": 16,
+        "height": 16
+      },
+      "name": "loot_table.spell-dimension.fire_rune.name",
+      "description": [
+        "loot_table.spell-dimension.fire_rune.desc"
+      ]
+    },
+    "frost_rune": {
+      "loot_table_id": "spell-dimension:pool/optional/rune/frost",
+      "icon": {
+        "texture": "runes:textures/item/frost_stone.png",
+        "width": 16,
+        "height": 16
+      },
+      "name": "loot_table.spell-dimension.frost_rune.name",
+      "description": [
+        "loot_table.spell-dimension.frost_rune.desc"
+      ]
+    },
+    "healing_rune": {
+      "loot_table_id": "spell-dimension:pool/optional/rune/healing",
+      "icon": {
+        "texture": "runes:textures/item/healing_stone.png",
+        "width": 16,
+        "height": 16
+      },
+      "name": "loot_table.spell-dimension.healing_rune.name",
+      "description": [
+        "loot_table.spell-dimension.healing_rune.desc"
+      ]
+    },
+    "lightning_rune": {
+      "loot_table_id": "spell-dimension:pool/optional/rune/lightning",
+      "icon": {
+        "texture": "runes:textures/item/lightning_stone.png",
+        "width": 16,
+        "height": 16
+      },
+      "name": "loot_table.spell-dimension.lightning_rune.name",
+      "description": [
+        "loot_table.spell-dimension.lightning_rune.desc"
+      ]
+    },
+    "soul_rune": {
+      "loot_table_id": "spell-dimension:pool/optional/rune/soul",
+      "icon": {
+        "texture": "runes:textures/item/soul_stone.png",
+        "width": 16,
+        "height": 16
+      },
+      "name": "loot_table.spell-dimension.soul_rune.name",
+      "description": [
+        "loot_table.spell-dimension.soul_rune.desc"
+      ]
+    }
+  }
+}

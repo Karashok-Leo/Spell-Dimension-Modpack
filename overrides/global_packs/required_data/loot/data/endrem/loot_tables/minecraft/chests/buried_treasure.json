@@ -1,0 +1,12 @@
+{
+    "pools": [{
+        "name": "eye_pool",
+        "rolls": 1,
+        "entries": [
+            {
+                "type": "item",
+                "name": "endrem:black_eye"
+            }
+        ]
+    }]
+}

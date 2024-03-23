@@ -1,237 +1,234 @@
-- [Skeletal Remains](https://discord.gg/e5cVJqXK) [1.4.2] by Lightglow
-- [3d-Skin-Layers](https://modrinth.com/mod/3dskinlayers) [1.6.2] by tr7zw
-- [Moonlight](https://www.curseforge.com/minecraft/mc-mods/selene) [1.20-2.11.3] by MehVahdJukaar
-- [AdventureZ](https://www.curseforge.com/minecraft/mc-mods/adventurez) [1.4.20] by Globox_Z
-- [Chunks Fade In](https://github.com/kerudion/chunksfadein) [1.0.5-1.20.1] by Koteinik
-- [Smooth Swapping](https://modrinth.com/mod/smooth-swapping) [0.9.3.1] by Schauweg
-- Aquamirae [6] by Obscuria
-- [AzureLib](https://modrinth.com/mod/azurelib) [2.0.20] by AzureDoom, Gecko, Eliot, Chappie, DerToaster, Tslat, Bvanseg
-- [Zoomify](https://isxander.dev) [2.11.2] by isXander
-- [Cardinal Components API](https://www.curseforge.com/minecraft/mc-mods/cardinal-components) [5.2.2] by UpcraftLP, Pyrofab
-- [Nature's Compass](https://www.curseforge.com/minecraft/mc-mods/natures-compass) [1.20.1-2.2.3-fabric] by ChaosTheDude
-- [Player Tracking Compass](https://serilum.com/mod/player-tracking-compass) [3.2] by Rick South
-- Numismatic Overhaul [0.2.14+1.20] by glisco, Pois1x, Noaaan
-- Archers (RPG Series) [1.0.7+1.20.1] by Daedelus
-- oωo [0.11.2+1.20] by glisco, BasiqueEvangelist, Noaaan
-- [Grind Enchantments](https://www.curseforge.com/minecraft/mc-mods/grind-enchantments) [3.1.2+1.20] by mschae23
-- [Just Enough Characters](https://github.com/Towdium/JustEnoughCaracters) [4.5.6] by Towdium,vfyjxf_
-- [FTB Essentials](https://go.ftb.team/support-mod-issues) [2001.2.2] by FTB Team
-- [GeckoLib 4](https://www.curseforge.com/minecraft/mc-mods/geckolib) [4.4.2] by Gecko, Eliot, AzureDoom, DerToaster, Tslat, Witixin
-- [Illager Invasion](https://github.com/Fuzss/illagerinvasion) [8.0.4] by Dricky, Safro, Zeckemith, Fuzs
-- [MmmMmmMmmMmm](https://www.curseforge.com/minecraft/mc-mods/mmmmmmmmmmmm) [1.20-1.8.14] by Mehvahdjukaar, Bonusboni, Gooigipunch, Plantkillable
-- [Mythic Metals](https://www.curseforge.com/minecraft/mc-mods/mythicmetals) [0.19.3+1.20.1] by Noaaan
-- [Rings of Ascension](https://www.curseforge.com/minecraft/mc-mods/fabric-rings-of-ascension) [2.0.2] by focamacho, PretoAlbino
-- [AntiGhost](https://www.curseforge.com/minecraft/mc-mods/antighost) [1.20-fabric0.83.0-1.1.5] by Giselbaer
-- [Midas Hunger](https://www.curseforge.com/minecraft/mc-mods/midas-hunger-fabric) [2.2.1+1.20] by Accieo#8858
-- [CompleteConfig](https://github.com/Lortseam/completeconfig) [2.5.0] by Lortseam
-- [Creeper AI Updated](https://www.curseforge.com/minecraft/mc-mods/creeper-ai-updated) [1.5.2] by SrGnis
-- [Jade](https://www.curseforge.com/minecraft/mc-mods/jade) [11.8.0] by Snownee
-- [Philip`s Ruins](https://www.curseforge.com/minecraft/mc-mods/ruins) [1.20.1] by Philip
-- [Cloth Config v11](https://minecraft.curseforge.com/projects/cloth-config) [11.1.118] by shedaniel
-- Alloy Forgery [2.1.2+1.20] by glisco
-- FTB Quests [2001.3.3] by FTB Team
 - [Universal Bone Meal](https://github.com/Fuzss/universalbonemeal-forge) [8.0.1] by Fuzs
-- Wizards (RPG Series) [1.0.5+1.20.1] by Daedelus
-- [Shoulder Surfing Reloaded](https://www.curseforge.com/minecraft/mc-mods/shoulder-surfing-reloaded) [2.9.4] by Sabar, Exopandora
-- [Chunky](https://www.curseforge.com/minecraft/mc-mods/chunky-pregenerator) [1.3.138] by pop4959
-- [MixinTrace](https://modrinth.com/mod/mixintrace) [1.1.1+1.17] by comp500
-- [Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap) [23.9.7] by Xaero96
-- Gazebos [1.1.1+1.20.1] by Daedelus
-- [Additional Structures](https://www.curseforge.com/minecraft/mc-mods/additional-structures-fabric) [4.2.1] by XxRexRaptorxX
-- [Fabric API](https://fabricmc.net) [0.92.0+1.20.1] by FabricMC
-- Sky Villages [1.0.3.2-1.19.2-1.20.1] by Y3SON, Aurelj
-- [DungeonZ](https://www.curseforge.com/minecraft/mc-mods/dungeonz) [1.0.4] by Globox_Z, Zura
-- BadOptimizations [2.1.0] by Thosea
-- [Infinite Music](https://modrinth.com/mod/infinite-music) [0.3.0] by PlasticStrawActivist
-- [Husk Spawn](https://serilum.com/mod/husk-spawn) [3.5] by Rick South
-- [When Dungeons Arise: Seven Seas](https://legacy.curseforge.com/minecraft/mc-mods/when-dungeons-arise-seven-seas) [1.0.2] by Aureljz, Zephyrusjz
-- Resourceful Lootbags [2.0.0] by ThatGravyBoat, CodexAdrian, Art by Kekie6
-- [Random Mob Effects](https://serilum.com/mod/random-mob-effects) [3.3] by Rick South
-- [End Remastered](https://www.curseforge.com/minecraft/mc-mods/endremastered-fabric) [5.2.4] by jack_bagel Dev, maxmitchelson Dev, And Artist, gilvoisard Artist
-- Structure Essentials Mod [1.20.1-3.3] by Someaddons
-- [Zombie Horse Spawn](https://serilum.com/mod/zombie-horse-spawn) [4.8] by Rick South
-- Easy Tweak [1.1.4]
-- [TenshiLib](https://www.curseforge.com/minecraft/mc-mods/tenshilib-fabric) [1.20.1-1.7.4] by Flemmli97
-- Runes [0.9.11+1.20.1] by Daedelus
-- [FTB XMod Compat](https://fabricmc.net/) [2.1.0] by FTB Team
-- Nyf's Quivers [1.20.1-fabric-1.0.4] by TheNyfaria
-- potionparticlepack [1.0.1] by AmyMialee
-- Pufferfish's Skills [0.11.3] by Pufferfish
-- [Enhanced Block Entities](https://github.com/FoundationGames/EnhancedBlockEntities) [0.9+1.20] by FoundationGames
-- [SimplySkills](https://www.curseforge.com/minecraft/mc-mods/simply_skills) [1.2.0+1.20.1] by Sweenus, Timefall Development
-- [ModernFix](https://modrinth.com/mod/modernfix) [5.14.0+mc1.20.1] by embeddedt
 - Endercage [1.1] by Vulpry
-- Spell Engine [0.12.5+1.20.1] by Daedelus
-- [Language Reload](https://modrinth.com/mod/language-reload) [1.5.10+1.20.1] by Jerozgen
-- Obscure API [16] by Obscuria
-- [FastQuit](https://modrinth.com/mod/fastquit) [3.0.0+1.20+] by KingContaria
-- [Qu Enchantments](https://github.com/Quplet/Qu-Enchantments) [1.3.6-1.20] by Qu (Design and programming), E_leven (Texture artist)
-- [Modification Of Criticial Hit](https://modrinth.com/mod/modification-of-critical-hit) [1.3] by WCBBEX
-- Spellblades and Such [1.9.0] by cleannrooster
-- [Structory: Towers](https://www.stardustlabs.net/) [1.0.6] by Stardust Labs
-- [StepUp](https://www.curseforge.com/minecraft/mc-mods/stepupnext) [1.20-fabric0.83.0-1.3] by NotTooManyItems, Giselbaer
+- Daily Shop [1.2.9.1] by BCG Team V4Lk & Joe <3
 - [Stray Spawn](https://serilum.com/mod/stray-spawn) [3.5] by Rick South
-- [Visuality](https://modrinth.com/mod/visuality) [0.7.1+1.20] by PinkGoosik
-- [Better Animations Collection](https://github.com/Fuzss/betteranimationscollection) [8.0.0] by KodaichiZero, Fuzs
-- [Noisium](https://modrinth.com/mod/noisium) [1.0.2+mc1.20.x] by Steveplays28
-- [Balm](https://mods.twelveiterations.com/) [7.2.2] by BlayTheNinth
-- [Roughly Enough Professions](https://www.curseforge.com/minecraft/mc-mods/roughly-enough-professions-rep) [2.0.2] by Mrbysco, ShyNieke
-- [AttributeFix](https://www.curseforge.com/minecraft/mc-mods/attributefix) [21.0.4] by Darkhax
-- [Clumps](https://www.curseforge.com/minecraft/mc-mods/clumps) [12.0.0.3] by Jaredlll08
-- Limited Spawner [1.0.8] by StrikerRocker
-- [Roughly Enough Items](https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items) [12.0.684] by shedaniel
-- Simply Houses [1.1.4-1.20.1] by Aurelj, DiamondTown & Zephyrusj
-- [Mouse Tweaks](https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks) [2.25] by Ivan Molodetskikh (YaLTeR)
-- [AppleSkin](https://minecraft.curseforge.com/projects/appleskin) [2.5.1+mc1.20] by squeek502
-- [Ender Dragon Fight Remastered](https://modrinth.com/datapack/edf-remastered) [4.3] by MrGenie151
-- Immersive Structures:Nether edition [1.1.0] by ChoiceTheorem
-- [LazyDFU](https://github.com/astei/lazydfu) [0.1.3] by tuxed
-- [Moog's Voyager Structures](https://www.curseforge.com/minecraft/mc-mods/moogs-voyager-structures) [4.1.1-1.20-fabric] by FinnDog
-- [Things](https://www.curseforge.com/minecraft/mc-mods/things-fabric) [0.3.3+1.20] by glisco
-- [WITS](https://www.curseforge.com/minecraft/mc-mods/wits) [1.1.0+1.20.1-fabric] by TelepathicGrunt
-- [Architectury](https://architectury.github.io/architectury-documentations/) [9.2.14] by shedaniel
-- Spell Dimension [0.1.0] by Karashok-Leo
-- Dusk Mod [NONE] by Love, Cheese and small house plants
-- Nyctophobia [1.9] by Finallion
-- [Better Combat](https://github.com/ZsoltMolnarrr/BetterCombat) [1.8.4+1.20.1] by Daedelus
-- [Crystals Overhauled](https://curseforge.com/minecraft/mc-mods/crystals-overhauled) [2.0.0] by superscratch4
-- Item Filters [2001.1.0-build.59] by LatvianModder
-- [Medieval Buildings](https://linktr.ee/craft1x) [1.0.1] by Lupin, Craft1x
-- Mythic Upgrades [2.4.2+mc1.20.1] by TriQue
-- [Sodium Extra](https://modrinth.com/mod/sodium-extra) [0.5.4+mc1.20.1-build.115] by FlashyReese
-- [Tom's Simple Storage Mod](https://www.curseforge.com/minecraft/mc-mods/toms-storage-fabric) [1.6.5] by tom5454
-- [VoidZ](https://www.curseforge.com/minecraft/mc-mods/voidz) [1.0.11] by Globox_Z
-- [More Bows Restrung](https://nerdthened.github.io/More-bows/) [1.0.11+1.20.x] by GaussFire, iDiamondhunter, NeRd
-- [Trinkets](https://www.curseforge.com/minecraft/mc-mods/trinkets-fabric) [3.7.2] by Emi, C4
-- [Bank Storage](https://github.com/Natanaelel/BankStorage) [1.0.0] by Natte
-- [Xaero's World Map](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map) [1.37.8] by Xaero96
-- [Mob Variants](https://www.curseforge.com/minecraft/mc-mods/mob-variants) [4.3.2+1.20] by Wookash Fryc, sheslong (artist)
-- Global Packs [1.16.1_fabric
-]
-- [Wall Jump](https://modrinth.com/mod/wall-jumped) [1.4.4] by Genandnic, Liquidwarp, AzureDoomC
-- [Extra Loot](...) [1.0.0] by Leo!
-- [Universal Graves](https://pb4.eu) [3.0.1+1.20.1] by Patbox
-- [Expanded Storage](https://modrinth.com/mod/expanded-storage) [10.1.2] by Compasses
-- [Custom Totem Particles](https://modrinth.com/mod/custom-totems) [2.2] by Tektonikal
-- [Armorpoints++](https://modrinth.com/mod/armorpoints) [3.1.2] by Cheos
-- [Inventory Sorter](https://www.curseforge.com/minecraft/mc-mods/inventory-sorting) [1.9.0-1.20] by kyrptonaught
-- Elytra Slot [6.3.0+1.20.1] by Illusive Soulworks
-- [Bag Of Holding](https://github.com/Fuzss/bagofholding) [8.0.2] by Fuzs
-- [Just Mob Heads](https://serilum.com/mod/just-mob-heads) [7.6] by Rick South
-- FTB Teams [2001.2.0] by FTB Team
-- [YUNG's Better Ocean Monuments](https://www.curseforge.com/minecraft/mc-mods/yungs-better-ocean-monuments-fabric) [1.20-Fabric-3.0.4] by YUNGNICKYOUNG, Tera
-- [Mine Treasure](https://modrinth.com/datapack/mine-treasure) [1.3.2] by Frozytime, supercrafter100
-- Advanced Combat (Revitalized) [1.20.1-3.6FC] by StyStatic
-- [Open Parties and Claims](https://www.curseforge.com/minecraft/mc-mods/open-parties-and-claims) [0.20.4] by xaero96, other contributors
-- [Concurrent Chunk Management Engine](https://modrinth.com/mod/c2me-fabric) [0.2.0+alpha.11.5] by RelativityMC, ishland
-- [YUNG's Better Strongholds](https://www.curseforge.com/minecraft/mc-mods/yungs-better-strongholds-fabric) [1.20-Fabric-4.0.3] by YUNGNICKYOUNG, Acarii
-- Melody [1.0.3] by Keksuccino
-- [YUNG's Better Desert Temples](https://www.curseforge.com/minecraft/mc-mods/yungs-better-desert-temples-fabric) [1.20-Fabric-3.0.3] by YUNGNICKYOUNG, Tera
-- [LibZ](https://www.curseforge.com/minecraft/mc-mods/libz) [1.0.3] by Globox_Z
-- Perfect Plushies [1.9.0] by SirJain and Nyfaria
-- [AzureLib Armor](https://modrinth.com/mod/azurelib-armor) [2.0.3] by AzureDoom, Gecko, Eliot, Hydos, DerToaster, Tslat, KyoSleep, Bvanseg
-- [Sodium](https://github.com/CaffeineMC/sodium-fabric) [0.5.8+mc1.20.1] by @jellysquid3
-- [Artifacts](https://www.curseforge.com/minecraft/mc-mods/artifacts) [9.3.1] by ochotonida, Florens
-- [Reese's Sodium Options](https://github.com/FlashyReese/reeses-sodium-options) [1.7.2+mc1.20.1-build.101] by FlashyReese
-- [Pick Up Notifier](https://github.com/Fuzss/pickupnotifier) [8.0.0] by Fuzs
-- [Mob Plaques](https://github.com/Fuzss/mobplaques) [8.0.1] by Fuzs
+- Gazebos [1.1.1+1.20.1] by Daedelus
 - [Repurposed Structures](https://www.curseforge.com/minecraft/mc-mods/repurposed-structures) [7.1.13+1.20.1-fabric] by TelepathicGrunt
-- Paladins & Priests (RPG Series) [1.0.5+1.20.1] by Daedelus
-- [Health Levels](https://www.smushytaco.com/) [1.0.6] by SmushyTaco
-- Regions Unexplored [0.5.5+1.20.1] by UHQ_Games (Owner), KirboSoftware (Contributer), Loxi (Contributer)
-- [TerraBlender](https://www.curseforge.com/minecraft/mc-mods/terrablender) [3.0.1.4] by Adubbz
-- [Knaves' Needs](https://www.curseforge.com/minecraft/mc-mods/knaves-needs) [2.0.1+1.20.1] by KodoDenka
-- [Mythic Charms](https://modrinth.com/mod/mythic-charms) [0.7.0] by Masik16u
-- [Marium's Soulslike Weaponry](https://www.curseforge.com/minecraft/mc-mods/mariums-soulslike-weaponry) [1.1.0-1.20-fabric] by Marium
-- [YetAnotherConfigLib](https://isxander.dev) [3.2.2+1.20] by isXander
-- [Creeper Firework](https://www.curseforge.com/minecraft/mc-mods/creeper-firework) [2.1.0.b] by MarbleGateKeeper
-- [Immersive Aircraft](https://www.curseforge.com/minecraft/mc-mods/immersive-aircraft) [0.7.5+1.20.1] by Luke100000
-- [Mod Menu](https://modrinth.com/mod/modmenu) [7.2.2] by Prospector, haykam821, TerraformersMC
-- [Lithium](https://jellysquid.me/projects/) [0.11.2] by JellySquid, 2No2Name
-- [Searchables](https://minecraft.curseforge.com/projects/searchables) [1.0.2] by Jaredlll08
-- [Default Options](https://mods.twelveiterations.com/mc/defaultoptions) [18.0.1] by BlayTheNinth
-- [Puzzles Lib](https://github.com/Fuzss/puzzleslib) [8.1.17] by Fuzs
-- [Fabric Language Kotlin](https://minecraft.curseforge.com/projects/fabric-language-kotlin) [1.10.19+kotlin.1.9.23] by FabricMC
-- Jewelry (RPG Series) [1.2.3+1.20.1] by Daedelus
-- [Red’s More Structures](https://modrinth.com/datapack/reds-more-structures) [1.0.8] by redstonegamesb
-- [Forge Config API Port](https://github.com/Fuzss/forgeconfigapiport) [8.0.0] by Fuzs
-- [Player Animator](kosmx.dev) [1.0.2-rc1+1.20] by KosmX  
-- [Bigger Better End Cities](https://fabricmc.net/) [1.20.1-1.0.4] by architects
-- [Lootr](https://www.curseforge.com/minecraft/mc-mods/lootr-fabric) [0.7.30.77] by Noobanidus, ZestyBlaze
-- When Dungeons Arise [2.1.58] by Aureljz, DiamondTown & Zephyrusj
-- [FerriteCore](https://www.curseforge.com/minecraft/mc-mods/ferritecore-fabric) [6.0.1] by malte0811
-- HotShot [0.0.2]
-- [YUNG's API](https://www.curseforge.com/minecraft/mc-mods/yungs-api-fabric) [1.20-Fabric-4.0.4] by YUNGNICKYOUNG
-- [YUNG's Better Nether Fortresses](https://www.curseforge.com/minecraft/mc-mods/yungs-better-nether-fortresses-fabric) [1.20-Fabric-2.0.5] by YUNGNICKYOUNG, Acarii
-- [Collective](https://serilum.com/mod/collective) [7.40] by Rick South
-- FTB Library [2001.1.5] by FTB Team
-- [Explorer's Compass](https://www.curseforge.com/minecraft/mc-mods/explorers-compass) [1.20.1-2.2.3-fabric] by ChaosTheDude
-- [Plushables](https://www.seacroak.com/projects/plushables) [1.1.3] by Khazoda | June
-- [Easy Magic](https://github.com/Fuzss/easymagic) [8.0.1] by Fuzs
-- AchievementOptimizer [1.0]
-- [Noxesium](https://github.com/Noxcrew/noxesium) [1.0.3+9b339b0] by Noxcrew
-- [More Mob Variants](https://nyuppo.github.io/moremobvariants/) [1.2.2] by nyuppo
-- Armor Set Bonuses [20.12.0] by SpaceCat97
-- [Fabric Waystones](https://www.curseforge.com/minecraft/mc-mods/fabric-waystones) [3.3.2+mc1.20.1] by LordDeatHunter
-- [Duel Countdown](https://fabricmc.net/) [1.0.0] by Leo!
-- [Dungeon Difficulty](https://github.com/ZsoltMolnarrr/DungeonDifficulty) [2.0.6+1.20.1] by Daedelus
-- Geode+ [1.2.4] by yeoxuhang, SquizzleDizzle
-- [Iris](https://github.com/IrisShaders/Iris) [1.6.17] by coderbot, IMS212, Justsnoopy30, FoundationGames
-- [Victus](https://www.curseforge.com/minecraft/mc-mods/victus) [0.1.15+1.20] by glisco
-- [EldritchMobs](https://fabricmc.net/) [1.15.1] by CyborgPigeon
-- [DragonLoot](https://www.curseforge.com/minecraft/mc-mods/dragonloot) [1.1.4] by Pois1x, Globox_Z
-- [Enchanted ToolTips](https://www.curseforge.com/minecraft/mc-mods/enchanted-tooltips) [1.3.7-1.20] by kyrptonaught
-- [Resourceful Lib](https://resourcefulbees.com) [2.1.23] by ThatGravyBoat, Epic_Oreo
-- Charm of Undying [6.5.0+1.20.1] by Illusive Soulworks
-- [Projectile Damage Attribute](https://github.com/ZsoltMolnarrr/ProjectileDamage) [3.2.2+1.20.1] by Daedelus
-- [Mutant Monsters](https://github.com/Fuzss/mutantmonsters) [8.0.7] by shcott21, Chumbanotz, Fuzs, tdstress
-- [Exordium](https://github.com/tr7zw) [1.2.1-mc1.20.1] by tr7zw
-- [Rally Health](https://www.curseforge.com/minecraft/mc-mods/rally-health) [1.4.0] by Mrbysco
-- [Trade Cycling](https://www.curseforge.com/minecraft/mc-mods/trade-cycling) [1.20.1-1.0.10] by Max Henkel
-- [Leaves Us In Peace](https://modrinth.com/mod/leaves-us-in-peace) [1.0.17] by Tfarecnim, supersaiyansubtlety
-- [spark](https://spark.lucko.me/) [1.10.57] by Luck
-- [Effect Descriptions](https://github.com/Fuzss/effectdescriptions) [8.0.2] by Fuzs
-- [Improved Mobs](https://www.curseforge.com/minecraft/mc-mods/improved-mobs-fabric) [1.20.1-1.11.7] by Flemmli97
-- [Roughly Enough Resources](https://fabricmc.net/) [2.9.0] by shedaniel, theorbtwo
-- [Simply Swords](https://www.curseforge.com/minecraft/mc-mods/simply-swords) [1.54.0-1.20.1] by Sweenus, Konsyliarz42 (Art)
-- Immersive Structures [2.1.0] by ChoiceTheorem
-- [Staaaaaaaaaaaack](https://modrinth.com/mod/staaaaaaaaaaaack) [1.20.1-1.5-71] by frankV
 - [EntityCulling-Fabric](https://github.com/tr7zw/EntityCulling-Fabric) [1.6.2-mc1.20.1] by tr7zw
-- [Moog's End Structures](https://www.curseforge.com/minecraft/mc-mods/moogs-end-structures) [1.3-1.19.4-fabric] by FinnDog
+- [FTBQuestsOptimizer](https://github.com/bigenergy/ftb-quests-optimizer) [1.1.5-1.20.1] by Big_Energy
+- [Enchanted ToolTips](https://www.curseforge.com/minecraft/mc-mods/enchanted-tooltips) [1.3.7-1.20] by kyrptonaught
+- [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast) [1.2.10+1.20.4] by RK_01
+- Alloy Forgery [2.1.2+1.20] by glisco
 - Spell Power Attribute [0.9.19+1.20.1] by Daedelus
 - [Geophilic](https://modrinth.com/datapack/geophilic) [2.2.0-mc1.20u1.20.2] by bebebea_loste
-- [Tooltip Scroll](https://github.com/Provismet/Tooltip-Scroll-Fabric) [1.3.0] by Provismet
-- cupboard [1.20.1-2.6] by Someaddon
-- Konkrete [1.8.1] by Keksuccino
-- [More Culling](https://github.com/fxmorin/moreculling) [1.20.4-0.22.1] by FX - PR0CESS
-- [Kibe](https://www.curseforge.com/minecraft/mc-mods/kibe) [1.10.1-BETA+1.20] by D4rkness_King
-- [Controlling For Fabric](https://minecraft.curseforge.com/projects/controlling) [12.0.2] by Jaredlll08
-- [BE Style Wither](https://www.curseforge.com/minecraft/mc-mods/be-style-wither) [1.6.1] by MORIMORI0317
-- Patchouli [1.20.1-84-FABRIC] by Vazkii, williewillus
-- The Graveyard [3.0] by Finallion
-- [In-game NBTEdit Reborn](https://github.com/qyl27/NBTEdit) [5.0.3] by qyl27
-- [Skeleton Horse Spawn](https://serilum.com/mod/skeleton-horse-spawn) [3.8] by Rick South
-- [FTBQuestsOptimizer](https://github.com/bigenergy/ftb-quests-optimizer) [1.1.5-1.20.1] by Big_Energy
-- [Continuity](https://modrinth.com/mod/continuity) [3.0.0-beta.4+1.20.1] by PepperCode1
-- [Wakes](https://modrinth.com/mod/wakes) [0.2.3] by Goby56
-- FTB Ultimine [2001.1.4] by FTB Team
-- [Make Bubbles Pop Mod](https://tschipcraft.ddns.net/en/make_bubbles_pop.html) [0.2.0-fabric] by Tschipcraft
-- Farsight Mod [1.20.1-4.2] by Someaddon
-- [Plenty Of Armors](https://www.curseforge.com/minecraft/mc-mods/plenty-of-armors) [1.3.0] by aleganza, rickorso
-- Smoothchunk mod [NONE] by Someaddons
-- Combat Roll [1.3.1+1.20.1] by Daedelus
+- Obscure API [16] by Obscuria
+- [Open Parties and Claims](https://www.curseforge.com/minecraft/mc-mods/open-parties-and-claims) [0.20.4] by xaero96, other contributors
+- [Inventory Sorter](https://www.curseforge.com/minecraft/mc-mods/inventory-sorting) [1.9.0-1.20] by kyrptonaught
+- oωo [0.11.2+1.20] by glisco, BasiqueEvangelist, Noaaan
+- [Illager Invasion](https://github.com/Fuzss/illagerinvasion) [8.0.4] by Dricky, Safro, Zeckemith, Fuzs
+- [Chunky](https://www.curseforge.com/minecraft/mc-mods/chunky-pregenerator) [1.3.138] by pop4959
+- Elytra Slot [6.3.0+1.20.1] by Illusive Soulworks
+- [TerraBlender](https://www.curseforge.com/minecraft/mc-mods/terrablender) [3.0.1.4] by Adubbz
+- [Midas Hunger](https://www.curseforge.com/minecraft/mc-mods/midas-hunger-fabric) [2.2.1+1.20] by Accieo#8858
+- [3d-Skin-Layers](https://modrinth.com/mod/3dskinlayers) [1.6.2] by tr7zw
+- [Player Animator](kosmx.dev) [1.0.2-rc1+1.20] by KosmX  
+- Spell Engine [0.12.5+1.20.1] by Daedelus
 - [Dark Enchanting](https://github.com/frqnny/dark-enchanting) [1.0.3+1.20.1] by Frqnny
-- [Bosses of Mass Destruction (Beta)](https://www.curseforge.com/minecraft/mc-mods/bosses-of-mass-destruction) [1.7.5-1.20.1] by Barribob
-- [I18nUpdateMod](https://github.com/xfl03/I18nUpdateMod3) [3.5.3] by xfl03
-- [Dynamic Surroundings](https://github.com/OreCruncher/DynamicSurroundingsFabric) [0.3.3] by OreCruncher
-- Equipment Standard [1.4.2] by 墨涤千尘
-- [Deeper and Darker](https://kyanitemods.dev/) [1.2.6] by Kyanite Mods
+- Regions Unexplored [0.5.5+1.20.1] by UHQ_Games (Owner), KirboSoftware (Contributer), Loxi (Contributer)
+- [Wakes](https://modrinth.com/mod/wakes) [0.2.3] by Goby56
+- [Custom Totem Particles](https://modrinth.com/mod/custom-totems) [2.2] by Tektonikal
+- [Roughly Enough Professions](https://www.curseforge.com/minecraft/mc-mods/roughly-enough-professions-rep) [2.0.2] by Mrbysco, ShyNieke
 - [Indium](https://modrinth.com/mod/indium) [1.0.30+mc1.20.4] by comp500
-- [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast) [1.2.10+1.20.4] by RK_01
+- Structure Essentials Mod [1.20.1-3.3] by Someaddons
+- [More Bows Restrung](https://nerdthened.github.io/More-bows/) [1.0.11+1.20.x] by GaussFire, iDiamondhunter, NeRd
+- [Mythic Charms](https://modrinth.com/mod/mythic-charms) [0.7.0] by Masik16u
+- [Tom's Simple Storage Mod](https://www.curseforge.com/minecraft/mc-mods/toms-storage-fabric) [1.6.5] by tom5454
+- AchievementOptimizer [1.0]
+- [Puzzles Lib](https://github.com/Fuzss/puzzleslib) [8.1.17] by Fuzs
+- [Mine Treasure](https://modrinth.com/datapack/mine-treasure) [1.3.2] by Frozytime, supercrafter100
+- [Staaaaaaaaaaaack](https://modrinth.com/mod/staaaaaaaaaaaack) [1.20.1-1.5-71] by frankV
+- [Continuity](https://modrinth.com/mod/continuity) [3.0.0-beta.4+1.20.1] by PepperCode1
+- [Explorer's Compass](https://www.curseforge.com/minecraft/mc-mods/explorers-compass) [1.20.1-2.2.3-fabric] by ChaosTheDude
+- potionparticlepack [1.0.1] by AmyMialee
+- [Xaero's World Map](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map) [1.37.8] by Xaero96
+- [GeckoLib 4](https://www.curseforge.com/minecraft/mc-mods/geckolib) [4.4.2] by Gecko, Eliot, AzureDoom, DerToaster, Tslat, Witixin
+- [Ender Dragon Fight Remastered](https://modrinth.com/datapack/edf-remastered) [4.3] by MrGenie151
+- [FerriteCore](https://www.curseforge.com/minecraft/mc-mods/ferritecore-fabric) [6.0.1] by malte0811
+- Item Filters [2001.1.0-build.59] by LatvianModder
+- Patchouli [1.20.1-84-FABRIC] by Vazkii, williewillus
+- [Chunks Fade In](https://github.com/kerudion/chunksfadein) [1.0.5-1.20.1] by Koteinik
+- Rainglow [1.1.2+mc1.20.1] by ix0rai, a5ho
+- FTB Quests [2001.3.3] by FTB Team
+- [Mod Menu](https://modrinth.com/mod/modmenu) [7.2.2] by Prospector, haykam821, TerraformersMC
+- [YUNG's Better Strongholds](https://www.curseforge.com/minecraft/mc-mods/yungs-better-strongholds-fabric) [1.20-Fabric-4.0.3] by YUNGNICKYOUNG, Acarii
+- [Cardinal Components API](https://www.curseforge.com/minecraft/mc-mods/cardinal-components) [5.2.2] by UpcraftLP, Pyrofab
+- [Controlling For Fabric](https://minecraft.curseforge.com/projects/controlling) [12.0.2] by Jaredlll08
+- [Just Mob Heads](https://serilum.com/mod/just-mob-heads) [7.6] by Rick South
+- [Clumps](https://www.curseforge.com/minecraft/mc-mods/clumps) [12.0.0.3] by Jaredlll08
+- [Just Enough Characters](https://github.com/Towdium/JustEnoughCaracters) [4.5.6] by Towdium,vfyjxf_
+- [Mob Variants](https://www.curseforge.com/minecraft/mc-mods/mob-variants) [4.3.2+1.20] by Wookash Fryc, sheslong (artist)
+- Perfect Plushies [1.9.0] by SirJain and Nyfaria
+- [Visuality](https://modrinth.com/mod/visuality) [0.7.1+1.20] by PinkGoosik
+- [YUNG's Better End Island](https://www.curseforge.com/minecraft/mc-mods/yungs-better-end-island-fabric) [1.20-Fabric-2.0.5] by YUNGNICKYOUNG, Acarii
+- [Projectile Damage Attribute](https://github.com/ZsoltMolnarrr/ProjectileDamage) [3.2.2+1.20.1] by Daedelus
+- Jewelry (RPG Series) [1.2.3+1.20.1] by Daedelus
+- Numismatic Overhaul [0.2.14+1.20] by glisco, Pois1x, Noaaan
+- [Immersive Aircraft](https://www.curseforge.com/minecraft/mc-mods/immersive-aircraft) [0.7.5+1.20.1] by Luke100000
+- The Graveyard [3.0] by Finallion
+- [Kibe](https://www.curseforge.com/minecraft/mc-mods/kibe) [1.10.1-BETA+1.20] by D4rkness_King
+- FTB Library [2001.1.5] by FTB Team
+- [Knaves' Needs](https://www.curseforge.com/minecraft/mc-mods/knaves-needs) [2.0.1+1.20.1] by KodoDenka
+- [FTB XMod Compat](https://fabricmc.net/) [2.1.0] by FTB Team
+- [Random Mob Effects](https://serilum.com/mod/random-mob-effects) [3.3] by Rick South
+- [Sodium Extra](https://modrinth.com/mod/sodium-extra) [0.5.4+mc1.20.1-build.115] by FlashyReese
+- [Marium's Soulslike Weaponry](https://www.curseforge.com/minecraft/mc-mods/mariums-soulslike-weaponry) [1.1.0-1.20-fabric] by Marium
+- [End Remastered](https://www.curseforge.com/minecraft/mc-mods/endremastered-fabric) [5.2.4] by jack_bagel Dev, maxmitchelson Dev, And Artist, gilvoisard Artist
+- [Mob Plaques](https://github.com/Fuzss/mobplaques) [8.0.1] by Fuzs
+- [AppleSkin](https://minecraft.curseforge.com/projects/appleskin) [2.5.1+mc1.20] by squeek502
+- Immersive Structures:Nether edition [1.1.0] by ChoiceTheorem
+- Wizards (RPG Series) [1.0.5+1.20.1] by Daedelus
+- [DungeonZ](https://www.curseforge.com/minecraft/mc-mods/dungeonz) [1.0.4] by Globox_Z, Zura
+- [Balm](https://mods.twelveiterations.com/) [7.2.2] by BlayTheNinth
+- [Shoulder Surfing Reloaded](https://www.curseforge.com/minecraft/mc-mods/shoulder-surfing-reloaded) [2.9.4] by Sabar, Exopandora
+- Archers (RPG Series) [1.0.7+1.20.1] by Daedelus
+- [Husk Spawn](https://serilum.com/mod/husk-spawn) [3.5] by Rick South
+- [YUNG's Better Ocean Monuments](https://www.curseforge.com/minecraft/mc-mods/yungs-better-ocean-monuments-fabric) [1.20-Fabric-3.0.4] by YUNGNICKYOUNG, Tera
+- [Improved Mobs](https://www.curseforge.com/minecraft/mc-mods/improved-mobs-fabric) [1.20.1-1.11.7] by Flemmli97
+- [Modification Of Criticial Hit](https://modrinth.com/mod/modification-of-critical-hit) [1.3] by WCBBEX
+- [DragonLoot](https://www.curseforge.com/minecraft/mc-mods/dragonloot) [1.1.4] by Pois1x, Globox_Z
+- Vein Mining [1.4.0+1.20.1] by Illusive Soulworks
+- [Bosses of Mass Destruction (Beta)](https://www.curseforge.com/minecraft/mc-mods/bosses-of-mass-destruction) [1.7.5-1.20.1] by Barribob
+- [LazyDFU](https://github.com/astei/lazydfu) [0.1.3] by tuxed
+- [Concurrent Chunk Management Engine](https://modrinth.com/mod/c2me-fabric) [0.2.0+alpha.11.5] by RelativityMC, ishland
+- [SimplySkills](https://www.curseforge.com/minecraft/mc-mods/simply_skills) [1.2.0+1.20.1] by Sweenus, Timefall Development
+- Spellblades and Such [1.9.0] by cleannrooster
+- [Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap) [23.9.7] by Xaero96
+- [Rally Health](https://www.curseforge.com/minecraft/mc-mods/rally-health) [1.4.0] by Mrbysco
+- Dusk Mod [NONE] by Love, Cheese and small house plants
+- [Fabric Language Kotlin](https://minecraft.curseforge.com/projects/fabric-language-kotlin) [1.10.19+kotlin.1.9.23] by FabricMC
+- Limited Spawner [1.0.8] by StrikerRocker
+- [Make Bubbles Pop Mod](https://tschipcraft.ddns.net/en/make_bubbles_pop.html) [0.2.0-fabric] by Tschipcraft
+- [Skeleton Horse Spawn](https://serilum.com/mod/skeleton-horse-spawn) [3.8] by Rick South
+- [Lithium](https://jellysquid.me/projects/) [0.11.2] by JellySquid, 2No2Name
+- [Tooltip Scroll](https://github.com/Provismet/Tooltip-Scroll-Fabric) [1.3.0] by Provismet
+- [VoidZ](https://www.curseforge.com/minecraft/mc-mods/voidz) [1.0.11] by Globox_Z
+- [Fabric Waystones](https://www.curseforge.com/minecraft/mc-mods/fabric-waystones) [3.3.2+mc1.20.1] by LordDeatHunter
+- [Easy Magic](https://github.com/Fuzss/easymagic) [8.0.1] by Fuzs
+- [Better Combat](https://github.com/ZsoltMolnarrr/BetterCombat) [1.8.4+1.20.1] by Daedelus
+- [Creeper AI Updated](https://www.curseforge.com/minecraft/mc-mods/creeper-ai-updated) [1.5.2] by SrGnis
+- [In-game NBTEdit Reborn](https://github.com/qyl27/NBTEdit) [5.0.3] by qyl27
+- [Expanded Storage](https://modrinth.com/mod/expanded-storage) [10.1.2] by Compasses
+- [Roughly Enough Resources](https://fabricmc.net/) [2.9.0] by shedaniel, theorbtwo
+- [TenshiLib](https://www.curseforge.com/minecraft/mc-mods/tenshilib-fabric) [1.20.1-1.7.4] by Flemmli97
+- [MixinTrace](https://modrinth.com/mod/mixintrace) [1.1.1+1.17] by comp500
+- [Plushables](https://www.seacroak.com/projects/plushables) [1.1.3] by Khazoda | June
+- [Reese's Sodium Options](https://github.com/FlashyReese/reeses-sodium-options) [1.7.2+mc1.20.1-build.101] by FlashyReese
+- Geode+ [1.2.4] by yeoxuhang, SquizzleDizzle
+- Melody [1.0.3] by Keksuccino
+- Nyctophobia [1.9] by Finallion
+- [Leaves Us In Peace](https://modrinth.com/mod/leaves-us-in-peace) [1.0.17] by Tfarecnim, supersaiyansubtlety
+- [Additional Structures](https://www.curseforge.com/minecraft/mc-mods/additional-structures-fabric) [4.2.1] by XxRexRaptorxX
+- [Red’s More Structures](https://modrinth.com/datapack/reds-more-structures) [1.0.8] by redstonegamesb
+- [FastQuit](https://modrinth.com/mod/fastquit) [3.0.0+1.20+] by KingContaria
+- Global Packs [1.16.1_fabric
+]
+- Immersive Structures [2.1.0] by ChoiceTheorem
+- [When Dungeons Arise: Seven Seas](https://legacy.curseforge.com/minecraft/mc-mods/when-dungeons-arise-seven-seas) [1.0.2] by Aureljz, Zephyrusjz
+- [Exordium](https://github.com/tr7zw) [1.2.1-mc1.20.1] by tr7zw
+- FTB Teams [2001.2.0] by FTB Team
+- [Fabric API](https://fabricmc.net) [0.92.0+1.20.1] by FabricMC
+- [Armorpoints++](https://modrinth.com/mod/armorpoints) [3.1.2] by Cheos
+- [AzureLib](https://modrinth.com/mod/azurelib) [2.0.20] by AzureDoom, Gecko, Eliot, Chappie, DerToaster, Tslat, Bvanseg
+- Charm of Undying [6.5.0+1.20.1] by Illusive Soulworks
+- [Architectury](https://architectury.github.io/architectury-documentations/) [9.2.14] by shedaniel
+- [CompleteConfig](https://github.com/Lortseam/completeconfig) [2.5.0] by Lortseam
+- [Collective](https://serilum.com/mod/collective) [7.40] by Rick South
+- [Noxesium](https://github.com/Noxcrew/noxesium) [1.0.3+9b339b0] by Noxcrew
+- [Roughly Enough Items](https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items) [12.0.684] by shedaniel
+- [Mythic Metals](https://www.curseforge.com/minecraft/mc-mods/mythicmetals) [0.19.3+1.20.1] by Noaaan
+- Aquamirae [6] by Obscuria
+- Nyf's Quivers [1.20.1-fabric-1.0.4] by TheNyfaria
+- [Things](https://www.curseforge.com/minecraft/mc-mods/things-fabric) [0.3.3+1.20] by glisco
+- [Moog's End Structures](https://www.curseforge.com/minecraft/mc-mods/moogs-end-structures) [1.3-1.19.4-fabric] by FinnDog
+- [AdventureZ](https://www.curseforge.com/minecraft/mc-mods/adventurez) [1.4.20] by Globox_Z
+- [Deeper and Darker](https://kyanitemods.dev/) [1.2.6] by Kyanite Mods
+- Easy Tweak [1.1.4]
+- BadOptimizations [2.1.0] by Thosea
+- [Skeletal Remains](https://discord.gg/e5cVJqXK) [1.4.2] by Lightglow
+- Sky Villages [1.0.3.2-1.19.2-1.20.1] by Y3SON, Aurelj
+- Better Runtime Resource Pack (BRRP) v1 [1.0.1] by SolidBlock
+- [Grind Enchantments](https://www.curseforge.com/minecraft/mc-mods/grind-enchantments) [3.1.2+1.20] by mschae23
+- When Dungeons Arise [2.1.58] by Aureljz, DiamondTown & Zephyrusj
+- [EldritchMobs](https://fabricmc.net/) [1.15.1] by CyborgPigeon
+- [More Mob Variants](https://nyuppo.github.io/moremobvariants/) [1.2.2] by nyuppo
+- [Rings of Ascension](https://www.curseforge.com/minecraft/mc-mods/fabric-rings-of-ascension) [2.0.2] by focamacho, PretoAlbino
+- [Jade](https://www.curseforge.com/minecraft/mc-mods/jade) [11.8.0] by Snownee
+- [Plenty Of Armors](https://www.curseforge.com/minecraft/mc-mods/plenty-of-armors) [1.3.0] by aleganza, rickorso
+- [Pick Up Notifier](https://github.com/Fuzss/pickupnotifier) [8.0.0] by Fuzs
+- Paladins & Priests (RPG Series) [1.0.5+1.20.1] by Daedelus
+- Combat Roll [1.3.1+1.20.1] by Daedelus
+- [Wall Jump](https://modrinth.com/mod/wall-jumped) [1.4.4] by Genandnic, Liquidwarp, AzureDoomC
+- HotShot [0.0.2]
+- Mythic Upgrades [2.4.2+mc1.20.1] by TriQue
+- [Mutant Monsters](https://github.com/Fuzss/mutantmonsters) [8.0.7] by shcott21, Chumbanotz, Fuzs, tdstress
+- [Bag Of Holding](https://github.com/Fuzss/bagofholding) [8.0.2] by Fuzs
+- [Effect Descriptions](https://github.com/Fuzss/effectdescriptions) [8.0.2] by Fuzs
+- [Qu Enchantments](https://github.com/Quplet/Qu-Enchantments) [1.3.6-1.20] by Qu (Design and programming), E_leven (Texture artist)
+- [AzureLib Armor](https://modrinth.com/mod/azurelib-armor) [2.0.3] by AzureDoom, Gecko, Eliot, Hydos, DerToaster, Tslat, KyoSleep, Bvanseg
+- [Moog's Voyager Structures](https://www.curseforge.com/minecraft/mc-mods/moogs-voyager-structures) [4.1.1-1.20-fabric] by FinnDog
+- [Zoomify](https://isxander.dev) [2.11.2] by isXander
+- Advanced Combat (Revitalized) [1.20.1-3.6FC] by StyStatic
+- [MmmMmmMmmMmm](https://www.curseforge.com/minecraft/mc-mods/mmmmmmmmmmmm) [1.20-1.8.14] by Mehvahdjukaar, Bonusboni, Gooigipunch, Plantkillable
+- Loot Bag [1.0.0] by Karashok-Leo
+- FancyMenu [3.1.2] by Keksuccino
+- [Nature's Compass](https://www.curseforge.com/minecraft/mc-mods/natures-compass) [1.20.1-2.2.3-fabric] by ChaosTheDude
+- [More Culling](https://github.com/fxmorin/moreculling) [1.20.4-0.22.1] by FX - PR0CESS
+- [StepUp](https://www.curseforge.com/minecraft/mc-mods/stepupnext) [1.20-fabric0.83.0-1.3] by NotTooManyItems, Giselbaer
+- [Universal Graves](https://pb4.eu) [3.0.1+1.20.1] by Patbox
+- [ATi Structures](https://modrinth.com/datapack/ati-structures) [1.0.0] by ATi
+- Simply Houses [1.1.4-1.20.1] by Aurelj, DiamondTown & Zephyrusj
+- [Lootr](https://www.curseforge.com/minecraft/mc-mods/lootr-fabric) [0.7.30.77] by Noobanidus, ZestyBlaze
+- [Artifacts](https://www.curseforge.com/minecraft/mc-mods/artifacts) [9.3.1] by ochotonida, Florens
+- Spell Dimension [0.1.0] by Karashok-Leo
+- [Forge Config API Port](https://github.com/Fuzss/forgeconfigapiport) [8.0.0] by Fuzs
+- [Mouse Tweaks](https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks) [2.25] by Ivan Molodetskikh (YaLTeR)
+- [Smooth Swapping](https://modrinth.com/mod/smooth-swapping) [0.9.3.1] by Schauweg
+- [Creeper Firework](https://www.curseforge.com/minecraft/mc-mods/creeper-firework) [2.1.0.b] by MarbleGateKeeper
+- [Crystals Overhauled](https://curseforge.com/minecraft/mc-mods/crystals-overhauled) [2.0.0] by superscratch4
+- [Health Levels](https://www.smushytaco.com/) [1.0.6] by SmushyTaco
+- [Infinite Music](https://modrinth.com/mod/infinite-music) [0.3.0] by PlasticStrawActivist
+- [Tag Generator](https://fabricmc.net/) [1.0.0] by Me!
+- [Enhanced Block Entities](https://github.com/FoundationGames/EnhancedBlockEntities) [0.9+1.20] by FoundationGames
+- [Dynamic Surroundings](https://github.com/OreCruncher/DynamicSurroundingsFabric) [0.3.3] by OreCruncher
+- [Language Reload](https://modrinth.com/mod/language-reload) [1.5.10+1.20.1] by Jerozgen
+- [Trinkets](https://www.curseforge.com/minecraft/mc-mods/trinkets-fabric) [3.7.2] by Emi, C4
+- [Victus](https://www.curseforge.com/minecraft/mc-mods/victus) [0.1.15+1.20] by glisco
+- [spark](https://spark.lucko.me/) [1.10.57] by Luck
+- [AntiGhost](https://www.curseforge.com/minecraft/mc-mods/antighost) [1.20-fabric0.83.0-1.1.5] by Giselbaer
+- [ModernFix](https://modrinth.com/mod/modernfix) [5.14.0+mc1.20.1] by embeddedt
+- [Extra Loot](...) [1.0.0] by Leo!
+- [BE Style Wither](https://www.curseforge.com/minecraft/mc-mods/be-style-wither) [1.6.1] by MORIMORI0317
+- [Bigger Better End Cities](https://fabricmc.net/) [1.20.1-1.0.4] by architects
+- Armor Set Bonuses [20.12.0] by SpaceCat97
+- [FTB Essentials](https://go.ftb.team/support-mod-issues) [2001.2.2] by FTB Team
+- [Philip`s Ruins](https://www.curseforge.com/minecraft/mc-mods/ruins) [1.20.1] by Philip
+- [Cloth Config v11](https://minecraft.curseforge.com/projects/cloth-config) [11.1.118] by shedaniel
+- [LibZ](https://www.curseforge.com/minecraft/mc-mods/libz) [1.0.3] by Globox_Z
+- [Noisium](https://modrinth.com/mod/noisium) [1.0.2+mc1.20.x] by Steveplays28
+- [Default Options](https://mods.twelveiterations.com/mc/defaultoptions) [18.0.1] by BlayTheNinth
+- [Sodium](https://github.com/CaffeineMC/sodium-fabric) [0.5.8+mc1.20.1] by @jellysquid3
+- Konkrete [1.8.1] by Keksuccino
+- [YetAnotherConfigLib](https://isxander.dev) [3.2.2+1.20] by isXander
+- Runes [0.9.11+1.20.1] by Daedelus
+- [Searchables](https://minecraft.curseforge.com/projects/searchables) [1.0.2] by Jaredlll08
+- [Iris](https://github.com/IrisShaders/Iris) [1.6.17] by coderbot, IMS212, Justsnoopy30, FoundationGames
+- [Medieval Buildings](https://linktr.ee/craft1x) [1.0.1] by Lupin, Craft1x
+- Farsight Mod [1.20.1-4.2] by Someaddon
+- [WITS](https://www.curseforge.com/minecraft/mc-mods/wits) [1.1.0+1.20.1-fabric] by TelepathicGrunt
 - [Extra RPG Attributes](https://fabricmc.net/) [1.1.0] by cleannrooster (Forg)
 - [Traveler's Titles](https://www.curseforge.com/minecraft/mc-mods/travelers-titles-fabric) [1.20-Fabric-4.0.2] by YUNGNICKYOUNG
-- [ATi Structures](https://modrinth.com/datapack/ati-structures) [1.0.0] by ATi
-- Rainglow [1.1.2+mc1.20.1] by ix0rai, a5ho
-- [Tag Generator](https://fabricmc.net/) [1.0.0] by Me!
-- FancyMenu [3.1.2] by Keksuccino
-- [YUNG's Better End Island](https://www.curseforge.com/minecraft/mc-mods/yungs-better-end-island-fabric) [1.20-Fabric-2.0.5] by YUNGNICKYOUNG, Acarii
+- [YUNG's Better Nether Fortresses](https://www.curseforge.com/minecraft/mc-mods/yungs-better-nether-fortresses-fabric) [1.20-Fabric-2.0.5] by YUNGNICKYOUNG, Acarii
+- [Zombie Horse Spawn](https://serilum.com/mod/zombie-horse-spawn) [4.8] by Rick South
+- cupboard [1.20.1-2.6] by Someaddon
+- Pufferfish's Skills [0.11.3] by Pufferfish
+- [Structory: Towers](https://www.stardustlabs.net/) [1.0.6] by Stardust Labs
+- [YUNG's Better Desert Temples](https://www.curseforge.com/minecraft/mc-mods/yungs-better-desert-temples-fabric) [1.20-Fabric-3.0.3] by YUNGNICKYOUNG, Tera
+- [Moonlight](https://www.curseforge.com/minecraft/mc-mods/selene) [1.20-2.11.3] by MehVahdJukaar
+- [Better Animations Collection](https://github.com/Fuzss/betteranimationscollection) [8.0.0] by KodaichiZero, Fuzs
+- Equipment Standard [1.4.2] by 墨涤千尘
+- [Player Tracking Compass](https://serilum.com/mod/player-tracking-compass) [3.2] by Rick South
+- [YUNG's API](https://www.curseforge.com/minecraft/mc-mods/yungs-api-fabric) [1.20-Fabric-4.0.4] by YUNGNICKYOUNG
+- [AttributeFix](https://www.curseforge.com/minecraft/mc-mods/attributefix) [21.0.4] by Darkhax
+- Smoothchunk mod [NONE] by Someaddons
+- [I18nUpdateMod](https://github.com/xfl03/I18nUpdateMod3) [3.5.3] by xfl03
+- [Simply Swords](https://www.curseforge.com/minecraft/mc-mods/simply-swords) [1.54.0-1.20.1] by Sweenus, Konsyliarz42 (Art)

@@ -33,3 +33,24 @@
 ##### Changed
  - Reduce the skeleton loot drop
  - Some numerical adjustments (related to *Wizards* and *Paladins*)
+
+## 0.2.0 alpha - 2024.03.23
+##### Added
+ - Loot Bag
+ - Vein Mining
+ - Better Runtime Resource Pack (Required Lib)
+ - Daily Shop
+ - Dungeon Difficulty (Compatibility Issue)
+##### Removed
+ - (Resourceful) Loot Bags (Replace)
+ - FTB Ultimine (Replace)
+ - Bank Storage (Replace)
+ - Trade Cycling
+##### Changed
+ - Slow down the growth rate of difficulty
+ - Rework the loot system
+	 - Tier Loot: only drop materials and gears with lower chance
+	 - Eldritch Loot:  only drop materials (common&uncommon) and enchanted books
+	 - Boss Loot: drop materials (rare&epic) and gears (rare&epic)
+##### Fixed
+- Now bosses will definitely drop eyes (caused by the update of endrem)

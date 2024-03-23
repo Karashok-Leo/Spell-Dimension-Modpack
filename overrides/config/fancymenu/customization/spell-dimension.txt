@@ -103,7 +103,7 @@ element {
 
 element {
   interactable = true
-  source = |||%n%This is Spell Dimension Modpack 0.1.1 alpha.%n%|||
+  source = |||%n%This is Spell Dimension Modpack 0.2.0 alpha.%n%|||
   source_mode = direct
   shadow = true
   scale = 1.0

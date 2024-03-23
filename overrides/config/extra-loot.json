@@ -29,6 +29,94 @@
       "extra_table": "spell-dimension:entity/ore"
     },
     {
+      "target_regex": "minecraft:entities/wither",
+      "extra_table": "spell-dimension:pool/boss"
+    },
+    {
+      "target_regex": "minecraft:entities/ender_dragon",
+      "extra_table": "spell-dimension:pool/boss"
+    },
+    {
+      "target_regex": "minecraft:entities/elder_guardian",
+      "extra_table": "spell-dimension:pool/boss"
+    },
+    {
+      "target_regex": "bosses_of_mass_destruction:entities/lich",
+      "extra_table": "spell-dimension:pool/boss"
+    },
+    {
+      "target_regex": "bosses_of_mass_destruction:entities/void_blossom",
+      "extra_table": "spell-dimension:pool/boss"
+    },
+    {
+      "target_regex": "bosses_of_mass_destruction:entities/gauntlet",
+      "extra_table": "spell-dimension:pool/boss"
+    },
+    {
+      "target_regex": "bosses_of_mass_destruction:entities/obsidilith",
+      "extra_table": "spell-dimension:pool/boss"
+    },
+    {
+      "target_regex": "soulsweapons:entities/day_stalker",
+      "extra_table": "spell-dimension:pool/boss"
+    },
+    {
+      "target_regex": "soulsweapons:entities/night_prowler",
+      "extra_table": "spell-dimension:pool/boss"
+    },
+    {
+      "target_regex": "soulsweapons:entities/accursed_lord_boss",
+      "extra_table": "spell-dimension:pool/boss"
+    },
+    {
+      "target_regex": "soulsweapons:entities/chaos_monarch",
+      "extra_table": "spell-dimension:pool/boss"
+    },
+    {
+      "target_regex": "soulsweapons:entities/draugr_boss",
+      "extra_table": "spell-dimension:pool/boss"
+    },
+    {
+      "target_regex": "soulsweapons:entities/moonknight",
+      "extra_table": "spell-dimension:pool/boss"
+    },
+    {
+      "target_regex": "soulsweapons:entities/returning_knight",
+      "extra_table": "spell-dimension:pool/boss"
+    },
+    {
+      "target_regex": "aquamirae:entities/captain_cornelia",
+      "extra_table": "spell-dimension:pool/boss"
+    },
+    {
+      "target_regex": "graveyard:entities/lich",
+      "extra_table": "spell-dimension:pool/boss"
+    },
+    {
+      "target_regex": "deeperdarker:entities/stalker",
+      "extra_table": "spell-dimension:pool/boss"
+    },
+    {
+      "target_regex": "adventurez:entities/blackstone_golem",
+      "extra_table": "spell-dimension:pool/boss"
+    },
+    {
+      "target_regex": "adventurez:entities/the_eye",
+      "extra_table": "spell-dimension:pool/boss"
+    },
+    {
+      "target_regex": "adventurez:entities/void_shadow",
+      "extra_table": "spell-dimension:pool/boss"
+    },
+    {
+      "target_regex": "illagerinvasion:entities/invoker",
+      "extra_table": "spell-dimension:pool/boss"
+    },
+    {
+      "target_regex": "minecraft:blocks/spawner",
+      "extra_table": "spell-dimension:block/spawner"
+    },
+    {
       "target_regex": "minecraft:blocks/dirt",
       "extra_table": "spell-dimension:block/dirt"
     },
@@ -279,10 +367,6 @@
     {
       "target_regex": "minecraft:entities/magma_cube",
       "extra_table": "spell-dimension:entity/magma_cube"
-    },
-    {
-      "target_regex": "biomemakeover:entities/adjudicator",
-      "extra_table": "spell-dimension:boss/adjudicator"
     },
     {
       "target_regex": "soulsweapons:entities/day_stalker",

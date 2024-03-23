@@ -28,10 +28,10 @@
       "Then it increases by 1 per mc day till it reaches 30 and then stops."
     ],
     "input": [
-      "0-0.2",
-      "10-0.4",
-      "30-0.6",
-      "60-0.8",
+      "0-0.1",
+      "10-0.2",
+      "30-0.3",
+      "60-0.4",
       "100-0"
     ]
   },

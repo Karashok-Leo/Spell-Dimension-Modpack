@@ -323,6 +323,7 @@
 				"0BA731D28EE04795"
 				"782D97D5B8A53BA3"
 			]
+			dependency_requirement: "one_completed"
 			description: [
 				"使用探险家指南针搜索："
 				"Ocean Monument"

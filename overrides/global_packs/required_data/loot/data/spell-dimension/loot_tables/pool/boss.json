@@ -1,0 +1,70 @@
+{
+  "type": "minecraft:entity",
+  "pools": [
+    {
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "spell-dimension:loot_bag_epic_book",
+          "weight": 6
+        },
+        {
+          "type": "minecraft:item",
+          "name": "spell-dimension:loot_bag_qu_ruin",
+          "weight": 5
+        },
+        {
+          "type": "minecraft:item",
+          "name": "spell-dimension:loot_bag_epic_gear",
+          "weight": 5
+        },
+        {
+          "type": "minecraft:item",
+          "name": "spell-dimension:loot_bag_charm",
+          "weight": 4
+        },
+        {
+          "type": "minecraft:item",
+          "name": "spell-dimension:loot_bag_epic_material",
+          "weight": 4
+        },
+        {
+          "type": "minecraft:item",
+          "name": "spell-dimension:loot_bag_artifact",
+          "weight": 3
+        },
+        {
+          "type": "minecraft:item",
+          "name": "spell-dimension:loot_bag_legendary_book",
+          "weight": 3
+        },
+        {
+          "type": "minecraft:item",
+          "name": "spell-dimension:loot_bag_a_ring",
+          "weight": 2
+        },
+        {
+          "type": "minecraft:item",
+          "name": "spell-dimension:loot_bag_legendary_gear",
+          "weight": 2
+        },
+        {
+          "type": "minecraft:item",
+          "name": "spell-dimension:loot_bag_jewelry_rings",
+          "weight": 2
+        },
+        {
+          "type": "minecraft:item",
+          "name": "spell-dimension:loot_bag_jewelry_necklaces",
+          "weight": 2
+        },
+        {
+          "type": "minecraft:item",
+          "name": "spell-dimension:loot_bag_legendary_material",
+          "weight": 1
+        }
+      ],
+      "rolls": 1.0
+    }
+  ]
+}

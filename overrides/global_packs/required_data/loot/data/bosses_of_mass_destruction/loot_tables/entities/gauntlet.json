@@ -5,17 +5,6 @@
         "entries": [
           {
             "type": "minecraft:item",
-            "name": "minecraft:book",
-            "functions": [
-              {
-                "function": "minecraft:enchant_with_levels",
-                "levels": 30,
-                "treasure": true
-              }
-            ]
-          },
-          {
-            "type": "minecraft:item",
             "name": "minecraft:netherite_block"
           }
         ],
