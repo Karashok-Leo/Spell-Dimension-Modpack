@@ -1,0 +1,13 @@
+name = "Immersive structures"
+filename = "imst-2.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1a239310e4020679338322ba9c7108305aa2a684"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4579791
+project-id = 637201

@@ -1,0 +1,27 @@
+{
+	// Chance of either sculk leeches or stalkers spawning.
+	spawnSomethingFromAncientVaseChance: 0.16,
+	// Chance of sculk leeches spawning. This is only used if something should spawn in the first place, as per `spawnSomethingFromAncientVaseChance`. If sculk leeches do not spawn, a stalker will be spawned instead.
+	sculkLeechesFromAncientVaseChance: 0.7,
+	renderWardenHelmetHorns: true,
+	geysersApplySlowFalling: false,
+	geyserLaunchVelocity: 2.5,
+	// The minimum inner width (not counting the frame) of the Otherside portal in order to light it successfully
+	portalMinWidth: 8,
+	// The minimum inner height (not counting the frame) of the Otherside portal in order to light it successfully
+	portalMinHeight: 4,
+	// The maximum inner width (not counting the frame) of the Otherside portal in order to light it successfully
+	portalMaxWidth: 48,
+	// The maximum inner height (not counting the frame) of the Otherside portal in order to light it successfully
+	portalMaxHeight: 24,
+	// The lowest Y coordinate to search to generate an Otherside portal
+	portalMinSearchHeight: 2,
+	// The highest Y coordinate to search to generate an Otherside portal
+	portalMaxSearchHeight: 122,
+	// The width of Otherside portals generated when traveling through dimensions and no portal is available
+	generatedPortalWidth: 8,
+	// The height of Otherside portals generated when traveling through dimensions and no portal is available
+	generatedPortalHeight: 4,
+	wardenHeartPulses: true,
+	changePhantomTextures: true
+}

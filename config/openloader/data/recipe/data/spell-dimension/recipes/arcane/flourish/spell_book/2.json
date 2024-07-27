@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "spell-dimension:essence_arcane_1"
+    },
+    "*": {
+      "item": "spell-dimension:spell_book_arcane_0"
+    },
+    "A": {
+      "item": "plentyofarmors:amethyst_gem"
+    },
+    "B": {
+      "item": "spellbladenext:runegleam_ingot"
+    }
+  },
+  "pattern": [
+    "#A#",
+    "B*B",
+    "#A#"
+  ],
+  "result": {
+    "item": "spell-dimension:spell_book_arcane_1"
+  },
+  "show_notification": true
+}

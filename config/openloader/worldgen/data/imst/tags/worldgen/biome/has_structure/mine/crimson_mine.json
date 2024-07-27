@@ -1,0 +1,17 @@
+{
+    "values": [
+        {
+            "id": "minecraft:crimson_forest",
+            "required": false
+        },
+        {
+            "id": "incendium:weeping_valley",
+            "required": false
+        },
+        {
+            "id": "byg:crimson_gardens",
+            "required": false
+        }
+
+    ]
+}

@@ -1,0 +1,12 @@
+{
+  "values": [
+    {
+      "id": "#equipment_standard:magic/armor",
+      "required": false
+    },
+    {
+      "id": "#equipment_standard:magic/weapons",
+      "required": false
+    }
+  ]
+}

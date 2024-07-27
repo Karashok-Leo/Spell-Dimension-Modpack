@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:entity",
+  "pools": [
+    {
+      "conditions": [
+        {
+          "condition": "minecraft:killed_by_player"
+        },
+        {
+          "condition": "extra-loot:entity_tier",
+          "entity": "this",
+          "min": 600,
+          "max": 1000
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "spell-dimension:loot_bag_epic_gear",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "spell-dimension:loot_bag_epic_material",
+          "weight": 3
+        },
+        {
+          "type": "minecraft:empty",
+          "weight": 48
+        }
+      ],
+      "rolls": 1.0
+    }
+  ]
+}

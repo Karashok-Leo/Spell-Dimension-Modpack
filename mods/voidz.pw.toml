@@ -1,0 +1,13 @@
+name = "VoidZ"
+filename = "voidz-1.0.11.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5e120c3e3f8195f9295c9d8e544e8a0a7247dd9f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5043021
+project-id = 486971

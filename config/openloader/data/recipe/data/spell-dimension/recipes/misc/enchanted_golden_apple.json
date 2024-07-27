@@ -1,0 +1,18 @@
+{
+  "type": "alloy_forgery:forging",
+  "inputs": [
+    {
+      "item": "minecraft:apple"
+    },
+    {
+      "item": "minecraft:gold_block",
+      "count": 16
+    }
+  ],
+  "output": {
+    "id": "minecraft:enchanted_golden_apple",
+    "count": 1
+  },
+  "min_forge_tier": 3,
+  "fuel_per_tick": 5
+}

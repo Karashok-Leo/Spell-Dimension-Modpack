@@ -1,0 +1,34 @@
+{
+    "armorSetName": "orichalcum_armor",
+    "performanceMode": true,
+    "head": {
+      "itemKey": "mythicmetals:orichalcum_helmet"
+    },
+    "chest": {
+      "itemKey": "mythicmetals:orichalcum_chestplate"
+    },
+    "legs": {
+      "itemKey": "mythicmetals:orichalcum_leggings"
+    },
+    "boots": {
+      "itemKey": "mythicmetals:orichalcum_boots"
+    },
+    "fullSetBonuses": [
+      {
+        "type": "attribute",
+        "name": "minecraft:generic.armor",
+        "value": 6.0,
+        "modifierUUID": "837b3eb9-a9ec-49c0-8bac-b81f2ee8d5b0",
+        "attributeOperation": 0,
+        "interactionType": "self"
+      },
+      {
+        "type": "attribute",
+        "name": "spell_power:healing",
+        "value": 12.0,
+        "modifierUUID": "34d7e576-1e16-47a4-8fd8-042780101336",
+        "attributeOperation": 0,
+        "interactionType": "self"
+      }
+    ]
+  }

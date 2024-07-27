@@ -1,0 +1,13 @@
+name = "Extra Loot"
+filename = "extra-loot-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c0a995289453a3e2fb132e119fce373a267a1cd4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5168368
+project-id = 984667

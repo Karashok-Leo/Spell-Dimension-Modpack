@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:entity",
+  "pools": [
+    {
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:honey_bottle",
+          "weight": 5
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:honey_block",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:honeycomb",
+          "weight": 5
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:honeycomb_block",
+          "weight": 1
+        }
+      ],
+      "rolls": 1.0
+    }
+  ]
+}

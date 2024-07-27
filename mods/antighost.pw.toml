@@ -1,0 +1,13 @@
+name = "AntiGhost"
+filename = "antighost-1.20-fabric0.83.0-1.1.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "202078e8dd3be4a34d09e7008875df296266866b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4613757
+project-id = 273279

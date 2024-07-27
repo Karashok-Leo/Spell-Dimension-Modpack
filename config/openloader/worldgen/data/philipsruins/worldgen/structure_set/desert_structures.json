@@ -1,0 +1,22 @@
+{
+  "structures": [
+    {
+      "structure": "philipsruins:badlands_start_dungeon",
+      "weight": 1
+    },
+    {
+      "structure": "philipsruins:badlands_structures",
+      "weight": 1
+    },
+    {
+      "structure": "philipsruins:desert_structures",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 294718935,
+    "spacing": 39,
+    "separation": 15
+  }
+}

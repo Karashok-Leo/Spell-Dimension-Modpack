@@ -1,0 +1,10 @@
+{
+  "values": [
+    "#minecraft:is_forest",
+    "#minecraft:is_jungle",
+    "#minecraft:is_mountain",
+    "#c:forest",
+    "#c:jungle",
+    "#c:mountain"
+  ]
+}

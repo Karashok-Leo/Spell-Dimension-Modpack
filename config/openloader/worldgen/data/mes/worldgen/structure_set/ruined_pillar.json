@@ -1,0 +1,15 @@
+{
+  "structures": [
+    {
+      "structure": "mes:ruined_pillar",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "mes:advanced_random_spread",
+    "salt": 322652548,
+    "spacing": 10,
+    "separation": 5,
+    "min_distance_from_world_origin": 1000
+  }
+}

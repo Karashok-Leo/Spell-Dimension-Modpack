@@ -1,0 +1,13 @@
+name = "Potion Particle Pack"
+filename = "potionparticlepack-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7e8a301a7a6481c427058974bb3a7c70a700c8ed"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4666698
+project-id = 895267

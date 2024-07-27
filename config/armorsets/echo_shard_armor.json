@@ -1,0 +1,34 @@
+{
+    "armorSetName": "echo_shard_armor",
+    "performanceMode": true,
+    "head": {
+      "itemKey": "plentyofarmors:echo_shard_helmet"
+    },
+    "chest": {
+      "itemKey": "plentyofarmors:echo_shard_chestplate"
+    },
+    "legs": {
+      "itemKey": "plentyofarmors:echo_shard_leggings"
+    },
+    "boots": {
+      "itemKey": "plentyofarmors:echo_shard_boots"
+    },
+    "fullSetBonuses": [
+      {
+        "type": "attribute",
+        "name": "minecraft:generic.armor",
+        "value": 6.0,
+        "modifierUUID": "85600984-bd5a-4df2-86d3-b50bfecc2194",
+        "attributeOperation": 0,
+        "interactionType": "self"
+      },
+      {
+        "type": "attribute",
+        "name": "spell_power:soul",
+        "value": 12.0,
+        "modifierUUID": "cd6a64e3-216f-4d68-8884-37572722a3f9",
+        "attributeOperation": 0,
+        "interactionType": "self"
+      }
+    ]
+  }

@@ -1,0 +1,46 @@
+{
+  "armorSetName": "aquamarine_weapon",
+  "performanceMode": true,
+  "mainHand": {
+    "itemKey": "mythicupgrades:aquamarine_sword",
+    "mixAndMatch": [
+      "mythicupgrades:aquamarine_axe"
+    ]
+  },
+  "fullSetBonuses": [
+    {
+        "type": "attribute",
+        "name": "additionalentityattributes:generic.water_speed",
+        "value": 0.3,
+        "modifierUUID": "1f30ca41-c9b8-444b-948c-5b02378e4bd1",
+        "attributeOperation": 0,
+        "interactionType": "self",
+        "conditions": [
+            {
+                "type": "inWater"
+            }
+        ]
+    },
+    {
+        "type": "attribute",
+        "name": "additionalentityattributes:player.water_visibility",
+        "value": 50.0,
+        "modifierUUID": "f8ff291b-5fc8-4a5a-9b8f-bea8c5ec897f",
+        "attributeOperation": 0,
+        "interactionType": "self",
+        "conditions": [
+            {
+                "type": "inWater"
+            }
+        ]
+    },
+    {
+        "type": "attribute",
+        "name": "spell_power:frost",
+        "value": 1.2,
+        "modifierUUID": "5a69b3c6-a261-40e5-8569-41dd33a8783f",
+        "attributeOperation": 2,
+        "interactionType": "self"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+    "armorSetName": "ender_armor",
+    "performanceMode": true,
+    "head": {
+      "itemKey": "plentyofarmors:ender_helmet"
+    },
+    "chest": {
+      "itemKey": "plentyofarmors:ender_chestplate"
+    },
+    "legs": {
+      "itemKey": "plentyofarmors:ender_leggings"
+    },
+    "boots": {
+      "itemKey": "plentyofarmors:ender_boots"
+    },
+    "fullSetBonuses": [
+      {
+        "type": "attribute",
+        "name": "minecraft:generic.armor",
+        "value": 6.0,
+        "modifierUUID": "3f76f1f3-b804-491d-8212-669877e57b6f",
+        "attributeOperation": 0,
+        "interactionType": "self"
+      },
+      {
+        "type": "attribute",
+        "name": "spell_power:arcane",
+        "value": 12.0,
+        "modifierUUID": "6a680e45-371c-4843-ba23-dae0a0af8f47",
+        "attributeOperation": 0,
+        "interactionType": "self"
+      }
+    ]
+  }

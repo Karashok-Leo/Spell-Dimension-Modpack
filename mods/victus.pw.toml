@@ -1,0 +1,13 @@
+name = "Victus - Custom Hearts"
+filename = "victus-0.1.15-1+1.20.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b5eefe5ffc7eb2bd1bedf56959674719725c0789"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5362696
+project-id = 534492

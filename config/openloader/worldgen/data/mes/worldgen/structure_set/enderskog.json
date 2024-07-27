@@ -1,0 +1,15 @@
+{
+  "structures": [
+    {
+      "structure": "mes:enderskog",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "mes:advanced_random_spread",
+    "salt": 525248754,
+    "spacing": 8,
+    "separation": 5,
+    "min_distance_from_world_origin": 1000
+  }
+}

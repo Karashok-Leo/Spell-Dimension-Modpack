@@ -1,0 +1,127 @@
+{
+  "cache": {
+    "rpg_series:tier_4_weapons": [],
+    "rpg_series:tier_1_armors": [
+      "paladins:paladin_armor_chest",
+      "paladins:paladin_armor_feet",
+      "paladins:paladin_armor_head",
+      "paladins:paladin_armor_legs",
+      "paladins:priest_robe_chest",
+      "paladins:priest_robe_feet",
+      "paladins:priest_robe_head",
+      "paladins:priest_robe_legs",
+      "wizards:wizard_robe_chest",
+      "wizards:wizard_robe_feet",
+      "wizards:wizard_robe_head",
+      "wizards:wizard_robe_legs"
+    ],
+    "rpg_series:tier_2_armors": [],
+    "rpg_series:tier_3_armors": [],
+    "rpg_series:tier_0_accessories": [
+      "jewelry:copper_ring",
+      "jewelry:iron_ring",
+      "jewelry:gold_ring"
+    ],
+    "rpg_series:tier_1_accessories": [
+      "jewelry:emerald_necklace",
+      "jewelry:diamond_necklace",
+      "paladins:iron_kite_shield"
+    ],
+    "rpg_series:tier_3_weapons": [
+      "paladins:netherite_mace",
+      "paladins:netherite_great_hammer",
+      "paladins:netherite_claymore",
+      "paladins:netherite_holy_staff",
+      "wizards:staff_netherite_arcane",
+      "wizards:staff_netherite_fire",
+      "wizards:staff_netherite_frost"
+    ],
+    "rpg_series:tier_2_accessories": [
+      "jewelry:ruby_ring",
+      "jewelry:topaz_ring",
+      "jewelry:citrine_ring",
+      "jewelry:jade_ring",
+      "jewelry:sapphire_ring",
+      "jewelry:tanzanite_ring",
+      "jewelry:ruby_necklace",
+      "jewelry:topaz_necklace",
+      "jewelry:citrine_necklace",
+      "jewelry:jade_necklace",
+      "jewelry:sapphire_necklace",
+      "jewelry:tanzanite_necklace",
+      "paladins:diamond_kite_shield"
+    ],
+    "rpg_series:tier_3_accessories": [
+      "jewelry:netherite_ruby_ring",
+      "jewelry:netherite_topaz_ring",
+      "jewelry:netherite_citrine_ring",
+      "jewelry:netherite_jade_ring",
+      "jewelry:netherite_sapphire_ring",
+      "jewelry:netherite_tanzanite_ring",
+      "jewelry:netherite_ruby_necklace",
+      "jewelry:netherite_topaz_necklace",
+      "jewelry:netherite_citrine_necklace",
+      "jewelry:netherite_jade_necklace",
+      "jewelry:netherite_sapphire_necklace",
+      "jewelry:netherite_tanzanite_necklace",
+      "paladins:netherite_kite_shield"
+    ],
+    "rpg_series:tier_1_weapons": [
+      "paladins:iron_mace",
+      "paladins:iron_great_hammer",
+      "paladins:iron_claymore",
+      "paladins:holy_staff",
+      "spellbladenext:fire_blade",
+      "spellbladenext:arcane_blade",
+      "spellbladenext:frost_blade",
+      "wizards:staff_wizard"
+    ],
+    "rpg_series:golden_weapons": [
+      "paladins:golden_claymore",
+      "paladins:golden_great_hammer",
+      "paladins:golden_mace",
+      "paladins:golden_kite_shield"
+    ],
+    "rpg_series:tier_2_weapons": [
+      "paladins:diamond_mace",
+      "paladins:diamond_great_hammer",
+      "paladins:diamond_claymore",
+      "paladins:diamond_holy_staff",
+      "spellbladenext:flaming_falchion",
+      "spellbladenext:crystal_cutlass",
+      "spellbladenext:glacial_gladius",
+      "spellbladenext:frost_claymore",
+      "spellbladenext:arcane_claymore",
+      "spellbladenext:fire_claymore",
+      "spellbladenext:monkeystaff",
+      "wizards:staff_arcane",
+      "wizards:staff_fire",
+      "wizards:staff_frost"
+    ],
+    "rpg_series:tier_4_accessories": [
+      "jewelry:unique_attack_ring",
+      "jewelry:unique_attack_necklace",
+      "jewelry:unique_dex_ring",
+      "jewelry:unique_dex_necklace",
+      "jewelry:unique_tank_ring",
+      "jewelry:unique_tank_necklace",
+      "jewelry:unique_archer_ring",
+      "jewelry:unique_archer_necklace",
+      "jewelry:unique_arcane_ring",
+      "jewelry:unique_arcane_necklace",
+      "jewelry:unique_fire_ring",
+      "jewelry:unique_fire_necklace",
+      "jewelry:unique_frost_ring",
+      "jewelry:unique_frost_necklace",
+      "jewelry:unique_healing_ring",
+      "jewelry:unique_healing_necklace"
+    ],
+    "rpg_series:tier_0_weapons": [
+      "paladins:wooden_great_hammer",
+      "paladins:stone_great_hammer",
+      "paladins:stone_claymore",
+      "paladins:acolyte_wand",
+      "wizards:wand_novice"
+    ]
+  }
+}

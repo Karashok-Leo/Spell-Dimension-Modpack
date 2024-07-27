@@ -1,0 +1,65 @@
+{
+    "replace": false,
+    "trades": [
+        {
+            "type": "goblintraders:basic",
+            "offer_item": {
+                "item": "spell-dimension:loot_bag_epic_book",
+                "count": 1
+            },
+            "payment_item": {
+                "item": "numismatic-overhaul:gold_coin",
+                "count": 16
+            },
+            "max_trades": 1
+        },
+        {
+            "type": "goblintraders:basic",
+            "offer_item": {
+                "item": "spell-dimension:loot_bag_epic_gear",
+                "count": 1
+            },
+            "payment_item": {
+                "item": "numismatic-overhaul:gold_coin",
+                "count": 16
+            },
+            "max_trades": 1
+        },
+        {
+            "type": "goblintraders:basic",
+            "offer_item": {
+                "item": "spell-dimension:loot_bag_epic_material",
+                "count": 1
+            },
+            "payment_item": {
+                "item": "numismatic-overhaul:gold_coin",
+                "count": 16
+            },
+            "max_trades": 1
+        },
+        {
+            "type": "goblintraders:basic",
+            "offer_item": {
+                "item": "spell-dimension:loot_bag_jewelry_rings",
+                "count": 1
+            },
+            "payment_item": {
+                "item": "numismatic-overhaul:gold_coin",
+                "count": 16
+            },
+            "max_trades": 1
+        },
+        {
+            "type": "goblintraders:basic",
+            "offer_item": {
+                "item": "spell-dimension:loot_bag_jewelry_necklaces",
+                "count": 1
+            },
+            "payment_item": {
+                "item": "numismatic-overhaul:gold_coin",
+                "count": 16
+            },
+            "max_trades": 1
+        }
+    ]
+}

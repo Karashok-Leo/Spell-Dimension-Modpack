@@ -1,0 +1,13 @@
+name = "Fancy Block Particles - Renewed"
+filename = "FancyBlockParticles-1.20.1-fabric-20.1.0.2-beta.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "da3a9090e904d48d08aa5ecb8b8c8af9fd86a4bd"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5476281
+project-id = 937011

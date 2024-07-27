@@ -1,0 +1,57 @@
+{
+  "armorSetName": "metallurgium_armor",
+  "performanceMode": true,
+  "head": {
+    "itemKey": "mythicmetals:metallurgium_helmet"
+  },
+  "chest": {
+    "itemKey": "mythicmetals:metallurgium_chestplate"
+  },
+  "legs": {
+    "itemKey": "mythicmetals:metallurgium_leggings"
+  },
+  "boots": {
+    "itemKey": "mythicmetals:metallurgium_boots"
+  },
+  "fullSetBonuses": [
+    {
+      "type": "attribute",
+      "name": "obscure_api:healing_power",
+      "value": 1.6,
+      "modifierUUID": "6fb849a5-11ff-42e8-80fe-5ce823fb6f48",
+      "attributeOperation": 0,
+      "interactionType": "self"
+    },
+    {
+      "type": "attribute",
+      "name": "minecraft:generic.max_health",
+      "value": 10.0,
+      "modifierUUID": "0efb85e0-709d-4bf1-8e92-6f64f17d26a3",
+      "attributeOperation": 0,
+      "interactionType": "self"
+    },
+    {
+      "type": "attribute",
+      "name": "minecraft:generic.armor",
+      "value": 1.2,
+      "modifierUUID": "e4002828-f19e-4499-94be-d428994f737a",
+      "attributeOperation": 2,
+      "interactionType": "self"
+    },
+    {
+      "type": "attribute",
+      "name": "spell_power:fire",
+      "value": 1.3,
+      "modifierUUID": "06ba8b52-f9a9-4418-b831-b384a86d3b0b",
+      "attributeOperation": 2,
+      "interactionType": "self"
+    },
+    {
+      "type": "effect",
+      "name": "minecraft:fire_resistance",
+      "value": 0.0,
+      "interactionType": "self",
+      "interactionDuration": 400
+    }
+  ]
+}

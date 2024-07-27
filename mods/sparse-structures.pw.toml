@@ -1,0 +1,13 @@
+name = "Sparse Structures"
+filename = "sparsestructures-fabric-1.20.1-2.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a1042663daefadf0378f92fcbe11ae6b4d17e650"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5521769
+project-id = 911437

@@ -1,0 +1,42 @@
+{
+    "armorSetName": "gilded_netherite_armor",
+    "performanceMode": true,
+    "head": {
+      "itemKey": "adventurez:gilded_netherite_helmet"
+    },
+    "chest": {
+      "itemKey": "adventurez:gilded_netherite_chestplate"
+    },
+    "legs": {
+      "itemKey": "adventurez:gilded_netherite_leggings"
+    },
+    "boots": {
+      "itemKey": "adventurez:gilded_netherite_boots"
+    },
+    "fullSetBonuses": [
+      {
+        "type": "attribute",
+        "name": "minecraft:generic.armor",
+        "value": 6.0,
+        "modifierUUID": "1366b217-ef69-4bb1-80c4-f587ebce1442",
+        "attributeOperation": 0,
+        "interactionType": "self"
+      },
+      {
+        "type": "attribute",
+        "name": "spell_power:critical_chance",
+        "value": 1.2,
+        "modifierUUID": "018ade42-6e3f-45c8-afb6-02c962b95c4a",
+        "attributeOperation": 0,
+        "interactionType": "self"
+      },
+      {
+        "type": "attribute",
+        "name": "spell_power:critical_damage",
+        "value": 1.1,
+        "modifierUUID": "bdd22d99-8702-4fe8-a311-4fa354bb1383",
+        "attributeOperation": 1,
+        "interactionType": "self"
+      }
+    ]
+  }

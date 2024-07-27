@@ -1,0 +1,14 @@
+{
+    "structures": [
+        {
+            "structure": "ati_structures:stray_ruins",
+            "weight": 1
+        }
+    ],
+    "placement": {
+        "type": "minecraft:random_spread",
+        "spacing": 30,
+        "separation": 16,
+        "salt": 1273456123
+    }
+}

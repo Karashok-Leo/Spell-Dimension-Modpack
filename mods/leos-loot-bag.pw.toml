@@ -1,0 +1,13 @@
+name = "Leo's Loot Bag"
+filename = "loot-bag-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5ff243d21f517839265a55ef4a106a4564e5a79f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5395296
+project-id = 995026

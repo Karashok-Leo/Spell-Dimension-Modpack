@@ -1,0 +1,41 @@
+{
+  "armorSetName": "stormyx_armor",
+  "performanceMode": true,
+  "head": {
+    "itemKey": "mythicmetals:stormyx_helmet"
+  },
+  "chest": {
+    "itemKey": "mythicmetals:stormyx_chestplate"
+  },
+  "legs": {
+    "itemKey": "mythicmetals:stormyx_leggings"
+  },
+  "boots": {
+    "itemKey": "mythicmetals:stormyx_boots"
+  },
+  "fullSetBonuses": [
+    {
+      "type": "attribute",
+      "name": "minecraft:generic.armor",
+      "value": 4.0,
+      "modifierUUID": "aaa7834a-a06b-400b-8f46-d4e94ece325d",
+      "attributeOperation": 0,
+      "interactionType": "self"
+    },
+    {
+      "type": "attribute",
+      "name": "minecraft:generic.armor_toughness",
+      "value": 4.0,
+      "modifierUUID": "63738153-f14c-47ba-9f89-e4d204bfb7e8",
+      "attributeOperation": 0,
+      "interactionType": "self"
+    },
+    {
+      "type": "effect",
+      "name": "minecraft:slow_falling",
+      "value": 0.0,
+      "interactionType": "self",
+      "interactionDuration": 300
+    }
+  ]
+}

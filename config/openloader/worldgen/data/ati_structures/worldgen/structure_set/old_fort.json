@@ -1,0 +1,14 @@
+{
+    "structures": [
+        {
+            "structure": "ati_structures:old_fort",
+            "weight": 1
+        }
+    ],
+    "placement": {
+        "type": "minecraft:random_spread",
+        "spacing": 30,
+        "separation": 24,
+        "salt": 18923465
+    }
+}

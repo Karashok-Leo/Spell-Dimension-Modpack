@@ -1,0 +1,31 @@
+{
+    "values": [
+        "minecraft:old_growth_pine_taiga",
+        "minecraft:old_growth_spruce_taiga",
+        "minecraft:taiga",
+        {
+            "id": "terralith:cloud_forest",
+            "required": false
+        },
+        {
+            "id": "terralith:forested_highlands",
+            "required": false
+        },
+        {
+            "id": "terralith:lush_valley",
+            "required": false
+        },
+        {
+            "id": "terralith:shield",
+            "required": false
+        },
+        {
+            "id": "terralith:siberian_taiga",
+            "required": false
+        },
+        {
+            "id": "terralith:yosemite_lowlands",
+            "required": false
+        }
+    ]
+}

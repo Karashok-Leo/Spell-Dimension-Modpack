@@ -1,0 +1,41 @@
+{
+  "armorSetName": "sapphire_armor",
+  "performanceMode": true,
+  "head": {
+    "itemKey": "mythicupgrades:sapphire_helmet"
+  },
+  "chest": {
+    "itemKey": "mythicupgrades:sapphire_chestplate"
+  },
+  "legs": {
+    "itemKey": "mythicupgrades:sapphire_leggings"
+  },
+  "boots": {
+    "itemKey": "mythicupgrades:sapphire_boots"
+  },
+  "fullSetBonuses": [
+    {
+      "type": "attribute",
+      "name": "minecraft:generic.armor",
+      "value": 8.0,
+      "modifierUUID": "186ad722-f1c7-b1e7-64ac-aab73923766e",
+      "attributeOperation": 0,
+      "interactionType": "self"
+    },
+    {
+      "type": "attribute",
+      "name": "spell_power:frost",
+      "value": 8.0,
+      "modifierUUID": "e932db29-952e-42e5-952f-da9ca6b88abf",
+      "attributeOperation": 0,
+      "interactionType": "self"
+    },
+    {
+      "type": "effect",
+      "name": "minecraft:conduit_power",
+      "value": 0.0,
+      "interactionType": "self",
+      "interactionDuration": 300
+    }
+  ]
+}

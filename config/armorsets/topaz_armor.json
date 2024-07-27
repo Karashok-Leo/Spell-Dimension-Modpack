@@ -1,0 +1,41 @@
+{
+  "armorSetName": "topaz_armor",
+  "performanceMode": true,
+  "head": {
+    "itemKey": "mythicupgrades:topaz_helmet"
+  },
+  "chest": {
+    "itemKey": "mythicupgrades:topaz_chestplate"
+  },
+  "legs": {
+    "itemKey": "mythicupgrades:topaz_leggings"
+  },
+  "boots": {
+    "itemKey": "mythicupgrades:topaz_boots"
+  },
+  "fullSetBonuses": [
+    {
+      "type": "attribute",
+      "name": "minecraft:generic.armor",
+      "value": 8.0,
+      "modifierUUID": "13c0f119-3c09-5b6b-da2f-716cdffc5095",
+      "attributeOperation": 0,
+      "interactionType": "self"
+    },
+    {
+      "type": "attribute",
+      "name": "spell_power:fire",
+      "value": 8.0,
+      "modifierUUID": "32b0cf4f-15c3-4896-b9e5-e6d3ef288174",
+      "attributeOperation": 0,
+      "interactionType": "self"
+    },
+    {
+      "type": "effect",
+      "name": "minecraft:fire_resistance",
+      "value": 0.0,
+      "interactionType": "self",
+      "interactionDuration": 300
+    }
+  ]
+}

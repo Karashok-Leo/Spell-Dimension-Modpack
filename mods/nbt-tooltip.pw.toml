@@ -1,0 +1,13 @@
+name = "NBT Tooltip"
+filename = "nbttooltip-1.7.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "78d9fc823a35fd1751a6752f78d01430bdfcf5e4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4862123
+project-id = 274816

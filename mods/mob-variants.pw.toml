@@ -1,0 +1,13 @@
+name = "Mob Variants"
+filename = "frycmobvariants-4.4.2+1.20.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b9c2f9bb69eff0761654e259666ab31e24402cec"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5548795
+project-id = 682900

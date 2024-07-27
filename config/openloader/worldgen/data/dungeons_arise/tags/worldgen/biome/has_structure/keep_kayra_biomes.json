@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:swamp",
+    "minecraft:mangrove_swamp",
+    "#minecraft:is_taiga",
+    "#c:swamp",
+    "#c:taiga"
+  ]
+}

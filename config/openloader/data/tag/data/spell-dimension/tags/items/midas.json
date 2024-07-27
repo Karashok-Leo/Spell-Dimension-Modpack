@@ -1,0 +1,24 @@
+{
+    "values": [
+        "minecraft:golden_carrot",
+        "minecraft:golden_apple",
+        "minecraft:enchanted_golden_apple",
+        "midashunger:baked_golden_potato",
+        "midashunger:cooked_golden_chicken",
+        "midashunger:cooked_golden_cod",
+        "midashunger:cooked_golden_mutton",
+        "midashunger:cooked_golden_porkchop",
+        "midashunger:cooked_golden_rabbit",
+        "midashunger:cooked_golden_salmon",
+        "midashunger:dried_golden_kelp",
+        "midashunger:enchanted_golden_carrot",
+        "midashunger:golden_beetroot",
+        "midashunger:golden_beetroot_soup",
+        "midashunger:golden_chorus_fruit",
+        "midashunger:golden_pumpkin_pie",
+        "midashunger:golden_turtle_egg",
+        "midashunger:poisonous_golden_potato",
+        "midashunger:sweet_golden_berries",
+        "midashunger:cooked_golden_beef"
+    ]
+}

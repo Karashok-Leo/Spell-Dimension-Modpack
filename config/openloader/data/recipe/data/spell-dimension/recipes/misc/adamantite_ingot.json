@@ -1,0 +1,20 @@
+{
+  "type": "alloy_forgery:forging",
+  "inputs": [
+    {
+      "item": "mythicmetals:quadrillum_nugget"
+    },
+    {
+      "item": "mythicmetals:carmot_ingot"
+    },
+    {
+      "item": "mythicmetals:midas_gold_ingot"
+    }
+  ],
+  "output": {
+    "id": "mythicmetals:adamantite_ingot",
+    "count": 2
+  },
+  "min_forge_tier": 2,
+  "fuel_per_tick": 5
+}

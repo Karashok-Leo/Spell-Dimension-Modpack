@@ -1,0 +1,52 @@
+{
+    "armorSetName": "aquarium_armor",
+    "performanceMode": true,
+    "head": {
+        "itemKey": "mythicmetals:aquarium_helmet"
+    },
+    "chest": {
+        "itemKey": "mythicmetals:aquarium_chestplate"
+    },
+    "legs": {
+        "itemKey": "mythicmetals:aquarium_leggings"
+    },
+    "boots": {
+        "itemKey": "mythicmetals:aquarium_boots"
+    },
+    "fullSetBonuses": [
+        {
+            "type": "attribute",
+            "name": "additionalentityattributes:generic.water_speed",
+            "value": 0.3,
+            "modifierUUID": "376aa3aa-1fd5-4386-8be3-aa15de554638",
+            "attributeOperation": 0,
+            "interactionType": "self",
+            "conditions": [
+                {
+                    "type": "inWater"
+                }
+            ]
+        },
+        {
+            "type": "attribute",
+            "name": "additionalentityattributes:player.water_visibility",
+            "value": 50.0,
+            "modifierUUID": "81ce2f04-2ffa-4893-abd3-fe3d2b5de0b8",
+            "attributeOperation": 0,
+            "interactionType": "self",
+            "conditions": [
+                {
+                    "type": "inWater"
+                }
+            ]
+        },
+        {
+            "type": "attribute",
+            "name": "spell_power:frost",
+            "value": 1.2,
+            "modifierUUID": "3283b04e-2fbb-4441-b0e1-0363d92088a6",
+            "attributeOperation": 1,
+            "interactionType": "self"
+        }
+    ]
+}

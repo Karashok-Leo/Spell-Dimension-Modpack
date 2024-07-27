@@ -1,0 +1,76 @@
+{
+	"processors": [
+		{
+			"processor_type": "minecraft:rule",
+			"rules": [
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:blockstate_match",
+						"block_state": {
+							"Name": "minecraft:lime_terracotta"
+						}
+					},
+					"output_state": {
+						"Name": "minecraft:light_blue_terracotta"
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:blockstate_match",
+						"block_state": {
+							"Name": "minecraft:green_terracotta"
+						}
+					},
+					"output_state": {
+						"Name": "minecraft:blue_terracotta"
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_block_match",
+						"block": "minecraft:grass_block",
+						"probability": 0.3
+					},
+					"output_state": {
+						"Name": "minecraft:coarse_dirt"
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_block_match",
+						"block": "minecraft:grass_block",
+						"probability": 0.3
+					},
+					"output_state": {
+						"Name": "minecraft:dirt_path"
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_block_match",
+						"block": "minecraft:grass_block",
+						"probability": 0.3
+					},
+					"output_state": {
+						"Name": "minecraft:podzol"
+					}
+				}
+			]
+		}
+	]
+}

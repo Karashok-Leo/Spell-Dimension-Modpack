@@ -1,0 +1,16 @@
+{
+    "item.vanityslots.familiar_sneakers": "亲切鞋子",
+    "trinkets.slot.chest.vanity": "胸部装饰",
+    "item.vanityslots.familiar_wig": "亲切假发",
+    "item.vanityslots.familiar_shirt": "亲切上衣",
+    "item.vanityslots.familiar_pants": "亲切裤子",
+    "trinkets.slot.feet.vanity": "脚部装饰",
+    "item.vanityslots.glowing_leather": "发光皮革",
+    "trinkets.slot.head.vanity": "头部装饰",
+    "text.autoconfig.vanityslots.option.itemBlacklist.@Tooltip": "此物品不该被放在装饰槽中。",
+    "trinkets.slot.legs.vanity": "腿部装饰",
+    "text.autoconfig.vanityslots.option.disallowBinding.@Tooltip": "Prevent items with Curse of Binding from being put in vanity slots.",
+    "title.vanityslots.config": "VanitySlots Config",
+    "text.autoconfig.vanityslots.option.itemBlacklist": "盔甲黑名单",
+    "text.autoconfig.vanityslots.option.disallowBinding": "禁用绑定诅咒"
+}

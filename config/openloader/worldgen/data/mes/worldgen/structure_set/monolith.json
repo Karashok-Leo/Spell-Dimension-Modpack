@@ -1,0 +1,15 @@
+{
+  "structures": [
+    {
+      "structure": "mes:monolith",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "mes:advanced_random_spread",
+    "salt": 665665241,
+    "spacing": 12,
+    "separation": 6,
+    "min_distance_from_world_origin": 1000
+  }
+}

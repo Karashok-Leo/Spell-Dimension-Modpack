@@ -1,0 +1,13 @@
+name = "Husk Spawn"
+filename = "huskspawn-1.20.1-3.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "37c42457155f26965b2862f4eed348fff710d7a7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4964688
+project-id = 348176

@@ -1,0 +1,13 @@
+name = "Traveler's Titles (Fabric)"
+filename = "TravelersTitles-1.20-Fabric-4.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9698f7347b3c98276e4d4035e731e34e926e82d0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5065826
+project-id = 590990

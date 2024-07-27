@@ -1,0 +1,10 @@
+{
+	"type": "crafting_shapeless",
+	"ingredients": [
+		{"item": "minecraft:leather"},
+		{"item": "minecraft:leather"}
+	],
+	"result": {
+		"item": "minecraft:bundle"
+	}
+}

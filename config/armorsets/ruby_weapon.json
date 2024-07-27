@@ -1,0 +1,30 @@
+{
+  "armorSetName": "ruby_weapon",
+  "performanceMode": true,
+  "mainHand": {
+    "itemKey": "mythicupgrades:ruby_sword",
+    "mixAndMatch": [
+      "mythicupgrades:ruby_axe",
+      "mythicupgrades:ruby_pickaxe",
+      "mythicupgrades:ruby_shovel",
+      "mythicupgrades:ruby_hoe"
+    ]
+  },
+  "fullSetBonuses": [
+    {
+      "type": "attribute",
+      "name": "minecraft:generic.attack_damage",
+      "value": 2.0,
+      "modifierUUID": "935098bc-5dcc-6d8d-2442-1c478a508adc",
+      "attributeOperation": 0,
+      "interactionType": "self"
+    },
+    {
+      "type": "effect",
+      "name": "minecraft:mining_fatigue",
+      "value": 0.0,
+      "interactionType": "attack",
+      "interactionDuration": 20
+    }
+  ]
+}

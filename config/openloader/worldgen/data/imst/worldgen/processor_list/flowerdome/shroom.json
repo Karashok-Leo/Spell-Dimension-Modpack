@@ -1,0 +1,22 @@
+{
+    "processors": [
+        {
+            "processor_type": "minecraft:rule",
+            "rules": [
+                {
+                    "input_predicate": {
+                        "predicate_type": "minecraft:always_true"
+                    },
+                    "location_predicate": {
+                        "predicate_type": "minecraft:random_block_match",
+                        "probability": 0.5,
+                        "block": "minecraft:brown_mushroom"
+                    },
+                    "output_state": {
+                        "Name": "minecraft:red_mushroom"
+                    }
+                }
+            ]
+        }
+    ]
+}

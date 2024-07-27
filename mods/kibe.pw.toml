@@ -1,0 +1,13 @@
+name = "Kibe Utilities"
+filename = "kibe-1.10.1-BETA+1.20.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cf5035be0524cd5e7447af39c752aae174c28b15"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4648536
+project-id = 388832

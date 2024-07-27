@@ -1,0 +1,48 @@
+{
+  "armorSetName": "hallowed_armor",
+  "performanceMode": true,
+  "head": {
+    "itemKey": "mythicmetals:hallowed_helmet"
+  },
+  "chest": {
+    "itemKey": "mythicmetals:hallowed_chestplate"
+  },
+  "legs": {
+    "itemKey": "mythicmetals:hallowed_leggings"
+  },
+  "boots": {
+    "itemKey": "mythicmetals:hallowed_boots"
+  },
+  "fullSetBonuses": [
+    {
+      "type": "attribute",
+      "name": "minecraft:generic.max_health",
+      "value": 8.0,
+      "modifierUUID": "18ebd31b-60bd-47a2-8f7a-dc6e9b01c19a",
+      "attributeOperation": 0,
+      "interactionType": "self"
+    },
+    {
+      "type": "attribute",
+      "name": "minecraft:generic.armor",
+      "value": 9.0,
+      "modifierUUID": "794ff05f-9001-4395-9e85-6c9dbfc26cf6",
+      "attributeOperation": 0,
+      "interactionType": "self"
+    },
+    {
+      "type": "effect",
+      "name": "minecraft:regeneration",
+      "value": 2.0,
+      "interactionType": "self",
+      "interactionDuration": 300
+    },
+    {
+      "type": "effect",
+      "name": "minecraft:glowing",
+      "value": 0.0,
+      "interactionType": "self",
+      "interactionDuration": 300
+    }
+  ]
+}

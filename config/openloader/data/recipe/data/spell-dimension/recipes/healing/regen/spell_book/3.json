@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "spell-dimension:essence_healing_2"
+    },
+    "*": {
+      "item": "spell-dimension:spell_book_healing_1"
+    },
+    "A": {
+      "item": "things:moss_necklace"
+    },
+    "B": {
+      "item": "mythicmetals:hallowed_ingot"
+    },
+    "C": {
+      "item": "things:placebo"
+    },
+    "D": {
+      "item": "midashunger:enchanted_golden_carrot"
+    }
+  },
+  "pattern": [
+    "#A#",
+    "D*B",
+    "#C#"
+  ],
+  "result": {
+    "item": "spell-dimension:spell_book_healing_2"
+  },
+  "show_notification": true
+}

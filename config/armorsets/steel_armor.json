@@ -1,0 +1,34 @@
+{
+  "armorSetName": "steel_armor",
+  "performanceMode": true,
+  "head": {
+    "itemKey": "mythicmetals:steel_helmet"
+  },
+  "chest": {
+    "itemKey": "mythicmetals:steel_chestplate"
+  },
+  "legs": {
+    "itemKey": "mythicmetals:steel_leggings"
+  },
+  "boots": {
+    "itemKey": "mythicmetals:steel_boots"
+  },
+  "fullSetBonuses": [
+    {
+      "type": "attribute",
+      "name": "minecraft:generic.armor",
+      "value": 3.0,
+      "modifierUUID": "d2c69124-f2c5-4e5e-af34-f066d0697039",
+      "attributeOperation": 0,
+      "interactionType": "self"
+    },
+    {
+      "type": "attribute",
+      "name": "minecraft:generic.armor_toughness",
+      "value": 4.0,
+      "modifierUUID": "aa81b225-95ec-4a9a-95a9-059d054cfea9",
+      "attributeOperation": 0,
+      "interactionType": "self"
+    }
+  ]
+}

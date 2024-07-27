@@ -1,0 +1,34 @@
+{
+  "armorSetName": "adamantite_armor",
+  "performanceMode": true,
+  "head": {
+    "itemKey": "mythicmetals:adamantite_helmet"
+  },
+  "chest": {
+    "itemKey": "mythicmetals:adamantite_chestplate"
+  },
+  "legs": {
+    "itemKey": "mythicmetals:adamantite_leggings"
+  },
+  "boots": {
+    "itemKey": "mythicmetals:adamantite_boots"
+  },
+  "fullSetBonuses": [
+    {
+      "type": "attribute",
+      "name": "minecraft:generic.armor",
+      "value": 6.0,
+      "modifierUUID": "2188e807-6aad-4561-b76c-9d8769e8f3e1",
+      "attributeOperation": 0,
+      "interactionType": "self"
+    },
+    {
+      "type": "attribute",
+      "name": "spell_power:critical_chance",
+      "value": 1.2,
+      "modifierUUID": "2716f485-daf8-4f40-b534-d4590cebeeed",
+      "attributeOperation": 1,
+      "interactionType": "self"
+    }
+  ]
+}

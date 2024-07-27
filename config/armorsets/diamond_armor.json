@@ -1,0 +1,25 @@
+{
+    "armorSetName": "diamond_armor",
+    "performanceMode": true,
+    "head": {
+      "itemKey": "minecraft:diamond_helmet"
+    },
+    "chest": {
+      "itemKey": "minecraft:diamond_chestplate"
+    },
+    "legs": {
+      "itemKey": "minecraft:diamond_leggings"
+    },
+    "boots": {
+      "itemKey": "minecraft:diamond_boots"
+    },
+    "fullSetBonuses": [
+        {
+          "type": "effect",
+          "name": "minecraft:absorption",
+          "value": 1.0,
+          "interactionType": "self",
+          "interactionDuration": 200
+        }
+    ]
+  }

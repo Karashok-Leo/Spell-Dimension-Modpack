@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "spell-dimension:essence_healing_1"
+    },
+    "*": {
+      "item": "spell-dimension:spell_book_healing_0"
+    },  
+    "A": {
+      "item": "adventurez:orc_skin"
+    },
+    "B": {
+      "item": "mythicmetals:midas_gold_ingot"
+    },
+    "C": {
+      "item": "graveyard:corruption"
+    }
+  },
+  "pattern": [
+    "#A#",
+    "B*B",
+    "#C#"
+  ],
+  "result": {
+    "item": "spell-dimension:spell_book_healing_1"
+  },
+  "show_notification": true
+}

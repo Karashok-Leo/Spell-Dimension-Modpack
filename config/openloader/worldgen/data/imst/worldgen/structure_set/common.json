@@ -1,0 +1,98 @@
+{
+    "structures": [
+        {
+            "weight": 1,
+            "structure": "imst:beehouse"
+        },
+        {
+            "weight": 1,
+            "structure": "imst:sunflower_farm"
+        },
+        {
+            "weight": 1,
+            "structure": "imst:berry_house"
+        },
+        {
+            "weight": 1,
+            "structure": "imst:terralith/yurt"
+        },
+        {
+            "weight": 1,
+            "structure": "imst:cactus_farm"
+        },
+        {
+            "weight": 1,
+            "structure": "imst:desert_well"
+        },
+        {
+            "weight": 1,
+            "structure": "imst:bandit_camp"
+        },
+        {
+            "weight": 1,
+            "structure": "imst:train_station"
+        },
+        {
+            "weight": 1,
+            "structure": "imst:cocoa_farm"
+        },
+        {
+            "weight": 1,
+            "structure": "imst:lumberjack/oak_hut"
+        },
+        {
+            "weight": 1,
+            "structure": "imst:lumberjack/birch_hut"
+        },
+        {
+            "weight": 1,
+            "structure": "imst:lumberjack/spruce_hut"
+        },
+        {
+            "weight": 1,
+            "structure": "imst:lumberjack/acacia_hut"
+        },
+        {
+            "weight": 1,
+            "structure": "imst:lumberjack/jungle_hut"
+        },
+        {
+            "weight": 1,
+            "structure": "imst:lumberjack/dark_oak_hut"
+        },
+        {
+            "weight": 1,
+            "structure": "imst:balloon"
+        },
+        {
+            "weight": 1,
+            "structure": "imst:igloo"
+        },
+        {
+            "weight": 1,
+            "structure": "imst:observatory"
+        },
+        {
+            "weight": 1,
+            "structure": "imst:lumberjack/mangrove_hut"
+        },
+        {
+            "weight": 1,
+            "structure": "imst:witch_hut"
+        },
+        {
+            "weight": 1,
+            "structure": "imst:quarry"
+        },
+        {
+            "weight": 1,
+            "structure": "imst:mountain_camp"
+        }
+    ],
+    "placement": {
+        "type": "minecraft:random_spread",
+        "spacing": 16,
+        "separation": 8,
+        "salt": 1358791759
+    }
+}

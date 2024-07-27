@@ -1,0 +1,310 @@
+{
+  "entries": {
+    "spell-dimension:loot_bag_start": {
+      "type": "SINGLE",
+      "loot_tables": [
+        "start"
+      ],
+      "rarity": "COMMON",
+      "stack": 16,
+      "color": {
+        "bag_body": 13467442,
+        "bag_string": 16775920
+      }
+    },
+    "spell-dimension:loot_bag_qu_ruin": {
+      "type": "SINGLE",
+      "loot_tables": [
+        "qu_ruin"
+      ],
+      "rarity": "RARE",
+      "stack": 16,
+      "color": {
+        "bag_body": 32767,
+        "bag_string": 14276889
+      }
+    },
+    "spell-dimension:loot_bag_charm": {
+      "type": "SINGLE",
+      "loot_tables": [
+        "charm"
+      ],
+      "rarity": "RARE",
+      "stack": 16,
+      "color": {
+        "bag_body": 14277107,
+        "bag_string": 15132922
+      }
+    },
+    "spell-dimension:loot_bag_artifact": {
+      "type": "SINGLE",
+      "loot_tables": [
+        "artifact"
+      ],
+      "rarity": "EPIC",
+      "stack": 16,
+      "color": {
+        "bag_body": 14972979,
+        "bag_string": 4353858
+      }
+    },
+    "spell-dimension:loot_bag_a_ring": {
+      "type": "SINGLE",
+      "loot_tables": [
+        "a_ring"
+      ],
+      "rarity": "EPIC",
+      "stack": 16,
+      "color": {
+        "bag_body": 9408445,
+        "bag_string": 9315179
+      }
+    },
+    "spell-dimension:loot_bag_jewelry_rings": {
+      "type": "SINGLE",
+      "loot_tables": [
+        "jewelry_rings"
+      ],
+      "rarity": "EPIC",
+      "stack": 16,
+      "color": {
+        "bag_body": 16711935,
+        "bag_string": 16776960
+      }
+    },
+    "spell-dimension:loot_bag_jewelry_necklaces": {
+      "type": "SINGLE",
+      "loot_tables": [
+        "jewelry_necklaces"
+      ],
+      "rarity": "EPIC",
+      "stack": 16,
+      "color": {
+        "bag_body": 16711935,
+        "bag_string": 16776960
+      }
+    },
+    "spell-dimension:loot_bag_midas": {
+      "type": "SINGLE",
+      "loot_tables": [
+        "midas"
+      ],
+      "rarity": "COMMON",
+      "stack": 16,
+      "color": {
+        "bag_body": 16776960,
+        "bag_string": 14408560
+      }
+    },
+    "spell-dimension:loot_bag_common_book": {
+      "type": "SINGLE",
+      "loot_tables": [
+        "common_book"
+      ],
+      "rarity": "COMMON",
+      "stack": 16,
+      "color": {
+        "bag_body": 16316671,
+        "bag_string": 16775920
+      }
+    },
+    "spell-dimension:loot_bag_common_gear": {
+      "type": "SINGLE",
+      "loot_tables": [
+        "common_gear"
+      ],
+      "rarity": "COMMON",
+      "stack": 16,
+      "color": {
+        "bag_body": 16316671,
+        "bag_string": 16775920
+      }
+    },
+    "spell-dimension:loot_bag_common_material": {
+      "type": "SINGLE",
+      "loot_tables": [
+        "common_material"
+      ],
+      "rarity": "COMMON",
+      "stack": 16,
+      "color": {
+        "bag_body": 16316671,
+        "bag_string": 16775920
+      }
+    },
+    "spell-dimension:loot_bag_uncommon_book": {
+      "type": "SINGLE",
+      "loot_tables": [
+        "uncommon_book"
+      ],
+      "rarity": "UNCOMMON",
+      "stack": 16,
+      "color": {
+        "bag_body": 16776960,
+        "bag_string": 16775920
+      }
+    },
+    "spell-dimension:loot_bag_uncommon_gear": {
+      "type": "SINGLE",
+      "loot_tables": [
+        "uncommon_gear"
+      ],
+      "rarity": "UNCOMMON",
+      "stack": 16,
+      "color": {
+        "bag_body": 16776960,
+        "bag_string": 16775920
+      }
+    },
+    "spell-dimension:loot_bag_uncommon_material": {
+      "type": "SINGLE",
+      "loot_tables": [
+        "uncommon_material"
+      ],
+      "rarity": "UNCOMMON",
+      "stack": 16,
+      "color": {
+        "bag_body": 16776960,
+        "bag_string": 16775920
+      }
+    },
+    "spell-dimension:loot_bag_rare_book": {
+      "type": "SINGLE",
+      "loot_tables": [
+        "rare_book"
+      ],
+      "rarity": "RARE",
+      "stack": 16,
+      "color": {
+        "bag_body": 65535,
+        "bag_string": 16775920
+      }
+    },
+    "spell-dimension:loot_bag_rare_gear": {
+      "type": "SINGLE",
+      "loot_tables": [
+        "rare_gear"
+      ],
+      "rarity": "RARE",
+      "stack": 16,
+      "color": {
+        "bag_body": 65535,
+        "bag_string": 16775920
+      }
+    },
+    "spell-dimension:loot_bag_rare_material": {
+      "type": "SINGLE",
+      "loot_tables": [
+        "rare_material"
+      ],
+      "rarity": "RARE",
+      "stack": 16,
+      "color": {
+        "bag_body": 65535,
+        "bag_string": 16775920
+      }
+    },
+    "spell-dimension:loot_bag_epic_book": {
+      "type": "SINGLE",
+      "loot_tables": [
+        "epic_book"
+      ],
+      "rarity": "EPIC",
+      "stack": 16,
+      "color": {
+        "bag_body": 9055202,
+        "bag_string": 16775920
+      }
+    },
+    "spell-dimension:loot_bag_epic_gear": {
+      "type": "SINGLE",
+      "loot_tables": [
+        "epic_gear"
+      ],
+      "rarity": "EPIC",
+      "stack": 16,
+      "color": {
+        "bag_body": 9055202,
+        "bag_string": 16775920
+      }
+    },
+    "spell-dimension:loot_bag_epic_material": {
+      "type": "SINGLE",
+      "loot_tables": [
+        "epic_material"
+      ],
+      "rarity": "EPIC",
+      "stack": 16,
+      "color": {
+        "bag_body": 9055202,
+        "bag_string": 16775920
+      }
+    },
+    "spell-dimension:loot_bag_legendary_book": {
+      "type": "SINGLE",
+      "loot_tables": [
+        "legendary_book"
+      ],
+      "rarity": "EPIC",
+      "stack": 16,
+      "color": {
+        "bag_body": 3100495,
+        "bag_string": 16775920
+      }
+    },
+    "spell-dimension:loot_bag_legendary_gear": {
+      "type": "SINGLE",
+      "loot_tables": [
+        "legendary_gear"
+      ],
+      "rarity": "EPIC",
+      "stack": 16,
+      "color": {
+        "bag_body": 3100495,
+        "bag_string": 16775920
+      }
+    },
+    "spell-dimension:loot_bag_legendary_material": {
+      "type": "SINGLE",
+      "loot_tables": [
+        "legendary_material"
+      ],
+      "rarity": "EPIC",
+      "stack": 16,
+      "color": {
+        "bag_body": 3100495,
+        "bag_string": 16775920
+      }
+    },
+    "spell-dimension:loot_bag_wand": {
+      "type": "OPTIONAL",
+      "loot_tables": [
+        "arcane_wand",
+        "fire_wand",
+        "frost_wand",
+        "healing_wand"
+      ],
+      "rarity": "COMMON",
+      "stack": 16,
+      "color": {
+        "bag_body": 10040013,
+        "bag_string": 10444703
+      }
+    },
+    "spell-dimension:loot_bag_rune": {
+      "type": "OPTIONAL",
+      "loot_tables": [
+        "arcane_rune",
+        "fire_rune",
+        "frost_rune",
+        "healing_rune"
+      ],
+      "rarity": "COMMON",
+      "stack": 16,
+      "color": {
+        "bag_body": 10040013,
+        "bag_string": 10444703
+      }
+    }
+  }
+}

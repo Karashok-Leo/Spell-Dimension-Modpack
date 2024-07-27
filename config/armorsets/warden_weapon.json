@@ -1,0 +1,30 @@
+{
+  "armorSetName": "warden_weapon",
+  "performanceMode": true,
+  "mainHand": {
+    "itemKey": "deeperdarker:warden_sword",
+    "mixAndMatch": [
+      "deeperdarker:warden_axe",
+      "deeperdarker:warden_pickaxe",
+      "deeperdarker:warden_shovel",
+      "deeperdarker:warden_hoe"
+    ]
+  },
+  "fullSetBonuses": [
+    {
+      "type": "attribute",
+      "name": "minecraft:generic.attack_damage",
+      "value": 6.0,
+      "modifierUUID": "182948e0-bdab-4b0d-b5c1-4aa4b32cebd0",
+      "attributeOperation": 0,
+      "interactionType": "self"
+    },
+    {
+      "type": "effect",
+      "name": "minecraft:darkness",
+      "value": 1.0,
+      "interactionType": "attack",
+      "interactionDuration": 300
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+    "structures": [
+        {
+            "structure": "ati_structures:mosque",
+            "weight": 1
+        }
+    ],
+    "placement": {
+        "type": "minecraft:random_spread",
+        "spacing": 26,
+        "separation": 14,
+        "salt": 17349087
+    }
+}

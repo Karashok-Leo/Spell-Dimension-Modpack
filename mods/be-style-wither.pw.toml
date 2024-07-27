@@ -1,0 +1,13 @@
+name = "BE Style Wither [Forge/Fabric]"
+filename = "bestylewither-fabric-mc1.20-1.6.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5a511ce0f2afd297787a7b356d7f5e8682fc0b97"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5079766
+project-id = 636003

@@ -1,0 +1,52 @@
+{
+    "armorSetName": "marine_diamond_armor",
+    "performanceMode": true,
+    "head": {
+      "itemKey": "plentyofarmors:marine_diamond_helmet"
+    },
+    "chest": {
+      "itemKey": "plentyofarmors:marine_diamond_chestplate"
+    },
+    "legs": {
+      "itemKey": "plentyofarmors:marine_diamond_leggings"
+    },
+    "boots": {
+      "itemKey": "plentyofarmors:marine_diamond_boots"
+    },
+    "fullSetBonuses": [
+        {
+            "type": "attribute",
+            "name": "additionalentityattributes:generic.water_speed",
+            "value": 0.3,
+            "modifierUUID": "4d91f68e-820f-49b3-905e-3921cdd2d6de",
+            "attributeOperation": 0,
+            "interactionType": "self",
+            "conditions": [
+                {
+                    "type": "inWater"
+                }
+            ]
+        },
+        {
+            "type": "attribute",
+            "name": "additionalentityattributes:player.water_visibility",
+            "value": 50.0,
+            "modifierUUID": "25f03b9f-08dc-4b2f-81e2-ba9cd2ea2cbd",
+            "attributeOperation": 0,
+            "interactionType": "self",
+            "conditions": [
+                {
+                    "type": "inWater"
+                }
+            ]
+        },
+        {
+            "type": "attribute",
+            "name": "spell_power:frost",
+            "value": 4.0,
+            "modifierUUID": "bd44a80c-ae96-41d3-ad9e-f0e172c22c7f",
+            "attributeOperation": 0,
+            "interactionType": "self"
+        }
+    ]
+  }

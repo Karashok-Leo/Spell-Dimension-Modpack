@@ -1,0 +1,14 @@
+{
+    "structures": [
+        {
+            "structure": "ati_structures:sinking_temple",
+            "weight": 1
+        }
+    ],
+    "placement": {
+        "type": "minecraft:random_spread",
+        "spacing": 30,
+        "separation": 24,
+        "salt": 88769276
+    }
+}

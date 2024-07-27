@@ -1,0 +1,13 @@
+name = "Spell Engine"
+filename = "spell_engine-0.15.8+1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "228f523410389ddcd46b243fd3f92a02d355462e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5562673
+project-id = 807653

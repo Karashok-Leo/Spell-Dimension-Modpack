@@ -1,0 +1,13 @@
+name = "Load My F***ing Tags"
+filename = "lmft-1.0.2+1.20-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2af70dc52be6a2fa7c0b8aca8621ac7ff1d476db"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4662635
+project-id = 656346

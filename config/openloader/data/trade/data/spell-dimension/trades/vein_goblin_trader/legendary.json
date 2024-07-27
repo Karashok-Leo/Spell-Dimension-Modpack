@@ -1,0 +1,77 @@
+{
+    "replace": false,
+    "trades": [
+        {
+            "type": "goblintraders:basic",
+            "offer_item": {
+                "item": "spell-dimension:loot_bag_legendary_book",
+                "count": 1
+            },
+            "payment_item": {
+                "item": "numismatic-overhaul:gold_coin",
+                "count": 64
+            },
+            "max_trades": 1
+        },
+        {
+            "type": "goblintraders:basic",
+            "offer_item": {
+                "item": "spell-dimension:loot_bag_legendary_gear",
+                "count": 1
+            },
+            "payment_item": {
+                "item": "numismatic-overhaul:gold_coin",
+                "count": 64
+            },
+            "max_trades": 1
+        },
+        {
+            "type": "goblintraders:basic",
+            "offer_item": {
+                "item": "spell-dimension:loot_bag_legendary_material",
+                "count": 1
+            },
+            "payment_item": {
+                "item": "numismatic-overhaul:gold_coin",
+                "count": 64
+            },
+            "max_trades": 1
+        },
+        {
+            "type": "goblintraders:basic",
+            "offer_item": {
+                "item": "spell-dimension:loot_bag_artifact",
+                "count": 1
+            },
+            "payment_item": {
+                "item": "numismatic-overhaul:gold_coin",
+                "count": 32
+            },
+            "max_trades": 1
+        },
+        {
+            "type": "goblintraders:basic",
+            "offer_item": {
+                "item": "spell-dimension:loot_bag_a_ring",
+                "count": 1
+            },
+            "payment_item": {
+                "item": "numismatic-overhaul:gold_coin",
+                "count": 32
+            },
+            "max_trades": 1
+        },
+        {
+            "type": "goblintraders:basic",
+            "offer_item": {
+                "item": "spell-dimension:loot_bag_charm",
+                "count": 1
+            },
+            "payment_item": {
+                "item": "numismatic-overhaul:gold_coin",
+                "count": 32
+            },
+            "max_trades": 1
+        }
+    ]
+}

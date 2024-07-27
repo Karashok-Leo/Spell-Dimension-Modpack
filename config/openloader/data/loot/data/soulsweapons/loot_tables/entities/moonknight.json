@@ -1,0 +1,18 @@
+{
+    "pools": [
+      {
+        "rolls": 3,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:diamond_block"
+          }
+        ],
+        "conditions": [
+          {
+            "condition": "minecraft:killed_by_player"
+          }
+        ]
+      }
+    ]
+  }

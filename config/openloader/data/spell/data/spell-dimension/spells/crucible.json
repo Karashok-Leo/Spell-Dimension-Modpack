@@ -1,0 +1,78 @@
+{
+  "school": "FIRE",
+  "range": 3.2,
+  "cast": {
+    "duration": 1,
+    "animation": "spellbladenext:spin",
+    "channel_ticks": 8,
+    "sound": {
+      "id": "spell_engine:generic_fire_casting",
+      "randomness": 0
+    },
+    "particles": [
+      {
+        "particle_id": "flame",
+        "shape": "CIRCLE",
+        "origin": "CENTER",
+        "count": 8.0,
+        "min_speed": 0.05,
+        "max_speed": 0.35
+      }
+    ]
+  },
+  "release": {
+    "target": {
+      "type": "AREA",
+      "area": {
+        "vertical_range_multiplier": 0.5
+      }
+    }
+  },
+  "impact": [
+    {
+      "action": {
+        "type": "FIRE",
+        "fire": {
+          "duration": 2
+        }
+      }
+    },
+    {
+      "action": {
+        "school": "FIRE",
+        "type": "DAMAGE",
+        "damage": {
+          "knockback": 0.5,
+          "spell_power_coefficient": 1.0
+        }
+      },
+      "particles": [
+        {
+          "particle_id": "sweep_attack",
+          "shape": "SPHERE",
+          "origin": "CENTER",
+          "count": 1
+        }
+      ],
+      "sound": {
+        "id": "minecraft:entity.player.attack.sweep"
+      }
+    },
+    {
+      "action": {
+        "type": "STATUS_EFFECT",
+        "status_effect": {
+          "effect_id": "minecraft:slowness",
+          "duration": 3,
+          "amplifier": 2,
+          "apply_mode": "SET",
+          "show_particles": false
+        }
+      }
+    }
+  ],
+  "cost": {
+    "cooldown_duration": 6,
+    "cooldown_proportional": true
+  }
+}

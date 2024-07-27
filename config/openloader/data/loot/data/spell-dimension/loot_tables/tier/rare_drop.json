@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:entity",
+  "pools": [
+    {
+      "conditions": [
+        {
+          "condition": "minecraft:killed_by_player"
+        },
+        {
+          "condition": "extra-loot:entity_tier",
+          "entity": "this",
+          "min": 300,
+          "max": 600
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "spell-dimension:loot_bag_rare_gear",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "spell-dimension:loot_bag_rare_material",
+          "weight": 3
+        },
+        {
+          "type": "minecraft:empty",
+          "weight": 96
+        }
+      ],
+      "rolls": 1.0
+    }
+  ]
+}

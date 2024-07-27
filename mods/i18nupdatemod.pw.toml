@@ -1,0 +1,13 @@
+name = "I18nUpdateMod"
+filename = "I18nUpdateMod-3.5.5-all.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ba8e5aa31d719b6fdac13c88bf388da579d4cab6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5335196
+project-id = 297404

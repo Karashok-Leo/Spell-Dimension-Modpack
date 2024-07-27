@@ -1,0 +1,14 @@
+{
+    "structures": [
+        {
+            "structure": "ati_structures:ancient_temple",
+            "weight": 1
+        }
+    ],
+    "placement": {
+        "type": "minecraft:random_spread",
+        "spacing": 25,
+        "separation": 12,
+        "salt": 86759788
+    }
+}

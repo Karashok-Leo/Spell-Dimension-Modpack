@@ -1,0 +1,13 @@
+name = "Enchantment Infusion"
+filename = "enchantment_infusion-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ca8cd7e2abf8af3e243842607d024a21bd9e4602"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5522938
+project-id = 1061777

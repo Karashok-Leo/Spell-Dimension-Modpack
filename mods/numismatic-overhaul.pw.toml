@@ -1,0 +1,13 @@
+name = "Numismatic Overhaul"
+filename = "numismatic-overhaul-0.2.14+1.20.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9c627075aabee93de1ac5909f47aa6ab63f67ba2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5113697
+project-id = 568316

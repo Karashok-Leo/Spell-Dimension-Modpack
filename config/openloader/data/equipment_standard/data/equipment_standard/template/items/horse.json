@@ -1,0 +1,99 @@
+{
+  "verifiers": [
+    {
+      "tag": "equipment_standard:horse_armor"
+    }
+  ],
+  "attributes": [
+    {
+      "type": "generic.movement_speed",
+      "chance": 1,
+      "modifiers": [
+        {
+          "weights": 20,
+          "operation": "MULTIPLY_TOTAL",
+          "min": -0.2,
+          "max": 0,
+          "bonus": {
+            "lucky": -1,
+            "proficiency": -0.07
+          }
+        },
+        {
+          "weights": 40,
+          "operation": "ADDITION",
+          "amount": 0,
+          "bonus": {
+            "lucky": -0.1,
+            "proficiency": -0.02
+          }
+        },
+        {
+          "weights": 50,
+          "operation": "MULTIPLY_TOTAL",
+          "min": 0,
+          "max": 0.5,
+          "bonus": {
+            "lucky": 0.1,
+            "proficiency": 0.02
+          }
+        },
+        {
+          "weights": 1,
+          "operation": "MULTIPLY_TOTAL",
+          "min": 0.5,
+          "max": 1,
+          "bonus": {
+            "lucky": 0.1,
+            "proficiency": 0.05
+          }
+        }
+      ]
+    },
+    {
+      "type": "horse.jump_strength",
+      "chance": 1,
+      "modifiers": [
+        {
+          "weights": 20,
+          "operation": "MULTIPLY_TOTAL",
+          "min": -0.2,
+          "max": 0,
+          "bonus": {
+            "lucky": -1,
+            "proficiency": -0.07
+          }
+        },
+        {
+          "weights": 40,
+          "operation": "ADDITION",
+          "amount": 0,
+          "bonus": {
+            "lucky": -0.1,
+            "proficiency": -0.02
+          }
+        },
+        {
+          "weights": 50,
+          "operation": "MULTIPLY_TOTAL",
+          "min": 0,
+          "max": 0.5,
+          "bonus": {
+            "lucky": 0.1,
+            "proficiency": 0.02
+          }
+        },
+        {
+          "weights": 1,
+          "operation": "MULTIPLY_TOTAL",
+          "min": 0.5,
+          "max": 1,
+          "bonus": {
+            "lucky": 0.1,
+            "proficiency": 0.05
+          }
+        }
+      ]
+    }
+  ]
+}

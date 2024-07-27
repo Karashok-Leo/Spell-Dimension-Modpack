@@ -1,0 +1,65 @@
+{
+    "replace": false,
+    "trades": [
+        {
+            "type": "goblintraders:basic",
+            "offer_item": {
+                "item": "spell-dimension:loot_bag_uncommon_book",
+                "count": 1
+            },
+            "payment_item": {
+                "item": "numismatic-overhaul:silver_coin",
+                "count": 32
+            },
+            "max_trades": 1
+        },
+        {
+            "type": "goblintraders:basic",
+            "offer_item": {
+                "item": "spell-dimension:loot_bag_uncommon_gear",
+                "count": 1
+            },
+            "payment_item": {
+                "item": "numismatic-overhaul:silver_coin",
+                "count": 32
+            },
+            "max_trades": 1
+        },
+        {
+            "type": "goblintraders:basic",
+            "offer_item": {
+                "item": "spell-dimension:loot_bag_uncommon_material",
+                "count": 1
+            },
+            "payment_item": {
+                "item": "numismatic-overhaul:silver_coin",
+                "count": 32
+            },
+            "max_trades": 1
+        },
+        {
+            "type": "goblintraders:basic",
+            "offer_item": {
+                "item": "spell-dimension:mending_essence",
+                "count": 1
+            },
+            "payment_item": {
+                "item": "numismatic-overhaul:gold_coin",
+                "count": 4
+            },
+            "max_trades": 1
+        },
+        {
+            "type": "goblintraders:basic",
+            "offer_item": {
+                "item": "spell-dimension:disenchanted_essence",
+                "count": 1
+            },
+            "payment_item": {
+                "item": "numismatic-overhaul:gold_coin",
+                "count": 8
+            },
+            "max_trades": 1
+        }
+    ]
+}

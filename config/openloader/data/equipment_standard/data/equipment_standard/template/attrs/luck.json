@@ -1,0 +1,64 @@
+{
+  "verifiers": [
+    {
+      "tag": "equipment_standard:weapons"
+    },
+    {
+      "tag": "equipment_standard:diggers"
+    },
+    {
+      "tag": "equipment_standard:armor"
+    },
+    {
+      "tag": "equipment_standard:elytra"
+    },
+    {
+      "tag": "equipment_standard:fishing_rods"
+    }
+  ],
+  "slots": ["DEFAULT"],
+  "attributes": [
+    {
+      "type": "generic.luck",
+      "chance": 1,
+      "step": 0.1,
+      "modifiers": [
+        {
+          "weights": 20,
+          "operation": "ADDITION",
+          "min": -2,
+          "max": 0,
+          "bonus": {
+            "proficiency": -0.07
+          }
+        },
+        {
+          "weights": 40,
+          "operation": "ADDITION",
+          "amount": 0,
+          "bonus": {
+            "proficiency": -0.002
+          }
+        },
+        {
+          "weights": 50,
+          "operation": "ADDITION",
+          "min": 0,
+          "max": 2,
+          "bonus": {
+            "proficiency": 0.002
+          }
+        },
+        {
+          "weights": 1,
+          "operation": "ADDITION",
+          "min": 2,
+          "max": 5,
+          "bonus": {
+            "proficiency": 0.005
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "type": "equipment_standard:generic.real_damage",
+  "scores": [
+    {
+      "operation": "ADDITION",
+      "score": 150
+    },
+    {
+      "operation": "MULTIPLY_BASE",
+      "score": 1200
+    },
+    {
+      "operation": "MULTIPLY_TOTAL",
+      "score": 1500
+    }
+  ]
+}

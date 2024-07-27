@@ -1,0 +1,13 @@
+name = "Bigger Better End Cities"
+filename = "bigger_end_cities-1.20.1-1.0.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d5af3cc4aa6af797645a093adce4a825851ff9b2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4802311
+project-id = 854786

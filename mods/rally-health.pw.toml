@@ -1,0 +1,13 @@
+name = "Rally Health"
+filename = "RallyHealth-fabric-1.20.1-1.4.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "88476e241e18cde7977a9b56f933abde370dc66e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4606450
+project-id = 290282

@@ -1,0 +1,53 @@
+{
+    "replace": false,
+    "trades": [
+        {
+            "type": "goblintraders:basic",
+            "offer_item": {
+                "item": "spell-dimension:loot_bag_common_book",
+                "count": 1
+            },
+            "payment_item": {
+                "item": "numismatic-overhaul:silver_coin",
+                "count": 8
+            },
+            "max_trades": 1
+        },
+        {
+            "type": "goblintraders:basic",
+            "offer_item": {
+                "item": "spell-dimension:loot_bag_common_gear",
+                "count": 1
+            },
+            "payment_item": {
+                "item": "numismatic-overhaul:silver_coin",
+                "count": 8
+            },
+            "max_trades": 1
+        },
+        {
+            "type": "goblintraders:basic",
+            "offer_item": {
+                "item": "spell-dimension:loot_bag_common_material",
+                "count": 1
+            },
+            "payment_item": {
+                "item": "numismatic-overhaul:silver_coin",
+                "count": 8
+            },
+            "max_trades": 1
+        },
+        {
+            "type": "goblintraders:basic",
+            "offer_item": {
+                "item": "spell-dimension:loot_bag_midas",
+                "count": 1
+            },
+            "payment_item": {
+                "item": "numismatic-overhaul:bronze_coin",
+                "count": 32
+            },
+            "max_trades": 4
+        }
+    ]
+}

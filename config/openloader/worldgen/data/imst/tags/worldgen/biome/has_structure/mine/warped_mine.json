@@ -1,0 +1,12 @@
+{
+    "values": [
+        {
+            "id": "minecraft:warped_forest",
+            "required": false
+        },
+        {
+            "id": "incendium:inverted_forest",
+            "required": false
+        }
+    ]
+}

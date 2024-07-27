@@ -1,0 +1,9 @@
+{
+  "type": "spell_power:haste",
+  "scores": [
+    {
+      "operation": "ADDITION",
+      "score": 2
+    }
+  ]
+}

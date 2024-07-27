@@ -1,0 +1,13 @@
+{
+  "type": "additionalentityattributes:dig_speed",
+  "scores": [
+    {
+      "operation": "MULTIPLY_BASE",
+      "score": 1000
+    },
+    {
+      "operation": "MULTIPLY_TOTAL",
+      "score": 1200
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+name = "Health Levels"
+filename = "health-levels-1.0.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "746314dbe898c4a2ef6b06e857807b98e1432fd8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4596160
+project-id = 490284

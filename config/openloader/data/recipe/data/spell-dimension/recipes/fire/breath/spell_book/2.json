@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "spell-dimension:essence_fire_2"
+    },
+    "*": {
+      "item": "spell-dimension:spell_book_fire_1"
+    },
+    "A": {
+      "item": "soulsweapons:demon_heart"
+    },
+    "B": {
+      "item": "spellbladenext:runeblaze_ingot"
+    },
+    "C": {
+      "item": "morebows:flame_bow"
+    }
+  },
+  "pattern": [
+    "#A#",
+    "B*B",
+    "#C#"
+  ],
+  "result": {
+    "item": "spell-dimension:spell_book_fire_2"
+  },
+  "show_notification": true
+}

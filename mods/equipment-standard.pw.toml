@@ -1,0 +1,13 @@
+name = "Equipment Standard"
+filename = "EquipmentStandard-1.4.2+mc1.20-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b63b515b44c4064bf118c00a56dd243f402dda10"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4920686
+project-id = 929601

@@ -1,0 +1,17 @@
+{
+  "type": "generic.max_health",
+  "scores": [
+    {
+      "operation": "ADDITION",
+      "score": 2500
+    },
+    {
+      "operation": "MULTIPLY_BASE",
+      "score": 1000
+    },
+    {
+      "operation": "MULTIPLY_TOTAL",
+      "score": 1200
+    }
+  ]
+}

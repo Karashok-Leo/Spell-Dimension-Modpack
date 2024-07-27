@@ -1,0 +1,13 @@
+name = "Staaaaaaaaaaaack (Stxck)"
+filename = "staaaaaaaaaaaack-fabric-1.20.1-1.5-71.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "98f9aeef42964fe506c57291f011b12e25753200"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5164618
+project-id = 866957

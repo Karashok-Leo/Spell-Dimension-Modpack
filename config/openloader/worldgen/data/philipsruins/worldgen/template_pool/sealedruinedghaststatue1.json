@@ -1,0 +1,35 @@
+{
+  "name": "philipsruins:sealedruinedghaststatue1",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "philipsruins:sealedruinedghaststatue1",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "philipsruins:sealedruinedghaststatue2",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "philipsruins:sealedruinedghaststatue3",
+        "processors": "minecraft:empty"
+      }
+    }
+  ]
+}
+
+

@@ -1,0 +1,33 @@
+{
+	// URL for blacklist to be downloaded from
+	"blacklistDownloadURL": "https://raw.githubusercontent.com/kyrptonaught/Inventory-Sorter/1.19/DownloadableBlacklist.json5",
+	// The opened inventory's sort button will not be visible, only the player's when this inventory is opened
+	"doNotSortList": [
+		"guild:quest_screen",
+		"adorn:trading_station",
+		"spectrum:pedestal",
+		"conjuring:soulfire_forge"
+	],
+	// Neither the opened inventory, nor your player inventory will be sortable when this inventory is opened
+	"hideSortBtnsList": [
+		"dankstorage:portable_dank_5",
+		"guild:quest_screen",
+		"ae2:item_terminal",
+		"dankstorage:portable_dank_4",
+		"dankstorage:portable_dank_3",
+		"dankstorage:portable_dank_2",
+		"backpacked:backpack",
+		"spell_engine:spell_binding",
+		"dankstorage:portable_dank_7",
+		"dankstorage:portable_dank_6",
+		"fwaystones:waystone",
+		"dankstorage:portable_dank_1",
+		"fwaystones:pocket_wormhole",
+		"ae2:crystal_growth",
+		"ae2:drive",
+		"ae2:advanced_inscriber",
+		"fwaystones:abyss",
+		"ae2:patternterm",
+		"ae2:craftingterm"
+	]
+}

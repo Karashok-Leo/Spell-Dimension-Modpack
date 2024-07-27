@@ -1,0 +1,9 @@
+{
+  "type": "equipment_standard:generic.crit_damage",
+  "scores": [
+    {
+      "operation": "ADDITION",
+      "score": 300
+    }
+  ]
+}

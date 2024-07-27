@@ -1,0 +1,13 @@
+name = "Knight Quest [Fabric]"
+filename = "knightquest-1.4.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a00bf515d28020055e567df2ba634f93bdb7a38d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5528475
+project-id = 1016595

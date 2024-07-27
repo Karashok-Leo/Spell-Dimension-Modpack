@@ -1,0 +1,13 @@
+name = "Obscure API (Fabric)"
+filename = "Obscure-API-16.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0272d0e5ddddd63a57b27130f3e317efb60ef509"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4656918
+project-id = 891234

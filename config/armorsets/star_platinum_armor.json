@@ -1,0 +1,34 @@
+{
+  "armorSetName": "star_platinum_armor",
+  "performanceMode": true,
+  "head": {
+    "itemKey": "mythicmetals:star_platinum_helmet"
+  },
+  "chest": {
+    "itemKey": "mythicmetals:star_platinum_chestplate"
+  },
+  "legs": {
+    "itemKey": "mythicmetals:star_platinum_leggings"
+  },
+  "boots": {
+    "itemKey": "mythicmetals:star_platinum_boots"
+  },
+  "fullSetBonuses": [
+    {
+      "type": "attribute",
+      "name": "minecraft:generic.max_health",
+      "value": 1.1,
+      "modifierUUID": "0fc9d063-055e-4d3e-b641-5d2a3b5e7505",
+      "attributeOperation": 1,
+      "interactionType": "self"
+    },
+    {
+      "type": "attribute",
+      "name": "minecraft:generic.armor",
+      "value": 10.0,
+      "modifierUUID": "633af2f4-94eb-4d9e-bbcd-3c5fa657872b",
+      "attributeOperation": 0,
+      "interactionType": "self"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "philipsruins:lost_soul_city/lost_soul_city_start",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "location": "philipsruins:lost_soul_city_start",
+        "processors": "philipsruins:randomize_deepslate",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    }
+  ]
+}

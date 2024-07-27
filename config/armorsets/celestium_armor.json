@@ -1,0 +1,49 @@
+{
+  "armorSetName": "celestium_armor",
+  "performanceMode": true,
+  "head": {
+    "itemKey": "mythicmetals:celestium_helmet"
+  },
+  "chest": {
+    "itemKey": "mythicmetals:celestium_chestplate"
+  },
+  "legs": {
+    "itemKey": "mythicmetals:celestium_leggings"
+  },
+  "boots": {
+    "itemKey": "mythicmetals:celestium_boots"
+  },
+  "fullSetBonuses": [
+    {
+      "type": "attribute",
+      "name": "minecraft:generic.max_health",
+      "value": 10.0,
+      "modifierUUID": "37e635c0-dd32-430a-b404-6a6c995e9bdf",
+      "attributeOperation": 0,
+      "interactionType": "self"
+    },
+    {
+      "type": "attribute",
+      "name": "spell_power:lightning",
+      "value": 1.3,
+      "modifierUUID": "893f7062-650c-41e2-9f90-4263e95653bc",
+      "attributeOperation": 2,
+      "interactionType": "self"
+    },
+    {
+      "type": "attribute",
+      "name": "minecraft:generic.armor",
+      "value": 1.2,
+      "modifierUUID": "59d96520-e56a-44ad-a515-ba5cfba53458",
+      "attributeOperation": 2,
+      "interactionType": "self"
+    },
+    {
+      "type": "effect",
+      "name": "paladins:judgement",
+      "value": 0.0,
+      "interactionType": "attack",
+      "interactionDuration": 10
+    }
+  ]
+}

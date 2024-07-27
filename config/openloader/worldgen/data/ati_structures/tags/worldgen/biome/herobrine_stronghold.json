@@ -1,0 +1,11 @@
+{
+    "replace": false,
+    "values": [
+        "minecraft:dark_forest",
+        "minecraft:windswept_forest",
+        "minecraft:windswept_hills",
+        "minecraft:jungle",
+        "minecraft:swamp",
+        "minecraft:mangrove_swamp"
+    ]
+}

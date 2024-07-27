@@ -1,0 +1,29 @@
+{
+	"processors": [
+		{
+			"processor_type": "minecraft:gravity",
+			"heightmap": "WORLD_SURFACE",
+			"offset": 0
+		},
+		{
+			"processor_type": "minecraft:block_rot",
+			"integrity": 0.8,
+			"rottable_blocks": "#minecraft:mineable/axe"
+		},
+		{
+			"processor_type": "minecraft:block_rot",
+			"integrity": 0.8,
+			"rottable_blocks": "#minecraft:mineable/hoe"
+		},
+		{
+			"processor_type": "minecraft:block_rot",
+			"integrity": 0.8,
+			"rottable_blocks": "#minecraft:mineable/pickaxe"
+		},
+		{
+			"processor_type": "minecraft:block_rot",
+			"integrity": 0.8,
+			"rottable_blocks": "#minecraft:mineable/shovel"
+		}
+	]
+}

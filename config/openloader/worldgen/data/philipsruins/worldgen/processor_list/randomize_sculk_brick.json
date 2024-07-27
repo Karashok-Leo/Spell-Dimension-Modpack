@@ -1,0 +1,110 @@
+{
+    // Processor lists will run a processor for every block placed by the nbt file.
+    // The resultant block of the processor list is the block that actually gets placed in the world.
+  "processors": [
+      // A single Rule processor for this list.
+    {
+      "processor_type": "minecraft:rule",
+
+      // The rules for this Rule processor to use
+      "rules": [
+        {
+            // The block to look for from the nbt file
+            // This has a 50% chance of allowing the found stone bricks block to be replaced
+          "input_predicate": {
+            "block": "philipsruins:sculk_bone_bricks",
+            "probability": 0.4,
+            "predicate_type": "minecraft:random_block_match"
+          },
+            // This is always true
+            // Village roads have this part look for water so roads can be replaced with oak planks instead
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          },
+            // The actual block to place if the above conditions return true
+          "output_state": {
+            "Name": "philipsruins:infested_sculk_bone_bricks"
+          }
+        },
+        {
+          "input_predicate": {
+            "block": "philipsruins:sculk_bone_bricks",
+            "probability": 0.4,
+            "predicate_type": "minecraft:random_block_match"
+          },
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          },
+          "output_state": {
+            "Name": "philipsruins:sculk_bone_block"
+          }
+        },
+        {
+          "input_predicate": {
+            "block": "philipsruins:sculk_bone_bricks",
+            "probability": 0.4,
+            "predicate_type": "minecraft:random_block_match"
+          },
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          },
+          "output_state": {
+            "Name": "minecraft:sculk"
+          }
+        },
+        {
+          "input_predicate": {
+            "block": "philipsruins:sculk_bone_bricks",
+            "probability": 0.3,
+            "predicate_type": "minecraft:random_block_match"
+          },
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          },
+          "output_state": {
+            "Name": "minecraft:sculk_catalyst"
+          }
+        },
+        {
+          "input_predicate": {
+            "block": "minecraft:sculk",
+            "probability": 0.2,
+            "predicate_type": "minecraft:random_block_match"
+          },
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          },
+          "output_state": {
+            "Name": "minecraft:sculk_sensor"
+          }
+        },
+        {
+          "input_predicate": {
+            "block": "minecraft:deepslate",
+            "probability": 0.5,
+            "predicate_type": "minecraft:random_block_match"
+          },
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          },
+          "output_state": {
+            "Name": "minecraft:polished_deepslate"
+          }
+        },
+        {
+          "input_predicate": {
+            "block": "minecraft:deepslate",
+            "probability": 0.5,
+            "predicate_type": "minecraft:random_block_match"
+          },
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          },
+          "output_state": {
+            "Name": "minecraft:deepslate_tiles"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+    "values": [
+        "minecraft:plains",
+        {
+            "id": "terralith:steppe",
+            "required": false
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+  "type": "additionalentityattributes:critical_bonus_damage",
+  "scores": [
+    {
+      "operation": "ADDITION",
+      "score": 800
+    },
+    {
+      "operation": "MULTIPLY_BASE",
+      "score": 400
+    },
+    {
+      "operation": "MULTIPLY_TOTAL",
+      "score": 500
+    }
+  ]
+}

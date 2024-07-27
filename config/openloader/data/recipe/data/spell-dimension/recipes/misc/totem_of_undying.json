@@ -1,0 +1,15 @@
+{
+  "type": "alloy_forgery:forging",
+  "inputs": [
+    {
+      "item": "minecraft:gold_block",
+      "count": 16
+    }
+  ],
+  "output": {
+    "id": "minecraft:totem_of_undying",
+    "count": 1
+  },
+  "min_forge_tier": 2,
+  "fuel_per_tick": 5
+}

@@ -1,0 +1,13 @@
+name = "Cupboard"
+filename = "cupboard-fabric-1.20.1-2.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "33f853230169b03d896775cbc663e016975702d2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5470034
+project-id = 326652

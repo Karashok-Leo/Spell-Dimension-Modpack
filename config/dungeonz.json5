@@ -1,0 +1,10 @@
+{
+	"defaultDungeons": true,
+	// In ticks, used for preloading
+	"defaultDungeonTeleportCountdown": 200,
+	"countdownX": 0,
+	"countdownY": 0,
+	"countdownSize": 6.0,
+	// Among other things crops won't grow
+	"devMode": false
+}

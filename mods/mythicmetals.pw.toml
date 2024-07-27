@@ -1,0 +1,13 @@
+name = "Mythic Metals"
+filename = "mythicmetals-0.19.9+1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "afcc7bd935892a4a2783ef2d4daf836f2e902cb7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5418365
+project-id = 410127

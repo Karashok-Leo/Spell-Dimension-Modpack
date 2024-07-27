@@ -1,0 +1,13 @@
+name = "Simply Houses"
+filename = "SimplyHouses-1.1.4-1.20.1-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "de7a399fcddce48dce4bfb6c7a941d70e3b52f17"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4607369
+project-id = 630834

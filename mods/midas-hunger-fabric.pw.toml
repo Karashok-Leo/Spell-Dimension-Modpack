@@ -1,0 +1,13 @@
+name = "Midas Hunger [Fabric|Quilt|Forge]"
+filename = "midas-hunger-2.2.3+1.20.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0fd1551f4c583ad359833b083870c3e89ab061ec"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5187761
+project-id = 436224

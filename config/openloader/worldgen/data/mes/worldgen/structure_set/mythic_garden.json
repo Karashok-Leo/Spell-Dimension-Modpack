@@ -1,0 +1,15 @@
+{
+  "structures": [
+    {
+      "structure": "mes:mythic_garden",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "mes:advanced_random_spread",
+    "salt": 985747587,
+    "spacing": 8,
+    "separation": 6,
+    "min_distance_from_world_origin": 1000
+  }
+}

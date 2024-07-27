@@ -1,0 +1,13 @@
+name = "DungeonZ"
+filename = "dungeonz-1.0.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1a081c62c427ce427f59a6c84a2991857de4360b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5492663
+project-id = 864150

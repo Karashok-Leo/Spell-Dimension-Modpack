@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "spell-dimension:essence_fire_0"
+    },
+    "*": {
+      "item": "wizards:fire_spell_book"
+    },
+    "A": {
+      "item": "jewelry:copper_ring"
+    },
+    "B": {
+      "tag": "minecraft:coals"
+    },
+    "C": {
+      "item": "minecraft:creeper_head"
+    },
+    "D": {
+      "item": "minecraft:gunpowder"
+    }
+  },
+  "pattern": [
+    "#A#",
+    "D*B",
+    "#C#"
+  ],
+  "result": {
+    "item": "spell-dimension:spell_book_fire_0"
+  },
+  "show_notification": true
+}

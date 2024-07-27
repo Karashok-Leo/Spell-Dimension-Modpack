@@ -1,0 +1,13 @@
+name = "Zombie Horse Spawn"
+filename = "zombiehorsespawn-1.20.1-4.8.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e93e2039ed5e403406ddf4564bd836d74bb45f13"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4963474
+project-id = 345692

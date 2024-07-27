@@ -1,0 +1,34 @@
+{
+  "armorSetName": "kyber_armor",
+  "performanceMode": true,
+  "head": {
+    "itemKey": "mythicmetals:kyber_helmet"
+  },
+  "chest": {
+    "itemKey": "mythicmetals:kyber_chestplate"
+  },
+  "legs": {
+    "itemKey": "mythicmetals:kyber_leggings"
+  },
+  "boots": {
+    "itemKey": "mythicmetals:kyber_boots"
+  },
+  "fullSetBonuses": [
+    {
+      "type": "attribute",
+      "name": "minecraft:generic.armor",
+      "value": 12.0,
+      "modifierUUID": "0a834814-b540-45e8-ba8e-44aeafe47fb7",
+      "attributeOperation": 0,
+      "interactionType": "self"
+    },
+    {
+      "type": "attribute",
+      "name": "spell_power:critical_chance",
+      "value": 1.1,
+      "modifierUUID": "72e5761c-6680-49b9-96dd-ab93e6c6bd83",
+      "attributeOperation": 1,
+      "interactionType": "self"
+    }
+  ]
+}

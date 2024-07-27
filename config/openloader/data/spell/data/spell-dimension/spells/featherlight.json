@@ -1,0 +1,61 @@
+{
+  "school": "PHYSICAL_MELEE",
+  "range": 2,
+  "learn": {
+    "tier": 2
+  },
+  "cast": {
+    "duration": 0.4,
+    "animation": "spellbladenext:polejump",
+    "channel_ticks": 4,
+    "sound": {
+      "id": "spell_engine:generic_frost_casting",
+      "randomness": 0
+    }
+  },
+  "release": {
+    "target": {
+      "type": "CURSOR",
+      "cursor": {
+        "use_caster_as_fallback": true
+      }
+    },
+    "particles": [
+      {
+        "particle_id": "cloud",
+        "shape": "CIRCLE",
+        "origin": "CENTER",
+        "count": 30.0,
+        "min_speed": 0.15,
+        "max_speed": 0.3
+      }
+    ]
+  },
+  "impact": [
+    {
+      "action": {
+        "type": "STATUS_EFFECT",
+        "status_effect": {
+          "effect_id": "minecraft:slow_falling",
+          "duration": 5,
+          "amplifier": 0,
+          "show_particles": false
+        }
+      }
+    },
+    {
+      "action": {
+        "type": "STATUS_EFFECT",
+        "status_effect": {
+          "effect_id": "minecraft:speed",
+          "duration": 5,
+          "amplifier": 2,
+          "show_particles": false
+        }
+      }
+    }
+  ],
+  "cost": {
+    "cooldown_duration": 8
+  }
+}

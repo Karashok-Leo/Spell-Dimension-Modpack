@@ -1,0 +1,13 @@
+name = "Skeletal Remains [Forge & Fabric]"
+filename = "skeletalremains-1.4.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8e3ee44ca07f5e8e16f298fca0a9393daf4315e3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4855757
+project-id = 845863

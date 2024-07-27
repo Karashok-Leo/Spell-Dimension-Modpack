@@ -1,0 +1,24 @@
+{
+  "pools": [
+    {
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "spell-dimension:loot_bag_common_material",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "spell-dimension:loot_bag_common_book",
+          "weight": 9
+        },
+        {
+          "type": "minecraft:item",
+          "name": "spell-dimension:loot_bag_uncommon_book",
+          "weight": 3
+        }
+      ],
+      "rolls": 1.0
+    }
+  ]
+}

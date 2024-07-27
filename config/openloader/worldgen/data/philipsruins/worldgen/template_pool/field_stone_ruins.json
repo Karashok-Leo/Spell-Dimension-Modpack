@@ -1,0 +1,188 @@
+{
+  "name": "philipsruins:field_stone_ruins",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "terrain_matching",
+        "location": "philipsruins:field_stone_ruins1",
+        "processors": "philipsruins:ruins_processor"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "terrain_matching",
+        "location": "philipsruins:field_stone_ruins2",
+        "processors": "philipsruins:ruins_processor"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "terrain_matching",
+        "location": "philipsruins:field_stone_ruins3",
+        "processors": "philipsruins:ruins_processor"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "terrain_matching",
+        "location": "philipsruins:field_stone_ruins4",
+        "processors": "philipsruins:ruins_processor"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "terrain_matching",
+        "location": "philipsruins:field_stone_ruins5",
+        "processors": "philipsruins:ruins_processor"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "terrain_matching",
+        "location": "philipsruins:field_stone_ruins6",
+        "processors": "philipsruins:ruins_processor"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "terrain_matching",
+        "location": "philipsruins:field_stone_ruins7",
+        "processors": "philipsruins:ruins_processor"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "terrain_matching",
+        "location": "philipsruins:field_stone_ruins8",
+        "processors": "philipsruins:ruins_processor"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "terrain_matching",
+        "location": "philipsruins:field_stone_ruins9",
+        "processors": "philipsruins:ruins_processor"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "terrain_matching",
+        "location": "philipsruins:field_stone_ruins10",
+        "processors": "philipsruins:ruins_processor"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "terrain_matching",
+        "location": "philipsruins:field_stone_ruins11",
+        "processors": "philipsruins:ruins_processor"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "terrain_matching",
+        "location": "philipsruins:field_stone_ruins12",
+        "processors": "philipsruins:ruins_processor"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "terrain_matching",
+        "location": "philipsruins:field_stone_ruins13",
+        "processors": "philipsruins:ruins_processor"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "terrain_matching",
+        "location": "philipsruins:field_stone_ruins14",
+        "processors": "philipsruins:ruins_processor"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "terrain_matching",
+        "location": "philipsruins:field_stone_ruins15",
+        "processors": "philipsruins:ruins_processor"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "terrain_matching",
+        "location": "philipsruins:field_stone_ruins16",
+        "processors": "philipsruins:ruins_processor"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "terrain_matching",
+        "location": "philipsruins:field_stone_ruins17",
+        "processors": "philipsruins:ruins_processor"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "terrain_matching",
+        "location": "philipsruins:field_stone_ruins18",
+        "processors": "philipsruins:ruins_processor"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "terrain_matching",
+        "location": "philipsruins:field_stone_ruins19",
+        "processors": "philipsruins:ruins_processor"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "terrain_matching",
+        "location": "philipsruins:field_stone_ruins20",
+        "processors": "philipsruins:ruins_processor"
+      }
+    }
+  ]
+}
+
+

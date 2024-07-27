@@ -1,0 +1,13 @@
+name = "Plenty Of Armors [Fabric]"
+filename = "plenty-of-armors-1.3.0+mc1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5d97c043dc4049e4af129ffc49e8a1e5f62dcc5c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4679408
+project-id = 661930
