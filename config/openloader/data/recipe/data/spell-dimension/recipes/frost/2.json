@@ -1,0 +1,33 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "key": {
+      "#": {
+        "item": "spell-dimension:essence_frost_2"
+      },
+      "*": {
+        "item": "spell-dimension:spell_book_frost_1"
+      },
+      "A": {
+        "item": "aquamirae:coral_lance"
+      },
+      "B": {
+        "item": "simplyswords:icewhisper"
+      },
+      "C": {
+        "item": "simplyswords:frostfall"
+      },
+      "D": {
+        "item": "soulsweapons:frostmourne"
+      }
+    },
+    "pattern": [
+      "#A#",
+      "D*B",
+      "#C#"
+    ],
+    "result": {
+      "item": "spell-dimension:spell_book_frost_2"
+    },
+    "show_notification": true
+  }

@@ -12,18 +12,6 @@
         "bag_string": 16775920
       }
     },
-    "spell-dimension:loot_bag_qu_ruin": {
-      "type": "SINGLE",
-      "loot_tables": [
-        "qu_ruin"
-      ],
-      "rarity": "RARE",
-      "stack": 16,
-      "color": {
-        "bag_body": 32767,
-        "bag_string": 14276889
-      }
-    },
     "spell-dimension:loot_bag_charm": {
       "type": "SINGLE",
       "loot_tables": [

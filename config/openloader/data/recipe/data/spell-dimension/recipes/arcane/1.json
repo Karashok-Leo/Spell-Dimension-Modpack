@@ -1,0 +1,33 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "key": {
+      "#": {
+        "item": "spell-dimension:essence_arcane_1"
+      },
+      "*": {
+        "item": "spell-dimension:spell_book_arcane_0"
+      },
+      "A": {
+        "item": "illagerinvasion:hallowed_gem"
+      },
+      "B": {
+        "item": "bosses_of_mass_destruction:soul_star"
+      },
+      "C": {
+        "item": "minecraft:nether_star"
+      },
+      "D": {
+        "item": "simplyswords:empowered_remnant"
+      }
+    },
+    "pattern": [
+      "#A#",
+      "D*B",
+      "#C#"
+    ],
+    "result": {
+      "item": "spell-dimension:spell_book_arcane_1"
+    },
+    "show_notification": true
+  }

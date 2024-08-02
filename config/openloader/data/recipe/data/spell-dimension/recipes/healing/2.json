@@ -1,0 +1,33 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "key": {
+      "#": {
+        "item": "spell-dimension:essence_healing_2"
+      },
+      "*": {
+        "item": "spell-dimension:spell_book_healing_1"
+      },
+      "A": {
+        "item": "l2hostility:divinity_light"
+      },
+      "B": {
+        "item": "mythicmetals:hallowed_sword"
+      },
+      "C": {
+        "item": "mutantmonsters:hulk_hammer"
+      },
+      "D": {
+        "item": "mythicmetals:metallurgium_sword"
+      }
+    },
+    "pattern": [
+      "#A#",
+      "D*B",
+      "#C#"
+    ],
+    "result": {
+      "item": "spell-dimension:spell_book_healing_2"
+    },
+    "show_notification": true
+  }

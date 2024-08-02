@@ -1,7 +1,0 @@
-{
-  "processors": [
-    {
-      "processor_type": "mes:waterlogging_fix_processor"
-    }
-  ]
-}

@@ -1,0 +1,13 @@
+name = "Modonomicon"
+filename = "modonomicon-1.20.1-fabric-1.74.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "10c1aa583a33dacc3c51c45cc6ca46d619079f61"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5583419
+project-id = 538392

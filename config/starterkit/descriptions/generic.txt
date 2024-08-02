@@ -1,0 +1,1 @@
+Generic starter kit for Spell Dimension.

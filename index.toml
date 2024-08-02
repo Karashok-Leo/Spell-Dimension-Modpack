@@ -1,28 +1,12 @@
 hash-format = "sha256"
 
 [[files]]
-file = "CHANGELOG.md"
-hash = "61c6c2dec7be18b2ff6ff9a4ba8bef42acfb1953e5a610efe2d8207e6709ddd8"
-
-[[files]]
-file = "SD.xmind"
-hash = "29d1f15e6c0aca303953439c7aeb947ce42f5ff6f16d2950e8d60134afdfa978"
-
-[[files]]
-file = "TODO.md"
-hash = "16c595945980d388ecaa9b83eb2f0a8261f13178b642f2459fa7b4b99dfd3bbe"
-
-[[files]]
 file = "config/armorsets/abyssal_armor.json"
 hash = "3f965bcea376fb86fc65799b8ff73e5c33624241191e8c814502bb9676649a69"
 
 [[files]]
 file = "config/armorsets/adamantite_armor.json"
 hash = "8187a6ec115862925387fec2283c932c05072612a200571c4e933a127255b4c8"
-
-[[files]]
-file = "config/armorsets/advanced_obsidian_armor.json"
-hash = "19b2bcc036afd18f628a0ac992c4b1ee342e2c2aecfed1e2346d7606256629e9"
 
 [[files]]
 file = "config/armorsets/amethyst_armor.json"
@@ -33,16 +17,8 @@ file = "config/armorsets/ametrine_armor.json"
 hash = "e51265d4433ac557b2a0cae354db17ccf272127c977b45bfccaa6aea110fea14"
 
 [[files]]
-file = "config/armorsets/ametrine_sword.json"
-hash = "e3ca31d393d725b2f4ab78a6e2165667b7f4ffa97ffd423514319b989a7c89ea"
-
-[[files]]
 file = "config/armorsets/ametrine_weapon.json"
 hash = "9f9e7e068ff59434297c4db21ef238619546464ff571ed38035ff9be6132d386"
-
-[[files]]
-file = "config/armorsets/aquamarine_sword.json"
-hash = "39943ac06ab20a66321c36fa9591fefd5074342d6dfdbd019b152c3d5faa2ef2"
 
 [[files]]
 file = "config/armorsets/aquamarine_weapon.json"
@@ -129,10 +105,6 @@ file = "config/armorsets/jade_armor.json"
 hash = "db3c6346e3baf533b6572ed3bd038351a5065d7f0699d30e91b2357e2c03ebc5"
 
 [[files]]
-file = "config/armorsets/jade_sword.json"
-hash = "bb971a2598cae6a69df77273079ad796bdbd9ecdf75d19681d482c438810873a"
-
-[[files]]
 file = "config/armorsets/jade_weapon.json"
 hash = "05c5b3588da1ad4440555ad92af455bd46980ad7f8a60e80527734ecacf9bcc2"
 
@@ -155,10 +127,6 @@ hash = "009de2038dfc8e6ace977e1b1a28f63f0f7443930265381e93c172dbd33ffff5"
 [[files]]
 file = "config/armorsets/metallurgium_armor.json"
 hash = "f4889dc2d1661298697c2b1d95260525993cf33775da763585ea2b687a6267de"
-
-[[files]]
-file = "config/armorsets/midas_gold_armor.json"
-hash = "ac914b11dc0afaae5fd79a71738b4dc6309511c87e4af4fe4d5cd4e4f00561ab"
 
 [[files]]
 file = "config/armorsets/midas_gold_set.json"
@@ -201,10 +169,6 @@ file = "config/armorsets/rhodochrosite_armor.json"
 hash = "cdfdb9c8aa7e82545025b7a9864f85d05ef6b759bae405f34950d2d92098f6ac"
 
 [[files]]
-file = "config/armorsets/ruby_sword.json"
-hash = "e77c4bea88962b3db54c8dd05acf16e1429c59a8eaa2cda9e042c514a92432ff"
-
-[[files]]
 file = "config/armorsets/ruby_weapon.json"
 hash = "0c8706d0d2b43113f359232791c89e41e84ba74d2ab899e9ea281790c9a6fcd5"
 
@@ -219,10 +183,6 @@ hash = "a98aec1207fdaa1b40bf32a5ad4c635aec0dfb3500c8e724295bac3533d2c9d7"
 [[files]]
 file = "config/armorsets/sapphire_armor.json"
 hash = "72ba7e9a38c6a6b37a9b44662a20c7a7e192e37e4e5fcdac19bd6faed0e34e0a"
-
-[[files]]
-file = "config/armorsets/sapphire_sword.json"
-hash = "13c1e2bb88f145a87d8a40217de0ea62b76153e37f424ca25a7e0aaa2127cf22"
 
 [[files]]
 file = "config/armorsets/sapphire_weapon.json"
@@ -249,20 +209,12 @@ file = "config/armorsets/topaz_armor.json"
 hash = "fb911aa8a3bba7f665b19c9458b4f18d8884baba7c4eb511389952eabf4b8879"
 
 [[files]]
-file = "config/armorsets/topaz_sword.json"
-hash = "858296902f69f007c9ed2e90190a41bc4ba62787286c922ce9af017ac1f90316"
-
-[[files]]
 file = "config/armorsets/topaz_weapon.json"
 hash = "49e486111dbeddbc2e91c77854028d0102e50a7858d06a41acf0db00fca2b23d"
 
 [[files]]
 file = "config/armorsets/warden_armor.json"
 hash = "0a312469d3b737c92738f65239eecc49d62e1af2f2e335c3cad6d9d51df0fc3b"
-
-[[files]]
-file = "config/armorsets/warden_sword.json"
-hash = "dfb3614c461d7d03879bea449fb9fdd5be5ffd11309de7f21be6bca6910990aa"
 
 [[files]]
 file = "config/armorsets/warden_weapon.json"
@@ -426,7 +378,7 @@ hash = "04bc233713cb1865a30943e5c26386ca3237d605287a51882feec6cc6ae8b0c1"
 
 [[files]]
 file = "config/fancymenu/customization/spell-dimension.txt"
-hash = "8007b9758c73c4b7c2b941bc335e0fdfd544345c7de09ca17fc32566b334737c"
+hash = "8658d9f27a63466476afef8cee3b40a2dbab3e045dbd5000e5dc9c3a400103e1"
 
 [[files]]
 file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
@@ -489,10 +441,6 @@ file = "config/graveyard/the-graveyard-3.0-config.json5"
 hash = "d3c4b80ecc098946480ef5186657c671520a2d0592d30ad4b49a4ec2ae40aada"
 
 [[files]]
-file = "config/health_levels.json"
-hash = "02638762623953d61391888f2590eaa2a19aa54c05a38398e5c29a28795db69f"
-
-[[files]]
 file = "config/inventorysorter/blacklist.json5"
 hash = "e1bc956d7bcacd5f0c71ff8a38212a406df27aa9738ce33c9ede9ea710987322"
 
@@ -541,12 +489,16 @@ file = "config/limitedspawners.toml"
 hash = "5d6808e61ea2412b94ab5d2d5ccdca1f7168dcfa75f0a22ef6c05718a661925c"
 
 [[files]]
+file = "config/lmft.json"
+hash = "2a2ee19297afe3fc512f5cbe639349847f3e7a74616f282d24a179a17f4559ed"
+
+[[files]]
 file = "config/loot-bag/loot_bag_entries.json"
-hash = "25a4158240e97d9c5370768cef8708fbbe7362ef4f7fdca2f116a6efbc2c6c11"
+hash = "5822aba7b2aabe92a249b6d6e13c10008214f1f5d7ceb5089d778cb5a33cc0f9"
 
 [[files]]
 file = "config/loot-bag/loot_table_entries.json"
-hash = "c0aebd40ee0788346ad9da1d2a79c981c209758d997dddf6cabcb56337aaf413"
+hash = "cc2dbde32b862a39ab0be4806fa4f7ace86a3676906d34043186d9ec93efd4e4"
 
 [[files]]
 file = "config/mobplaques-client.toml"
@@ -723,86 +675,6 @@ hash = "e8842082a1ef6190060702d9a59622d9be4c06c1ba0356cf6a8589a5956e8800"
 [[files]]
 file = "config/openloader/data/loot/data/bosses_of_mass_destruction/loot_tables/entities/gauntlet.json"
 hash = "44ae4056fd34ffa1efe751e582f59fee20553182c992967d272cee8d38ea638f"
-
-[[files]]
-file = "config/openloader/data/loot/data/eldritch_mobs/loot_tables/entities/eldritch_loot.json"
-hash = "7d0da7804fab415ac9822f9fb4cb10ac58452db4d704779e0f1ccf35ca84e632"
-
-[[files]]
-file = "config/openloader/data/loot/data/eldritch_mobs/loot_tables/entities/elite_loot.json"
-hash = "2310ddfb8705d5d047d5821600191099e6257bf57ce3ed85a7214b91b63942f6"
-
-[[files]]
-file = "config/openloader/data/loot/data/eldritch_mobs/loot_tables/entities/ultra_loot.json"
-hash = "19d9041ce59a83fa1977ad2e2eb653fab6fc07f063dbd1f9a5bd88e62e5e634b"
-
-[[files]]
-file = "config/openloader/data/loot/data/endrem/loot_tables/minecraft/chests/abandoned_mineshaft.json"
-hash = "4323145b71a4bab8029605f0fd6ceaae490aa6a6e07d07ab3dce63ad3b9571e4"
-
-[[files]]
-file = "config/openloader/data/loot/data/endrem/loot_tables/minecraft/chests/bastion_treasure.json"
-hash = "3d7a35b6cfa0d5cd489dec436a3d409c1f0df2f45085dd2fe3ff870ef279b83a"
-
-[[files]]
-file = "config/openloader/data/loot/data/endrem/loot_tables/minecraft/chests/buried_treasure.json"
-hash = "8c1366869e339deb45f37c7ab99c68fb4bf38de8f87e300b08fd6fa88892dd93"
-
-[[files]]
-file = "config/openloader/data/loot/data/endrem/loot_tables/minecraft/chests/desert_pyramid.json"
-hash = "e29b41c5314bc0e1a83d6a83431de2f3b23f4d684c96f3905e171542b77a8a0f"
-
-[[files]]
-file = "config/openloader/data/loot/data/endrem/loot_tables/minecraft/chests/igloo_chest.json"
-hash = "23789b32e1f8ab6e5565af82882a07b221d13c36951b61c3fcba72558df2f4c7"
-
-[[files]]
-file = "config/openloader/data/loot/data/endrem/loot_tables/minecraft/chests/jungle_temple.json"
-hash = "4ca2663bf25473a6b8ae15e7dabcbf9f47d6242e2f624f0ec6e9c1f5ea59beab"
-
-[[files]]
-file = "config/openloader/data/loot/data/endrem/loot_tables/minecraft/chests/nether_bridge.json"
-hash = "87a4f76cbe96bd7239b3b64e232262ecbaacb590b268e53f04ae20731ecc168e"
-
-[[files]]
-file = "config/openloader/data/loot/data/endrem/loot_tables/minecraft/chests/pillager_outpost.json"
-hash = "83d8dadb04e3c3b12a857619b26c7f9c357c077dfb98f4546a167574a29d6ab3"
-
-[[files]]
-file = "config/openloader/data/loot/data/endrem/loot_tables/minecraft/chests/shipwreck_treasure.json"
-hash = "e1936043c03d3fb583320f76c0d814ceedcab62f9948c87ecfa32232eb122390"
-
-[[files]]
-file = "config/openloader/data/loot/data/endrem/loot_tables/minecraft/chests/simple_dungeon.json"
-hash = "ce24862964180bdd6d38cff7921bd9a0ece66d5e433efe54f992db7a011d1ac6"
-
-[[files]]
-file = "config/openloader/data/loot/data/endrem/loot_tables/minecraft/chests/woodland_mansion.json"
-hash = "ee0baecd22c4542e3a1f61c5661ca6b6bcefaf385249a65bb6f498e819ab720e"
-
-[[files]]
-file = "config/openloader/data/loot/data/endrem/loot_tables/minecraft/entities/elder_guardian.json"
-hash = "6f8252d17787f9571060086bae293814c2274ac81fad42b8563335aa3ba4cb52"
-
-[[files]]
-file = "config/openloader/data/loot/data/endrem/loot_tables/minecraft/entities/evoker.json"
-hash = "ee0baecd22c4542e3a1f61c5661ca6b6bcefaf385249a65bb6f498e819ab720e"
-
-[[files]]
-file = "config/openloader/data/loot/data/endrem/loot_tables/minecraft/entities/skeleton_horse.json"
-hash = "1d5dd27b10ff90b5962c30372bf32fcef28a768f4bdaacc970aa72037575e961"
-
-[[files]]
-file = "config/openloader/data/loot/data/endrem/loot_tables/minecraft/entities/witch.json"
-hash = "2e25f532dea220df2ef5437d6c8d3110a3813172221998fa6da093caacbf5464"
-
-[[files]]
-file = "config/openloader/data/loot/data/endrem/loot_tables/minecraft/entities/wither.json"
-hash = "0ff22520c999491c63dc079edd15bf4ffb8e17df372f4c3d1dc1fbe30f51331b"
-
-[[files]]
-file = "config/openloader/data/loot/data/simplyswords/loot_tables/grant_book_on_first_join.json"
-hash = "3d6898af00f693bdb8d861b89cb32c9d96e407dca2aba18c1243f2248b7fe701"
 
 [[files]]
 file = "config/openloader/data/loot/data/soulsweapons/loot_tables/entities/accursed_lord_boss.json"
@@ -1146,7 +1018,7 @@ hash = "8695636efbc6479ef40116335eec54de4095e744210a5cf543f07795faf2643c"
 
 [[files]]
 file = "config/openloader/data/loot/data/spell-dimension/loot_tables/pool/start.json"
-hash = "0853bc2de56dcf6974c494616b0ac92b8238ec40fa7cef53c439a514e0bd6b5c"
+hash = "a20182fa9e43e46282d2b35400738174958e663877345441cbaed361f57b9353"
 
 [[files]]
 file = "config/openloader/data/loot/data/spell-dimension/loot_tables/pool/uncommon/book.json"
@@ -1209,148 +1081,56 @@ file = "config/openloader/data/recipe/data/soulsweapons/recipes/chaos_orb.json"
 hash = "b7946e1f2a5fe7d8c532709d75c910eba54230bbe3c0352d0bb5d0c6f5679c8e"
 
 [[files]]
-file = "config/openloader/data/recipe/data/spell-dimension/recipes/arcane/converge/spell_book/1.json"
-hash = "1bd6bd9004320dec4c32e996feb80d481f5fa519e49f78b989884971f043bdb7"
+file = "config/openloader/data/recipe/data/spell-dimension/recipes/arcane/0.json"
+hash = "b5c76b555b800f1094f36be7b84d83ad966b2a9ae2f695f937ae8a79452e51a7"
 
 [[files]]
-file = "config/openloader/data/recipe/data/spell-dimension/recipes/arcane/converge/spell_book/2.json"
-hash = "922746d5042f7dd589fa6f4dae0e7d4eadaefb9c1ea97074994fe7c4ebb365fc"
+file = "config/openloader/data/recipe/data/spell-dimension/recipes/arcane/1.json"
+hash = "c28bfce3520ff8de515a40ebbe241eef5483502d466800b0a93dbb2c83c7243b"
 
 [[files]]
-file = "config/openloader/data/recipe/data/spell-dimension/recipes/arcane/converge/spell_book/3.json"
-hash = "d130f91cb0401be37310876bad36f265c595fc004c2c2cca9b979c6970896874"
+file = "config/openloader/data/recipe/data/spell-dimension/recipes/arcane/2.json"
+hash = "a03ba9417a47ca0f9492455e4f6fcb32fa1a7fdc4772fb824b0564782125fe46"
 
 [[files]]
-file = "config/openloader/data/recipe/data/spell-dimension/recipes/arcane/flourish/spell_book/1.json"
-hash = "eb1dc44215bf739589f55fa51e510c3ef9232d66f7d33d649ae35f73a77516af"
+file = "config/openloader/data/recipe/data/spell-dimension/recipes/fire/0.json"
+hash = "cabd8b66fe53a3ddfe94cd655e9eb4c709f6f091eeb9fe42cfad31175ea54df9"
 
 [[files]]
-file = "config/openloader/data/recipe/data/spell-dimension/recipes/arcane/flourish/spell_book/2.json"
-hash = "4770e297da95f9f0e4f51e3080978deccf3b610c049ea025682c063477e734f3"
+file = "config/openloader/data/recipe/data/spell-dimension/recipes/fire/1.json"
+hash = "820703fa518b42f1a696b139c7a678e2ba752362ca4ab251f11f0581913e5927"
 
 [[files]]
-file = "config/openloader/data/recipe/data/spell-dimension/recipes/arcane/flourish/spell_book/3.json"
-hash = "bd5a0553254ecb95d1bb1d31ad34e11fb5c5bbcb6a0018254cce30e3dbffc291"
+file = "config/openloader/data/recipe/data/spell-dimension/recipes/fire/2.json"
+hash = "004dd5379eac96ed25305d28670ba714e3af90d341b6f50e14ca759aa781f6a6"
 
 [[files]]
-file = "config/openloader/data/recipe/data/spell-dimension/recipes/arcane/phase/spell_book/1.json"
-hash = "04523138a64adea02a841859d21c62ec436e8a17031333ac86a4ecc934fa5d5e"
+file = "config/openloader/data/recipe/data/spell-dimension/recipes/frost/0.json"
+hash = "fe0b7af0a8287289d222efbe1e8271359acaa419b7e9334571939d1fdd9366fd"
 
 [[files]]
-file = "config/openloader/data/recipe/data/spell-dimension/recipes/arcane/phase/spell_book/2.json"
-hash = "4c9dfae2ef105dc4bf882997c365554bf117cac184c3fce77fe616686878bc1c"
+file = "config/openloader/data/recipe/data/spell-dimension/recipes/frost/1.json"
+hash = "24c3eb08906d85108de44e57715f6d91475eee36b8e1557333489847e0208b1c"
 
 [[files]]
-file = "config/openloader/data/recipe/data/spell-dimension/recipes/arcane/phase/spell_book/3.json"
-hash = "d5c7d4ce0a34b2429bf456f0eb7d6678c84a9f276d2cd5067e9ad9abd55e5ac7"
+file = "config/openloader/data/recipe/data/spell-dimension/recipes/frost/2.json"
+hash = "c022495a85bb1db56c13f40f8aab1cfaf120bb4bd68d9e4adbad43cf7ed0ef11"
 
 [[files]]
-file = "config/openloader/data/recipe/data/spell-dimension/recipes/fire/blast/spell_book/0.json"
-hash = "01acab2e6ae530e936877c49ca7865ff98bc276fd93bc18dc950dae4383b8c23"
+file = "config/openloader/data/recipe/data/spell-dimension/recipes/healing/0.json"
+hash = "4404c05be1d0cf289b2652cd6ff623d82e47c900292614a1279e938b2fcd642c"
 
 [[files]]
-file = "config/openloader/data/recipe/data/spell-dimension/recipes/fire/blast/spell_book/1.json"
-hash = "70ef653d60b556630baebc97c106733a6b4dabf003f0882627375643e7bce6ba"
+file = "config/openloader/data/recipe/data/spell-dimension/recipes/healing/0_priest.json"
+hash = "cfac10d5aac4e5ac4a23cfefc29709201a1e4af2313ff30036617cb4d4a8f534"
 
 [[files]]
-file = "config/openloader/data/recipe/data/spell-dimension/recipes/fire/blast/spell_book/2.json"
-hash = "a81f42a2e0f9c0a94cc2c349bd44b8d8baf2bda4f063fe2902218cd39c1cde78"
+file = "config/openloader/data/recipe/data/spell-dimension/recipes/healing/1.json"
+hash = "ed5ced976f9c58686701460cdc47fcfaabaca55cd9a67e322ed2bfe7f807ebee"
 
 [[files]]
-file = "config/openloader/data/recipe/data/spell-dimension/recipes/fire/breath/spell_book/1.json"
-hash = "0b1e576fe41eaff327b599905a24c4eb7b31076551b5cccf2461c7ca8d3ec728"
-
-[[files]]
-file = "config/openloader/data/recipe/data/spell-dimension/recipes/fire/breath/spell_book/2.json"
-hash = "94a529a3f13b64145b4c8cff6f9723f8b589962c96c23c89a7da266ee61d596d"
-
-[[files]]
-file = "config/openloader/data/recipe/data/spell-dimension/recipes/fire/breath/spell_book/3.json"
-hash = "4020e43da2d506ebdd49709ac6862bd3a3cecb95bca64a413a96ba65837099ac"
-
-[[files]]
-file = "config/openloader/data/recipe/data/spell-dimension/recipes/fire/ignite/spell_book/1.json"
-hash = "112d1876345d9e2144f9587b93d4ead6ac0678eed7420a17d124fce48da6cec6"
-
-[[files]]
-file = "config/openloader/data/recipe/data/spell-dimension/recipes/fire/ignite/spell_book/2.json"
-hash = "0ffa2d6764a33c4baefe69b4433851770abb3a236290d1784b1c648d60f902dd"
-
-[[files]]
-file = "config/openloader/data/recipe/data/spell-dimension/recipes/fire/ignite/spell_book/3.json"
-hash = "e49dd65eef6b3d479f21b6f8e2f2c2bf0f34597f841c755e0830a8665d4f8ba5"
-
-[[files]]
-file = "config/openloader/data/recipe/data/spell-dimension/recipes/frost/aura/spell_book/1.json"
-hash = "0c429b9728711dd909f72219a5159a3800d7f6af0fb9928378124012ae8e2a99"
-
-[[files]]
-file = "config/openloader/data/recipe/data/spell-dimension/recipes/frost/aura/spell_book/2.json"
-hash = "6d2e7bfe95a599c62197080574d16dbbf29861181b9a4617614428b9f095d72d"
-
-[[files]]
-file = "config/openloader/data/recipe/data/spell-dimension/recipes/frost/aura/spell_book/3.json"
-hash = "d2a6eba9ebab470a92a724619abd2579a52f1fcbc99a5804aae61cabef5c5c2f"
-
-[[files]]
-file = "config/openloader/data/recipe/data/spell-dimension/recipes/frost/icicle/spell_book/1.json"
-hash = "07d44dd9702ec2925e148fb577f37d0a4ba97ecc8145d90f09306d54be407141"
-
-[[files]]
-file = "config/openloader/data/recipe/data/spell-dimension/recipes/frost/icicle/spell_book/2.json"
-hash = "29c46af23e7b7987b3b5712f03936f631987227fc8d577dd5f03b60e6e4e9ed6"
-
-[[files]]
-file = "config/openloader/data/recipe/data/spell-dimension/recipes/frost/icicle/spell_book/3.json"
-hash = "7720610081ffcb1a007cebf65fcf52920baa7b0656327f1b58def787823bfe31"
-
-[[files]]
-file = "config/openloader/data/recipe/data/spell-dimension/recipes/frost/nucleus/spell_book/1.json"
-hash = "2537abe9add3bd986f895887d405227705e2cbec69c02055bfad98cd4b46ab29"
-
-[[files]]
-file = "config/openloader/data/recipe/data/spell-dimension/recipes/frost/nucleus/spell_book/2.json"
-hash = "5396cd313a0a3d4c3bf90cded9fbaa10fdd0d44ca906555b11ecfa25d576b592"
-
-[[files]]
-file = "config/openloader/data/recipe/data/spell-dimension/recipes/frost/nucleus/spell_book/3.json"
-hash = "3b6f54eb95774f7bcc7825dc446cc4013cf9d09e5e29402e6aa675f220fc26b0"
-
-[[files]]
-file = "config/openloader/data/recipe/data/spell-dimension/recipes/healing/power/spell_book/1.json"
-hash = "a572916a0f7631d5bf7c5140092e9e5af6f6a4c36476e430a70cf3a30a351333"
-
-[[files]]
-file = "config/openloader/data/recipe/data/spell-dimension/recipes/healing/power/spell_book/2.json"
-hash = "0cbaa4c40b687890e9e48e6089abc691d9c67c3b46ecb0f3a9b4a8d7f9b9176a"
-
-[[files]]
-file = "config/openloader/data/recipe/data/spell-dimension/recipes/healing/power/spell_book/3.json"
-hash = "f249be7fa96982f1dee9c384deaf6f8383998655cb0827e32fc9e1f3e98357ac"
-
-[[files]]
-file = "config/openloader/data/recipe/data/spell-dimension/recipes/healing/regen/spell_book/1.json"
-hash = "88a3beb44e1590fac5a76f384b4001d385e578b56e426f8c603401d56fafb3bf"
-
-[[files]]
-file = "config/openloader/data/recipe/data/spell-dimension/recipes/healing/regen/spell_book/2.json"
-hash = "9f151d81bef47778077423c46714b2bf2a27f00efaf690f6b606d3fef4ce8285"
-
-[[files]]
-file = "config/openloader/data/recipe/data/spell-dimension/recipes/healing/regen/spell_book/3.json"
-hash = "1509b297738d8d7ed85ca0a791b5e2eae4d1ecc900ebb8c4b648cc818cd550be"
-
-[[files]]
-file = "config/openloader/data/recipe/data/spell-dimension/recipes/healing/resist/spell_book/1.json"
-hash = "7747ad1cf592256151f5e56e01881abc63cc2b0f46cbd235c0eea90d0a356719"
-
-[[files]]
-file = "config/openloader/data/recipe/data/spell-dimension/recipes/healing/resist/spell_book/2.json"
-hash = "3b20b3dacefdc402673fafd9935d5185339e23f9b1c61a5ca87f7d5fe4d2876a"
-
-[[files]]
-file = "config/openloader/data/recipe/data/spell-dimension/recipes/healing/resist/spell_book/3.json"
-hash = "217923cd70b2065e7d5dcc749107e3912400f2ea184ff544ecca2829464c16d7"
+file = "config/openloader/data/recipe/data/spell-dimension/recipes/healing/2.json"
+hash = "48770a3c31fc8c6f37b35dfd3b196464bc3175e57b1cd81fc933a9018110d504"
 
 [[files]]
 file = "config/openloader/data/recipe/data/spell-dimension/recipes/misc/adamantite_ingot.json"
@@ -1539,54 +1319,6 @@ hash = "7e18f883a36fdb2b12652fc88319835a23c089cae4039b0a4e2d2eecfa5c4ee3"
 [[files]]
 file = "config/openloader/data/tag/data/numismatic-overhaul/tags/entity_types/the_bourgeoisie.json"
 hash = "fad9d1371aab405274314a4bce3f6cc1ef782f69c7d22f58312e98fa6ef0e9d4"
-
-[[files]]
-file = "config/openloader/data/tag/data/runes/tags/items/rune_crafting/reagent/arcane_medium.json"
-hash = "1fa12164bd39689f50b7388f6b10784c1e0e80dd50d89acd439e0ef883775309"
-
-[[files]]
-file = "config/openloader/data/tag/data/runes/tags/items/rune_crafting/reagent/arcane_small.json"
-hash = "54f296b1051742b006ab2890a2cffd42519f42d3076966b6646bf1bd81c19fb3"
-
-[[files]]
-file = "config/openloader/data/tag/data/runes/tags/items/rune_crafting/reagent/fire_medium.json"
-hash = "2256e2385c7efa5b10a827b0a89dace111fc05d3384211dd649c57d384b1ddcf"
-
-[[files]]
-file = "config/openloader/data/tag/data/runes/tags/items/rune_crafting/reagent/fire_small.json"
-hash = "07b68e58bf2858ac66ec98c3d6acfac96af4fc1b398a5657f0dc1efdd8b1e155"
-
-[[files]]
-file = "config/openloader/data/tag/data/runes/tags/items/rune_crafting/reagent/frost_medium.json"
-hash = "f28ec96831a4ec2ae6210ee8801c1f05b037de08664c38cad8339851d87f8e7c"
-
-[[files]]
-file = "config/openloader/data/tag/data/runes/tags/items/rune_crafting/reagent/frost_small.json"
-hash = "a1af4286df0642ea472c069e3427563f2189f92e388e510a99495933878fd20b"
-
-[[files]]
-file = "config/openloader/data/tag/data/runes/tags/items/rune_crafting/reagent/healing_medium.json"
-hash = "03f8f81eed9872760e882148ba024c0fd3da28cd7190c0c9bc279c096351112a"
-
-[[files]]
-file = "config/openloader/data/tag/data/runes/tags/items/rune_crafting/reagent/healing_small.json"
-hash = "c724575c736722ca718f7d51a485597cb578385b3d55b7b257ecf6ff6213bcaa"
-
-[[files]]
-file = "config/openloader/data/tag/data/runes/tags/items/rune_crafting/reagent/lightning_medium.json"
-hash = "b850981e206e0856a324d3083af11973e04bac7eb088a84012bf2144fd307080"
-
-[[files]]
-file = "config/openloader/data/tag/data/runes/tags/items/rune_crafting/reagent/lightning_small.json"
-hash = "74b7039cf73a8ca0c189b645bd3f32182c90458de9bd053e9454aa659b07d6fc"
-
-[[files]]
-file = "config/openloader/data/tag/data/runes/tags/items/rune_crafting/reagent/soul_medium.json"
-hash = "0d07b638ea99c97c84cdeb155ebe3f0fd6ea8f56a6e8b58c62fc9f3880516d2f"
-
-[[files]]
-file = "config/openloader/data/tag/data/runes/tags/items/rune_crafting/reagent/soul_small.json"
-hash = "b72e3bbe16de9a1f1b3b23d6e9e87429b03db84306cd1cfb71ba59bf3cfd96fb"
 
 [[files]]
 file = "config/openloader/data/tag/data/spell-dimension/tags/items/a_ring.json"
@@ -1822,7 +1554,7 @@ hash = "787f5690154c73d560f1af8ad2e2647fd16e429f1247623a5c0c39a01eca99e7"
 
 [[files]]
 file = "config/openloader/resources/translations/assets/crystals_overhauled/lang/zh_cn.json"
-hash = "3d39b3089987a9e6ba95302d52a2289adcf812a9aea487416db31d85bdc25317"
+hash = "23d2455e724b5aadd953e283ee37e85311509996b0bc1beb54fc38e6f213560f"
 
 [[files]]
 file = "config/openloader/resources/translations/assets/endercage/lang/zh_cn.json"
@@ -1877,6 +1609,10 @@ file = "config/openloader/resources/translations/assets/simplyskills/lang/zh_cn.
 hash = "1f646c4f83fd596212dcd0238e56f5b15b065cc2ef67cb86cdbc4a23959096b7"
 
 [[files]]
+file = "config/openloader/resources/translations/assets/spacecatasb/lang/zh_cn.json"
+hash = "5a37fe69d8115553d91a860d2706f364110ac6ea8bb08ecc6a6b03a2ef3ec33c"
+
+[[files]]
 file = "config/openloader/resources/translations/assets/spellbladenext/lang/zh_cn.json"
 hash = "f249bc0c682835f02c800d2fa9a6c21b24013fe798cee2b89f803f6d0ff83992"
 
@@ -1895,2182 +1631,6 @@ hash = "2c4dadd4def16916cfebab0a030a7de59225d2be63032be6302cf0c70084ded3"
 [[files]]
 file = "config/openloader/resources/translations/pack.mcmeta"
 hash = "41bf0fa198394e103108719e5ebfcd3e727df265c0a5f46be299b1a04189ea03"
-
-[[files]]
-file = "config/openloader/worldgen/data/additionalstructures/tags/worldgen/biome/as_custom.json"
-hash = "74be1a1a98e8641d8b11dc46c722f2fe943f59ddf3d032a7e5a495c0174fc215"
-
-[[files]]
-file = "config/openloader/worldgen/data/additionalstructures/tags/worldgen/biome/example_tag.json.txt"
-hash = "e5075cc7c238114d11a509c77a1521d654a11013dd9e1d724075b9c9a74e3535"
-
-[[files]]
-file = "config/openloader/worldgen/data/additionalstructures/worldgen/structure_set/_example_set.json.txt"
-hash = "e3d6c21e90d1b7655391976a1e4e5b7e9263f9f303ba0dbcf2bf63624010a9a1"
-
-[[files]]
-file = "config/openloader/worldgen/data/additionalstructures/worldgen/structure_set/big_dungeons.json"
-hash = "d5031ac405211041ce19d0b34e9737c61de9916c9c9331b15450e9957093e44f"
-
-[[files]]
-file = "config/openloader/worldgen/data/additionalstructures/worldgen/structure_set/boats.json"
-hash = "50941e40c7d4973ab6aa805961af15beb9c20b71144ba257f9c7fe1555d0e393"
-
-[[files]]
-file = "config/openloader/worldgen/data/additionalstructures/worldgen/structure_set/bushes.json"
-hash = "e80817dd16ef0425b3db2a85366922d8dcdfe56d72a12fc8051c3a630cdd5c99"
-
-[[files]]
-file = "config/openloader/worldgen/data/additionalstructures/worldgen/structure_set/camps.json"
-hash = "6ff7f440b2bc82e096a1b375392f14770f2b5b32aa3a13cefe05be8179b4e8c2"
-
-[[files]]
-file = "config/openloader/worldgen/data/additionalstructures/worldgen/structure_set/dead_trees.json"
-hash = "e931a539fd84873f546cce55c3fab843fa9039e21d6e6babc94484c47099ad23"
-
-[[files]]
-file = "config/openloader/worldgen/data/additionalstructures/worldgen/structure_set/dragon_fossils.json"
-hash = "5335be0d6461d719215c310594fc8d75159509817537bdff4cfadd2d4ddd9b8b"
-
-[[files]]
-file = "config/openloader/worldgen/data/additionalstructures/worldgen/structure_set/dungeon-spawners.json"
-hash = "50348acd3b99b491464fe5013a8f971e14df6af2d1863b466645db602ee2b567"
-
-[[files]]
-file = "config/openloader/worldgen/data/additionalstructures/worldgen/structure_set/end_buildings.json"
-hash = "5f5c6eb7f3d78cf160dccd85f1c2311f70f00894fc7e85a545bd70799d1ba05b"
-
-[[files]]
-file = "config/openloader/worldgen/data/additionalstructures/worldgen/structure_set/end_crystals.json"
-hash = "947ccd670ff15b19f64ef70d2d45b4ace68dca1585533df6ec01449db93701cb"
-
-[[files]]
-file = "config/openloader/worldgen/data/additionalstructures/worldgen/structure_set/flotsam.json"
-hash = "7269523d8389293ee397c68a1b00e465c276be998d629031f0f6695cf159c392"
-
-[[files]]
-file = "config/openloader/worldgen/data/additionalstructures/worldgen/structure_set/fossils.json"
-hash = "c014029be53ceedddc5058409195c3117fce328566dfaeeb29f710e5c475a698"
-
-[[files]]
-file = "config/openloader/worldgen/data/additionalstructures/worldgen/structure_set/ice_floes.json"
-hash = "7e022fcd9e1f32329556584a5fac23bd938094b2b857aa1572f56c2c44f6f08b"
-
-[[files]]
-file = "config/openloader/worldgen/data/additionalstructures/worldgen/structure_set/illager_houses.json"
-hash = "7314294804dc22882f3977df0b30956cb0a5139f361e2d0ad4b408d5b00e9c06"
-
-[[files]]
-file = "config/openloader/worldgen/data/additionalstructures/worldgen/structure_set/meteor.json"
-hash = "755a80154b63986668c61e02b269550a445e3c17540465c78db9da8ada663610"
-
-[[files]]
-file = "config/openloader/worldgen/data/additionalstructures/worldgen/structure_set/mushroom_houses.json"
-hash = "810eb6099de03496479c7f172136067097b2ca4662c59da4927352f20e098230"
-
-[[files]]
-file = "config/openloader/worldgen/data/additionalstructures/worldgen/structure_set/nether_buildings.json"
-hash = "a25ec7ecbad827bdd4bb719c97ecbbe435ea52f14b73901048cef29d54418938"
-
-[[files]]
-file = "config/openloader/worldgen/data/additionalstructures/worldgen/structure_set/oasis.json"
-hash = "2b7125eb868a1cfbeda799cedf5ff2587c7d6772652c09e1b32808021d77b2ac"
-
-[[files]]
-file = "config/openloader/worldgen/data/additionalstructures/worldgen/structure_set/obsidian_structures.json"
-hash = "6dfebee543173952d630e0b183d86aa743f8e045c6e8c6af1b60070ee020940d"
-
-[[files]]
-file = "config/openloader/worldgen/data/additionalstructures/worldgen/structure_set/pillars.json"
-hash = "7954d93383f453a4baf6cc76affc1aae4d9b4ebc3dcfa2dca7f006a346cf8fbe"
-
-[[files]]
-file = "config/openloader/worldgen/data/additionalstructures/worldgen/structure_set/portals.json"
-hash = "0dcf18b6cb5743dea70b9789f109cbe6b3a6f27cfe2ab506525d9b2c756a42a5"
-
-[[files]]
-file = "config/openloader/worldgen/data/additionalstructures/worldgen/structure_set/pyramids.json"
-hash = "25ce2bf45b06c7f51fbc470a7690d4e8a67ebc23b5e18d525a7b1b95fa256d7d"
-
-[[files]]
-file = "config/openloader/worldgen/data/additionalstructures/worldgen/structure_set/rocks.json"
-hash = "104d3fb85c236d05bc2d945c00562b4a687eabff307e3c78b87fae0d83696d19"
-
-[[files]]
-file = "config/openloader/worldgen/data/additionalstructures/worldgen/structure_set/ruins.json"
-hash = "1c80c6d2758d0eb613153226c2f8a18ef3ccd2b7fc1dde032387abb1c215e33e"
-
-[[files]]
-file = "config/openloader/worldgen/data/additionalstructures/worldgen/structure_set/scarecrows.json"
-hash = "dd69e1fd7a331993619676cd08599cbc36b407844ad1c7599124d6df9951a704"
-
-[[files]]
-file = "config/openloader/worldgen/data/additionalstructures/worldgen/structure_set/shulker_cluster.json"
-hash = "5a3355ac8196f43c62d7b4963a32e0647f4fb077a4ab13f2eb43c8674be00179"
-
-[[files]]
-file = "config/openloader/worldgen/data/additionalstructures/worldgen/structure_set/silverfish_cluster.json"
-hash = "2c4ab007af8a9e330d02e6ce606585ddfbb87464f211036a913766358bc52369"
-
-[[files]]
-file = "config/openloader/worldgen/data/additionalstructures/worldgen/structure_set/skulls.json"
-hash = "fcb931c1e73811109d0fe16d9955132fd7f00219a32ce6b28a2990d5a6c4a2e8"
-
-[[files]]
-file = "config/openloader/worldgen/data/additionalstructures/worldgen/structure_set/snow_piles.json"
-hash = "f52c15dddbef8fa4acfe489247e63adb9ab5827e9a82ac11d76040ae479f1180"
-
-[[files]]
-file = "config/openloader/worldgen/data/additionalstructures/worldgen/structure_set/snowmen.json"
-hash = "4fa1f715c260b5600efee080b1f89dd0dde8297a6f2d5fe3f52d3ce27c6a5d0c"
-
-[[files]]
-file = "config/openloader/worldgen/data/additionalstructures/worldgen/structure_set/spawn_altars.json"
-hash = "211c34b67b8271de0341c87117d548a107bc3c134d6f81eeec33cce4f8d7a2d4"
-
-[[files]]
-file = "config/openloader/worldgen/data/additionalstructures/worldgen/structure_set/sphinx.json"
-hash = "18d2f739abdc230b59a77038d62d876ef9106b5190ec8be3bb142e90e6c2e49e"
-
-[[files]]
-file = "config/openloader/worldgen/data/additionalstructures/worldgen/structure_set/spider_nests.json"
-hash = "caadd09fd8c855e576b6570cb0e55edb54f34ce57493b093eb14296e62815523"
-
-[[files]]
-file = "config/openloader/worldgen/data/additionalstructures/worldgen/structure_set/statues.json"
-hash = "83472641a154051de18250c011ff261e1f66283c9c8121a65f2c3766aa8205cb"
-
-[[files]]
-file = "config/openloader/worldgen/data/additionalstructures/worldgen/structure_set/stone_circles.json"
-hash = "bb3400f9d89284a43cd01ba13735633f070bcc055c6d33de062eacb4775e6bd1"
-
-[[files]]
-file = "config/openloader/worldgen/data/additionalstructures/worldgen/structure_set/suspicious_patches.json"
-hash = "27d1e5cd4ae978ba8077cb1d02989dcee2c55d6916b1986cb3c52ff09a2eb414"
-
-[[files]]
-file = "config/openloader/worldgen/data/additionalstructures/worldgen/structure_set/temples.json"
-hash = "1d193fb8f76e571885fd7aa1f31388a298ea50e8e720b51cc937433a88cc2ccc"
-
-[[files]]
-file = "config/openloader/worldgen/data/additionalstructures/worldgen/structure_set/tombs.json"
-hash = "0a4580a236b8a70d1e0baac3d3d08ecbae307ff23007bae7f384b2d99ff936b0"
-
-[[files]]
-file = "config/openloader/worldgen/data/additionalstructures/worldgen/structure_set/totems.json"
-hash = "afa608ea57041979edb1ce81efec89a53c3c010f3e2ec3adcd0793d5b3f76a7d"
-
-[[files]]
-file = "config/openloader/worldgen/data/additionalstructures/worldgen/structure_set/towers.json"
-hash = "115e8ccd401d5df8f115ec313b3fa5881a7fe17175a27f8314fb6c76c762526f"
-
-[[files]]
-file = "config/openloader/worldgen/data/additionalstructures/worldgen/structure_set/trees.json"
-hash = "5687a06bee24c4af9688379da99fbcafd20eb459d633f18a1e198f1a006c0578"
-
-[[files]]
-file = "config/openloader/worldgen/data/additionalstructures/worldgen/structure_set/underground_bases.json"
-hash = "e103c8671efae453836d5d175ecbec84b110ddb0054f4666e8369440813ff85b"
-
-[[files]]
-file = "config/openloader/worldgen/data/additionalstructures/worldgen/structure_set/underground_structures.json"
-hash = "752b5fcd2e5ea1a3823fbe25d80c8878cb8b6789b48b0e683125243000ed0145"
-
-[[files]]
-file = "config/openloader/worldgen/data/additionalstructures/worldgen/structure_set/villager_structures.json"
-hash = "d088e751c4bdfd0b7200039e364f88f2528d25706cbe4ac51d3e98581b55b9c0"
-
-[[files]]
-file = "config/openloader/worldgen/data/additionalstructures/worldgen/structure_set/wall_ruins.json"
-hash = "2100db488f4514b68fa22365a3415e76362f542d0d9732ade2d2c0a909fe1a3c"
-
-[[files]]
-file = "config/openloader/worldgen/data/additionalstructures/worldgen/structure_set/wells.json"
-hash = "c6ebd4fed18afcfb79a1d6ef371f709e6e3288af38f271e8d7c89eaf02edd770"
-
-[[files]]
-file = "config/openloader/worldgen/data/ati_structures/tags/worldgen/biome/ancient_temple.json"
-hash = "f5db38df60c244819a5e5b78c6b8145028109eba747614381ffcdaceea60363e"
-
-[[files]]
-file = "config/openloader/worldgen/data/ati_structures/tags/worldgen/biome/deepslate_keep.json"
-hash = "fe85bdcb8408088a18c834ca3794b648de063ab80d994a3d19376ad74369aaab"
-
-[[files]]
-file = "config/openloader/worldgen/data/ati_structures/tags/worldgen/biome/desert_outpost.json"
-hash = "2ef23c250c66dbe9cb7467ca6334c54e0dc40689e02f3b05b9118a88df43fbd3"
-
-[[files]]
-file = "config/openloader/worldgen/data/ati_structures/tags/worldgen/biome/dojo.json"
-hash = "b42bf849193e67a17f41c76156fdb579cc8f2db4f3e646db904349ab79d4e7c8"
-
-[[files]]
-file = "config/openloader/worldgen/data/ati_structures/tags/worldgen/biome/granite_fort.json"
-hash = "9922dca4312361a712f0653d375d1deb53ebb3a356e3dc7be6799d283323aa54"
-
-[[files]]
-file = "config/openloader/worldgen/data/ati_structures/tags/worldgen/biome/haunted_ruin.json"
-hash = "bf6c6b093c73d22fae4459ea94fcf62022d4ce75c56f44b9869256da3219e801"
-
-[[files]]
-file = "config/openloader/worldgen/data/ati_structures/tags/worldgen/biome/herobrine_stronghold.json"
-hash = "d81d5aa650908224ca145d5999c053717af2f82ffd95f3e7cd6f8f2ac53bff90"
-
-[[files]]
-file = "config/openloader/worldgen/data/ati_structures/tags/worldgen/biome/ice_tribe.json"
-hash = "53a9b43952b1003216e220df0050ce8c6eff714557168d6e6905016418c09533"
-
-[[files]]
-file = "config/openloader/worldgen/data/ati_structures/tags/worldgen/biome/italian_house.json"
-hash = "e848254c1bdcac2f0f08f6e7d1aa96761ec15948273720004b4eb8634d07fdb6"
-
-[[files]]
-file = "config/openloader/worldgen/data/ati_structures/tags/worldgen/biome/lighthouse.json"
-hash = "94e22b25368e38a983087e37ec8c95486831f2ebbca561892d4f8064bf10e39b"
-
-[[files]]
-file = "config/openloader/worldgen/data/ati_structures/tags/worldgen/biome/manor.json"
-hash = "0cb5ed8de5cf387e02c3179b2d408db8fc51fcdf798678c8ac57751bbf2e19f1"
-
-[[files]]
-file = "config/openloader/worldgen/data/ati_structures/tags/worldgen/biome/monastery_tower.json"
-hash = "0cb5ed8de5cf387e02c3179b2d408db8fc51fcdf798678c8ac57751bbf2e19f1"
-
-[[files]]
-file = "config/openloader/worldgen/data/ati_structures/tags/worldgen/biome/mosque.json"
-hash = "a94e23fa3b04120aa9818d349fccec9e4114885dee6e855de6d43d555d50ab49"
-
-[[files]]
-file = "config/openloader/worldgen/data/ati_structures/tags/worldgen/biome/old_fort.json"
-hash = "198b4300680a96fdeb9887864e8e7b56db2e1558af17324c50d7feb1a9372af1"
-
-[[files]]
-file = "config/openloader/worldgen/data/ati_structures/tags/worldgen/biome/pillager_camp.json"
-hash = "84cb17f14c28427d56c5f9142071ad170c630477c9c96f6747a18b03cfbae204"
-
-[[files]]
-file = "config/openloader/worldgen/data/ati_structures/tags/worldgen/biome/quarry.json"
-hash = "84cb17f14c28427d56c5f9142071ad170c630477c9c96f6747a18b03cfbae204"
-
-[[files]]
-file = "config/openloader/worldgen/data/ati_structures/tags/worldgen/biome/rotten_log.json"
-hash = "002c6c2847f1575399308ee1e7f9ff488c9087b57be6db5bc2084ae7d5c84b18"
-
-[[files]]
-file = "config/openloader/worldgen/data/ati_structures/tags/worldgen/biome/rotting_temple.json"
-hash = "a8c509ed2721b2b65814f27808bd06cd2d2c8061243dc1ca47571fb6e678aacf"
-
-[[files]]
-file = "config/openloader/worldgen/data/ati_structures/tags/worldgen/biome/silverfish_nest.json"
-hash = "b2e9a71fe9889b3dd2cb7615386c6368e94a70f4bd4c1502782d9bfdb627c3f7"
-
-[[files]]
-file = "config/openloader/worldgen/data/ati_structures/tags/worldgen/biome/sinking_temple.json"
-hash = "36b07f1b7f54115a8563d684a4f6b29b483848120d8ed2e95f1e3414ca70ff57"
-
-[[files]]
-file = "config/openloader/worldgen/data/ati_structures/tags/worldgen/biome/spider_nest.json"
-hash = "b2e9a71fe9889b3dd2cb7615386c6368e94a70f4bd4c1502782d9bfdb627c3f7"
-
-[[files]]
-file = "config/openloader/worldgen/data/ati_structures/tags/worldgen/biome/stray_ruins.json"
-hash = "9009dd4f0ef4a9a43781ba555f1115d414821c6b3d9ae4d9f75b1f00ae4c570b"
-
-[[files]]
-file = "config/openloader/worldgen/data/ati_structures/tags/worldgen/biome/underwater_dungeon.json"
-hash = "75999877eb2ce2afcfa85ababa60c81cadcbc0da420380c1d8a71b09365d824c"
-
-[[files]]
-file = "config/openloader/worldgen/data/ati_structures/tags/worldgen/biome/villager_inn.json"
-hash = "f20c7f6e978fd955c383bdae280769b7031aa7e02cdfde4b6868a95fa031768b"
-
-[[files]]
-file = "config/openloader/worldgen/data/ati_structures/worldgen/structure_set/ancient_temple.json"
-hash = "50149c5f9c53846ea6c1ab48cb24bd072e3a679b56360e20029f17db0ad4f09a"
-
-[[files]]
-file = "config/openloader/worldgen/data/ati_structures/worldgen/structure_set/deepslate_keep.json"
-hash = "1058caa2d3b93e6e90c6d7104cb582cb17fd75dcc000b9e92c58c4f5f2098448"
-
-[[files]]
-file = "config/openloader/worldgen/data/ati_structures/worldgen/structure_set/desert_outpost.json"
-hash = "6bc27bf79beb92bef6d3612e24af86fda97ec7f28227b89cd988db3e11925493"
-
-[[files]]
-file = "config/openloader/worldgen/data/ati_structures/worldgen/structure_set/dojo.json"
-hash = "b47a70b4b7ddb9e6245b21557ee4360e7c3d4c0a8007de55e6bd0f60013725e4"
-
-[[files]]
-file = "config/openloader/worldgen/data/ati_structures/worldgen/structure_set/granite_fort.json"
-hash = "7e8e309bbfff2be95b6878619f8a0e50ad70b6e515e4566a1b80a0d7ecb71034"
-
-[[files]]
-file = "config/openloader/worldgen/data/ati_structures/worldgen/structure_set/haunted_ruin.json"
-hash = "0f55451e11e60a507e3349d563db09e833dabb81a6af1544ecab8a64e9f8a270"
-
-[[files]]
-file = "config/openloader/worldgen/data/ati_structures/worldgen/structure_set/herobrine_stronghold.json"
-hash = "cfb7f43976d42b8f6bd5ae158e88caacdc404f56bc15bbc714592dde1920d951"
-
-[[files]]
-file = "config/openloader/worldgen/data/ati_structures/worldgen/structure_set/ice_tribe.json"
-hash = "39c2e548f7b2511f3331ee133419ae8a10ae1af4c6f74d87adf6b63b7e93e2ce"
-
-[[files]]
-file = "config/openloader/worldgen/data/ati_structures/worldgen/structure_set/italian_house.json"
-hash = "60e3ff7efc05109df37d3a45ab2d7ce4b999e7085bc2da31ce1da9fe3f7ce253"
-
-[[files]]
-file = "config/openloader/worldgen/data/ati_structures/worldgen/structure_set/lighthouse.json"
-hash = "4f9a8235a57b7fb70579d401196fe2e034cef6ac958ef050356433772097db37"
-
-[[files]]
-file = "config/openloader/worldgen/data/ati_structures/worldgen/structure_set/manor.json"
-hash = "fbbac1fcd1b7d0432fe1ffd062397525cdd0e15e303fa48a365c339ced829c37"
-
-[[files]]
-file = "config/openloader/worldgen/data/ati_structures/worldgen/structure_set/monastery_tower.json"
-hash = "4395b52c01c77fa173a642f1a927c2d1969992f9b07b03c2b1f61dcc3240687a"
-
-[[files]]
-file = "config/openloader/worldgen/data/ati_structures/worldgen/structure_set/mosque.json"
-hash = "369a224cf3a0202f66c93350766eb73a19a8dbd77ded500fbd3321e38de59f13"
-
-[[files]]
-file = "config/openloader/worldgen/data/ati_structures/worldgen/structure_set/old_fort.json"
-hash = "47afb6bdfe6033521d28d7272b86329b611a8a3eaada64e1ec64f25f2d9dec62"
-
-[[files]]
-file = "config/openloader/worldgen/data/ati_structures/worldgen/structure_set/pillager_camp.json"
-hash = "824acaa49cea207bfeafeff120811393b92ac4986ff5f895a7c4fa896825bc37"
-
-[[files]]
-file = "config/openloader/worldgen/data/ati_structures/worldgen/structure_set/quarry.json"
-hash = "b29ed861c4ca4d1485d222fee35923f1c1ec9f5f6932c785cb0e85b6f7ab5e47"
-
-[[files]]
-file = "config/openloader/worldgen/data/ati_structures/worldgen/structure_set/rotten_log.json"
-hash = "8920ae9f3eb160558721efa40238e5a34ee224f8269fdcf377471a4b0421d1d8"
-
-[[files]]
-file = "config/openloader/worldgen/data/ati_structures/worldgen/structure_set/rotting_temple.json"
-hash = "2f9076df72ce89f9011464634cfc2655263a9cad5fafc04f59404b5dbe0ad01c"
-
-[[files]]
-file = "config/openloader/worldgen/data/ati_structures/worldgen/structure_set/silverfish_nest.json"
-hash = "1de037a874b061a0faccb1c8cf6a4b96100ed30f17d8fc85eb3d20813dafc87c"
-
-[[files]]
-file = "config/openloader/worldgen/data/ati_structures/worldgen/structure_set/sinking_temple.json"
-hash = "7466b38e36934a21a520725dec1076892d35d83185aab3d2978becd126eb920c"
-
-[[files]]
-file = "config/openloader/worldgen/data/ati_structures/worldgen/structure_set/spider_nest.json"
-hash = "d4df7c2550fbd78622a3ae57af7f621583ad5e789bec73548e3f286df10191a2"
-
-[[files]]
-file = "config/openloader/worldgen/data/ati_structures/worldgen/structure_set/stray_ruins.json"
-hash = "4d507595ddefadfcc26ceab5fc2bef8a35e0e0ba992e57eb35bdd1fc8da38751"
-
-[[files]]
-file = "config/openloader/worldgen/data/ati_structures/worldgen/structure_set/underwater_dungeon.json"
-hash = "bd1a7989ffdd3054748703dafdc75981c57064d4d6bb36f43783703d51218c18"
-
-[[files]]
-file = "config/openloader/worldgen/data/ati_structures/worldgen/structure_set/villager_inn.json"
-hash = "ecb0845dfb0a99e9e17bee3cda0fcd5e0e5019c5a5c69b057898998a0af10c89"
-
-[[files]]
-file = "config/openloader/worldgen/data/dungeons_arise/tags/worldgen/biome/has_structure/abandoned_temple_biomes.json"
-hash = "2bdc7fa5f5a20e5774fd952eeb363d279257447f96438076d3a0569745757305"
-
-[[files]]
-file = "config/openloader/worldgen/data/dungeons_arise/tags/worldgen/biome/has_structure/aviary_biomes.json"
-hash = "6405363774d121125c039e890e72f574ccb8cbbda82aeeb699e5608831a09c79"
-
-[[files]]
-file = "config/openloader/worldgen/data/dungeons_arise/tags/worldgen/biome/has_structure/bandit_towers_biomes.json"
-hash = "023d283561835e30277cd15d91dd80bb042171b45ab9bc9c8a30c874af236834"
-
-[[files]]
-file = "config/openloader/worldgen/data/dungeons_arise/tags/worldgen/biome/has_structure/bandit_village_biomes.json"
-hash = "023d283561835e30277cd15d91dd80bb042171b45ab9bc9c8a30c874af236834"
-
-[[files]]
-file = "config/openloader/worldgen/data/dungeons_arise/tags/worldgen/biome/has_structure/bathhouse_biomes.json"
-hash = "c15c81eeb231477f91a47ed512e43eccf9c00121390ce6451b7c14723b2de73a"
-
-[[files]]
-file = "config/openloader/worldgen/data/dungeons_arise/tags/worldgen/biome/has_structure/ceryneian_hind_biomes.json"
-hash = "ffaff82ef99841aecfd5fc437392083865624b2e36ea90fd4dd41c195a462ffd"
-
-[[files]]
-file = "config/openloader/worldgen/data/dungeons_arise/tags/worldgen/biome/has_structure/coliseum_biomes.json"
-hash = "ed4f9072e0acbe3070fbd3ba9b9a11ed5e90e4c79938912a6a02795f07347be0"
-
-[[files]]
-file = "config/openloader/worldgen/data/dungeons_arise/tags/worldgen/biome/has_structure/fishing_hut_biomes.json"
-hash = "10306a7738c800698a9f5d1af49f519492086db9d230e650df1f39a5adcc62f1"
-
-[[files]]
-file = "config/openloader/worldgen/data/dungeons_arise/tags/worldgen/biome/has_structure/foundry_biomes.json"
-hash = "341e0d3d209ca4cb861714c51e40361fa3601156a9c14d382efd4bf5ba409f83"
-
-[[files]]
-file = "config/openloader/worldgen/data/dungeons_arise/tags/worldgen/biome/has_structure/giant_mushroom_biomes.json"
-hash = "ed4f9072e0acbe3070fbd3ba9b9a11ed5e90e4c79938912a6a02795f07347be0"
-
-[[files]]
-file = "config/openloader/worldgen/data/dungeons_arise/tags/worldgen/biome/has_structure/greenwood_pub_biomes.json"
-hash = "b3d0c530236de6f1a11a0254e9e145b259aabb88e3e12efcafe74fb1c14a37b7"
-
-[[files]]
-file = "config/openloader/worldgen/data/dungeons_arise/tags/worldgen/biome/has_structure/heavenly_challenger_biomes.json"
-hash = "8d972a6491afee2c08e27e7986c78e931991c6da254b19920ef0fee03bd45172"
-
-[[files]]
-file = "config/openloader/worldgen/data/dungeons_arise/tags/worldgen/biome/has_structure/heavenly_conqueror_biomes.json"
-hash = "8d972a6491afee2c08e27e7986c78e931991c6da254b19920ef0fee03bd45172"
-
-[[files]]
-file = "config/openloader/worldgen/data/dungeons_arise/tags/worldgen/biome/has_structure/heavenly_rider_biomes.json"
-hash = "8d972a6491afee2c08e27e7986c78e931991c6da254b19920ef0fee03bd45172"
-
-[[files]]
-file = "config/openloader/worldgen/data/dungeons_arise/tags/worldgen/biome/has_structure/illager_campsite_biomes.json"
-hash = "c6aa3fc83637d66d4351b37ce063ecbf6135199e07e221e4c779533b2be1dbac"
-
-[[files]]
-file = "config/openloader/worldgen/data/dungeons_arise/tags/worldgen/biome/has_structure/illager_corsair_biomes.json"
-hash = "bbf3bb2f89870363ee3f57e04ddb831474e320215101169a6472b9963f9a5da5"
-
-[[files]]
-file = "config/openloader/worldgen/data/dungeons_arise/tags/worldgen/biome/has_structure/illager_fort_biomes.json"
-hash = "e08881c96c6ba4b9d6b2e808423aa1c61a565d110b0329d89656e1d517f26265"
-
-[[files]]
-file = "config/openloader/worldgen/data/dungeons_arise/tags/worldgen/biome/has_structure/illager_galley_biomes.json"
-hash = "bbf3bb2f89870363ee3f57e04ddb831474e320215101169a6472b9963f9a5da5"
-
-[[files]]
-file = "config/openloader/worldgen/data/dungeons_arise/tags/worldgen/biome/has_structure/illager_windmill_biomes.json"
-hash = "ed4f9072e0acbe3070fbd3ba9b9a11ed5e90e4c79938912a6a02795f07347be0"
-
-[[files]]
-file = "config/openloader/worldgen/data/dungeons_arise/tags/worldgen/biome/has_structure/infested_temple_biomes.json"
-hash = "2bdc7fa5f5a20e5774fd952eeb363d279257447f96438076d3a0569745757305"
-
-[[files]]
-file = "config/openloader/worldgen/data/dungeons_arise/tags/worldgen/biome/has_structure/jungle_tree_house_biomes.json"
-hash = "db65287cf3ebdfb2e6f9c29089f06e1c4def408b949b114ecf860b0b99833df8"
-
-[[files]]
-file = "config/openloader/worldgen/data/dungeons_arise/tags/worldgen/biome/has_structure/keep_kayra_biomes.json"
-hash = "166e7026c1a625530441d7bc2305a59e4827e466b50028212b4ace26451f480b"
-
-[[files]]
-file = "config/openloader/worldgen/data/dungeons_arise/tags/worldgen/biome/has_structure/lighthouse_biomes.json"
-hash = "2777525c79f029d8ba2ad710ee67300da1476541f6cb8c67e8f113b612fe7ff6"
-
-[[files]]
-file = "config/openloader/worldgen/data/dungeons_arise/tags/worldgen/biome/has_structure/mechanical_nest_biomes.json"
-hash = "c7df53bdffc99a5c60f6b3740524d70f54cef12b07a8788bc6e9b377ad942430"
-
-[[files]]
-file = "config/openloader/worldgen/data/dungeons_arise/tags/worldgen/biome/has_structure/merchant_campsite_biomes.json"
-hash = "ed4f9072e0acbe3070fbd3ba9b9a11ed5e90e4c79938912a6a02795f07347be0"
-
-[[files]]
-file = "config/openloader/worldgen/data/dungeons_arise/tags/worldgen/biome/has_structure/mining_system_biomes.json"
-hash = "b1853478d7b3378240e3492c317968035e48e84b9956607ac35ad722ab44f3ab"
-
-[[files]]
-file = "config/openloader/worldgen/data/dungeons_arise/tags/worldgen/biome/has_structure/monastery_biomes.json"
-hash = "2bdc7fa5f5a20e5774fd952eeb363d279257447f96438076d3a0569745757305"
-
-[[files]]
-file = "config/openloader/worldgen/data/dungeons_arise/tags/worldgen/biome/has_structure/mushroom_house_biomes.json"
-hash = "7334d8b1e7156f4dbde5f827b4e6cc3fb752dad7f82bca1835494ba6c2e5559a"
-
-[[files]]
-file = "config/openloader/worldgen/data/dungeons_arise/tags/worldgen/biome/has_structure/mushroom_mines_biomes.json"
-hash = "7334d8b1e7156f4dbde5f827b4e6cc3fb752dad7f82bca1835494ba6c2e5559a"
-
-[[files]]
-file = "config/openloader/worldgen/data/dungeons_arise/tags/worldgen/biome/has_structure/mushroom_village_biomes.json"
-hash = "7334d8b1e7156f4dbde5f827b4e6cc3fb752dad7f82bca1835494ba6c2e5559a"
-
-[[files]]
-file = "config/openloader/worldgen/data/dungeons_arise/tags/worldgen/biome/has_structure/plague_asylum_biomes.json"
-hash = "7334d8b1e7156f4dbde5f827b4e6cc3fb752dad7f82bca1835494ba6c2e5559a"
-
-[[files]]
-file = "config/openloader/worldgen/data/dungeons_arise/tags/worldgen/biome/has_structure/scorched_mines_biomes.json"
-hash = "ffaff82ef99841aecfd5fc437392083865624b2e36ea90fd4dd41c195a462ffd"
-
-[[files]]
-file = "config/openloader/worldgen/data/dungeons_arise/tags/worldgen/biome/has_structure/shiraz_palace_biomes.json"
-hash = "ffaff82ef99841aecfd5fc437392083865624b2e36ea90fd4dd41c195a462ffd"
-
-[[files]]
-file = "config/openloader/worldgen/data/dungeons_arise/tags/worldgen/biome/has_structure/small_blimp_biomes.json"
-hash = "341e0d3d209ca4cb861714c51e40361fa3601156a9c14d382efd4bf5ba409f83"
-
-[[files]]
-file = "config/openloader/worldgen/data/dungeons_arise/tags/worldgen/biome/has_structure/small_prairie_house_biomes.json"
-hash = "ed4f9072e0acbe3070fbd3ba9b9a11ed5e90e4c79938912a6a02795f07347be0"
-
-[[files]]
-file = "config/openloader/worldgen/data/dungeons_arise/tags/worldgen/biome/has_structure/thornborn_towers_biomes.json"
-hash = "7334d8b1e7156f4dbde5f827b4e6cc3fb752dad7f82bca1835494ba6c2e5559a"
-
-[[files]]
-file = "config/openloader/worldgen/data/dungeons_arise/tags/worldgen/biome/has_structure/typhon_biomes.json"
-hash = "bbf3bb2f89870363ee3f57e04ddb831474e320215101169a6472b9963f9a5da5"
-
-[[files]]
-file = "config/openloader/worldgen/data/dungeons_arise/tags/worldgen/biome/has_structure/undead_pirate_ship_biomes.json"
-hash = "bbf3bb2f89870363ee3f57e04ddb831474e320215101169a6472b9963f9a5da5"
-
-[[files]]
-file = "config/openloader/worldgen/data/dungeons_arise/tags/worldgen/biome/has_structure/wishing_well_biomes.json"
-hash = "ed4f9072e0acbe3070fbd3ba9b9a11ed5e90e4c79938912a6a02795f07347be0"
-
-[[files]]
-file = "config/openloader/worldgen/data/dungeons_arise/worldgen/processor_list/bathhouse_main.json"
-hash = "331c5dce2aa3d9ec5d8819f7a6891077acaae7abc9b0ac39875875b4cd386216"
-
-[[files]]
-file = "config/openloader/worldgen/data/dungeons_arise/worldgen/processor_list/greenwood_pub_main.json"
-hash = "5c37af2d8fede9e33a260b88ba6f394b849c747de585ac193eab127ee5965f16"
-
-[[files]]
-file = "config/openloader/worldgen/data/dungeons_arise/worldgen/processor_list/mechanical_nest_main.json"
-hash = "25085cbce01bbb8a3f6485cca55bf35bfc1808a55c898dc1e791dc0d014bf8ce"
-
-[[files]]
-file = "config/openloader/worldgen/data/dungeons_arise/worldgen/processor_list/mushroom_village_houses.json"
-hash = "75d101684b202becff4d8b9b448deacb1f02081a16c666fe844a899ddd22a9e7"
-
-[[files]]
-file = "config/openloader/worldgen/data/dungeons_arise/worldgen/structure_set/major_structures.json"
-hash = "f2cdb82d7afe363d1ccfaeaf07d1aa9eba2243f41be4670cb49b877fddaba7c2"
-
-[[files]]
-file = "config/openloader/worldgen/data/dungeons_arise/worldgen/structure_set/minor_structures.json"
-hash = "85b77f1d24edbdfa55a895629daf45ea50e37d7aa3f9e9db89a0da87e19b8354"
-
-[[files]]
-file = "config/openloader/worldgen/data/imst/tags/worldgen/biome/has_structure/farm/crimson_farm.json"
-hash = "fafe443c39b69da8a66f91a326eb4ebb222c776d601c9f498b6dcc59754f5d3c"
-
-[[files]]
-file = "config/openloader/worldgen/data/imst/tags/worldgen/biome/has_structure/farm/warped_farm.json"
-hash = "3c7f13233b301b849ccf6edaf613b668064a08b75e5e124429bb3e27830c7250"
-
-[[files]]
-file = "config/openloader/worldgen/data/imst/tags/worldgen/biome/has_structure/flowerdome.json"
-hash = "074e4c449d9b57c2c4ca22445609f7d366278b9e6d78e7de86fa2675ae5a10ba"
-
-[[files]]
-file = "config/openloader/worldgen/data/imst/tags/worldgen/biome/has_structure/lumberjack_birch.json"
-hash = "3c582b5f4c71249ceb6fd96cf56e1fdc0133c09c2deb2224a47bfe6687fc7c83"
-
-[[files]]
-file = "config/openloader/worldgen/data/imst/tags/worldgen/biome/has_structure/lumberjack_dark_oak.json"
-hash = "4618cbee3b81babad48cdd81f31c218968c493919ecbb4e1d8fd117cbc5b46a4"
-
-[[files]]
-file = "config/openloader/worldgen/data/imst/tags/worldgen/biome/has_structure/lumberjack_oak.json"
-hash = "3e338ddd986450bcce7f832ec02eb34c88a2b805b2355b62c492671026d1a693"
-
-[[files]]
-file = "config/openloader/worldgen/data/imst/tags/worldgen/biome/has_structure/lumberjack_spruce.json"
-hash = "0912a005f02b0a2c58c62add8b0ee14ae94dfd2837e06ef49240f6d76963c8a3"
-
-[[files]]
-file = "config/openloader/worldgen/data/imst/tags/worldgen/biome/has_structure/mine/basalt_mine.json"
-hash = "717588275e77f96089c0fb7741db864f664707139834bcb6c24812ea0111b4e1"
-
-[[files]]
-file = "config/openloader/worldgen/data/imst/tags/worldgen/biome/has_structure/mine/crimson_mine.json"
-hash = "fafe443c39b69da8a66f91a326eb4ebb222c776d601c9f498b6dcc59754f5d3c"
-
-[[files]]
-file = "config/openloader/worldgen/data/imst/tags/worldgen/biome/has_structure/mine/warped_mine.json"
-hash = "3c7f13233b301b849ccf6edaf613b668064a08b75e5e124429bb3e27830c7250"
-
-[[files]]
-file = "config/openloader/worldgen/data/imst/tags/worldgen/biome/has_structure/terralith/yurt.json"
-hash = "3b32c57bb73a6b3ce43189ae3422717af39f2007ebdf90c58fe713c9c2711893"
-
-[[files]]
-file = "config/openloader/worldgen/data/imst/tags/worldgen/structure/all_structures.json"
-hash = "c75846bff9a0118c9b157f82741633af1c92d5f01da6c883e1b388fa5f9a5f4d"
-
-[[files]]
-file = "config/openloader/worldgen/data/imst/tags/worldgen/structure/common.json"
-hash = "64df37d34e8b63f5a1eb825402d8f2b8495b58d702e309e9253f354b593d7c19"
-
-[[files]]
-file = "config/openloader/worldgen/data/imst/tags/worldgen/structure/lumberjack.json"
-hash = "8c76c7d804edfb7b2f020bdeb3cacfc0b298dda3ef2c0790c7a82bca802ed74d"
-
-[[files]]
-file = "config/openloader/worldgen/data/imst/tags/worldgen/structure/rare.json"
-hash = "14747a0b159deb2930f5b74a9cfd2ac27370e8ac22a5fb6ea72a6f31e90417d3"
-
-[[files]]
-file = "config/openloader/worldgen/data/imst/worldgen/configured_feature/cocoa_tree.json"
-hash = "20aea7b22ef7a1bb05bc77b3c43b93dff34758fd320fcc0b10805ed293c57abd"
-
-[[files]]
-file = "config/openloader/worldgen/data/imst/worldgen/configured_feature/honey_pile.json"
-hash = "4a233b201a4e2a7dbfd9e6c67e90f1df17d5510af78d153b71d6de9a305cf1af"
-
-[[files]]
-file = "config/openloader/worldgen/data/imst/worldgen/configured_feature/mega_cocoa_tree.json"
-hash = "f556dfc2e6dcbe3dde1e9bce303ea7545a1bf6d7eb4e558aa926283cbb2aeced"
-
-[[files]]
-file = "config/openloader/worldgen/data/imst/worldgen/configured_feature/normal_cocoa_tree.json"
-hash = "e9561fbbad62df7bf25f04d4c93f69d26132b90585f5c3737978c55b6e97dade"
-
-[[files]]
-file = "config/openloader/worldgen/data/imst/worldgen/configured_feature/stone_pile.json"
-hash = "21ed8e06339b543d9ad88ea7a28bef2c254deb4bb915c5a0e090501029e27dec"
-
-[[files]]
-file = "config/openloader/worldgen/data/imst/worldgen/placed_feature/cocoa_tree.json"
-hash = "22b99f4e94cd0b958d41b0d5df8e4cf22b0263ee89c51f0c797a13993af52fd5"
-
-[[files]]
-file = "config/openloader/worldgen/data/imst/worldgen/placed_feature/common/crimson_fungi.json"
-hash = "60638cd00d8df8f2d647973199b88668d9e2e3b73df9ca53d067ebcbac16872e"
-
-[[files]]
-file = "config/openloader/worldgen/data/imst/worldgen/placed_feature/common/warped_fungi.json"
-hash = "c650828d5c7043ff3c2a464b4bdc9305ac80ca8949d88ed692d01c730c6d2ea0"
-
-[[files]]
-file = "config/openloader/worldgen/data/imst/worldgen/placed_feature/honey_pile.json"
-hash = "839b1f95ff3cfd855b7ba675ddfdb8a9c0249ee7a8748555a5d4dd6dcfd18884"
-
-[[files]]
-file = "config/openloader/worldgen/data/imst/worldgen/placed_feature/mega_cocoa_tree.json"
-hash = "6dbb55e86808a4aadcb654ecc893f0f94a14aa2b27fe6c6eb6fc1a982e0e259e"
-
-[[files]]
-file = "config/openloader/worldgen/data/imst/worldgen/placed_feature/normal_cocoa_tree.json"
-hash = "c8c1b62533820076908da428edc048db6cb6d5acdc6658fc9731f74ba24ddce6"
-
-[[files]]
-file = "config/openloader/worldgen/data/imst/worldgen/placed_feature/stone_pile.json"
-hash = "13355905b019dcddeacb433a070ee644900452f034a6d3a58c585b212f6b3ffd"
-
-[[files]]
-file = "config/openloader/worldgen/data/imst/worldgen/placed_feature/sunflower_farm/patch_sunflower.json"
-hash = "f3da0f4501a56b56e92021a491c6f5917c96a3fb0a9bab95cd6a12c7ea31f3aa"
-
-[[files]]
-file = "config/openloader/worldgen/data/imst/worldgen/processor_list/bandit_camp/blue.json"
-hash = "38962af4e1f45a46ac2d97c094f1ce35e11af9b44514d2a3af53b63e7370066b"
-
-[[files]]
-file = "config/openloader/worldgen/data/imst/worldgen/processor_list/bandit_camp/default.json"
-hash = "33fcd9cefa86b40480eb9b7698e353377307e52c0ecd3ce5dd077cba99537d8a"
-
-[[files]]
-file = "config/openloader/worldgen/data/imst/worldgen/processor_list/bandit_camp/red.json"
-hash = "18e62068aac8452fca74d32485bc425800c999a4c53b574419e1265e569513f7"
-
-[[files]]
-file = "config/openloader/worldgen/data/imst/worldgen/processor_list/beehouse/farm.json"
-hash = "438f01b80b6562abafc88558f4c2e237158a737ca3df171850b80ded92cf6850"
-
-[[files]]
-file = "config/openloader/worldgen/data/imst/worldgen/processor_list/beehouse/garden.json"
-hash = "e4ab0d823fac726f1e433cd9cd121ace15aca2c11fd409010b12f7bbd844dbfd"
-
-[[files]]
-file = "config/openloader/worldgen/data/imst/worldgen/processor_list/beehouse/road.json"
-hash = "e4ab0d823fac726f1e433cd9cd121ace15aca2c11fd409010b12f7bbd844dbfd"
-
-[[files]]
-file = "config/openloader/worldgen/data/imst/worldgen/processor_list/cactus_farm/house.json"
-hash = "6cb0904d227c636b31b62b6a9af7a09d3f82d304d0957080b7fa77a78ca100af"
-
-[[files]]
-file = "config/openloader/worldgen/data/imst/worldgen/processor_list/caravan/armorer.json"
-hash = "1ab439dfdf8237a686a4d16034f4e9b69aa34c6c9ee86b307cafa69655208c98"
-
-[[files]]
-file = "config/openloader/worldgen/data/imst/worldgen/processor_list/caravan/butcher.json"
-hash = "5e7e3a8e98ed3dd94f2b43e95de79803637476275929f93a64f1be6b160ce547"
-
-[[files]]
-file = "config/openloader/worldgen/data/imst/worldgen/processor_list/caravan/cartographer.json"
-hash = "ef5f57889572e1eacfbc5b2be38f0d2d2fdc5d9a7f5a948d1608ed226c037eb7"
-
-[[files]]
-file = "config/openloader/worldgen/data/imst/worldgen/processor_list/caravan/cleric.json"
-hash = "e39275fd5487d61175d42d3407cc6a1ec65506189cf687b767ba5ac817256a67"
-
-[[files]]
-file = "config/openloader/worldgen/data/imst/worldgen/processor_list/caravan/farmer.json"
-hash = "c777e7e25fd0eaf03d5678bc5be2a04fb2e9137c40a9f50afc7fe8c369d40c8c"
-
-[[files]]
-file = "config/openloader/worldgen/data/imst/worldgen/processor_list/caravan/fisherman.json"
-hash = "b34c7348ea4f1f993e346a3d12b6eae2a65ef17a26a9864d93d09c554719b349"
-
-[[files]]
-file = "config/openloader/worldgen/data/imst/worldgen/processor_list/caravan/fletcher.json"
-hash = "be2af64bdebc73885165f0ee0306180874b3ad2520417a54e25a6dca2da5a4ee"
-
-[[files]]
-file = "config/openloader/worldgen/data/imst/worldgen/processor_list/caravan/leatherworker.json"
-hash = "4661e09301ec9a413d1a8fd41b3c50579f76883994c742d2d742e87f04728226"
-
-[[files]]
-file = "config/openloader/worldgen/data/imst/worldgen/processor_list/caravan/librarian.json"
-hash = "99e6efe65f4b18df8ee8df086bd97d551d14c73ae81561b286debb0bf3c356bb"
-
-[[files]]
-file = "config/openloader/worldgen/data/imst/worldgen/processor_list/caravan/mason.json"
-hash = "8a422d13cf979d696a43da02bae42c8e10ba0a8a9ae42a86660f2284ec9298ca"
-
-[[files]]
-file = "config/openloader/worldgen/data/imst/worldgen/processor_list/caravan/shepherd.json"
-hash = "9d2df1512d6435dcd3f907518ea3da2073cd5c1ed0bd03af170e6b12078e1cb5"
-
-[[files]]
-file = "config/openloader/worldgen/data/imst/worldgen/processor_list/caravan/toolsmith.json"
-hash = "7da1dcc089e039d25224e7a079034f75ed2c6a41dcccebfd4789064e7e0d8ef3"
-
-[[files]]
-file = "config/openloader/worldgen/data/imst/worldgen/processor_list/caravan/weaponsmith.json"
-hash = "7f5b070edf2c1acfa40449d7b996f1406da8c211e06ebe40926823700e2d6573"
-
-[[files]]
-file = "config/openloader/worldgen/data/imst/worldgen/processor_list/cocoa_farm/farm.json"
-hash = "d27d9f4ee636aab538064a99e22e030a187dc27902bf62e7a51ffe53b6fbc7c1"
-
-[[files]]
-file = "config/openloader/worldgen/data/imst/worldgen/processor_list/cocoa_farm/house.json"
-hash = "2853a822d84974c9abdf9806b0afbfd19107e3840775b50bfc57e9b65b98df1a"
-
-[[files]]
-file = "config/openloader/worldgen/data/imst/worldgen/processor_list/dark_tower/tower.json"
-hash = "2f0fa3229d1be138a2cd5a63ab1ef3da2c19917bedda3479db3c34911e9ae7ae"
-
-[[files]]
-file = "config/openloader/worldgen/data/imst/worldgen/processor_list/el_dorado/gold.json"
-hash = "13aaaa47478e1620720e407591da7cca0df434c780a6a5d7d64af24ca1c81d11"
-
-[[files]]
-file = "config/openloader/worldgen/data/imst/worldgen/processor_list/flowerdome/lush.json"
-hash = "c3ecceef07ea3e1b48b2dd30e7f93ba2e5a5ac566982a982305e5d833a3267a5"
-
-[[files]]
-file = "config/openloader/worldgen/data/imst/worldgen/processor_list/flowerdome/shroom.json"
-hash = "815f0ec8449924881fc0d2f7b2034033c84852f455eacb5222b60905dbde8a40"
-
-[[files]]
-file = "config/openloader/worldgen/data/imst/worldgen/processor_list/fossil/rot_20.json"
-hash = "4be8e048d3476a4aeb710446923661ab0fb41668d3f80801dccc09243aeeaa9d"
-
-[[files]]
-file = "config/openloader/worldgen/data/imst/worldgen/processor_list/fossil/rot_50.json"
-hash = "050e205cd90cb24d179106888f7afbb2d860ffa3908cf23a3c14f4f778f6c8ce"
-
-[[files]]
-file = "config/openloader/worldgen/data/imst/worldgen/processor_list/fossil/rot_80.json"
-hash = "c5393fbef41e5c35dcad2bf236c8b617b78008873851ae6cfaef12492f3456c0"
-
-[[files]]
-file = "config/openloader/worldgen/data/imst/worldgen/processor_list/fossil/rot_90.json"
-hash = "328e35e1bf1a8d5ceebe4127c88f094baebd97059d07a41bd921c98c01013d05"
-
-[[files]]
-file = "config/openloader/worldgen/data/imst/worldgen/processor_list/igloo/main.json"
-hash = "cc364e59c250982b989cb0f72d2afeed596940ab434761c2cd5c162110e9da20"
-
-[[files]]
-file = "config/openloader/worldgen/data/imst/worldgen/processor_list/mine.json"
-hash = "3feeb52d4134176b10abee47d4d51f83f223f8fda5bb32653b668fd2132527a7"
-
-[[files]]
-file = "config/openloader/worldgen/data/imst/worldgen/processor_list/mountain_camp/blue.json"
-hash = "64c34eb4268705d644699b6c13bcdc916242a72f1623acbd6954679af4a3e27a"
-
-[[files]]
-file = "config/openloader/worldgen/data/imst/worldgen/processor_list/mountain_camp/gray.json"
-hash = "01b82613755e65b2c2d5b6c248a94ee187d50b6750d0bcc696ca0b6684d14bdc"
-
-[[files]]
-file = "config/openloader/worldgen/data/imst/worldgen/processor_list/mountain_camp/green.json"
-hash = "a19341185bb09536c6d00ef817f3212d76cb49a8470fd8a3f7a5852a193628e1"
-
-[[files]]
-file = "config/openloader/worldgen/data/imst/worldgen/processor_list/mountain_camp/orange.json"
-hash = "1ea449bbbb084ccfa8f3c6dfc3a9c4769122785b175d323d14656ff88fba17c9"
-
-[[files]]
-file = "config/openloader/worldgen/data/imst/worldgen/processor_list/mountain_camp/pink.json"
-hash = "64949a0830deed280ec4338eb0a732446336ff7d9676ecb0c7fce9050021224a"
-
-[[files]]
-file = "config/openloader/worldgen/data/imst/worldgen/structure_set/common.json"
-hash = "826f160390ce6f82ccd16c8113aadc4204c39112b9bfa614b0e582c02295bdb4"
-
-[[files]]
-file = "config/openloader/worldgen/data/imst/worldgen/structure_set/farm_and_mine.json"
-hash = "34bb26c093458679ba04369f835a778064091aeeb3ff022490ffafbe23d83850"
-
-[[files]]
-file = "config/openloader/worldgen/data/imst/worldgen/structure_set/rare.json"
-hash = "06590370cb1d2a99bd24d32d6d087bbbabc8d2f9d9c1999aa5c0d3585b0be7f5"
-
-[[files]]
-file = "config/openloader/worldgen/data/mes/tags/worldgen/biome/has_structure/end_biomes.json"
-hash = "8811307b0237b42724c78f6fa3248e80978eb8a937c9ce4ee3c169c3d5a7a297"
-
-[[files]]
-file = "config/openloader/worldgen/data/mes/tags/worldgen/structure_set/common_avoid.json"
-hash = "fc7084bfe1335b2c4bb45bb24a007e14032024d711a7091398e2ebd93fdc000d"
-
-[[files]]
-file = "config/openloader/worldgen/data/mes/worldgen/processor_list/blue_to_water.json"
-hash = "ee5b82481682fb941b7b6642045b1031a6f9c2a0c9f573b3f4344421acfb5bdf"
-
-[[files]]
-file = "config/openloader/worldgen/data/mes/worldgen/processor_list/cathedral.json"
-hash = "9e8a5e2420f424cf56849818cb0195240f76a627fdda120df2e3772a4376539c"
-
-[[files]]
-file = "config/openloader/worldgen/data/mes/worldgen/processor_list/stone_to_diamond.json"
-hash = "441c7c4da94e9155c41b16dbe81c7544e4c28b12df8b51e9f3e9569ae2079b21"
-
-[[files]]
-file = "config/openloader/worldgen/data/mes/worldgen/processor_list/tuff_to_iron.json"
-hash = "b8c2bddc27285f5f810829aff0657c586177267e878dfcf788ef003e7bf741bf"
-
-[[files]]
-file = "config/openloader/worldgen/data/mes/worldgen/processor_list/tuff_to_ores.json"
-hash = "5fa910da6b00a678ada4fa1cd096e89282182a0d6572f8adb690a1b711c51b69"
-
-[[files]]
-file = "config/openloader/worldgen/data/mes/worldgen/processor_list/waterlogging_fix_processor.json"
-hash = "fc6b6b9d2ec83ecb3b1b45a2ef0882706f87331f60373535ec48d0b7fa160c7d"
-
-[[files]]
-file = "config/openloader/worldgen/data/mes/worldgen/structure_set/astral_hideaway.json"
-hash = "54ee821ae8859927cba4123a6e2c27dcab9d0084e97a161625b3a68ba82cb2b5"
-
-[[files]]
-file = "config/openloader/worldgen/data/mes/worldgen/structure_set/astral_meteorite.json"
-hash = "8ca5dadaed4e3aa4eb723ce0f58c50d12fa5dd83774ce0d3598b77a3a792a808"
-
-[[files]]
-file = "config/openloader/worldgen/data/mes/worldgen/structure_set/ender_spire.json"
-hash = "d4a3927063247bcfddd5c5d1fe39af92d79b8f832dbeef6c4993c5ec9483eb97"
-
-[[files]]
-file = "config/openloader/worldgen/data/mes/worldgen/structure_set/enderbloom_grove.json"
-hash = "4fc27e965221fc7a0c188c1a8b9fbf3412e5988378a70dfc0b16386f3220f7cf"
-
-[[files]]
-file = "config/openloader/worldgen/data/mes/worldgen/structure_set/enderkeep_courtyard.json"
-hash = "7d3ee628501a26679c796506a30bf4123be3ae82494c5154c0e566ec1b0cf2e3"
-
-[[files]]
-file = "config/openloader/worldgen/data/mes/worldgen/structure_set/enderpin_spikes.json"
-hash = "0ea3fef883c2af21200eaeb130fe9e69c334d84393c36148f608afb79cc903af"
-
-[[files]]
-file = "config/openloader/worldgen/data/mes/worldgen/structure_set/enderskog.json"
-hash = "8e8e58ff12de373dff2e5113f4ccd36154db3f5414640037a0b4e9f81daf1458"
-
-[[files]]
-file = "config/openloader/worldgen/data/mes/worldgen/structure_set/enderwatch_tower.json"
-hash = "3298469b5446a5aa429a8cce15fd78b7b46d55e174f6d4205ec866fff8fe3843"
-
-[[files]]
-file = "config/openloader/worldgen/data/mes/worldgen/structure_set/endscraps.json"
-hash = "2af68f65022e810bbb87db1fc9b47062b350b78d73984b7b9748736b60f39780"
-
-[[files]]
-file = "config/openloader/worldgen/data/mes/worldgen/structure_set/manuscript_shrine.json"
-hash = "e7f30c207ebbd0a0882074c0f653506f34207c6f521adaf72ee60352ab61ef3d"
-
-[[files]]
-file = "config/openloader/worldgen/data/mes/worldgen/structure_set/monolith.json"
-hash = "b98aff7c600e03ecb36fc699dfb93fcf09b69070d62e940ee8b8568998cfd3bb"
-
-[[files]]
-file = "config/openloader/worldgen/data/mes/worldgen/structure_set/mythic_garden.json"
-hash = "067c53d88100d3ee139d66addb3b25c2a045c5df93edf7c7cd71ec707a269db4"
-
-[[files]]
-file = "config/openloader/worldgen/data/mes/worldgen/structure_set/phantom_citadel.json"
-hash = "5d8ac1139acbf03664bb09b125d283ed68b847cdb9b5084b2102a21adb6d5fd8"
-
-[[files]]
-file = "config/openloader/worldgen/data/mes/worldgen/structure_set/placid_prairie.json"
-hash = "82467dcd0b92056b30d497cc0d46e69d90f4aea82c9708cba8abd163cb6da415"
-
-[[files]]
-file = "config/openloader/worldgen/data/mes/worldgen/structure_set/ruined_pillar.json"
-hash = "4f33a26a635135a694378a67cc26fdd166e8c14dbbdc17d8f894e08921551e12"
-
-[[files]]
-file = "config/openloader/worldgen/data/mes/worldgen/structure_set/starlight_voyager.json"
-hash = "7b07ba29340bf5d8b3a7627443992394d8c7a8a42caa4183f30539ca3b89299d"
-
-[[files]]
-file = "config/openloader/worldgen/data/mvs/tags/worldgen/biome/has_structure/acacia_biomes.json"
-hash = "9fc326590be39dea338642e3cabd3aab0f114f53ada86b3cec138fb14e641550"
-
-[[files]]
-file = "config/openloader/worldgen/data/mvs/tags/worldgen/biome/has_structure/beach_biomes.json"
-hash = "d09a5478a40dae09b85c7ade4f6c077b6e11a9b6682abfef7e639fbc3e1b0938"
-
-[[files]]
-file = "config/openloader/worldgen/data/mvs/tags/worldgen/biome/has_structure/birch_biomes.json"
-hash = "af1e6c1f5d2e7eed6609872cb70620c23d5ab8ab8e9799359df80e3dac2a804e"
-
-[[files]]
-file = "config/openloader/worldgen/data/mvs/tags/worldgen/biome/has_structure/cherry_biomes.json"
-hash = "42393b699667d00f0fb001d394eee91fd881cade77f5f5805d1f436e7959c017"
-
-[[files]]
-file = "config/openloader/worldgen/data/mvs/tags/worldgen/biome/has_structure/crimson_biomes.json"
-hash = "0a7eb7a45df885866a167f292cf26b5a0d4b4f8d55561f01a9b21c3cdf58d169"
-
-[[files]]
-file = "config/openloader/worldgen/data/mvs/tags/worldgen/biome/has_structure/dark_oak_biomes.json"
-hash = "d67a7df1e4a0c8bca5cb1e4869ff7c8603c780875c0b43cd507b5d0ea19d99e1"
-
-[[files]]
-file = "config/openloader/worldgen/data/mvs/tags/worldgen/biome/has_structure/desert_biomes.json"
-hash = "db9d7788b1b47f48b735237dbfe548195a3fadee3c816e22247e5e7ffd78570a"
-
-[[files]]
-file = "config/openloader/worldgen/data/mvs/tags/worldgen/biome/has_structure/end_biomes.json"
-hash = "00ffd33063c3191870e4f498c1ff1f66e1e0f087efc33bb482af06dcefd24a8e"
-
-[[files]]
-file = "config/openloader/worldgen/data/mvs/tags/worldgen/biome/has_structure/flower_biomes.json"
-hash = "401cf723f0546dccfa986842258ab959584cde53da150f926128f33fc8c1bd96"
-
-[[files]]
-file = "config/openloader/worldgen/data/mvs/tags/worldgen/biome/has_structure/jungle_biomes.json"
-hash = "ec1ee3e309df718d6fd454c5b1a68086e5e73ba866e625aba2a1f09a3d06b3c3"
-
-[[files]]
-file = "config/openloader/worldgen/data/mvs/tags/worldgen/biome/has_structure/mangrove_biomes.json"
-hash = "9fd18acdc76402c258e94501b785afac0347f9b64063bb2329d9363d94fe0fc4"
-
-[[files]]
-file = "config/openloader/worldgen/data/mvs/tags/worldgen/biome/has_structure/mountain_biomes.json"
-hash = "5b70f26a74984101d31f757d982b61d909d38834d7f70c8fcd21426b348e850c"
-
-[[files]]
-file = "config/openloader/worldgen/data/mvs/tags/worldgen/biome/has_structure/mushroom_island_biomes.json"
-hash = "1e29f4ee24cb3c1610560ba24c9bfcf7e0f0630a61de87f07a8f9669260e797b"
-
-[[files]]
-file = "config/openloader/worldgen/data/mvs/tags/worldgen/biome/has_structure/nether_biomes.json"
-hash = "5f8738c3fa9899f91ac529da48b8bc6082d984cb980cfbd9d9b508e3f5727995"
-
-[[files]]
-file = "config/openloader/worldgen/data/mvs/tags/worldgen/biome/has_structure/nether_wastes_biomes.json"
-hash = "cce6cf5e245443af6a624344cfd391517d643ddbd92291d973792331ec4e18df"
-
-[[files]]
-file = "config/openloader/worldgen/data/mvs/tags/worldgen/biome/has_structure/oak_biomes.json"
-hash = "918eedde2bda522cf6a38a74940b13c89112579e9ebbd173715adb4b4e169ade"
-
-[[files]]
-file = "config/openloader/worldgen/data/mvs/tags/worldgen/biome/has_structure/ocean_biomes.json"
-hash = "e2be7b45ae6341bf97cfc6ef125625aab2455d1619e66f4fda5f648abf752713"
-
-[[files]]
-file = "config/openloader/worldgen/data/mvs/tags/worldgen/biome/has_structure/overworld_biomes.json"
-hash = "c455f3c80b910986ff7e4c598dd9ea4cc0ee698b6e4f870137c07f7e25f5e44e"
-
-[[files]]
-file = "config/openloader/worldgen/data/mvs/tags/worldgen/biome/has_structure/plains_and_oak_biomes.json"
-hash = "67169b1ceee2007a6430a5832b46b6b68b31b9bff51f465be5450ecbb252d428"
-
-[[files]]
-file = "config/openloader/worldgen/data/mvs/tags/worldgen/biome/has_structure/snowy_biomes.json"
-hash = "31be2680af6b41d510679fac95f277907e1a188b5206a607277bd219785f2642"
-
-[[files]]
-file = "config/openloader/worldgen/data/mvs/tags/worldgen/biome/has_structure/stony_shore_biomes.json"
-hash = "ddad2c2f14630716d1a33dd882812614024623790debf8f484652f2bbb1b6f90"
-
-[[files]]
-file = "config/openloader/worldgen/data/mvs/tags/worldgen/biome/has_structure/swampy_biomes.json"
-hash = "4af29c2a22ae784db8a4267f1ce39c0c45ffd5307425c6e6dcf11aa4fc1f5cd2"
-
-[[files]]
-file = "config/openloader/worldgen/data/mvs/tags/worldgen/biome/has_structure/taiga_biomes.json"
-hash = "12c15d8e1da8a0e04cd7b3c805854be641d389695474b188d91c6f6767fb60df"
-
-[[files]]
-file = "config/openloader/worldgen/data/mvs/tags/worldgen/structure_set/common_avoid.json"
-hash = "6fd0a9211bba682e1ff23c424114bd602fa8061faa0840ed44137ba003891967"
-
-[[files]]
-file = "config/openloader/worldgen/data/mvs/worldgen/processor_list/blue_to_water.json"
-hash = "4f501579f57d46de47ca32fe2b155b53b9b4b4d32daae54f53c3f20d6064bfef"
-
-[[files]]
-file = "config/openloader/worldgen/data/mvs/worldgen/processor_list/cathedral.json"
-hash = "914cf09fccd61b4831b427e734f73c486d8f51eb1fafc4ade48c5b06807c3bef"
-
-[[files]]
-file = "config/openloader/worldgen/data/mvs/worldgen/processor_list/stone_to_diamond.json"
-hash = "441c7c4da94e9155c41b16dbe81c7544e4c28b12df8b51e9f3e9569ae2079b21"
-
-[[files]]
-file = "config/openloader/worldgen/data/mvs/worldgen/processor_list/tuff_to_iron.json"
-hash = "b8c2bddc27285f5f810829aff0657c586177267e878dfcf788ef003e7bf741bf"
-
-[[files]]
-file = "config/openloader/worldgen/data/mvs/worldgen/processor_list/tuff_to_ores.json"
-hash = "5fa910da6b00a678ada4fa1cd096e89282182a0d6572f8adb690a1b711c51b69"
-
-[[files]]
-file = "config/openloader/worldgen/data/mvs/worldgen/processor_list/waterlogging_fix_processor.json"
-hash = "5586126389652ff0d2739e7f003a29f244435ba30ee0bbca65d122a43ebe64e2"
-
-[[files]]
-file = "config/openloader/worldgen/data/mvs/worldgen/structure_set/beach_bar.json"
-hash = "f877a6fbc77479674dae90235b464350f9ca9ca143ea5e732316470d99ff49aa"
-
-[[files]]
-file = "config/openloader/worldgen/data/mvs/worldgen/structure_set/cartographer_tower.json"
-hash = "f8f753ece30ceb8db586e2c73d024f9e922e7c43635f971923cd49292f8c8b47"
-
-[[files]]
-file = "config/openloader/worldgen/data/mvs/worldgen/structure_set/carts/cart.json"
-hash = "db8090cc9b0d51732fc84eeb80d1b6bf6076574573ab6eb50f49e1fe50a4c511"
-
-[[files]]
-file = "config/openloader/worldgen/data/mvs/worldgen/structure_set/carts/large_cart_1.json"
-hash = "0c5a52198147cb4e20a17397e407d07487012389985e488f397bafb01fb5c83e"
-
-[[files]]
-file = "config/openloader/worldgen/data/mvs/worldgen/structure_set/carts/large_cart_2.json"
-hash = "7f4bb0774a45eefba7c706101a93d8657308fbff362d0070686ec3cab6c6faac"
-
-[[files]]
-file = "config/openloader/worldgen/data/mvs/worldgen/structure_set/carts/medium_bamboo_cart.json"
-hash = "8f24f4ccc8514be8728d1e0ae77eb6daecb6c6c25e1d13be21a823ce73b5223d"
-
-[[files]]
-file = "config/openloader/worldgen/data/mvs/worldgen/structure_set/cathedral.json"
-hash = "f8a04fb3aa034c344f2af13c8acaf1d933fefa4f273ca5b2893e08d5213d05cc"
-
-[[files]]
-file = "config/openloader/worldgen/data/mvs/worldgen/structure_set/crystal.json"
-hash = "f0cf016f79a68de156b65dc22550cb205cc09aa4af54f1455153c75573f72238"
-
-[[files]]
-file = "config/openloader/worldgen/data/mvs/worldgen/structure_set/dead_tree/acacia.json"
-hash = "859130f6331014331513628bfa320e98e9078a350895d1bebbb49a661c0b5b5b"
-
-[[files]]
-file = "config/openloader/worldgen/data/mvs/worldgen/structure_set/dead_tree/birch.json"
-hash = "b579b8fa4a63e9f4277ff6d1ccaf4a7324605477081697ef10ee8cd80f9b14a3"
-
-[[files]]
-file = "config/openloader/worldgen/data/mvs/worldgen/structure_set/dead_tree/cherry.json"
-hash = "98c57b49e93c1a4865a7c051976d7f9227ee1183d433afc1957a09d801112a4c"
-
-[[files]]
-file = "config/openloader/worldgen/data/mvs/worldgen/structure_set/dead_tree/dark_oak.json"
-hash = "5d0d04655d401949500ffba5b50fc8164dc4ef50310b2daff17d0f32103b020e"
-
-[[files]]
-file = "config/openloader/worldgen/data/mvs/worldgen/structure_set/dead_tree/jungle.json"
-hash = "bf00df659b01c049590a4ea23a11cb868f314b083cc8cec507ced4b07abefc3b"
-
-[[files]]
-file = "config/openloader/worldgen/data/mvs/worldgen/structure_set/dead_tree/mangrove.json"
-hash = "72a7f220fc94afb8b10d3eadb72c78b65ceadafb3118ed69898a7758e6207843"
-
-[[files]]
-file = "config/openloader/worldgen/data/mvs/worldgen/structure_set/dead_tree/oak.json"
-hash = "088e23932793ec1608ef370703595928f56de5845daba25c6814e71ab2542aba"
-
-[[files]]
-file = "config/openloader/worldgen/data/mvs/worldgen/structure_set/dead_tree/spruce.json"
-hash = "27f1c356260dc6d88f97b65409cd3ac45da1ef03cba68293e62573a236192f38"
-
-[[files]]
-file = "config/openloader/worldgen/data/mvs/worldgen/structure_set/gallows.json"
-hash = "e2fd6a514fc619772cdb054787cca933a5a8dbcd438b0ed603660088560a58ed"
-
-[[files]]
-file = "config/openloader/worldgen/data/mvs/worldgen/structure_set/horse_pen.json"
-hash = "5cfcec74c1e0aabd847a9a0ec90196277dc2da0fee22d624b15c845e2a3a5d8c"
-
-[[files]]
-file = "config/openloader/worldgen/data/mvs/worldgen/structure_set/houses/azelea_house.json"
-hash = "96dc46607a0ec42fa2f5f932edb9cd377380bbb14aee33b6ae94b6849b32429a"
-
-[[files]]
-file = "config/openloader/worldgen/data/mvs/worldgen/structure_set/houses/barn.json"
-hash = "debe8087d3fb48c303e273be399b92ae81e2d14c7d1045a09794f4261faff9b7"
-
-[[files]]
-file = "config/openloader/worldgen/data/mvs/worldgen/structure_set/houses/deepslate_house.json"
-hash = "edb92863803796c24b53218682b04c390fbab09a9432e1a7ab895460295d35d9"
-
-[[files]]
-file = "config/openloader/worldgen/data/mvs/worldgen/structure_set/houses/desert_house.json"
-hash = "e5ecc499f68ac69b4668e436b246c795e7967d52015750fc8aaca4a3c5aafedf"
-
-[[files]]
-file = "config/openloader/worldgen/data/mvs/worldgen/structure_set/houses/flower_hole.json"
-hash = "8c4f6de4f4878238d43e8a70594b24e90b2231e15d31b672fe444a566f4991f5"
-
-[[files]]
-file = "config/openloader/worldgen/data/mvs/worldgen/structure_set/houses/house.json"
-hash = "8bb1206bb9814238f88779b98c356cedb77c7d76549728109f2942f982de96e9"
-
-[[files]]
-file = "config/openloader/worldgen/data/mvs/worldgen/structure_set/houses/large_floating_island.json"
-hash = "f2be4c7ab2f0e0caf9f5ed6ff391bfdb3255ecdc067947d264b7d690d4b6ecb3"
-
-[[files]]
-file = "config/openloader/worldgen/data/mvs/worldgen/structure_set/houses/large_warped_tower.json"
-hash = "9fdc331a5b95a40f19fd35773a1656d91b0c530fdbaad017085e0bb7cc245e3e"
-
-[[files]]
-file = "config/openloader/worldgen/data/mvs/worldgen/structure_set/houses/medium_igloo_1.json"
-hash = "6d62b106bbbc82395f5c011468a0fae8dec85c30cbfcc36d9939b6c2fc429642"
-
-[[files]]
-file = "config/openloader/worldgen/data/mvs/worldgen/structure_set/houses/medium_igloo_2.json"
-hash = "08cb2db0c633c727aeb500f828b03de88594dd24427b9f69874840ba88458e5a"
-
-[[files]]
-file = "config/openloader/worldgen/data/mvs/worldgen/structure_set/houses/small_igloo.json"
-hash = "6e90e27594bbfd596780732e9579fd94fe7f0fe6bfd51dc63149da58715ff6d4"
-
-[[files]]
-file = "config/openloader/worldgen/data/mvs/worldgen/structure_set/houses/small_swamp_house.json"
-hash = "1771fb3ede48b8144210ce407e532ad74b73aede0e893b4a3144a9a915388479"
-
-[[files]]
-file = "config/openloader/worldgen/data/mvs/worldgen/structure_set/houses/tall_house.json"
-hash = "6cc23bc0003b98439305de4e980c1c2473c443804389c52397b7fefaa5505623"
-
-[[files]]
-file = "config/openloader/worldgen/data/mvs/worldgen/structure_set/houses/warped_house.json"
-hash = "d2508c58f38e2e230b5a896f1ace867f812d6ffe20392f15b57c4889db8ae2b5"
-
-[[files]]
-file = "config/openloader/worldgen/data/mvs/worldgen/structure_set/jungle_tower.json"
-hash = "3b6195f82214c538a8f01d84902098a6263f9e31ff6da4e0c34096d58a349e0b"
-
-[[files]]
-file = "config/openloader/worldgen/data/mvs/worldgen/structure_set/lantern/medium_oak_lantern.json"
-hash = "037c04e509c674e41022711cb401cd6ae936035dc827f7595661379cfb7fbce5"
-
-[[files]]
-file = "config/openloader/worldgen/data/mvs/worldgen/structure_set/lantern/small_acacia_lantern.json"
-hash = "e8405b16b580ad0180b70dc2afa2bc9041b1ffcdefd3236f139d1b5c3db83fd4"
-
-[[files]]
-file = "config/openloader/worldgen/data/mvs/worldgen/structure_set/lantern/small_bamboo_lantern.json"
-hash = "884f5f76e4a4835fd3fb5353086ca61c1ba2dd35190c11dc95f6d84c2efc068e"
-
-[[files]]
-file = "config/openloader/worldgen/data/mvs/worldgen/structure_set/lantern/small_birch_lantern.json"
-hash = "3fc7dfbd2a0489282ba9b2e14701927e1053181be13820e1f43ce81854c903fb"
-
-[[files]]
-file = "config/openloader/worldgen/data/mvs/worldgen/structure_set/lantern/small_campfire_lantern.json"
-hash = "2537367a1c99123cb97b209e0b6b2c6ef6b625fd17966aa0f5e899bbfadd1f78"
-
-[[files]]
-file = "config/openloader/worldgen/data/mvs/worldgen/structure_set/lantern/small_cherry_lantern.json"
-hash = "3e2bdaadf745389da089e93c18c677950c37ea1886d41572269d8d5172ad0f89"
-
-[[files]]
-file = "config/openloader/worldgen/data/mvs/worldgen/structure_set/lantern/small_dark_oak_lantern.json"
-hash = "0cedf1268dc7100af2c134c7e9ec4c9b34dcfb58ad5f786ad51ec4eeb6b33c0e"
-
-[[files]]
-file = "config/openloader/worldgen/data/mvs/worldgen/structure_set/lantern/small_jungle_lantern.json"
-hash = "c6a7a4f1b16f0c2bbfd07eeb92c6503c41b905ff0bb991548cb8e0186e3b9319"
-
-[[files]]
-file = "config/openloader/worldgen/data/mvs/worldgen/structure_set/lantern/small_mangrove_lantern.json"
-hash = "1afa273ad24ceb777bed0fad2b2e7c17ffb2347b2342fac053d4d00d55f389a3"
-
-[[files]]
-file = "config/openloader/worldgen/data/mvs/worldgen/structure_set/lantern/small_oak_lantern.json"
-hash = "c69de696745311386b8fc196f4e7fba65a82ea3b6abf70e8777bbac698341725"
-
-[[files]]
-file = "config/openloader/worldgen/data/mvs/worldgen/structure_set/lantern/small_spruce_lantern.json"
-hash = "9f2bfddbb8b407f98ef5b1598d8595102eac07afd1550c6a21d4b3eadc6199ff"
-
-[[files]]
-file = "config/openloader/worldgen/data/mvs/worldgen/structure_set/log_pile/acacia_log_pile.json"
-hash = "3051b1777dafd9de374798af2e5e420369f9c82028c8340c7d94eee71674465d"
-
-[[files]]
-file = "config/openloader/worldgen/data/mvs/worldgen/structure_set/log_pile/birch_log_pile.json"
-hash = "2a8fa2484c50bbacb3370bc938c9728352904fc6518845a1e4f8baae5eda3ff4"
-
-[[files]]
-file = "config/openloader/worldgen/data/mvs/worldgen/structure_set/log_pile/dark_oak_log_pile.json"
-hash = "5dfda6a675528cbaa4a082617244fe08b3a458f2666bf8fa89ceed6d81708fcd"
-
-[[files]]
-file = "config/openloader/worldgen/data/mvs/worldgen/structure_set/log_pile/jungle_log_pile.json"
-hash = "5e4ac564ec1b20957bbe70b289845f6b512f652573770dde95329635884f8389"
-
-[[files]]
-file = "config/openloader/worldgen/data/mvs/worldgen/structure_set/log_pile/oak_log_pile.json"
-hash = "f5f315b6018b1613444b337266c40be1248d352685b96f6211af0a32c6913ab2"
-
-[[files]]
-file = "config/openloader/worldgen/data/mvs/worldgen/structure_set/log_pile/spruce_log_pile.json"
-hash = "cbf71af71a1bab93fadb1dc33b669bbebae30122679d555aaf44733efc15e4ea"
-
-[[files]]
-file = "config/openloader/worldgen/data/mvs/worldgen/structure_set/nature/acacia_tree.json"
-hash = "a4d981ea2b6ad29dd96d1b2f54466738d454c780b66f6114fec23bafe1393e5f"
-
-[[files]]
-file = "config/openloader/worldgen/data/mvs/worldgen/structure_set/nature/big_oak_tree.json"
-hash = "f5652297a33deaf67764c1144ab63a470357e3f24d20bd4a4ba1c58f3eb84a4f"
-
-[[files]]
-file = "config/openloader/worldgen/data/mvs/worldgen/structure_set/nature/birch_tree.json"
-hash = "5b14cd1d0293cbbbdeec79c68327560d778b2a02d5b9611caa10f3b7c021ad5b"
-
-[[files]]
-file = "config/openloader/worldgen/data/mvs/worldgen/structure_set/nature/boulder.json"
-hash = "a7f60670870ae872099cef4384e566155e913dc371426de5b5166e7098f8e060"
-
-[[files]]
-file = "config/openloader/worldgen/data/mvs/worldgen/structure_set/nature/cherry_tree.json"
-hash = "74f1cd5db75ed2e39f073e774fc6c47a1522e96dc4b3acd41aed611c5df66f4a"
-
-[[files]]
-file = "config/openloader/worldgen/data/mvs/worldgen/structure_set/nature/dark_oak_tree.json"
-hash = "773a9d123a844d5060a1b2989c217c2303c1f5aa851724a4e2f80275bd59b343"
-
-[[files]]
-file = "config/openloader/worldgen/data/mvs/worldgen/structure_set/nature/floating_islands.json"
-hash = "a3d28a85d76d8c4c944ffa4a1b3a09d0a2fac0631e36bf7311d470ec3279d97e"
-
-[[files]]
-file = "config/openloader/worldgen/data/mvs/worldgen/structure_set/nature/jungle_palm_tree.json"
-hash = "a577924835fcac36004acdebce5f8da5234ab83c4858d9eb2e4b2d2a0ec956b9"
-
-[[files]]
-file = "config/openloader/worldgen/data/mvs/worldgen/structure_set/nature/jungle_tree.json"
-hash = "4bd3f1f4e4ce7d879e05eab29803ba1e3f4a62c547bad6e6eb289192d8aad8f6"
-
-[[files]]
-file = "config/openloader/worldgen/data/mvs/worldgen/structure_set/nature/large_mushroom.json"
-hash = "0deafedf49fcc5ab12096413d27dfd20d8e77bbde1c48ccec9546768fec6fd69"
-
-[[files]]
-file = "config/openloader/worldgen/data/mvs/worldgen/structure_set/nature/mushroom_pond.json"
-hash = "00f6ab2dd894862f355c8a7b70b2ce5424df44636d0bf66073a182f739415566"
-
-[[files]]
-file = "config/openloader/worldgen/data/mvs/worldgen/structure_set/nature/oak_tree.json"
-hash = "3fe0f12ea37ba174bb3b3f69f921a232eb4efd95f371dd40f100510bb8e9690e"
-
-[[files]]
-file = "config/openloader/worldgen/data/mvs/worldgen/structure_set/nature/paths.json"
-hash = "471a77d3e120149587c55c3ae39e8fe11a3ec8f3368feca4d2340bce4d97a1da"
-
-[[files]]
-file = "config/openloader/worldgen/data/mvs/worldgen/structure_set/nature/small_oak_pond.json"
-hash = "6520729a46366c069e91cf88968b6e55191c786feaa9f8d6e04d5d2c16f6cf4e"
-
-[[files]]
-file = "config/openloader/worldgen/data/mvs/worldgen/structure_set/nature/spruce_tree.json"
-hash = "473d1a12e74006b11bde11c7e37139d0ee379aa146d0df2162b954617785bbc8"
-
-[[files]]
-file = "config/openloader/worldgen/data/mvs/worldgen/structure_set/nature/stone_rock.json"
-hash = "56c40f57f49dc8b5d12c83c61fba2336fe7837486d3c2c442a6ae812eb184241"
-
-[[files]]
-file = "config/openloader/worldgen/data/mvs/worldgen/structure_set/other_decoration/bee_dome.json"
-hash = "a4bcb38cd4ceb25950d65d1560f035d5978edcdb85e4e2f9248fe8ce46431ade"
-
-[[files]]
-file = "config/openloader/worldgen/data/mvs/worldgen/structure_set/other_decoration/bench.json"
-hash = "ba1a144aff90a409b803cc92fb41ee75427e3df0a215d47d63cd6e0de3792bc4"
-
-[[files]]
-file = "config/openloader/worldgen/data/mvs/worldgen/structure_set/other_decoration/campsite.json"
-hash = "7daadebe72fa69852daed434fb82c3c8e62d46a4adbbe738581f26cab8dfddbd"
-
-[[files]]
-file = "config/openloader/worldgen/data/mvs/worldgen/structure_set/other_decoration/crimson_enchanting_table.json"
-hash = "3b08d9dfeeb173cbb075601700f70e7cde238a6027e5646c8cf2c7b1b37c520c"
-
-[[files]]
-file = "config/openloader/worldgen/data/mvs/worldgen/structure_set/other_decoration/desert_pump.json"
-hash = "c6d75b5c720d5e1d359ef8475ee11b9db884f78768abba9490e2616d7d51b414"
-
-[[files]]
-file = "config/openloader/worldgen/data/mvs/worldgen/structure_set/other_decoration/duck.json"
-hash = "00a03b75e8771bfe63294b6d4ad68390bdab7c7aefb334135e29d9238f0209d6"
-
-[[files]]
-file = "config/openloader/worldgen/data/mvs/worldgen/structure_set/other_decoration/end_scraps/end_scraps_1.json"
-hash = "99b95be8685e7dad79421869ff090aabfdd82abfe0d8b9448994a60db8d3150b"
-
-[[files]]
-file = "config/openloader/worldgen/data/mvs/worldgen/structure_set/other_decoration/end_scraps/end_scraps_2.json"
-hash = "68d2f08c484c7228d9c57323854a7e148495f41682ab9a887905510b3f04f33d"
-
-[[files]]
-file = "config/openloader/worldgen/data/mvs/worldgen/structure_set/other_decoration/end_scraps/end_scraps_3.json"
-hash = "5ab5f7d058645d985195fa98d5ff838cc3a580b10f0fc53aaceaa7c058424148"
-
-[[files]]
-file = "config/openloader/worldgen/data/mvs/worldgen/structure_set/other_decoration/end_scraps/end_scraps_4.json"
-hash = "bfbf06774da1469de039e3c707ac27e6bd07be419e98d4916409d33cd15299f6"
-
-[[files]]
-file = "config/openloader/worldgen/data/mvs/worldgen/structure_set/other_decoration/fire_camp.json"
-hash = "30841cc7e1e1f0090e283dbc503a5ea87c92def77fe324f8236a0015c6f5c902"
-
-[[files]]
-file = "config/openloader/worldgen/data/mvs/worldgen/structure_set/other_decoration/fox_hut.json"
-hash = "395d1f6f038dee510a2526cae986f5494ef8c1c09e4d8125c392cabc4ce3fcf3"
-
-[[files]]
-file = "config/openloader/worldgen/data/mvs/worldgen/structure_set/other_decoration/haystack.json"
-hash = "5c598a2cd28e18f7e74126011433a5e5e9a309f88e6d980d23539a79eb6f1c3d"
-
-[[files]]
-file = "config/openloader/worldgen/data/mvs/worldgen/structure_set/other_decoration/horse_campsite.json"
-hash = "19d15542239f89b1c070c59d7039db55cffd83dd99abe052aad8783eaca96489"
-
-[[files]]
-file = "config/openloader/worldgen/data/mvs/worldgen/structure_set/other_decoration/lamp_chest.json"
-hash = "aca0896639cffda24ba80f567efa50040d6560061cedeef11299f1c909ac50cf"
-
-[[files]]
-file = "config/openloader/worldgen/data/mvs/worldgen/structure_set/other_decoration/lecturn_garden.json"
-hash = "2b7cc875ace19963344bb37472a0775334080c645bc40c79f38f97bb748fdbd1"
-
-[[files]]
-file = "config/openloader/worldgen/data/mvs/worldgen/structure_set/other_decoration/mine_with_campsite.json"
-hash = "6d47b9ad93800f68f750172d16d42fc7da60eac77ae3e8b325dafe5587721fdf"
-
-[[files]]
-file = "config/openloader/worldgen/data/mvs/worldgen/structure_set/other_decoration/mushroom_statue.json"
-hash = "d04e230dfcb35a3e45acccab4138e7f5b6c71018696fcb8bfd260e021612d816"
-
-[[files]]
-file = "config/openloader/worldgen/data/mvs/worldgen/structure_set/other_decoration/nether_devil.json"
-hash = "1c4d1e34339796532b9308a3dffd4a39e713be5fa7eb01b5fa1a6eddd71ea5de"
-
-[[files]]
-file = "config/openloader/worldgen/data/mvs/worldgen/structure_set/other_decoration/pile.json"
-hash = "4eedc3bc79b4d34427439ca4184119e630746cf9e2864841ae84a17a1cc9ed22"
-
-[[files]]
-file = "config/openloader/worldgen/data/mvs/worldgen/structure_set/other_decoration/snowy_dog_hut.json"
-hash = "7ab3137806081bf30ec3d76905af5b314277164615e0177be9653f8c1e352abb"
-
-[[files]]
-file = "config/openloader/worldgen/data/mvs/worldgen/structure_set/other_decoration/snowy_fossil.json"
-hash = "85ad4941b5d3b3c5939cafef8920d486c29f7bfde371195b40ca94227822639c"
-
-[[files]]
-file = "config/openloader/worldgen/data/mvs/worldgen/structure_set/other_decoration/stone_bee.json"
-hash = "51e99f4c7ae3b225903fd5376d259b49e7f6dab1656fcfe1e41085c6a3221c17"
-
-[[files]]
-file = "config/openloader/worldgen/data/mvs/worldgen/structure_set/other_decoration/villager_statue.json"
-hash = "37a64d11f6f2d622c14ed9df0dfbc55090d9cda38a94afe4071fdd74217a9aa4"
-
-[[files]]
-file = "config/openloader/worldgen/data/mvs/worldgen/structure_set/other_decoration/wheat_grain_bin.json"
-hash = "1ab5c1d7c90cac663c6eaaf012fc836f10129b457fd7f16659178201a558cd7c"
-
-[[files]]
-file = "config/openloader/worldgen/data/mvs/worldgen/structure_set/other_decoration/windmill.json"
-hash = "ed785cb1dad763453c67b981a6adb5426774aa07b57b1708dc210b3abf410b1a"
-
-[[files]]
-file = "config/openloader/worldgen/data/mvs/worldgen/structure_set/other_decoration/wooden_wheat_farm.json"
-hash = "260b31f4f45f217a8e4b42c1c7c7dc444dc0921447899639b60b9da78911b636"
-
-[[files]]
-file = "config/openloader/worldgen/data/mvs/worldgen/structure_set/out_house.json"
-hash = "1fc0e1b0464ba2ba9f62b180fa42560c9daabddb36f6c89a2f353ebe15cead61"
-
-[[files]]
-file = "config/openloader/worldgen/data/mvs/worldgen/structure_set/railway.json"
-hash = "3cade24ec813b0ff719fa592c1c1e6168f2201f7269fd1166499004a1535b8c4"
-
-[[files]]
-file = "config/openloader/worldgen/data/mvs/worldgen/structure_set/ruins/castle_ruins.json"
-hash = "6ff5d8f22f2ab52c2d551893bc1f9c8b4f7fc5b529fb36c7cd30418197e614d1"
-
-[[files]]
-file = "config/openloader/worldgen/data/mvs/worldgen/structure_set/ruins/log_ruin.json"
-hash = "a54e03ca33229ad96b69770b00e2ff69db847edae3d4f98efff1641c864b6dc0"
-
-[[files]]
-file = "config/openloader/worldgen/data/mvs/worldgen/structure_set/ruins/ruined_beacon.json"
-hash = "91e3d407d038b9b13faeabe281549411ef5de4d0b4a8858a8a117ce9d30f6374"
-
-[[files]]
-file = "config/openloader/worldgen/data/mvs/worldgen/structure_set/ruins/small_ruin.json"
-hash = "9cab6b875abfeef1325bed92cce33c9066fab15d69136933107c69e842cb4497"
-
-[[files]]
-file = "config/openloader/worldgen/data/mvs/worldgen/structure_set/ruins/statue_ruins.json"
-hash = "def4ede06a013afab98797a15835a4a583a83ac241b4451ed1228dbfc99e0123"
-
-[[files]]
-file = "config/openloader/worldgen/data/mvs/worldgen/structure_set/ruins/stone_pillars.json"
-hash = "c2dbacdd2f06f6cb6ef400c767f9cbd1a7dd782a393868671386d65bab8539ad"
-
-[[files]]
-file = "config/openloader/worldgen/data/mvs/worldgen/structure_set/ruins/tree_monument.json"
-hash = "b7b5aca7db675cdb3d3fd5fd5222adc3de79433f6b31733c4234b30f6e2e73ee"
-
-[[files]]
-file = "config/openloader/worldgen/data/mvs/worldgen/structure_set/shed.json"
-hash = "5615a3296d6eeb79179a3c94ae20f321c9d1086c941428727bdfcb8bf8fe98b5"
-
-[[files]]
-file = "config/openloader/worldgen/data/mvs/worldgen/structure_set/small_pillager_tower.json"
-hash = "e7a257892e0c4a830b6e55198e0d768676a9b768e41950c5bc19329e98db2b3f"
-
-[[files]]
-file = "config/openloader/worldgen/data/mvs/worldgen/structure_set/small_ship.json"
-hash = "943da652ccb5b7d40898a2a47b1d93729c9e6d92bcc9bba11d394ac7a0a0574c"
-
-[[files]]
-file = "config/openloader/worldgen/data/mvs/worldgen/structure_set/stall/stalls.json"
-hash = "484fafbd4631446d9016626b9cf220911f4d09dfd7060677408e6b9c6ad471ea"
-
-[[files]]
-file = "config/openloader/worldgen/data/mvs/worldgen/structure_set/stone_fountain.json"
-hash = "616246e6235ea0ac2c36638d14297b010b1f37980141aa3cd7cd4a727b0b6e9f"
-
-[[files]]
-file = "config/openloader/worldgen/data/mvs/worldgen/structure_set/sunzi_gate.json"
-hash = "0173544c4ee7f4248b87074aca7192053df7491851c9ca74c94e17610aaee769"
-
-[[files]]
-file = "config/openloader/worldgen/data/mvs/worldgen/structure_set/well/other_wells.json"
-hash = "0236293acfe6fe2ff42d6b2c2aa903e71486fcc0e5ec88ff760507729df3ba49"
-
-[[files]]
-file = "config/openloader/worldgen/data/mvs/worldgen/structure_set/well/rare_well.json"
-hash = "bd051d70d9d8ba49aab48f488fd110232bc01cc57adcfcee6b59fa1d44c0298e"
-
-[[files]]
-file = "config/openloader/worldgen/data/mvs/worldgen/structure_set/well/small_tower_well.json"
-hash = "35725fe3c7837cd88f579b6e5589b2d21cb2a977c3a297bbda3d67393252db11"
-
-[[files]]
-file = "config/openloader/worldgen/data/mvs/worldgen/structure_set/well/wells/end_well.json"
-hash = "7bfbfc8facc93cc039d42eb1c2a72ee22706ed8f88d1a8c44c983cc1f4dfde5f"
-
-[[files]]
-file = "config/openloader/worldgen/data/mvs/worldgen/structure_set/well/wells/mushroom_well.json"
-hash = "ce476b9ac846597c47f4d9f436c94def2aae9b748e66e043dfb9f337fe1eeef6"
-
-[[files]]
-file = "config/openloader/worldgen/data/mvs/worldgen/structure_set/well/wells/nether_well.json"
-hash = "118d7fecc00e0f8e8c13b5e003f3efc92600e18fe447bb514a058a96b5bb551e"
-
-[[files]]
-file = "config/openloader/worldgen/data/philipsruins/tags/worldgen/biome/has_structure/ancient_crypt_biomes.json"
-hash = "2ef0e0d3dd426f139b7a8bee9ee749b18b324af908b613577099098468814feb"
-
-[[files]]
-file = "config/openloader/worldgen/data/philipsruins/tags/worldgen/biome/has_structure/ancient_pyramid_biomes.json"
-hash = "4a7077d2556a690b5bbecac93a780d848de5f24e0a592ad700d424b79739d493"
-
-[[files]]
-file = "config/openloader/worldgen/data/philipsruins/tags/worldgen/biome/has_structure/badlands_structures_biomes.json"
-hash = "4a7077d2556a690b5bbecac93a780d848de5f24e0a592ad700d424b79739d493"
-
-[[files]]
-file = "config/openloader/worldgen/data/philipsruins/tags/worldgen/biome/has_structure/bone_dungeon_biomes.json"
-hash = "181cc62253f21a814b705d36fe06ab169137df8daf91189a4ad14d7a908a2334"
-
-[[files]]
-file = "config/openloader/worldgen/data/philipsruins/tags/worldgen/biome/has_structure/desert_structures_biomes.json"
-hash = "b12fb53db6073f894a00017e5ab84643788c3106b1aeed6ad84729b698ba376d"
-
-[[files]]
-file = "config/openloader/worldgen/data/philipsruins/tags/worldgen/biome/has_structure/end_ruins_biomes.json"
-hash = "133d380454aa73ba3cbb214d13a1bff7d5ffb3b74c17ce335a6a32623ad7915b"
-
-[[files]]
-file = "config/openloader/worldgen/data/philipsruins/tags/worldgen/biome/has_structure/field_stone_ruins_rocks_biomes.json"
-hash = "4817528253263f48f9c0d5e6c68dd00c813754e58b9e8a2a160eb5fb128cefab"
-
-[[files]]
-file = "config/openloader/worldgen/data/philipsruins/tags/worldgen/biome/has_structure/level_two_ruins_biomes.json"
-hash = "ac0634ea0d73f26a0dcb15fca8297f7028e15ea797ead9fdac6f06a5ec135fb0"
-
-[[files]]
-file = "config/openloader/worldgen/data/philipsruins/tags/worldgen/biome/has_structure/lost_soul_city_biomes.json"
-hash = "181cc62253f21a814b705d36fe06ab169137df8daf91189a4ad14d7a908a2334"
-
-[[files]]
-file = "config/openloader/worldgen/data/philipsruins/tags/worldgen/biome/has_structure/lost_soul_dungeon_biomes.json"
-hash = "b69c5daa295ac37dcd3476e953b82048d537df2abd3bdaee337331cdf746676a"
-
-[[files]]
-file = "config/openloader/worldgen/data/philipsruins/tags/worldgen/biome/has_structure/nether_structures_biomes.json"
-hash = "d94f436f89d122cae65241a437e0912892123bc50f067fca4ec327665b9959a4"
-
-[[files]]
-file = "config/openloader/worldgen/data/philipsruins/tags/worldgen/biome/has_structure/ocean_ruins_biomes.json"
-hash = "8a8b025b8d45ec2138e71acb29814f7e0505140a3700f6de271f2f8b9778d6c0"
-
-[[files]]
-file = "config/openloader/worldgen/data/philipsruins/tags/worldgen/biome/has_structure/pumpkin_ruins_biomes.json"
-hash = "7ed8832da44e2d806d972f5707579c3cbc1448d6ca6e2cdce1a8b04c8887df54"
-
-[[files]]
-file = "config/openloader/worldgen/data/philipsruins/tags/worldgen/biome/has_structure/rare_ruin_biomes.json"
-hash = "a397c72e0ecd9d1d0399897bc0370a0e7a578e38784739efebe9f528ae5144c5"
-
-[[files]]
-file = "config/openloader/worldgen/data/philipsruins/tags/worldgen/biome/has_structure/sand_house_biomes.json"
-hash = "b12fb53db6073f894a00017e5ab84643788c3106b1aeed6ad84729b698ba376d"
-
-[[files]]
-file = "config/openloader/worldgen/data/philipsruins/tags/worldgen/biome/has_structure/sculk_dungeon_biomes.json"
-hash = "b69c5daa295ac37dcd3476e953b82048d537df2abd3bdaee337331cdf746676a"
-
-[[files]]
-file = "config/openloader/worldgen/data/philipsruins/tags/worldgen/biome/has_structure/start_nether_dungeon_biomes.json"
-hash = "9442fec519a3296751ac7a02c9b09ab890618f4b0efbd5adb96746fe071fc003"
-
-[[files]]
-file = "config/openloader/worldgen/data/philipsruins/tags/worldgen/biome/has_structure/start_nether_ruin_biomes.json"
-hash = "ad5baf1611fb6a1e111cfbeb45300693766e0d561ed290d4c1fbcfeae881a5d0"
-
-[[files]]
-file = "config/openloader/worldgen/data/philipsruins/worldgen/processor_list/guardian_ruin_processor.json"
-hash = "a494be5318f4afac2dd3ab0931fc6c6acb6fab6be94d441281b482bb9ac30a1e"
-
-[[files]]
-file = "config/openloader/worldgen/data/philipsruins/worldgen/processor_list/nether_lava_ruins_processor.json"
-hash = "98dccab6d84d85887d4ae32aca0b414dcf4cf37e9514ba6826294b78dcadcdd4"
-
-[[files]]
-file = "config/openloader/worldgen/data/philipsruins/worldgen/processor_list/ocean_fortress_processor.json"
-hash = "6ae79645f827b41a05554cd6e5ebfc8f5f9937b19f2e3d32cc16c54d748c2e42"
-
-[[files]]
-file = "config/openloader/worldgen/data/philipsruins/worldgen/processor_list/ocean_ruins_processor.json"
-hash = "5b483b2dee3ac48f8d240eb83ea6c5e0fb19893e5b293cfc69120850ef27f116"
-
-[[files]]
-file = "config/openloader/worldgen/data/philipsruins/worldgen/processor_list/randomize_bone_brick.json"
-hash = "b26683c961058218f442e68d8268ff2499d6fcad4145840e4a2239554a1a2479"
-
-[[files]]
-file = "config/openloader/worldgen/data/philipsruins/worldgen/processor_list/randomize_crypt_brick.json"
-hash = "818c76eaa1b1e61b3c5e2fbfbec3e084b6dc8325456d7802b9a9ebe7c3871dd9"
-
-[[files]]
-file = "config/openloader/worldgen/data/philipsruins/worldgen/processor_list/randomize_deepslate.json"
-hash = "5b9262bcb929dc8bbf355ce3090415a26a894e255f431c2a89cb0eedb68c2c4a"
-
-[[files]]
-file = "config/openloader/worldgen/data/philipsruins/worldgen/processor_list/randomize_end_brick.json"
-hash = "0f729ea8276a66a9f0498401ae62a290736b1992a57e577339be1f6a836ca13e"
-
-[[files]]
-file = "config/openloader/worldgen/data/philipsruins/worldgen/processor_list/randomize_sculk_brick.json"
-hash = "2cc4a8531ff20d806aea329c28ebc7bab3003f5404319b17347e81dd60f85b67"
-
-[[files]]
-file = "config/openloader/worldgen/data/philipsruins/worldgen/processor_list/randomize_stonebrick.json"
-hash = "24d7936b19c671605da495ccf5406007674cc9674943f417b433117fc519cfc1"
-
-[[files]]
-file = "config/openloader/worldgen/data/philipsruins/worldgen/processor_list/ruins_processor.json"
-hash = "e349c84c44594a0927a738f216e5a6f64ea1a864cfab43d03777423f9b1754f9"
-
-[[files]]
-file = "config/openloader/worldgen/data/philipsruins/worldgen/structure/ancient_crypt.json"
-hash = "53c621bb15349f0f478562d7df15acda708749bde1e83a010274adf0b54e96ab"
-
-[[files]]
-file = "config/openloader/worldgen/data/philipsruins/worldgen/structure/antiquus_crypta.json"
-hash = "37af4dbfcbad28694a4e0ec9c531ff7d0b200e29b4812539ddc2bee63d696a7a"
-
-[[files]]
-file = "config/openloader/worldgen/data/philipsruins/worldgen/structure/badlands_start_dungeon.json"
-hash = "4f887e0e927c984b0694f9291bca544d0e8de2467590d5a5fc4019f6faab5337"
-
-[[files]]
-file = "config/openloader/worldgen/data/philipsruins/worldgen/structure/badlands_structures.json"
-hash = "05e7379757f4977f9c21a9f5cef908a59f676e116c00c919bee84f4ce9fdd92f"
-
-[[files]]
-file = "config/openloader/worldgen/data/philipsruins/worldgen/structure/bone_dungeon.json"
-hash = "c71a0dc95d31003b0de84dbb7d8558a6b31ba4a1445c0ba1cc50c5a36d514cff"
-
-[[files]]
-file = "config/openloader/worldgen/data/philipsruins/worldgen/structure/desert_structures.json"
-hash = "bb64f1aacf5853577eefedeb4903cb6d2ee277fae1b286e50696503449e91044"
-
-[[files]]
-file = "config/openloader/worldgen/data/philipsruins/worldgen/structure/end_gate_fortress.json"
-hash = "1bc90d94b4f23c46f14b6cc59f28e853ca9eaaa34e77b3990fb5afdade93aea7"
-
-[[files]]
-file = "config/openloader/worldgen/data/philipsruins/worldgen/structure/end_ruins.json"
-hash = "e0d8b02c1640c926391e7bb2658aabd969b5b02d83f9955e49f54ad5ee412270"
-
-[[files]]
-file = "config/openloader/worldgen/data/philipsruins/worldgen/structure/field_stone_ruins.json"
-hash = "43dc91510012b58daa280eb1a0eede932e9b50d000509ec4a6c67ca62f4fcad1"
-
-[[files]]
-file = "config/openloader/worldgen/data/philipsruins/worldgen/structure/field_stone_ruins_rocks.json"
-hash = "7d5b839afd4355c8d653638efe7b39e079e11147bee73e20326d65406d8f9fe4"
-
-[[files]]
-file = "config/openloader/worldgen/data/philipsruins/worldgen/structure/level_one_ruins.json"
-hash = "40c2949d56aec67c21a1497f64f891aa11daa436bd5734d1e7925aeb4f455bc8"
-
-[[files]]
-file = "config/openloader/worldgen/data/philipsruins/worldgen/structure/level_three_ruins.json"
-hash = "dea12d9a65339891f1f2ad2016c255eae4752a86a83d8c70cbf6e79c40db255c"
-
-[[files]]
-file = "config/openloader/worldgen/data/philipsruins/worldgen/structure/level_two_ruins.json"
-hash = "9b4cef90d60f49ada798247b2f6268b12f8df7a840d33a9e5ba1d29898ba359d"
-
-[[files]]
-file = "config/openloader/worldgen/data/philipsruins/worldgen/structure/level_two_ruins_pool.json"
-hash = "c756da99d3e32d03ad14e753a93982bc1884af8ceae98dda9b75601f4e593bf4"
-
-[[files]]
-file = "config/openloader/worldgen/data/philipsruins/worldgen/structure/lost_soul_city.json"
-hash = "6169bae1b59d4de4e05737d821f4b1dffabc572fb909ed34f0414e64dccdab3f"
-
-[[files]]
-file = "config/openloader/worldgen/data/philipsruins/worldgen/structure/lost_soul_dungeon.json"
-hash = "92305824c9669f283bf24b0dcfb9696a0d5848759f7ace36d4618a8c6306f178"
-
-[[files]]
-file = "config/openloader/worldgen/data/philipsruins/worldgen/structure/nether_lava_ruins.json"
-hash = "8ae76bb813b1035179b3aca6a86df09137f99ab085f0839103450769f915ece7"
-
-[[files]]
-file = "config/openloader/worldgen/data/philipsruins/worldgen/structure/ocean_fortress.json"
-hash = "6b3bfe5a3d58dd1e756696048d8fe05a08d98f4df03fcd82dc8975e9c7325a87"
-
-[[files]]
-file = "config/openloader/worldgen/data/philipsruins/worldgen/structure/ocean_ruins.json"
-hash = "e1979946fbbb18e14e80e7e3635ebb0fda060c951dbc151b0a31811695431b04"
-
-[[files]]
-file = "config/openloader/worldgen/data/philipsruins/worldgen/structure/pumpkin_ruins.json"
-hash = "e22bcf2b855baf129845d41c1c60f732f53bd4624453c069771953190fc949cd"
-
-[[files]]
-file = "config/openloader/worldgen/data/philipsruins/worldgen/structure/rare_ruin.json"
-hash = "d473f08656779c4e7b58708c018ccf940f35c5292c416b3e40d79eeb00b0d9e9"
-
-[[files]]
-file = "config/openloader/worldgen/data/philipsruins/worldgen/structure/sculk_dungeon.json"
-hash = "2f4322cfdaa18346274cfc78e25feb72009d5e53bd3f4e9fc5633bc08fa1c0cf"
-
-[[files]]
-file = "config/openloader/worldgen/data/philipsruins/worldgen/structure/sealedruinedghaststatue1.json"
-hash = "e5ce8a2bdffa42ee229951cb19b655ab2f050e15c5949367fe353c4ec3e3a50e"
-
-[[files]]
-file = "config/openloader/worldgen/data/philipsruins/worldgen/structure/start_nether_dungeon.json"
-hash = "5c19f71b8cd8852fbdeb9b76df385088e6d6b974104a7b6530e3523f34485492"
-
-[[files]]
-file = "config/openloader/worldgen/data/philipsruins/worldgen/structure/start_nether_ruin.json"
-hash = "a9144e8ef7f7d78ef31c0602f51e28f7acbc83a7d45a78fe927127644a342ac8"
-
-[[files]]
-file = "config/openloader/worldgen/data/philipsruins/worldgen/structure/underground_structures.json"
-hash = "049fe31f8d5e323ce2ba44723cea5a5a343adf2b09fe66f015c67b8b6c592781"
-
-[[files]]
-file = "config/openloader/worldgen/data/philipsruins/worldgen/structure_set/ancient_crypt.json"
-hash = "eddc8b66bc23fe61d39e99286b30343fd60214a7a9ea25006059afec9a459c26"
-
-[[files]]
-file = "config/openloader/worldgen/data/philipsruins/worldgen/structure_set/antiquus_crypta.json"
-hash = "871066acf708d1d78a9b24aae09e3f6c6e8d0a8f8aaaa2971d641860cdbe0dd0"
-
-[[files]]
-file = "config/openloader/worldgen/data/philipsruins/worldgen/structure_set/desert_structures.json"
-hash = "3bbfabae1bbabf515f8f1149cebffc08666ed66348d3f1cce0a13783171ff09b"
-
-[[files]]
-file = "config/openloader/worldgen/data/philipsruins/worldgen/structure_set/end_ruins.json"
-hash = "9ffd45d900ebb59cda3c9a2a5e5487e9c58a3908c4e9a7b7fd6fc89b9be6c59c"
-
-[[files]]
-file = "config/openloader/worldgen/data/philipsruins/worldgen/structure_set/field_stone_ruins.json"
-hash = "adf9dcee8475a905b1f8ab98928862446c22c02a8fa74b1da570e7d0945b2bff"
-
-[[files]]
-file = "config/openloader/worldgen/data/philipsruins/worldgen/structure_set/field_stone_ruins_rocks.json"
-hash = "81d469ad290391574b03d7824fa202be018da224a13f3943f132505b58a8525d"
-
-[[files]]
-file = "config/openloader/worldgen/data/philipsruins/worldgen/structure_set/level_one_ruins.json"
-hash = "771a27f1bb8bfdc852560290522a2fe091fd754627d7ad3b8f608c3a7b6687a2"
-
-[[files]]
-file = "config/openloader/worldgen/data/philipsruins/worldgen/structure_set/level_three_ruins.json"
-hash = "ca8346a2196a41e9150b5b1de826bbf06330c5f81b82931d6e801181bd9232b0"
-
-[[files]]
-file = "config/openloader/worldgen/data/philipsruins/worldgen/structure_set/level_two_ruins.json"
-hash = "b329a8f4e906661ece0ebf475e8bea92e57119e581f2b260bb02ee25993670cf"
-
-[[files]]
-file = "config/openloader/worldgen/data/philipsruins/worldgen/structure_set/lost_soul_city.json"
-hash = "9dcfc6053cb4808f444d8d0f73fed4c2705a4d26020f564d21ad6683a6caa27a"
-
-[[files]]
-file = "config/openloader/worldgen/data/philipsruins/worldgen/structure_set/nether_ruins.json"
-hash = "9395980b450df5c51a4972493a441ce301ab816ef6f97467af4164c06ff0f006"
-
-[[files]]
-file = "config/openloader/worldgen/data/philipsruins/worldgen/structure_set/nether_structures.json"
-hash = "6b7aa28846da43dbc16037dfd64cce8def628a7fc81b8d73cb772141a11f0232"
-
-[[files]]
-file = "config/openloader/worldgen/data/philipsruins/worldgen/structure_set/ocean_fortress_main.json"
-hash = "9042a6dd9468a57ef7670845ca20b973c96640e172d8ae5e06410a68e79c1e2a"
-
-[[files]]
-file = "config/openloader/worldgen/data/philipsruins/worldgen/structure_set/ocean_ruins.json"
-hash = "3c700f592eef52b1578d2b697c6043b18b2cfc8c0d53340f146da3dab0993f41"
-
-[[files]]
-file = "config/openloader/worldgen/data/philipsruins/worldgen/structure_set/pumpkin_ruins.json"
-hash = "4beabfe8fedb11845e37ed625d285d8a4961f211a804e0ee7e35b4c55300a536"
-
-[[files]]
-file = "config/openloader/worldgen/data/philipsruins/worldgen/structure_set/rare_ruin.json"
-hash = "2a267a223b2526cd79b8ce64b6f9c1d63c764dbef65cae9254b60d0a435d682a"
-
-[[files]]
-file = "config/openloader/worldgen/data/philipsruins/worldgen/structure_set/underground_structures.json"
-hash = "69931c6f31f1d24b54f147895ba530c77d3474cece2d1ac19c566f768cc1703b"
-
-[[files]]
-file = "config/openloader/worldgen/data/philipsruins/worldgen/template_pool/ancient_crypt/crypt_room1.json"
-hash = "46196dd17da6ca0ebff9c0a2f88219a03cd6a82bc34fa6e260efdf4462978886"
-
-[[files]]
-file = "config/openloader/worldgen/data/philipsruins/worldgen/template_pool/ancient_crypt/crypt_room2.json"
-hash = "9c8adb27c396967ffa22438c225d2d21e35cef9d8f819edff7c5570958f8274c"
-
-[[files]]
-file = "config/openloader/worldgen/data/philipsruins/worldgen/template_pool/ancient_crypt/crypt_room3.json"
-hash = "8d8b8ce0b081c2a9d8ce61c2e923671dc06904a2c71c0d9f879bccbaad797f47"
-
-[[files]]
-file = "config/openloader/worldgen/data/philipsruins/worldgen/template_pool/ancient_crypt/crypt_room4.json"
-hash = "1f3ca74634d90cd044c40bfd084ddae28ca59d06302ede2f5828f31dd9ac3c69"
-
-[[files]]
-file = "config/openloader/worldgen/data/philipsruins/worldgen/template_pool/ancient_crypt/crypt_room5.json"
-hash = "fef3eed4d022ca682c853772bb6452066d2d849e90fe910204bfa84b553e5ba7"
-
-[[files]]
-file = "config/openloader/worldgen/data/philipsruins/worldgen/template_pool/ancient_crypt/crypt_room6.json"
-hash = "00010c6409293d6dca18531dc4ce4161602200d16bc9b0b79f737a85c8eec70f"
-
-[[files]]
-file = "config/openloader/worldgen/data/philipsruins/worldgen/template_pool/ancient_crypt/crypt_room7.json"
-hash = "ebbd5eaf531ae422de9eb6ef54e915f3b706ff99d5ce33098eee3cb8711c1b0a"
-
-[[files]]
-file = "config/openloader/worldgen/data/philipsruins/worldgen/template_pool/ancient_crypt/crypt_room8.json"
-hash = "ab6861491179589e8b0c9ab8aa24b383a6ba07f5f56b46eb1255a9a0f601d196"
-
-[[files]]
-file = "config/openloader/worldgen/data/philipsruins/worldgen/template_pool/ancient_crypt/crypt_start.json"
-hash = "a0899f41db357117d75901b3f12a9239b02672b6a3a21fbe4d8ca319eddeda69"
-
-[[files]]
-file = "config/openloader/worldgen/data/philipsruins/worldgen/template_pool/antiquus_crypta/antiquus_crypta_main.json"
-hash = "c00ac4e7276c66cdf65abf776b9c866b900d1b33c3b240fb1125fcb692b64637"
-
-[[files]]
-file = "config/openloader/worldgen/data/philipsruins/worldgen/template_pool/antiquus_crypta/room1_antiquus.json"
-hash = "902e9caea294acbe5947c19dc0760e9ee671d4fbf23ee9ea1e90eca6b8753880"
-
-[[files]]
-file = "config/openloader/worldgen/data/philipsruins/worldgen/template_pool/antiquus_crypta/room2_antiquus.json"
-hash = "8c0dbcec78ff78bdaa0706f5a77c464ae108d1672bcd381e4f68e4b10d741de6"
-
-[[files]]
-file = "config/openloader/worldgen/data/philipsruins/worldgen/template_pool/antiquus_crypta/room3_antiquus.json"
-hash = "0fda6651ff50900d08b0a76749ba436bbc673c5e2cd98a76c419ab25508eaced"
-
-[[files]]
-file = "config/openloader/worldgen/data/philipsruins/worldgen/template_pool/antiquus_crypta/room4_antiquus.json"
-hash = "9be1ebaee1392823b4cda33841afefeb3e77a4252034e78e5d95edc291f5e897"
-
-[[files]]
-file = "config/openloader/worldgen/data/philipsruins/worldgen/template_pool/badlands_dungeon_one/badlands_dungeon_side_pool.json"
-hash = "2b2a2eb822f58cb7acca390b1224b360a0dd0ecf14fc98440df6b066bce51932"
-
-[[files]]
-file = "config/openloader/worldgen/data/philipsruins/worldgen/template_pool/badlands_dungeon_one/badlands_start_dungeon_pool.json"
-hash = "512a3dd4ba729c17becc15be0017a165271d6fbf3a0bca105c7d5fc4235d14c5"
-
-[[files]]
-file = "config/openloader/worldgen/data/philipsruins/worldgen/template_pool/badlands_structures.json"
-hash = "b8fc77ca3f4312b1384668388f8eea52c8ed4c64319f3314447ec1146feef51c"
-
-[[files]]
-file = "config/openloader/worldgen/data/philipsruins/worldgen/template_pool/bone_dungeon/bone_dungeon_start.json"
-hash = "63b693a90e878a02b6e5b9b20ddaa73845f0071aa8f701e483f7a7316908b573"
-
-[[files]]
-file = "config/openloader/worldgen/data/philipsruins/worldgen/template_pool/bone_dungeon/side_pool.json"
-hash = "fdf8389efc23688217b1a8e3236315664a6a1250afc097ece327e7e7f6999751"
-
-[[files]]
-file = "config/openloader/worldgen/data/philipsruins/worldgen/template_pool/bone_dungeon/side_pool2.json"
-hash = "0b5556ac499d00d77c414e8d8e3ba692e70eecb2e8f6fd378cc39e442c3f6c7c"
-
-[[files]]
-file = "config/openloader/worldgen/data/philipsruins/worldgen/template_pool/bone_dungeon/side_pool3.json"
-hash = "723a8ca185dc5f0b6b20f214d163e3b11f13737e58797b0476b0bc42a63f667f"
-
-[[files]]
-file = "config/openloader/worldgen/data/philipsruins/worldgen/template_pool/bone_dungeon/side_pool4.json"
-hash = "116534ad9ef00aacbca9a0631b1bba2470c4410c332b726604efa00e56289ace"
-
-[[files]]
-file = "config/openloader/worldgen/data/philipsruins/worldgen/template_pool/bone_dungeon/side_pool5.json"
-hash = "d97a10bc7803e1b900e533ff61a9a37d103d8b70b770665cf79e769f6952f754"
-
-[[files]]
-file = "config/openloader/worldgen/data/philipsruins/worldgen/template_pool/bone_dungeon/side_pool6.json"
-hash = "892494f1f665bf0ce35c139441f57713bc1cec85a19bddcbf47577964cca0709"
-
-[[files]]
-file = "config/openloader/worldgen/data/philipsruins/worldgen/template_pool/desert_structures.json"
-hash = "b2adb81e9905bb42d73763c46937cb05a71795c2a765684abe32f8b26ba15637"
-
-[[files]]
-file = "config/openloader/worldgen/data/philipsruins/worldgen/template_pool/end/end_gate_fortress.json"
-hash = "5ee15bd6f38fb9a88ad6f34ab2e271087f0a4acf7c4908d0b996066ef570d086"
-
-[[files]]
-file = "config/openloader/worldgen/data/philipsruins/worldgen/template_pool/end/end_gate_fortress_bridge_one.json"
-hash = "cd07bdb5639e9dbacbe5f83806332a76414fd0d8be066f5769ac6e48c4416220"
-
-[[files]]
-file = "config/openloader/worldgen/data/philipsruins/worldgen/template_pool/end/end_gate_fortress_ruin_bridge_one.json"
-hash = "fb67635de8a1f2e6853f1063e52ae26d004c17382128f39649ec9a3ee8e8f9c7"
-
-[[files]]
-file = "config/openloader/worldgen/data/philipsruins/worldgen/template_pool/end/end_gate_fortress_walkway_one.json"
-hash = "61e50eebde41d5673b01b52f03949361253cf4766fb04cd870762e5ec138026a"
-
-[[files]]
-file = "config/openloader/worldgen/data/philipsruins/worldgen/template_pool/end_ruins.json"
-hash = "a144a68756f13077cc6ac187ffae2cabb371ef8e1cc730d68d056f66bda392ae"
-
-[[files]]
-file = "config/openloader/worldgen/data/philipsruins/worldgen/template_pool/field_stone_ruins.json"
-hash = "f2032b97f54d6beec68f45687489eb26a32d0b623fe286850edf3a24192c9f40"
-
-[[files]]
-file = "config/openloader/worldgen/data/philipsruins/worldgen/template_pool/field_stone_ruins_rocks.json"
-hash = "4739b277fb5d3b038c92518c61ab51600f1819282a3077ba20b9fe54b5387681"
-
-[[files]]
-file = "config/openloader/worldgen/data/philipsruins/worldgen/template_pool/level_one_ruins.json"
-hash = "93600062a61fb5bb12ae418fa0491729ad4ac51effecd8d933387b1ea9036a39"
-
-[[files]]
-file = "config/openloader/worldgen/data/philipsruins/worldgen/template_pool/level_three_ruins.json"
-hash = "6be17cb47cdfc622ff5f6bb54db81743990e41f58737c5eb0d3e9ffa747b9a78"
-
-[[files]]
-file = "config/openloader/worldgen/data/philipsruins/worldgen/template_pool/level_two_ruins.json"
-hash = "f38e8bff6109ca7b8d0a798e8e5afb2f72a222b18ff60fcfbbd2cae487e35215"
-
-[[files]]
-file = "config/openloader/worldgen/data/philipsruins/worldgen/template_pool/level_two_ruins_pool.json"
-hash = "1feaa6085b6caaedb8d315718bc56b7c348655307f2cb8934ec112d6d4950c12"
-
-[[files]]
-file = "config/openloader/worldgen/data/philipsruins/worldgen/template_pool/lost_soul_city/lost_soul_city_part1.json"
-hash = "6c1c901830af061d20b93c454a9d8a021063d856fc7ceb9a8dae4020405f0efd"
-
-[[files]]
-file = "config/openloader/worldgen/data/philipsruins/worldgen/template_pool/lost_soul_city/lost_soul_city_part2.json"
-hash = "c5637d0a44feaaf5ed261c00682e24be420f2f2d93c441a42a86c86e417b73bb"
-
-[[files]]
-file = "config/openloader/worldgen/data/philipsruins/worldgen/template_pool/lost_soul_city/lost_soul_city_part3.json"
-hash = "ece53c7e848d81b6960bb85a368f1414d35b8550e6fef6dcb13f84951d0c8bc2"
-
-[[files]]
-file = "config/openloader/worldgen/data/philipsruins/worldgen/template_pool/lost_soul_city/lost_soul_city_part4.json"
-hash = "6442d6ee34b35509906cfbc4ebe7de8ed5703eafc29681697ca7eb746a313483"
-
-[[files]]
-file = "config/openloader/worldgen/data/philipsruins/worldgen/template_pool/lost_soul_city/lost_soul_city_start.json"
-hash = "183a392d3e823b3ea152cad79c6f4d63ac043fdbf04486b1eb265513d6164d0d"
-
-[[files]]
-file = "config/openloader/worldgen/data/philipsruins/worldgen/template_pool/lost_soul_dungeon/lost_soul_start_pool.json"
-hash = "a10b7a34667193e9d4c99e5661af54c25fa18922b55d5a7dbfdc9a0f5a960eb8"
-
-[[files]]
-file = "config/openloader/worldgen/data/philipsruins/worldgen/template_pool/lost_soul_dungeon/side_pool.json"
-hash = "099dbb99fa93d2595c1134fc94e28549c61c43da3637e3f090b779ca04a75af1"
-
-[[files]]
-file = "config/openloader/worldgen/data/philipsruins/worldgen/template_pool/lost_soul_dungeon/side_pool2.json"
-hash = "7173df4bf6daeb17050676c492d8ba86be1e7c37bdacb232d94d4b66e0b63c03"
-
-[[files]]
-file = "config/openloader/worldgen/data/philipsruins/worldgen/template_pool/lost_soul_dungeon/side_pool3.json"
-hash = "88239f7aabeec35af942c57e40700892a78dc7fe7c89df2efdaf5a8cf3ddf8f7"
-
-[[files]]
-file = "config/openloader/worldgen/data/philipsruins/worldgen/template_pool/lost_soul_dungeon/side_pool4.json"
-hash = "f308261ad545fee3bffd594039a0880fad7291e555adbe95a61c2fee99ef31c3"
-
-[[files]]
-file = "config/openloader/worldgen/data/philipsruins/worldgen/template_pool/nether_dungeon/nether_dungeon_room1.json"
-hash = "9c331b4df610b8797998b20381a7a2d0fe58a69734442e939b198b5fb630f37a"
-
-[[files]]
-file = "config/openloader/worldgen/data/philipsruins/worldgen/template_pool/nether_dungeon/nether_dungeon_room2.json"
-hash = "32baa28a0ba1c4fa37696996e2f792457cebb0ff1fb57a24909087d24828748d"
-
-[[files]]
-file = "config/openloader/worldgen/data/philipsruins/worldgen/template_pool/nether_dungeon/nether_dungeon_room3.json"
-hash = "0f84f33c93ba4c0f640542e3d5cf398b08ecf5cc74b984f2250b5487cb589915"
-
-[[files]]
-file = "config/openloader/worldgen/data/philipsruins/worldgen/template_pool/nether_dungeon/nether_dungeon_room4.json"
-hash = "42baeb161d198a4911e3747f215ec7d60e40af18e1a0b58b67141dfab1d82a45"
-
-[[files]]
-file = "config/openloader/worldgen/data/philipsruins/worldgen/template_pool/nether_dungeon/nether_dungeon_room5.json"
-hash = "3c42aad7765d2162a5d3779521b077db0ea2c87d9fc1ca46552b0bdfe4fd016e"
-
-[[files]]
-file = "config/openloader/worldgen/data/philipsruins/worldgen/template_pool/nether_dungeon/nether_dungeon_room6.json"
-hash = "bb2afb0a94480997bf98630ae67f46111b22f3b75566ac8289e3be308d5a4850"
-
-[[files]]
-file = "config/openloader/worldgen/data/philipsruins/worldgen/template_pool/nether_dungeon/start_nether_dungeon.json"
-hash = "c0f3b8676755624b5f490144bd219ce56fd81806cfa3e7a901524bc73d935b72"
-
-[[files]]
-file = "config/openloader/worldgen/data/philipsruins/worldgen/template_pool/nether_lava_ruins.json"
-hash = "1599c61011a9d7f3af79e7d376dabfa8857d2ffdf08575e1d4fc1cacda609586"
-
-[[files]]
-file = "config/openloader/worldgen/data/philipsruins/worldgen/template_pool/nether_ruins/nether_ruin1.json"
-hash = "96ce80aedf0d30858b75ab4706c3ba77afa3117e730176ad49600baf75c69520"
-
-[[files]]
-file = "config/openloader/worldgen/data/philipsruins/worldgen/template_pool/nether_ruins/nether_ruin2.json"
-hash = "5558b1d506436d9e95c07494eaa52c12dcb5d3c0d5d390732f0e4ad097eca299"
-
-[[files]]
-file = "config/openloader/worldgen/data/philipsruins/worldgen/template_pool/nether_ruins/nether_ruin3.json"
-hash = "d6614e1aa33b47546f86e1a0c740644ac1a0bdbd3948e15f99842dda26c1d0be"
-
-[[files]]
-file = "config/openloader/worldgen/data/philipsruins/worldgen/template_pool/nether_ruins/nether_ruin4.json"
-hash = "2ddbe3e3502b3b5939d95869fa8a7f0e0e84d59ff102d1083ae343f067a37ade"
-
-[[files]]
-file = "config/openloader/worldgen/data/philipsruins/worldgen/template_pool/nether_ruins/start_nether_ruin.json"
-hash = "56737cd378c0361d1dd0216b1412c0e6f1a8ff8c280dfe9e3081091bbd145df6"
-
-[[files]]
-file = "config/openloader/worldgen/data/philipsruins/worldgen/template_pool/ocean_fortress/ocean_fortress_main.json"
-hash = "62e247533b84612638f918a5bdcad8d7f8e0a7f808c15e163739e081020db304"
-
-[[files]]
-file = "config/openloader/worldgen/data/philipsruins/worldgen/template_pool/ocean_fortress/ocean_fortress_part1.json"
-hash = "e3d64e1ce63c06f5f75788d817108c79192e38489d257884ffc9f20efe02b8e4"
-
-[[files]]
-file = "config/openloader/worldgen/data/philipsruins/worldgen/template_pool/ocean_fortress/ocean_fortress_part2.json"
-hash = "9dfdd9d0b627585d39e012ee522199be3cd10885dba1b8541acf3ddda3f4fee1"
-
-[[files]]
-file = "config/openloader/worldgen/data/philipsruins/worldgen/template_pool/ocean_fortress/ocean_fortress_part3.json"
-hash = "5477b285f585fb291f3336336ffd6469ec890182ab99a1b8590cabe4d0d9124c"
-
-[[files]]
-file = "config/openloader/worldgen/data/philipsruins/worldgen/template_pool/ocean_ruins.json"
-hash = "574fc3cad9258e09250e98e1c8d1a09b7dea2875e6870a0076df4181095343dd"
-
-[[files]]
-file = "config/openloader/worldgen/data/philipsruins/worldgen/template_pool/pumpkin_ruins.json"
-hash = "b9276efeb526fdaef917ef475a5b85d5ab25511bc206038ac3b18019e1ed7968"
-
-[[files]]
-file = "config/openloader/worldgen/data/philipsruins/worldgen/template_pool/rare_ruin.json"
-hash = "e2dcb4779514e669a7e97714a951008d42c2fab18d7a43e595fd6acf31f3b93c"
-
-[[files]]
-file = "config/openloader/worldgen/data/philipsruins/worldgen/template_pool/sculk_dungeon/sculk_dungeon_room1.json"
-hash = "7b9624737e3415e2f82c231236319e8dcf54490bd1fa58810019dd5fb9ea870f"
-
-[[files]]
-file = "config/openloader/worldgen/data/philipsruins/worldgen/template_pool/sculk_dungeon/sculk_dungeon_room2.json"
-hash = "98a4cc88f8408c6ec3f7a5d6b2061204ebab49c54add408c9f59388cc0741c4c"
-
-[[files]]
-file = "config/openloader/worldgen/data/philipsruins/worldgen/template_pool/sculk_dungeon/sculk_dungeon_room3.json"
-hash = "549e71f1ce0ea0b59e281122b57f575d45dac84feb3eb8da0e0ccf609f208be7"
-
-[[files]]
-file = "config/openloader/worldgen/data/philipsruins/worldgen/template_pool/sculk_dungeon/sculk_dungeon_start.json"
-hash = "35b437223352a15be1c857ee9f297d4a762aad63197bceb66e40318c455e8d52"
-
-[[files]]
-file = "config/openloader/worldgen/data/philipsruins/worldgen/template_pool/sealedruinedghaststatue1.json"
-hash = "4eb099845b791a4f51054eeb69680664b8b65af0c99e16314cdba441c0a284ff"
-
-[[files]]
-file = "config/openloader/worldgen/data/philipsruins/worldgen/template_pool/underground_structures.json"
-hash = "56cde85c7c32604b2c51c1e25f26f89dbe374270e08828260a1aa0ccb12bf414"
-
-[[files]]
-file = "config/openloader/worldgen/data/red/tags/worldgen/biome/has_structure/darktower.json"
-hash = "1f08d468cfe726c1e207af557dc8d1769e75b4846797c1901053d4cff9f8567f"
-
-[[files]]
-file = "config/openloader/worldgen/data/red/tags/worldgen/biome/has_structure/tower.json"
-hash = "3e17ff1249f474d916e1b38e03fff923d84316c7fbba1cd842e2195690b7124d"
-
-[[files]]
-file = "config/openloader/worldgen/data/red/worldgen/structure_set/abandoned_house.json"
-hash = "63b6419e6fc161810d3a342f611a3df11b67de58627bd29420b1a9e13081791a"
-
-[[files]]
-file = "config/openloader/worldgen/data/red/worldgen/structure_set/beach_house.json"
-hash = "18cb5879b9c1f2150c0fe1aedd86ff4034ab2d1466639aaac88fbfd7b633db25"
-
-[[files]]
-file = "config/openloader/worldgen/data/red/worldgen/structure_set/big_oracle.json"
-hash = "21072d8090d21fff5bbbdaf1a75243d40099f29cc6a6d5c10caf27e0643fcf28"
-
-[[files]]
-file = "config/openloader/worldgen/data/red/worldgen/structure_set/birch_deforestation.json"
-hash = "aafdcdaf587e900553c022911cdfe45c39bfe113e300de84a2f6b63c390b87a7"
-
-[[files]]
-file = "config/openloader/worldgen/data/red/worldgen/structure_set/dark_tower.json"
-hash = "99d73c3311849a4041eac76bb5da764aa6df6400a78e910c2c530da2531b5b8d"
-
-[[files]]
-file = "config/openloader/worldgen/data/red/worldgen/structure_set/desert_pyramid.json"
-hash = "73118b59f3e0f7028b146fa96491a17a7bc208d431b7146105f1d1168bd0a941"
-
-[[files]]
-file = "config/openloader/worldgen/data/red/worldgen/structure_set/flower_oracle.json"
-hash = "901f7283f2dd4bc3b8a9437c3011fd4f47eacf258c764ec8776a6ef2785d1e69"
-
-[[files]]
-file = "config/openloader/worldgen/data/red/worldgen/structure_set/forest_deforestation.json"
-hash = "a25f83514c7f8684395a20c1964573b876fa70eb146ebfe4f6e48275bc5ecc4b"
-
-[[files]]
-file = "config/openloader/worldgen/data/red/worldgen/structure_set/herobrine_statue.json"
-hash = "f699d6bfae005aa120b3a15743a1012a8e240ccabb57ebdd9ff2d50c70e5ef7a"
-
-[[files]]
-file = "config/openloader/worldgen/data/red/worldgen/structure_set/jungle_deforestation.json"
-hash = "a81482bd012b2a5359a252532ed897e4b74cf03abfd4105bedcdea5f44c030c0"
-
-[[files]]
-file = "config/openloader/worldgen/data/red/worldgen/structure_set/jungle_pyramid.json"
-hash = "9faaaafb86e118414243e70236030ddcda8b5990397f98b1d5ffd523a0e8c998"
-
-[[files]]
-file = "config/openloader/worldgen/data/red/worldgen/structure_set/patheon.json"
-hash = "05b8b91813e7db99717e4f7b989939742b288dd8f53c9e135ddc5fafda2bc387"
-
-[[files]]
-file = "config/openloader/worldgen/data/red/worldgen/structure_set/plains_oracle.json"
-hash = "e2eafab11d6ae121df76930737220685335c897283eb1afa416ac9bab9ae53df"
-
-[[files]]
-file = "config/openloader/worldgen/data/red/worldgen/structure_set/snowy_oracle.json"
-hash = "443ecddaaf9a57b2721289b1568dc3bcdd3ed0ab56499426474528991d0b714d"
-
-[[files]]
-file = "config/openloader/worldgen/data/red/worldgen/structure_set/sphinx.json"
-hash = "cb8f7d3e8a1002df3810a4f38d7d7c7c02b07dcd5c99013167b2271787629e1e"
-
-[[files]]
-file = "config/openloader/worldgen/data/red/worldgen/structure_set/statue.json"
-hash = "b3a0f94feb43d17c5f1a1ba875659f73cac46a4b3ed6c7b541563a8b06d47aaa"
-
-[[files]]
-file = "config/openloader/worldgen/data/red/worldgen/structure_set/statue2.json"
-hash = "dc2d24be8bdd9c14456eef88fac4ebeabd53f8a01962709ef99ab420aee7f037"
-
-[[files]]
-file = "config/openloader/worldgen/data/red/worldgen/structure_set/swamp_pillager.json"
-hash = "d8c7d7161248ca44474a2d721083669fd95d6fd0d983f279fbbf1e3288463af1"
-
-[[files]]
-file = "config/openloader/worldgen/data/red/worldgen/structure_set/swamp_pillager_mangrove.json"
-hash = "022ad2c9f20f83f0f2f21f5c2b54ce924f13bbc0f891534540b799ae422b82b1"
-
-[[files]]
-file = "config/openloader/worldgen/data/red/worldgen/structure_set/taiga_deforestation.json"
-hash = "f44faf2058773e50c5cca80b55f0516bb875cda91db79adfa72ba9602ab7c30a"
-
-[[files]]
-file = "config/openloader/worldgen/pack.mcmeta"
-hash = "55febaa2394eeacc12835f05b5aa38aa0a71a068b49a53da5915e200e8bfa074"
 
 [[files]]
 file = "config/openpartiesandclaims-server.toml"
@@ -4106,7 +1666,7 @@ hash = "d518a1ed11db7384ca31ec7254e6089bde8bdea7a91055b7880a6b9573014159"
 
 [[files]]
 file = "config/randommobeffects/blacklist.txt"
-hash = "b0bae4ff130dc49a16f73cdcd25df318d9a41f7c334f7e36b0c4645fcf5cbd99"
+hash = "1c20a8516e9e33e9f3b6211cb790af26ead4fedd44505bf78f7a805b483c30f0"
 
 [[files]]
 file = "config/rpg_series/loot_v2.json"
@@ -4135,34 +1695,6 @@ hash = "e718624c8330d0d9d49ead4e22da36e345612d4043979dd59f5d1448e10abe48"
 [[files]]
 file = "config/sparsestructures.json5"
 hash = "ffb931e5681f2d1594f2262641cde7a37f9d8478d1b5d9c7ee90f26b2b57bb3f"
-
-[[files]]
-file = "config/spell-dimension/blazing_mark.json"
-hash = "04694ed52bff60d05e43339f0829f6da1b07e70430f0d54e26212362a582ef3f"
-
-[[files]]
-file = "config/spell-dimension/converge.json"
-hash = "59465838a70b9f12dd65f86f8998f7e6346b1cddb148e593d9027caff919993d"
-
-[[files]]
-file = "config/spell-dimension/frosted.json"
-hash = "6fd79b7c8abed2de4f055a862d18deb46418226277948f9135db2f4fa51c4fa5"
-
-[[files]]
-file = "config/spell-dimension/loot.json"
-hash = "a0c2220014e1d621c2b6d0efab435d6be68b5f4b4028ce972795800271ef9e08"
-
-[[files]]
-file = "config/spell-dimension/misc.json"
-hash = "d7040a83af81efdbe4c464a2db6bdcd243aff7a701abee6fad266f5db1256971"
-
-[[files]]
-file = "config/spell-dimension/modifiers.json"
-hash = "4284db124b0f124a43d61cd566e034664201191d6df39730e402cec64ac4691c"
-
-[[files]]
-file = "config/spell-dimension/nucleus.json"
-hash = "e0e6f1e7942c321aae8686c92154bd3148e3c61ef6a7d9c28726d8e57362427f"
 
 [[files]]
 file = "config/spell_engine/client.json5"
@@ -4195,6 +1727,46 @@ hash = "a93b4e811672df57fd12a2925568b3b17bbc412fd38208617719aaa8edb9e58b"
 [[files]]
 file = "config/starterkit.json5"
 hash = "ed18501fad8911026af6621ab5a90382a195a915dc547d2a988d1fd9992f9ddf"
+
+[[files]]
+file = "config/starterkit/descriptions/arcane.txt"
+hash = "93006d6159aa4a3ced15e3408defe0c9c5758f59c9b164de07c648dc5fa2d4c1"
+
+[[files]]
+file = "config/starterkit/descriptions/fire.txt"
+hash = "c141faa80e43a11909f5736d1e767f12e1468aa06dadd446081746934e875fc3"
+
+[[files]]
+file = "config/starterkit/descriptions/frost.txt"
+hash = "17636dd620d730ae34b5c04a3cbd2591218b1f0543a1685b992d456123cc4382"
+
+[[files]]
+file = "config/starterkit/descriptions/generic.txt"
+hash = "9aedbb1f8e0190d423bc5dd679e211b649a9206810676d702584350c4e4df068"
+
+[[files]]
+file = "config/starterkit/descriptions/healing.txt"
+hash = "44bc3799892c50fad1f4f76100cd74ebf28f922da6f977a772352d3291b92fdf"
+
+[[files]]
+file = "config/starterkit/kits/arcane.txt"
+hash = "d4d9616813044e1b8a4ca0ebe49d68de95a2ed9af18686cbb58d933fa0a3d263"
+
+[[files]]
+file = "config/starterkit/kits/fire.txt"
+hash = "076f7e0399f7c663b5c8c10526ce4f064efb2f45c63c3d05b8d98774c7b591ef"
+
+[[files]]
+file = "config/starterkit/kits/frost.txt"
+hash = "1e9115072d2203b0cfd205cb16ed0bdd1d220e91cc5132fa328a49b208f51120"
+
+[[files]]
+file = "config/starterkit/kits/generic.txt"
+hash = "dabe08ccbef86ae5d0606c7026b63933bfd97240ea50ff84a59582f559dedba5"
+
+[[files]]
+file = "config/starterkit/kits/healing.txt"
+hash = "8feeaf20ec631433204e7523b3aceba6aa2f03062cd43ac55b4d6204737e149c"
 
 [[files]]
 file = "config/tooltipscroll.json"
@@ -4407,7 +1979,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "0ba6db78da1977f43dc0e00ee435a456440c5eda781585a7961b9691280dba24"
+hash = "7974e66b2677eae99179bbc124f6ac990acf2e01294ed0997b3a15a828f03017"
 metafile = true
 
 [[files]]
@@ -4636,7 +2208,7 @@ metafile = true
 
 [[files]]
 file = "mods/geophilic.pw.toml"
-hash = "04491d454493b21b9aa2780d267c8fbfee638f71f89d1fa544d0599f875294ed"
+hash = "b801c7145bc086e65d0a99e3631ce4af5bba3c744370a446a86b4abba72d2e92"
 metafile = true
 
 [[files]]
@@ -4650,17 +2222,12 @@ hash = "e69b412a343dabb219238dcfca40b374eb960a57bee4c4fd0d5c17a8faad4e67"
 metafile = true
 
 [[files]]
-file = "mods/health-levels.pw.toml"
-hash = "730c1de8172256bf47553a52269935241fb7f2948bb998a66e2eec1aaecca068"
-metafile = true
-
-[[files]]
 file = "mods/hotshot-0.0.2.jar"
 hash = "cf41eb7298cfb5336306232674a87a9c09dd21d4081eef5770d22b19c951238a"
 
 [[files]]
 file = "mods/husk-spawn.pw.toml"
-hash = "558a5bff38ada3a119043ccb97c5cafd34449fed44dff7bc47a547554f06b128"
+hash = "7788267e3c4262c6da383c0dd5c46f9377efa37970027baee4c820b2c863f0d9"
 metafile = true
 
 [[files]]
@@ -4715,7 +2282,7 @@ metafile = true
 
 [[files]]
 file = "mods/just-mob-heads.pw.toml"
-hash = "0784effbe7cf0505e9797a01579a96a6cf12bfa637c1c1e1a52abbf42f9054b8"
+hash = "75e6e272e9a8723fc2557c988be0edb133bbfd524a16bf2e221ecd89ca742332"
 metafile = true
 
 [[files]]
@@ -4735,7 +2302,7 @@ metafile = true
 
 [[files]]
 file = "mods/l2-hostility-fabricated.pw.toml"
-hash = "0b806451faa8383fb3ee9a4143ed5c6d9bc963fe2975c9a81c67254d40edc9a3"
+hash = "12f6795fab7e1e9e5a4c6e02f6da4a1916735bc83b0f7c4f942917e28e4efde7"
 metafile = true
 
 [[files]]
@@ -4794,6 +2361,11 @@ hash = "8be17fb6252afbfe4518a2759c349fd812cae70d766d70a3139beaad4b9d2c8f"
 metafile = true
 
 [[files]]
+file = "mods/max-health-fix.pw.toml"
+hash = "12f5c792c87699be602c679ff3cfe81eaea183dd66a07f995c9a7cb4fa5100d3"
+metafile = true
+
+[[files]]
 file = "mods/medieval-buildings.pw.toml"
 hash = "9e086bf8c8616e6e3f964e8163ec8d05560afc8948c87cfbe4e7c2813f8692e6"
 metafile = true
@@ -4819,23 +2391,23 @@ hash = "0a661c356af9ae6f7605ad16362ee0af81b72385eb65237f04f70c958cab634e"
 metafile = true
 
 [[files]]
-file = "mods/mob-plaques.pw.toml"
-hash = "9839cf1a49d1755d7515b9aad0d52a855dd2bdaea4425d9988b3278d9cb719ae"
-metafile = true
-
-[[files]]
 file = "mods/mob-variants.pw.toml"
 hash = "d754abf5a5ed309fda90240f38826db01762e4f00deac99c55917f474a4a5076"
 metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "f4af7a3d1fc3f4038805b3ba41bd8b785aacfe0af6dbbf0c356b077fb3f14930"
+hash = "a6c3048c93a6dcd6ce45e0c9b1a3569177cd3af06f751b621b7fb296ab03897b"
 metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "66d1b7bc973830475a7bae8a5b823ec42fbc1ed1f4d4c514f1e6a21b20177810"
+metafile = true
+
+[[files]]
+file = "mods/modonomicon.pw.toml"
+hash = "f8e176860d318c1424dc59ead82ea97fce6a5af3233f697b4782a1ec0630273f"
 metafile = true
 
 [[files]]
@@ -4910,11 +2482,6 @@ metafile = true
 [[files]]
 file = "mods/nyctophobia-fabric.pw.toml"
 hash = "801a1b314139a61b357d0601ce0f6299b9752b1e2ff1879b7e33e58da0db53b5"
-metafile = true
-
-[[files]]
-file = "mods/nyfs-quivers.pw.toml"
-hash = "8f8e40b115cc520436d522bf3e317c2eedcf3a94333951c7361ea8e4ff0ae353"
 metafile = true
 
 [[files]]
@@ -4999,7 +2566,7 @@ metafile = true
 
 [[files]]
 file = "mods/random-mob-effects.pw.toml"
-hash = "2c4a390764c89cbd67f41ab5bc2f92dc10d951905ac251eac05178d81c6d8b29"
+hash = "c31043639ce1d6f35a7016fb7b933f074a7062953a44064a585ff5961dedc737"
 metafile = true
 
 [[files]]
@@ -5039,7 +2606,7 @@ metafile = true
 
 [[files]]
 file = "mods/ruins.pw.toml"
-hash = "41cdf82757e5d56eed45584142f329d44a91a7d4791c49edd9ef39a254a2fe96"
+hash = "61d354189a3f52474590b6647970f1f849da0c7877b63ef6cb20765c40e0b270"
 metafile = true
 
 [[files]]
@@ -5079,7 +2646,7 @@ metafile = true
 
 [[files]]
 file = "mods/skeleton-horse-spawn.pw.toml"
-hash = "98f0bbe93066617c7598e68ffc39224d00745247de7d966945db6b7c7f619076"
+hash = "3d4af2dddc4435f20fdd27ebb198a570d4b5b6ba080445704f32fec0a58c77c7"
 metafile = true
 
 [[files]]
@@ -5118,8 +2685,8 @@ hash = "6955c024252577178298e691d7fe0111c5bd1155e4497df6ed1251bdac9b5b44"
 metafile = true
 
 [[files]]
-file = "mods/spell_dimension-0.1.0.jar"
-hash = "b8bada7d54e3c0f922472716984784650590c0cc927880cd55460519249b63da"
+file = "mods/spell_dimension-0.3.2.jar"
+hash = "87af15260ef2e7b0a6b3e09857336fb082553992b5ecac97ecc9208d7c4bedb0"
 
 [[files]]
 file = "mods/spellblade-next.pw.toml"
@@ -5133,7 +2700,7 @@ metafile = true
 
 [[files]]
 file = "mods/starter-kit.pw.toml"
-hash = "08bc510b114bc03d2b022344d9426fcc5552fdee02614f20119e63decd09825b"
+hash = "65e2f876769b7392d0a96fd7a5f8f108457ef87eaebe91b6dd0416ce543c071e"
 metafile = true
 
 [[files]]
@@ -5147,7 +2714,7 @@ metafile = true
 
 [[files]]
 file = "mods/stray-spawn.pw.toml"
-hash = "3a82873fdf6b986737bf0a292b9f517c47ff4a739a4f42c4de113b8857874703"
+hash = "04731f52383e307e120e46628341b2ba7d14e37f90413ecb19691bf9e60dc0e2"
 metafile = true
 
 [[files]]
@@ -5202,6 +2769,11 @@ metafile = true
 [[files]]
 file = "mods/trinkets.pw.toml"
 hash = "d9bfec2cf36b6bae2d85a1136560e047ab8ce1b0e9798e7b6be5d0670f65fb55"
+metafile = true
+
+[[files]]
+file = "mods/tslatentitystatus-tes.pw.toml"
+hash = "5879cf0460f97225228b1b590d8eb583f9ab92998d730c87053af6aeb8f6f5f3"
 metafile = true
 
 [[files]]
@@ -5311,7 +2883,7 @@ metafile = true
 
 [[files]]
 file = "mods/zombie-horse-spawn.pw.toml"
-hash = "bbd2d5423245721c5434f968b79bd8b02d1dd455866ac7571124beb9c9ea9901"
+hash = "2a9b0bdcae8a4cddab29f45cafeec1f20453cff195c5c653510d82e1f95f99a4"
 metafile = true
 
 [[files]]
@@ -5407,7 +2979,3 @@ hash = "e71cd57f0867f2347f0a5667242dc492dc9b7dd26b0c4db30602da9362015059"
 [[files]]
 file = "shaderpacks/superDuperVanilla.zip"
 hash = "e37a798602e8bc5d8202533bfbdd75f39a70b46b917748fe410a34c0b20b5e4c"
-
-[[files]]
-file = "spell-dimension-modpack.md"
-hash = "acb1a28906804de78aac79fce324e20ba2eab6f26afe709569749fd5a76a4ee0"

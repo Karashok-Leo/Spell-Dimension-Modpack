@@ -1,8 +1,0 @@
-{
-  "replace": false,
-  "values": [
-    "minecraft:desert",
-    "#minecraft:has_structure/desert_pyramid",
-    "#c:desert"
-  ]
-}

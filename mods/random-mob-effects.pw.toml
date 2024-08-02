@@ -1,13 +1,13 @@
 name = "Random Mob Effects"
-filename = "randommobeffects-1.20.1-3.3.jar"
+filename = "randommobeffects-1.20.1-3.4.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "759cf0cc305615a9e0cf4c62a04e78f73831285a"
+hash = "27eb5f7ca95470a4b7070490f44c7ae3c96f5edc"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4964104
+file-id = 5571976
 project-id = 445660

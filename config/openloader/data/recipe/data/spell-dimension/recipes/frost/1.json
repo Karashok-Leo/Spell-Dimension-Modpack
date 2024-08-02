@@ -1,0 +1,33 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "key": {
+      "#": {
+        "item": "spell-dimension:essence_frost_1"
+      },
+      "*": {
+        "item": "spell-dimension:spell_book_frost_0"
+      },
+      "A": {
+        "item": "aquamirae:abyssal_amethyst"
+      },
+      "B": {
+        "item": "soulsweapons:moonstone"
+      },
+      "C": {
+        "item": "aquamirae:ship_graveyard_echo"
+      },
+      "D": {
+        "item": "soulsweapons:verglas"
+      }
+    },
+    "pattern": [
+      "#A#",
+      "D*B",
+      "#C#"
+    ],
+    "result": {
+      "item": "spell-dimension:spell_book_frost_1"
+    },
+    "show_notification": true
+  }

@@ -1,0 +1,33 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "key": {
+      "#": {
+        "item": "spell-dimension:essence_arcane_2"
+      },
+      "*": {
+        "item": "spell-dimension:spell_book_arcane_1"
+      },
+      "A": {
+        "item": "bosses_of_mass_destruction:obsidian_heart"
+      },
+      "B": {
+        "item": "aquamirae:divider"
+      },
+      "C": {
+        "item": "minecraft:elytra"
+      },
+      "D": {
+        "item": "soulsweapons:master_sword"
+      }
+    },
+    "pattern": [
+      "#A#",
+      "D*B",
+      "#C#"
+    ],
+    "result": {
+      "item": "spell-dimension:spell_book_arcane_2"
+    },
+    "show_notification": true
+  }

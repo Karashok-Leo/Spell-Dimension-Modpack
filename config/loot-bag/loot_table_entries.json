@@ -1,7 +1,8 @@
 {
   "entries": {
     "start": {
-      "loot_table_id": "spell-dimension:pool/start",
+      "type": "LOOT_TABLE",
+      "value": "spell-dimension:pool/start",
       "icon": {
         "texture": "wizards:textures/item/wand_arcane.png",
         "width": 16,
@@ -13,20 +14,9 @@
         "loot_table.spell-dimension.start.desc.1"
       ]
     },
-    "qu_ruin": {
-      "loot_table_id": "spell-dimension:pool/qu_ruin",
-      "icon": {
-        "texture": "qu-enchantments:textures/item/rune_0.png",
-        "width": 16,
-        "height": 16
-      },
-      "name": "loot_table.spell-dimension.qu_ruin.name",
-      "description": [
-        "loot_table.spell-dimension.qu_ruin.desc"
-      ]
-    },
     "charm": {
-      "loot_table_id": "spell-dimension:pool/charm",
+      "type": "LOOT_TABLE",
+      "value": "spell-dimension:pool/charm",
       "icon": {
         "texture": "mythic_charms:textures/item/fragile_charm_of_gaze_serenity.png",
         "width": 16,
@@ -38,7 +28,8 @@
       ]
     },
     "artifact": {
-      "loot_table_id": "spell-dimension:pool/artifact",
+      "type": "LOOT_TABLE",
+      "value": "spell-dimension:pool/artifact",
       "icon": {
         "texture": "artifacts:textures/item/crystal_heart.png",
         "width": 16,
@@ -50,7 +41,8 @@
       ]
     },
     "a_ring": {
-      "loot_table_id": "spell-dimension:pool/a_ring",
+      "type": "LOOT_TABLE",
+      "value": "spell-dimension:pool/a_ring",
       "icon": {
         "texture": "ringsofascension:textures/item/ring_flight.png",
         "width": 16,
@@ -62,7 +54,8 @@
       ]
     },
     "jewelry_rings": {
-      "loot_table_id": "spell-dimension:pool/jewelry_rings",
+      "type": "LOOT_TABLE",
+      "value": "spell-dimension:pool/jewelry_rings",
       "icon": {
         "texture": "jewelry:textures/item/ruby_ring.png",
         "width": 16,
@@ -74,7 +67,8 @@
       ]
     },
     "jewelry_necklaces": {
-      "loot_table_id": "spell-dimension:pool/jewelry_necklaces",
+      "type": "LOOT_TABLE",
+      "value": "spell-dimension:pool/jewelry_necklaces",
       "icon": {
         "texture": "jewelry:textures/item/jade_necklace.png",
         "width": 16,
@@ -86,7 +80,8 @@
       ]
     },
     "midas": {
-      "loot_table_id": "spell-dimension:pool/midas",
+      "type": "LOOT_TABLE",
+      "value": "spell-dimension:pool/midas",
       "icon": {
         "texture": "midashunger:textures/item/cooked_golden_beef.png",
         "width": 16,
@@ -98,7 +93,8 @@
       ]
     },
     "common_book": {
-      "loot_table_id": "spell-dimension:pool/common/book",
+      "type": "LOOT_TABLE",
+      "value": "spell-dimension:pool/common/book",
       "icon": {
         "texture": "minecraft:textures/item/enchanted_book.png",
         "width": 16,
@@ -110,7 +106,8 @@
       ]
     },
     "common_gear": {
-      "loot_table_id": "spell-dimension:pool/common/gear",
+      "type": "LOOT_TABLE",
+      "value": "spell-dimension:pool/common/gear",
       "icon": {
         "texture": "minecraft:textures/item/iron_sword.png",
         "width": 16,
@@ -122,7 +119,8 @@
       ]
     },
     "common_material": {
-      "loot_table_id": "spell-dimension:pool/common/material",
+      "type": "LOOT_TABLE",
+      "value": "spell-dimension:pool/common/material",
       "icon": {
         "texture": "minecraft:textures/item/iron_ingot.png",
         "width": 16,
@@ -134,7 +132,8 @@
       ]
     },
     "uncommon_book": {
-      "loot_table_id": "spell-dimension:pool/uncommon/book",
+      "type": "LOOT_TABLE",
+      "value": "spell-dimension:pool/uncommon/book",
       "icon": {
         "texture": "minecraft:textures/item/enchanted_book.png",
         "width": 16,
@@ -146,7 +145,8 @@
       ]
     },
     "uncommon_gear": {
-      "loot_table_id": "spell-dimension:pool/uncommon/gear",
+      "type": "LOOT_TABLE",
+      "value": "spell-dimension:pool/uncommon/gear",
       "icon": {
         "texture": "minecraft:textures/item/diamond_sword.png",
         "width": 16,
@@ -158,7 +158,8 @@
       ]
     },
     "uncommon_material": {
-      "loot_table_id": "spell-dimension:pool/uncommon/material",
+      "type": "LOOT_TABLE",
+      "value": "spell-dimension:pool/uncommon/material",
       "icon": {
         "texture": "minecraft:textures/item/diamond.png",
         "width": 16,
@@ -170,7 +171,8 @@
       ]
     },
     "rare_book": {
-      "loot_table_id": "spell-dimension:pool/rare/book",
+      "type": "LOOT_TABLE",
+      "value": "spell-dimension:pool/rare/book",
       "icon": {
         "texture": "minecraft:textures/item/enchanted_book.png",
         "width": 16,
@@ -182,7 +184,8 @@
       ]
     },
     "rare_gear": {
-      "loot_table_id": "spell-dimension:pool/rare/gear",
+      "type": "LOOT_TABLE",
+      "value": "spell-dimension:pool/rare/gear",
       "icon": {
         "texture": "mythicupgrades:textures/item/sapphire_sword.png",
         "width": 16,
@@ -194,7 +197,8 @@
       ]
     },
     "rare_material": {
-      "loot_table_id": "spell-dimension:pool/rare/material",
+      "type": "LOOT_TABLE",
+      "value": "spell-dimension:pool/rare/material",
       "icon": {
         "texture": "mythicupgrades:textures/item/sapphire_ingot.png",
         "width": 16,
@@ -206,7 +210,8 @@
       ]
     },
     "epic_book": {
-      "loot_table_id": "spell-dimension:pool/epic/book",
+      "type": "LOOT_TABLE",
+      "value": "spell-dimension:pool/epic/book",
       "icon": {
         "texture": "minecraft:textures/item/enchanted_book.png",
         "width": 16,
@@ -218,7 +223,8 @@
       ]
     },
     "epic_gear": {
-      "loot_table_id": "spell-dimension:pool/epic/gear",
+      "type": "LOOT_TABLE",
+      "value": "spell-dimension:pool/epic/gear",
       "icon": {
         "texture": "mythicmetals:textures/item/tools/adamantite_sword.png",
         "width": 16,
@@ -230,7 +236,8 @@
       ]
     },
     "epic_material": {
-      "loot_table_id": "spell-dimension:pool/epic/material",
+      "type": "LOOT_TABLE",
+      "value": "spell-dimension:pool/epic/material",
       "icon": {
         "texture": "mythicmetals:textures/item/adamantite_ingot.png",
         "width": 16,
@@ -242,7 +249,8 @@
       ]
     },
     "legendary_book": {
-      "loot_table_id": "spell-dimension:pool/legendary/book",
+      "type": "LOOT_TABLE",
+      "value": "spell-dimension:pool/legendary/book",
       "icon": {
         "texture": "minecraft:textures/item/enchanted_book.png",
         "width": 16,
@@ -254,7 +262,8 @@
       ]
     },
     "legendary_gear": {
-      "loot_table_id": "spell-dimension:pool/legendary/gear",
+      "type": "LOOT_TABLE",
+      "value": "spell-dimension:pool/legendary/gear",
       "icon": {
         "texture": "mythicmetals:textures/item/tools/metallurgium_sword.png",
         "width": 16,
@@ -266,7 +275,8 @@
       ]
     },
     "legendary_material": {
-      "loot_table_id": "spell-dimension:pool/legendary/material",
+      "type": "LOOT_TABLE",
+      "value": "spell-dimension:pool/legendary/material",
       "icon": {
         "texture": "mythicmetals:textures/item/metallurgium_ingot.png",
         "width": 16,
@@ -278,7 +288,8 @@
       ]
     },
     "arcane_wand": {
-      "loot_table_id": "spell-dimension:pool/optional/wand/arcane",
+      "type": "LOOT_TABLE",
+      "value": "spell-dimension:pool/optional/wand/arcane",
       "icon": {
         "texture": "wizards:textures/item/wand_arcane.png",
         "width": 16,
@@ -290,7 +301,8 @@
       ]
     },
     "fire_wand": {
-      "loot_table_id": "spell-dimension:pool/optional/wand/fire",
+      "type": "LOOT_TABLE",
+      "value": "spell-dimension:pool/optional/wand/fire",
       "icon": {
         "texture": "wizards:textures/item/wand_fire.png",
         "width": 16,
@@ -302,7 +314,8 @@
       ]
     },
     "frost_wand": {
-      "loot_table_id": "spell-dimension:pool/optional/wand/frost",
+      "type": "LOOT_TABLE",
+      "value": "spell-dimension:pool/optional/wand/frost",
       "icon": {
         "texture": "wizards:textures/item/wand_frost.png",
         "width": 16,
@@ -314,7 +327,8 @@
       ]
     },
     "healing_wand": {
-      "loot_table_id": "spell-dimension:pool/optional/wand/healing",
+      "type": "LOOT_TABLE",
+      "value": "spell-dimension:pool/optional/wand/healing",
       "icon": {
         "texture": "paladins:textures/item/holy_wand.png",
         "width": 16,
@@ -326,7 +340,8 @@
       ]
     },
     "lightning_wand": {
-      "loot_table_id": "spell-dimension:pool/optional/wand/lightning",
+      "type": "LOOT_TABLE",
+      "value": "spell-dimension:pool/optional/wand/lightning",
       "icon": {
         "texture": ":textures/item/gunpowder.png",
         "width": 16,
@@ -338,7 +353,8 @@
       ]
     },
     "soul_wand": {
-      "loot_table_id": "spell-dimension:pool/optional/wand/soul",
+      "type": "LOOT_TABLE",
+      "value": "spell-dimension:pool/optional/wand/soul",
       "icon": {
         "texture": ":textures/item/gunpowder.png",
         "width": 16,
@@ -350,7 +366,8 @@
       ]
     },
     "arcane_rune": {
-      "loot_table_id": "spell-dimension:pool/optional/rune/arcane",
+      "type": "LOOT_TABLE",
+      "value": "spell-dimension:pool/optional/rune/arcane",
       "icon": {
         "texture": "runes:textures/item/arcane_stone.png",
         "width": 16,
@@ -362,7 +379,8 @@
       ]
     },
     "fire_rune": {
-      "loot_table_id": "spell-dimension:pool/optional/rune/fire",
+      "type": "LOOT_TABLE",
+      "value": "spell-dimension:pool/optional/rune/fire",
       "icon": {
         "texture": "runes:textures/item/fire_stone.png",
         "width": 16,
@@ -374,7 +392,8 @@
       ]
     },
     "frost_rune": {
-      "loot_table_id": "spell-dimension:pool/optional/rune/frost",
+      "type": "LOOT_TABLE",
+      "value": "spell-dimension:pool/optional/rune/frost",
       "icon": {
         "texture": "runes:textures/item/frost_stone.png",
         "width": 16,
@@ -386,7 +405,8 @@
       ]
     },
     "healing_rune": {
-      "loot_table_id": "spell-dimension:pool/optional/rune/healing",
+      "type": "LOOT_TABLE",
+      "value": "spell-dimension:pool/optional/rune/healing",
       "icon": {
         "texture": "runes:textures/item/healing_stone.png",
         "width": 16,
@@ -398,7 +418,8 @@
       ]
     },
     "lightning_rune": {
-      "loot_table_id": "spell-dimension:pool/optional/rune/lightning",
+      "type": "LOOT_TABLE",
+      "value": "spell-dimension:pool/optional/rune/lightning",
       "icon": {
         "texture": "runes:textures/item/lightning_stone.png",
         "width": 16,
@@ -410,7 +431,8 @@
       ]
     },
     "soul_rune": {
-      "loot_table_id": "spell-dimension:pool/optional/rune/soul",
+      "type": "LOOT_TABLE",
+      "value": "spell-dimension:pool/optional/rune/soul",
       "icon": {
         "texture": "runes:textures/item/soul_stone.png",
         "width": 16,

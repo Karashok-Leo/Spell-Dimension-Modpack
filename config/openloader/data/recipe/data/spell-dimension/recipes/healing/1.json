@@ -1,0 +1,33 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "key": {
+      "#": {
+        "item": "spell-dimension:essence_healing_1"
+      },
+      "*": {
+        "item": "spell-dimension:spell_book_healing_0"
+      },
+      "A": {
+        "item": "things:moss_necklace"
+      },
+      "B": {
+        "item": "mythicmetals:hallowed_ingot"
+      },
+      "C": {
+        "item": "things:placebo"
+      },
+      "D": {
+        "item": "l2hostility:life_essence"
+      }
+    },
+    "pattern": [
+      "#A#",
+      "D*B",
+      "#C#"
+    ],
+    "result": {
+      "item": "spell-dimension:spell_book_healing_1"
+    },
+    "show_notification": true
+  }
