@@ -493,14 +493,6 @@ file = "config/lmft.json"
 hash = "2a2ee19297afe3fc512f5cbe639349847f3e7a74616f282d24a179a17f4559ed"
 
 [[files]]
-file = "config/loot-bag/loot_bag_entries.json"
-hash = "5822aba7b2aabe92a249b6d6e13c10008214f1f5d7ceb5089d778cb5a33cc0f9"
-
-[[files]]
-file = "config/loot-bag/loot_table_entries.json"
-hash = "cc2dbde32b862a39ab0be4806fa4f7ace86a3676906d34043186d9ec93efd4e4"
-
-[[files]]
 file = "config/mobplaques-client.toml"
 hash = "eb0eda663cd6c6cd36c89df90b1c820cd659723171d91cb95162960a5736b088"
 
@@ -893,7 +885,7 @@ file = "config/openloader/data/loot/data/spell-dimension/loot_tables/entity/zomb
 hash = "0bc2eac702b843c4ee7e4a1462536420b4f06ce52efe563fe0fb2c6035d61c35"
 
 [[files]]
-file = "config/openloader/data/loot/data/spell-dimension/loot_tables/pool/a_ring.json"
+file = "config/openloader/data/loot/data/spell-dimension/loot_tables/pool/aring.json"
 hash = "24547c4fde6552ac44d512d9179d3dc6df87757a4d45e5f91717c67bf908b211"
 
 [[files]]
@@ -933,11 +925,11 @@ file = "config/openloader/data/loot/data/spell-dimension/loot_tables/pool/epic/m
 hash = "949600366e040a4d6f12bfdb48c32835ca92a4a2b65a3ee78dbb64e6aa5d8321"
 
 [[files]]
-file = "config/openloader/data/loot/data/spell-dimension/loot_tables/pool/jewelry_necklaces.json"
+file = "config/openloader/data/loot/data/spell-dimension/loot_tables/pool/jewelry/necklaces.json"
 hash = "6b304d4eb71f78f5b771c7a6cce759878d00e7a0723fdc359794577c72813442"
 
 [[files]]
-file = "config/openloader/data/loot/data/spell-dimension/loot_tables/pool/jewelry_rings.json"
+file = "config/openloader/data/loot/data/spell-dimension/loot_tables/pool/jewelry/rings.json"
 hash = "cd10ac99585a94baab218d9831963b21c78739e55a7580d03547fe2be45d9fb2"
 
 [[files]]
@@ -955,54 +947,6 @@ hash = "36ad1ade4465791c1d478220deb78be56ee07dbd1ca6960aa0cee0b1fb994535"
 [[files]]
 file = "config/openloader/data/loot/data/spell-dimension/loot_tables/pool/midas.json"
 hash = "cf89c94005ff8409dfadd89aa97f85b7588d9e735b15920331771f97574f8fc2"
-
-[[files]]
-file = "config/openloader/data/loot/data/spell-dimension/loot_tables/pool/optional/rune/arcane.json"
-hash = "84a559a7d76b5a93964ff46c8b9b2e21479a2f3386566d6853d6af4720091e42"
-
-[[files]]
-file = "config/openloader/data/loot/data/spell-dimension/loot_tables/pool/optional/rune/fire.json"
-hash = "1f4a908ab7256d9a4b04d843765da995259ca8b6ee363286c43e7261b69e6633"
-
-[[files]]
-file = "config/openloader/data/loot/data/spell-dimension/loot_tables/pool/optional/rune/frost.json"
-hash = "3e8fd0c4aa6cf22c6456abbc2f44a935fa27b0afb39e698415ddc3e22a7c6705"
-
-[[files]]
-file = "config/openloader/data/loot/data/spell-dimension/loot_tables/pool/optional/rune/healing.json"
-hash = "27aa7f7ab3ba74233f5270da96f2579490aa27aeb7ad94d6105b90e13600f5ff"
-
-[[files]]
-file = "config/openloader/data/loot/data/spell-dimension/loot_tables/pool/optional/rune/lightning.json"
-hash = "f5cbf8614d07035a3371d8fa657bd559623835e4652d51b842e7631cce1e0543"
-
-[[files]]
-file = "config/openloader/data/loot/data/spell-dimension/loot_tables/pool/optional/rune/soul.json"
-hash = "8e1968141ff7269c396d1f0dc0c8ca72b29c15fd0a3efcfd6856355474ce9e81"
-
-[[files]]
-file = "config/openloader/data/loot/data/spell-dimension/loot_tables/pool/optional/wand/arcane.json"
-hash = "d478b9d6239b25e2083df6a52cf3f463f192850ec43d4acdff2e4b278e00fd8e"
-
-[[files]]
-file = "config/openloader/data/loot/data/spell-dimension/loot_tables/pool/optional/wand/fire.json"
-hash = "11bb5a1f00418ba4d0a0bf299e053724ab4df1c4300e7fdc12df5dd7298291e3"
-
-[[files]]
-file = "config/openloader/data/loot/data/spell-dimension/loot_tables/pool/optional/wand/frost.json"
-hash = "8288c8f072f5d894a3a49f22a87a3ed17bd71fbe320290bf50eb2bb4a63eba0a"
-
-[[files]]
-file = "config/openloader/data/loot/data/spell-dimension/loot_tables/pool/optional/wand/healing.json"
-hash = "b08a528e834d2656e7b8a204247f44bd9d4fa24faa2d05f72e456fc67a3e058c"
-
-[[files]]
-file = "config/openloader/data/loot/data/spell-dimension/loot_tables/pool/optional/wand/lightning.json"
-hash = "d478b9d6239b25e2083df6a52cf3f463f192850ec43d4acdff2e4b278e00fd8e"
-
-[[files]]
-file = "config/openloader/data/loot/data/spell-dimension/loot_tables/pool/optional/wand/soul.json"
-hash = "d478b9d6239b25e2083df6a52cf3f463f192850ec43d4acdff2e4b278e00fd8e"
 
 [[files]]
 file = "config/openloader/data/loot/data/spell-dimension/loot_tables/pool/rare/book.json"
@@ -1034,35 +978,27 @@ hash = "e4666d211054f1102e90f20f5a82673234249b06079ce401147578db4fc90400"
 
 [[files]]
 file = "config/openloader/data/loot/data/spell-dimension/loot_tables/tier/common_drop.json"
-hash = "f046354d13841d6849a58e03a6644e45946c08ba0784267edf007d839e195325"
+hash = "ec847bd76bb70f5309b38327bb0344ff88664640560c28ca014b9f20d399f86b"
 
 [[files]]
 file = "config/openloader/data/loot/data/spell-dimension/loot_tables/tier/epic_drop.json"
-hash = "737d27354d1be7f76468fe149a32232d4eb32a3f724d280ae9df5c5c2981cae0"
+hash = "b2468081f568fbe131470f23a23cdc272a8efb10f559ec323eabd153916d9dea"
 
 [[files]]
 file = "config/openloader/data/loot/data/spell-dimension/loot_tables/tier/legendary_drop.json"
-hash = "800dcb0452cb49a10b9a72fd26588c6148909ce13697cefb3d3e59c324ed04e3"
+hash = "2a67e239f452340f1c4aaa7bdeb1f2f0b40bd72a3b864ee1960702f034c299df"
 
 [[files]]
 file = "config/openloader/data/loot/data/spell-dimension/loot_tables/tier/rare_drop.json"
-hash = "e2c5d184a4a0ed95309351b738aa16424311d5b26424169abd87b0ffea4d6eea"
+hash = "518fd965e5842156e03bc2f554954b46f08079ea5ff32b7618625b37de8b64ee"
 
 [[files]]
 file = "config/openloader/data/loot/data/spell-dimension/loot_tables/tier/uncommon_drop.json"
-hash = "d542652849c5fcc8b0beaab9539e4bf5d535b1fac66dc1c591848196af0c5b8d"
+hash = "d736953e30a653aad72e7a4fab9257c2bec4e3836c86e4b576ca582c2d377816"
 
 [[files]]
 file = "config/openloader/data/loot/pack.mcmeta"
 hash = "7a14bcffc8d12fd177f4a80e97f8a79969f84a52c126d321a4151164edbc455e"
-
-[[files]]
-file = "config/openloader/data/recipe/data/bagofholding/advancements/recipes/tools/leather_bag_of_holding.json"
-hash = "8cee28d3a32f7f667508a9b95d83ae37371f34764119c9cb0296100e27710b22"
-
-[[files]]
-file = "config/openloader/data/recipe/data/bagofholding/recipes/leather_bag_of_holding.json"
-hash = "3b0018898c07461e09d07fa3f59a4ae6761a10c902cda5113a54664c47e7faf1"
 
 [[files]]
 file = "config/openloader/data/recipe/data/dark-enchanting/recipes/dark_enchanter.json"
@@ -1135,6 +1071,10 @@ hash = "48770a3c31fc8c6f37b35dfd3b196464bc3175e57b1cd81fc933a9018110d504"
 [[files]]
 file = "config/openloader/data/recipe/data/spell-dimension/recipes/misc/adamantite_ingot.json"
 hash = "94e9790c5eec14f2f1ef4be0d75dd845b7c5575c79040325166cfc0cb4666078"
+
+[[files]]
+file = "config/openloader/data/recipe/data/spell-dimension/recipes/misc/backpack.json"
+hash = "b124f8096712d4ff4d3362f4b2165b69e1d777df6de6fb9322a1c87b56fee4b0"
 
 [[files]]
 file = "config/openloader/data/recipe/data/spell-dimension/recipes/misc/black_dye.json"
@@ -1211,110 +1151,6 @@ hash = "aebf870c71dacc2c8022bf9c7816d83df7021221a56f8e5586cca48c3c0ae5eb"
 [[files]]
 file = "config/openloader/data/recipe/pack.mcmeta"
 hash = "d3b1c9d71d37e3e0ab66c29cdb393c84c7125b3380a7127fa2a6d0b1661226dc"
-
-[[files]]
-file = "config/openloader/data/spell/data/soulsweapons/spell_assignments/bloodthirster.json"
-hash = "96323f410339062587579125be42971ac29e7448db34647046552184a34abdea"
-
-[[files]]
-file = "config/openloader/data/spell/data/soulsweapons/spell_assignments/bluemoon_greatsword.json"
-hash = "f6961f5a7a957de9cf47d41b0ce5c611386b96f340452ba29de8152fcb584d22"
-
-[[files]]
-file = "config/openloader/data/spell/data/soulsweapons/spell_assignments/bluemoon_shortsword.json"
-hash = "457ba3c2e22c49c58ca37db8e41081334c5ae67e53b3682c526a4388923e1a9d"
-
-[[files]]
-file = "config/openloader/data/spell/data/soulsweapons/spell_assignments/crucible_sword.json"
-hash = "27fb13e20fcebb4a3e0a937fe951897a6046f391bec7de15d5d66a482f986e18"
-
-[[files]]
-file = "config/openloader/data/spell/data/soulsweapons/spell_assignments/darkin_scythe.json"
-hash = "1885ba6b37a2dd8293cdb19ba47c819c7ba684c3e4ab422081a799f104e9c975"
-
-[[files]]
-file = "config/openloader/data/spell/data/soulsweapons/spell_assignments/darkin_scythe_pre.json"
-hash = "1885ba6b37a2dd8293cdb19ba47c819c7ba684c3e4ab422081a799f104e9c975"
-
-[[files]]
-file = "config/openloader/data/spell/data/soulsweapons/spell_assignments/dawnbreaker.json"
-hash = "22868d9d7731ce62991e7d53fd1c4547f344db83f4fa2f77819ad1921459842e"
-
-[[files]]
-file = "config/openloader/data/spell/data/soulsweapons/spell_assignments/featherlight.json"
-hash = "ec19e501fdee1b10913121891cf16705c1633b1e7bf9fb380d4c61ff16a36234"
-
-[[files]]
-file = "config/openloader/data/spell/data/soulsweapons/spell_assignments/forlorn_scythe.json"
-hash = "b8576dc042a37764fb8d976739e285850a453d8437591391618224ee510b6976"
-
-[[files]]
-file = "config/openloader/data/spell/data/soulsweapons/spell_assignments/galeforce.json"
-hash = "66286fd69aeade9a5f499699164658842e2554ddba6cebd6e6a09c44e66fc891"
-
-[[files]]
-file = "config/openloader/data/spell/data/soulsweapons/spell_assignments/lich_bane.json"
-hash = "064a0b1124cae6f77fa7a9b7d5137e2712e9b07b6589112b36624f8a96b24d3a"
-
-[[files]]
-file = "config/openloader/data/spell/data/soulsweapons/spell_assignments/moonlight_greatsword.json"
-hash = "f6961f5a7a957de9cf47d41b0ce5c611386b96f340452ba29de8152fcb584d22"
-
-[[files]]
-file = "config/openloader/data/spell/data/soulsweapons/spell_assignments/moonlight_shortsword.json"
-hash = "457ba3c2e22c49c58ca37db8e41081334c5ae67e53b3682c526a4388923e1a9d"
-
-[[files]]
-file = "config/openloader/data/spell/data/soulsweapons/spell_assignments/shadow_assassin_scythe.json"
-hash = "ed120ca60dbfd576b2bc9200c81f96213461258ed7ad03ab15a1b68e09ef54e4"
-
-[[files]]
-file = "config/openloader/data/spell/data/soulsweapons/spell_assignments/soul_reaper.json"
-hash = "b8576dc042a37764fb8d976739e285850a453d8437591391618224ee510b6976"
-
-[[files]]
-file = "config/openloader/data/spell/data/spell-dimension/spells/bloodthirster.json"
-hash = "a34e5de68a67e220879093c0889054d8d1df8c87c061476149b024965826cb66"
-
-[[files]]
-file = "config/openloader/data/spell/data/spell-dimension/spells/crucible.json"
-hash = "1374b1a2e2ad6b72053c03afae2a10a4ac48d0b0e7cf0e4b854447838a0f534c"
-
-[[files]]
-file = "config/openloader/data/spell/data/spell-dimension/spells/dawnbreaker.json"
-hash = "4880f56fffacf8513567d261c8653a73bc26af9a55ae60c0092b80cc39df4e4e"
-
-[[files]]
-file = "config/openloader/data/spell/data/spell-dimension/spells/featherlight.json"
-hash = "d5fe646fbcfb3a7a04eee5a864b6c7c795e5ab98e08145474e0f13a6f5e7a771"
-
-[[files]]
-file = "config/openloader/data/spell/data/spell-dimension/spells/lich_bane.json"
-hash = "7927baf28c2e7d7fd853e763c6f798eafa75b6310da2c5bf3cad03e05d1b803b"
-
-[[files]]
-file = "config/openloader/data/spell/data/spell-dimension/spells/moon_greatsword.json"
-hash = "85fac03b72ca87c69a8e5d4dde068084d411f94914f9a99e82cd6b88e784465d"
-
-[[files]]
-file = "config/openloader/data/spell/data/spell-dimension/spells/moon_shortsword.json"
-hash = "80cb57051c2379d0e0d711c085d28c18fa7629c0ee6e46bef03d4a93ab2711f9"
-
-[[files]]
-file = "config/openloader/data/spell/data/spell-dimension/spells/scythe_forlorn.json"
-hash = "0c857da4e0a0e40ac1f6bbb71d834b047c0066083dc20ba466daf738e4c84cc3"
-
-[[files]]
-file = "config/openloader/data/spell/data/spell-dimension/spells/scythe_kayn.json"
-hash = "d18c685f926dd626ef50a12bb1ca19f75e4c983e06441f50bdf82a0f467071e4"
-
-[[files]]
-file = "config/openloader/data/spell/data/spell-dimension/spells/scythe_rhaast.json"
-hash = "0c21e0f1eb7dbd3ecf97dfa29f80ee7f373021c572b2b7ad12107d03fd2e370f"
-
-[[files]]
-file = "config/openloader/data/spell/pack.mcmeta"
-hash = "7e18f883a36fdb2b12652fc88319835a23c089cae4039b0a4e2d2eecfa5c4ee3"
 
 [[files]]
 file = "config/openloader/data/tag/data/numismatic-overhaul/tags/entity_types/the_bourgeoisie.json"
@@ -1467,82 +1303,6 @@ hash = "a0e9ab2a6ad37c86226257b294fdb42f46b13cdd645cddc4bb5a19cc091664d0"
 [[files]]
 file = "config/openloader/data/trade/pack.mcmeta"
 hash = "4fc1642b2f29b9864506f7c5292ff7b55e52e5cac5e0c5170e88b674fd8ba202"
-
-[[files]]
-file = "config/openloader/resources/spell-dimension/assets/spell-dimension/lang/en_us.json"
-hash = "8eb95bcbc154530931e15fc418c8b1fe991095671409552099ea1aa596999ede"
-
-[[files]]
-file = "config/openloader/resources/spell-dimension/assets/spell-dimension/lang/zh_cn.json"
-hash = "d0fe838e63c1148b88a01d8c73f3eb3eff32f5dc3281de8f69c2fb30fef17b16"
-
-[[files]]
-file = "config/openloader/resources/spell-dimension/assets/spell-dimension/textures/spell/bloodthirster.png"
-hash = "3be3ed9a820ad4a793bba8fd9c0d54f822939e06c2745e360a6d265a2cee2e00"
-
-[[files]]
-file = "config/openloader/resources/spell-dimension/assets/spell-dimension/textures/spell/breath1.png"
-hash = "c57072fd70861745e078f56bd141a98053c264ba8f5ea0a173aace6984fa9d87"
-
-[[files]]
-file = "config/openloader/resources/spell-dimension/assets/spell-dimension/textures/spell/breath2.png"
-hash = "c57072fd70861745e078f56bd141a98053c264ba8f5ea0a173aace6984fa9d87"
-
-[[files]]
-file = "config/openloader/resources/spell-dimension/assets/spell-dimension/textures/spell/breath3.png"
-hash = "c57072fd70861745e078f56bd141a98053c264ba8f5ea0a173aace6984fa9d87"
-
-[[files]]
-file = "config/openloader/resources/spell-dimension/assets/spell-dimension/textures/spell/crucible.png"
-hash = "e5640135011d0419f016d4d3a0bd993fe84cc2b82677c0393f0c3ed4724e2bb8"
-
-[[files]]
-file = "config/openloader/resources/spell-dimension/assets/spell-dimension/textures/spell/dawnbreaker.png"
-hash = "51480e7a906eeb5abe0ff88e598188ef1cb37534e3f36120ff228ab1cabea937"
-
-[[files]]
-file = "config/openloader/resources/spell-dimension/assets/spell-dimension/textures/spell/featherlight.png"
-hash = "265a1ae05a4ffbf6d8700622e9826fb9ec80240b830684a4c8c1c208764439e4"
-
-[[files]]
-file = "config/openloader/resources/spell-dimension/assets/spell-dimension/textures/spell/flourish1.png"
-hash = "fce12bb3ca54b1ebfe638da747c624f638723f6a14edcce2f22de9bab17a9f0d"
-
-[[files]]
-file = "config/openloader/resources/spell-dimension/assets/spell-dimension/textures/spell/flourish2.png"
-hash = "fce12bb3ca54b1ebfe638da747c624f638723f6a14edcce2f22de9bab17a9f0d"
-
-[[files]]
-file = "config/openloader/resources/spell-dimension/assets/spell-dimension/textures/spell/flourish3.png"
-hash = "fce12bb3ca54b1ebfe638da747c624f638723f6a14edcce2f22de9bab17a9f0d"
-
-[[files]]
-file = "config/openloader/resources/spell-dimension/assets/spell-dimension/textures/spell/lich_bane.png"
-hash = "27afa48726fc030a88aafd1a1f4b87a3f513b1438834840ffb7c079f795d5e42"
-
-[[files]]
-file = "config/openloader/resources/spell-dimension/assets/spell-dimension/textures/spell/moon_greatsword.png"
-hash = "2f352adc607c14b651e9f1e32cb13a33f2bf47aeeedfb6754ff5180e148ad085"
-
-[[files]]
-file = "config/openloader/resources/spell-dimension/assets/spell-dimension/textures/spell/moon_shortsword.png"
-hash = "4ea75243fd1f055046aac0fda024cebae315b59144807e0973446d1889f42d31"
-
-[[files]]
-file = "config/openloader/resources/spell-dimension/assets/spell-dimension/textures/spell/scythe_forlorn.png"
-hash = "5b68d3c0065be1dcfaa56bec6122a716b083f0a0ef65632cb5a6b9b1e990e3f1"
-
-[[files]]
-file = "config/openloader/resources/spell-dimension/assets/spell-dimension/textures/spell/scythe_kayn.png"
-hash = "aee660e64acc685094c78c5fe152a69a423c4eec017be679a7457a4d4fa27f4d"
-
-[[files]]
-file = "config/openloader/resources/spell-dimension/assets/spell-dimension/textures/spell/scythe_rhaast.png"
-hash = "b276b6f8122d62f481c9f6e649d4ac1e17477908ea6005cbd5daf4ad846aa3bd"
-
-[[files]]
-file = "config/openloader/resources/spell-dimension/pack.mcmeta"
-hash = "d915af3d13eb0563f998bf2703b82af5e2269cb36107ad20f5dd8b1d7e2f8d0b"
 
 [[files]]
 file = "config/openloader/resources/translations/assets/advancedcombat/lang/zh_cn.json"
@@ -2122,11 +1882,6 @@ hash = "c2e938d1bdd1136e04b8be8c1378e2e33956ac23aa91d3a76003db6f2f75cbd1"
 metafile = true
 
 [[files]]
-file = "mods/extra-loot.pw.toml"
-hash = "92228cef492e11c28af553f2a92c1a6024ea0e1b2a0948d0a3979c4371c7f32c"
-metafile = true
-
-[[files]]
 file = "mods/extra-spell-attributes.pw.toml"
 hash = "05e1b1ceaa4d815845fc7af7f545202be9ae4e8e4cea3235fad04befe4b68fa1"
 metafile = true
@@ -2322,7 +2077,7 @@ metafile = true
 
 [[files]]
 file = "mods/leos-loot-bag.pw.toml"
-hash = "30c509010e81a053daacc63cb9f6ab83abd4578bbd4b0a6a28bd4f3cf4431b54"
+hash = "dde91848138a029303612c5ca313c9e494d07ab9eeb5f2aad5ddf8c36559c7a8"
 metafile = true
 
 [[files]]
@@ -2343,6 +2098,11 @@ metafile = true
 [[files]]
 file = "mods/lmft.pw.toml"
 hash = "662512cd3986e81c6cfd75816e9c968f66a2bf60001f82cb27a68c9ef5919c90"
+metafile = true
+
+[[files]]
+file = "mods/loot-patcher.pw.toml"
+hash = "f732477aa4a01569c51347ede9e8efe123f3a9af664431dbe341dde662fd5273"
 metafile = true
 
 [[files]]
@@ -2458,11 +2218,6 @@ metafile = true
 [[files]]
 file = "mods/nbt-tooltip.pw.toml"
 hash = "647c52e61f3aa344175ce437a0cdc0d2919743c277cc2329445f645ce482a7a8"
-metafile = true
-
-[[files]]
-file = "mods/nbtedit-reborn.pw.toml"
-hash = "2aea7dbf5faf2950e229cdf2bb0541b9c658000b64ac73e4f771be36073b0e8d"
 metafile = true
 
 [[files]]
@@ -2685,8 +2440,8 @@ hash = "6955c024252577178298e691d7fe0111c5bd1155e4497df6ed1251bdac9b5b44"
 metafile = true
 
 [[files]]
-file = "mods/spell_dimension-0.3.2.jar"
-hash = "87af15260ef2e7b0a6b3e09857336fb082553992b5ecac97ecc9208d7c4bedb0"
+file = "mods/spell_dimension-0.3.3.jar"
+hash = "c9d38f96d3fbcb1339253dbeb4d80c7668662292e941fb121baf169518be7a3c"
 
 [[files]]
 file = "mods/spellblade-next.pw.toml"

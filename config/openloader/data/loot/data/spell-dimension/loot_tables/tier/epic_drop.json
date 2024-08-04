@@ -7,21 +7,20 @@
           "condition": "minecraft:killed_by_player"
         },
         {
-          "condition": "extra-loot:entity_tier",
-          "entity": "this",
-          "min": 600,
-          "max": 1000
+          "condition": "l2hostility:mob_level",
+          "maxLevel": 0,
+          "minLevel": 160
         }
       ],
       "entries": [
         {
-          "type": "minecraft:item",
-          "name": "spell-dimension:loot_bag_epic_gear",
+          "type": "loot-bag:loot_bag",
+          "bag": "spell-dimension:epic/gear",
           "weight": 1
         },
         {
-          "type": "minecraft:item",
-          "name": "spell-dimension:loot_bag_epic_material",
+          "type": "loot-bag:loot_bag",
+          "bag": "spell-dimension:epic/material",
           "weight": 3
         },
         {

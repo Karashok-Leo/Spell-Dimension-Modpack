@@ -1,13 +1,13 @@
-name = "Extra Loot"
-filename = "extra-loot-1.0.0.jar"
+name = "Loot Patcher"
+filename = "loot-patcher-1.1.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "c0a995289453a3e2fb132e119fce373a267a1cd4"
+hash = "0b8945dd3e04a823adabcc4aa6c24a6438f031c4"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5168368
+file-id = 5594953
 project-id = 984667
