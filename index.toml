@@ -309,20 +309,12 @@ file = "config/dusk.json"
 hash = "b93ec89ab2e22cf3bddc04e5b27dfee914fcaf728666378bb19f9ad766f2f558"
 
 [[files]]
-file = "config/easytweak.yml"
-hash = "9b7e7ab599c3d7bf6b0c704c96bfed041f27911a83ba53871a2121e3a5cc13e0"
-
-[[files]]
 file = "config/endrem.json"
 hash = "99fc4b17248207162df75c5c3d395eb3010fd595933639c8a2c2352668f85a9f"
 
 [[files]]
 file = "config/exordium.json"
 hash = "3f860698e7d79a34e577849d1f875ddf0707bee63ee2e7128ca33fcee6f6ed1a"
-
-[[files]]
-file = "config/extra-loot.json"
-hash = "5ec416bf57486e6cc1c6a211d00b6d85b2e5137cf7db22ace7e7d2f1436e52d6"
 
 [[files]]
 file = "config/fancymenu/assets/mods.png"
@@ -491,6 +483,10 @@ hash = "5d6808e61ea2412b94ab5d2d5ccdca1f7168dcfa75f0a22ef6c05718a661925c"
 [[files]]
 file = "config/lmft.json"
 hash = "2a2ee19297afe3fc512f5cbe639349847f3e7a74616f282d24a179a17f4559ed"
+
+[[files]]
+file = "config/loot-patcher.json"
+hash = "360feef079cb6b55d8159947cc26f9e4689995356498ea505a605df968a67e23"
 
 [[files]]
 file = "config/mobplaques-client.toml"
@@ -1262,43 +1258,43 @@ hash = "59da675dc3cfec388d919a6b2ddc6ab91d440710723f3e34166e22430f8cd068"
 
 [[files]]
 file = "config/openloader/data/trade/data/spell-dimension/trades/goblin_trader/common.json"
-hash = "24dc1a9f470bd35078b26b9fd79993002e030567db24f126a1acf32124498970"
+hash = "08a11806b306a4f8a87b1bc542cfba982490d5e9c08f8cc48999adc220bd92af"
 
 [[files]]
 file = "config/openloader/data/trade/data/spell-dimension/trades/goblin_trader/epic.json"
-hash = "1208529dd7f6c78e8241a30ef0ce7f2c163f59175f427cad84ae4d7b9471262d"
+hash = "090fc4998fc24cafb2b0f53bb879d2bd239883f623645409ea79e8658ada8dce"
 
 [[files]]
 file = "config/openloader/data/trade/data/spell-dimension/trades/goblin_trader/legendary.json"
-hash = "b42732d7c3aedd9b275ad5da61657583a2f904765841a8fd856da835fafa4296"
+hash = "45228936c10561e70a740955ec97dbc2da13fceba08d273355e605f38685b583"
 
 [[files]]
 file = "config/openloader/data/trade/data/spell-dimension/trades/goblin_trader/rare.json"
-hash = "1f603ba86761371dd7fcd7c8bb127add8b0f33cf8a53447c0d97aac20353d4d3"
+hash = "f74094f7337f8ce064b1260f6ab220ec2158d48b3f8898c7c236a21f1563ef64"
 
 [[files]]
 file = "config/openloader/data/trade/data/spell-dimension/trades/goblin_trader/uncommon.json"
-hash = "a0e9ab2a6ad37c86226257b294fdb42f46b13cdd645cddc4bb5a19cc091664d0"
+hash = "654c834b50ace0d5442030b4890c94d0e2f13d1d1ae516b7e71f86c4b70b68d1"
 
 [[files]]
 file = "config/openloader/data/trade/data/spell-dimension/trades/vein_goblin_trader/common.json"
-hash = "24dc1a9f470bd35078b26b9fd79993002e030567db24f126a1acf32124498970"
+hash = "08a11806b306a4f8a87b1bc542cfba982490d5e9c08f8cc48999adc220bd92af"
 
 [[files]]
 file = "config/openloader/data/trade/data/spell-dimension/trades/vein_goblin_trader/epic.json"
-hash = "1208529dd7f6c78e8241a30ef0ce7f2c163f59175f427cad84ae4d7b9471262d"
+hash = "6c5e57c67139e295fc74312c06a7dd4dc9e744a3b2fc8d0fa41d93d6d461e0e6"
 
 [[files]]
 file = "config/openloader/data/trade/data/spell-dimension/trades/vein_goblin_trader/legendary.json"
-hash = "b42732d7c3aedd9b275ad5da61657583a2f904765841a8fd856da835fafa4296"
+hash = "59bb2ae44fd91a59bf1123d37f28705f8ed2edb5e254f7b603e90cb2e9165191"
 
 [[files]]
 file = "config/openloader/data/trade/data/spell-dimension/trades/vein_goblin_trader/rare.json"
-hash = "1f603ba86761371dd7fcd7c8bb127add8b0f33cf8a53447c0d97aac20353d4d3"
+hash = "f74094f7337f8ce064b1260f6ab220ec2158d48b3f8898c7c236a21f1563ef64"
 
 [[files]]
 file = "config/openloader/data/trade/data/spell-dimension/trades/vein_goblin_trader/uncommon.json"
-hash = "a0e9ab2a6ad37c86226257b294fdb42f46b13cdd645cddc4bb5a19cc091664d0"
+hash = "654c834b50ace0d5442030b4890c94d0e2f13d1d1ae516b7e71f86c4b70b68d1"
 
 [[files]]
 file = "config/openloader/data/trade/pack.mcmeta"
@@ -1510,23 +1506,23 @@ hash = "44bc3799892c50fad1f4f76100cd74ebf28f922da6f977a772352d3291b92fdf"
 
 [[files]]
 file = "config/starterkit/kits/arcane.txt"
-hash = "d4d9616813044e1b8a4ca0ebe49d68de95a2ed9af18686cbb58d933fa0a3d263"
+hash = "6ba5e705d2d50c71d67490bf482d0653921e3b7f5c20158c1de31968be583f5e"
 
 [[files]]
 file = "config/starterkit/kits/fire.txt"
-hash = "076f7e0399f7c663b5c8c10526ce4f064efb2f45c63c3d05b8d98774c7b591ef"
+hash = "1e85e7df33dab20486083c8cedba1ce4e7f70e7a2f23cbcf70bde32f79dd2337"
 
 [[files]]
 file = "config/starterkit/kits/frost.txt"
-hash = "1e9115072d2203b0cfd205cb16ed0bdd1d220e91cc5132fa328a49b208f51120"
+hash = "ca7ed617059fc7574f74d7b7a578d99dde587bf951297bc60e3d9bdb2b4dbed4"
 
 [[files]]
 file = "config/starterkit/kits/generic.txt"
-hash = "dabe08ccbef86ae5d0606c7026b63933bfd97240ea50ff84a59582f559dedba5"
+hash = "9cd22b9f1bff506a38c741daed88b42d7d703ec6336f16dd96b65d3ae0dd9077"
 
 [[files]]
 file = "config/starterkit/kits/healing.txt"
-hash = "8feeaf20ec631433204e7523b3aceba6aa2f03062cd43ac55b4d6204737e149c"
+hash = "1fb032dbd59559bc3fec2f30f10e4f2fd396c6cbaf62efe928f4ce728c3fd266"
 
 [[files]]
 file = "config/tooltipscroll.json"
@@ -1587,10 +1583,6 @@ hash = "3f125508ae5e6f9cc641a93f11f9f7b38cbc0152c4e4bcc8dc11a3d162594ca2"
 [[files]]
 file = "mods/Controlling-fabric-1.20.1-12.0.2.jar"
 hash = "f7bbb7e37f2118af29450ec468d3ce4ec2606fead2861f4092a43509c6803ed6"
-
-[[files]]
-file = "mods/EasyTweak-fabric-mc1.20.x-1.1.4.jar"
-hash = "8bc2f53ca9f2dab9bb7e1ee890b2b7f36f6d6a49db51a5b7af8e303ebd99769d"
 
 [[files]]
 file = "mods/achievements-optimizer.pw.toml"
@@ -1690,11 +1682,6 @@ metafile = true
 [[files]]
 file = "mods/better-combat-by-daedelus.pw.toml"
 hash = "93d8db3c64f1770e62a847782836a57996b3ce4f7a4462cf084e42c4f83d19ee"
-metafile = true
-
-[[files]]
-file = "mods/better-runtime-resource-pack.pw.toml"
-hash = "7f3d7f2f204a0350c65d9ab332df89e724b7a9ba9795540cba40d82f01da79dc"
 metafile = true
 
 [[files]]
@@ -2255,6 +2242,11 @@ hash = "f42ba2ad4e7b34f18d70658e03d9f3047c8616969d2d9bca723af39ed86ad4d8"
 metafile = true
 
 [[files]]
+file = "mods/overworld-piglins.pw.toml"
+hash = "92e97fd488c3eb882ef11d96bbaa8013740902fdbd268ee34db9c06747177c1e"
+metafile = true
+
+[[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "9a0ab52020c3a2d073e71f07ce11b9d2d8ae0a17b8a3cf0c9227029a51df51c3"
 metafile = true
@@ -2657,10 +2649,6 @@ hash = "503361b49c5a0d43e2c14c01ca4e898b34bda170184e2fde738155b7c2a174b6"
 [[files]]
 file = "resourcepacks/Low_fire_1.20.zip"
 hash = "e4eb61f601abc9206bae0925fc0858c1c13b299abad0b3d2f5c0afe9b16c50d9"
-
-[[files]]
-file = "resourcepacks/Minecraft-Mod-Language-Modpack-Converted-1.20.1.zip"
-hash = "cf04064cb61383f57e0ca71d97fca3c80ab287729f3614ba4b0ada11d028fbe6"
 
 [[files]]
 file = "resourcepacks/blinking-ender-eyes.pw.toml"

@@ -4,7 +4,8 @@
         {
             "type": "goblintraders:basic",
             "offer_item": {
-                "item": "spell-dimension:loot_bag_legendary_book",
+                "item": "loot-bag:loot_bag",
+                "nbt": "{BagId:\"spell-dimension:legendary/book\"}",
                 "count": 1
             },
             "payment_item": {
@@ -16,7 +17,8 @@
         {
             "type": "goblintraders:basic",
             "offer_item": {
-                "item": "spell-dimension:loot_bag_legendary_gear",
+                "item": "loot-bag:loot_bag",
+                "nbt": "{BagId:\"spell-dimension:legendary/gear\"}",
                 "count": 1
             },
             "payment_item": {
@@ -28,7 +30,8 @@
         {
             "type": "goblintraders:basic",
             "offer_item": {
-                "item": "spell-dimension:loot_bag_legendary_material",
+                "item": "loot-bag:loot_bag",
+                "nbt": "{BagId:\"spell-dimension:legendary/material\"}",
                 "count": 1
             },
             "payment_item": {
@@ -40,7 +43,8 @@
         {
             "type": "goblintraders:basic",
             "offer_item": {
-                "item": "spell-dimension:loot_bag_artifact",
+                "item": "loot-bag:loot_bag",
+                "nbt": "{BagId:\"spell-dimension:artifact\"}",
                 "count": 1
             },
             "payment_item": {
@@ -52,7 +56,8 @@
         {
             "type": "goblintraders:basic",
             "offer_item": {
-                "item": "spell-dimension:loot_bag_a_ring",
+                "item": "loot-bag:loot_bag",
+                "nbt": "{BagId:\"spell-dimension:aring\"}",
                 "count": 1
             },
             "payment_item": {
@@ -64,7 +69,8 @@
         {
             "type": "goblintraders:basic",
             "offer_item": {
-                "item": "spell-dimension:loot_bag_charm",
+                "item": "loot-bag:loot_bag",
+                "nbt": "{BagId:\"spell-dimension:charm\"}",
                 "count": 1
             },
             "payment_item": {

@@ -4,7 +4,8 @@
         {
             "type": "goblintraders:basic",
             "offer_item": {
-                "item": "spell-dimension:loot_bag_uncommon_book",
+                "item": "loot-bag:loot_bag",
+                "nbt": "{BagId:\"spell-dimension:uncommon/book\"}",
                 "count": 1
             },
             "payment_item": {
@@ -16,7 +17,8 @@
         {
             "type": "goblintraders:basic",
             "offer_item": {
-                "item": "spell-dimension:loot_bag_uncommon_gear",
+                "item": "loot-bag:loot_bag",
+                "nbt": "{BagId:\"spell-dimension:uncommon/gear\"}",
                 "count": 1
             },
             "payment_item": {
@@ -28,7 +30,8 @@
         {
             "type": "goblintraders:basic",
             "offer_item": {
-                "item": "spell-dimension:loot_bag_uncommon_material",
+                "item": "loot-bag:loot_bag",
+                "nbt": "{BagId:\"spell-dimension:uncommon/material\"}",
                 "count": 1
             },
             "payment_item": {

@@ -4,7 +4,8 @@
         {
             "type": "goblintraders:basic",
             "offer_item": {
-                "item": "spell-dimension:loot_bag_legendary_book",
+                "item": "loot-bag:loot_bag",
+                "nbt": "{BagId:\"spell-dimension:legendary/book\"}",
                 "count": 1
             },
             "payment_item": {
@@ -16,7 +17,8 @@
         {
             "type": "goblintraders:basic",
             "offer_item": {
-                "item": "spell-dimension:loot_bag_legendary_gear",
+                "item": "loot-bag:loot_bag",
+                "nbt": "{BagId:\"spell-dimension:legendary/gear\"}",
                 "count": 1
             },
             "payment_item": {
@@ -28,48 +30,13 @@
         {
             "type": "goblintraders:basic",
             "offer_item": {
-                "item": "spell-dimension:loot_bag_legendary_material",
+                "item": "loot-bag:loot_bag",
+                "nbt": "{BagId:\"spell-dimension:legendary/material\"}",
                 "count": 1
             },
             "payment_item": {
                 "item": "numismatic-overhaul:gold_coin",
                 "count": 64
-            },
-            "max_trades": 1
-        },
-        {
-            "type": "goblintraders:basic",
-            "offer_item": {
-                "item": "spell-dimension:loot_bag_artifact",
-                "count": 1
-            },
-            "payment_item": {
-                "item": "numismatic-overhaul:gold_coin",
-                "count": 32
-            },
-            "max_trades": 1
-        },
-        {
-            "type": "goblintraders:basic",
-            "offer_item": {
-                "item": "spell-dimension:loot_bag_a_ring",
-                "count": 1
-            },
-            "payment_item": {
-                "item": "numismatic-overhaul:gold_coin",
-                "count": 32
-            },
-            "max_trades": 1
-        },
-        {
-            "type": "goblintraders:basic",
-            "offer_item": {
-                "item": "spell-dimension:loot_bag_charm",
-                "count": 1
-            },
-            "payment_item": {
-                "item": "numismatic-overhaul:gold_coin",
-                "count": 32
             },
             "max_trades": 1
         }

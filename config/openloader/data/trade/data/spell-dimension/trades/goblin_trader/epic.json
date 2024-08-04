@@ -4,7 +4,8 @@
         {
             "type": "goblintraders:basic",
             "offer_item": {
-                "item": "spell-dimension:loot_bag_epic_book",
+                "item": "loot-bag:loot_bag",
+                "nbt": "{BagId:\"spell-dimension:epic/book\"}",
                 "count": 1
             },
             "payment_item": {
@@ -16,7 +17,8 @@
         {
             "type": "goblintraders:basic",
             "offer_item": {
-                "item": "spell-dimension:loot_bag_epic_gear",
+                "item": "loot-bag:loot_bag",
+                "nbt": "{BagId:\"spell-dimension:epic/gear\"}",
                 "count": 1
             },
             "payment_item": {
@@ -28,31 +30,8 @@
         {
             "type": "goblintraders:basic",
             "offer_item": {
-                "item": "spell-dimension:loot_bag_epic_material",
-                "count": 1
-            },
-            "payment_item": {
-                "item": "numismatic-overhaul:gold_coin",
-                "count": 16
-            },
-            "max_trades": 1
-        },
-        {
-            "type": "goblintraders:basic",
-            "offer_item": {
-                "item": "spell-dimension:loot_bag_jewelry_rings",
-                "count": 1
-            },
-            "payment_item": {
-                "item": "numismatic-overhaul:gold_coin",
-                "count": 16
-            },
-            "max_trades": 1
-        },
-        {
-            "type": "goblintraders:basic",
-            "offer_item": {
-                "item": "spell-dimension:loot_bag_jewelry_necklaces",
+                "item": "loot-bag:loot_bag",
+                "nbt": "{BagId:\"spell-dimension:epic/material\"}",
                 "count": 1
             },
             "payment_item": {

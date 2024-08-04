@@ -1,0 +1,13 @@
+name = "Overworld Piglins"
+filename = "overworldpiglins-1.20.1-1.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e5e5f5fd5f5c82ade041be3b98c32607e48086df"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5572125
+project-id = 881363
