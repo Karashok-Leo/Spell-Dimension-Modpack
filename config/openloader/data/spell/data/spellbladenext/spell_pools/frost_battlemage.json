@@ -1,0 +1,9 @@
+{
+  "spell_ids": [
+    "spellbladenext:frostflourish",
+    "spellbladenext:whirlingblades",
+    "spellbladenext:eviscerate",
+    "spellbladenext:frostslash"
+  ],
+  "creatable_as_spellbook": false
+}

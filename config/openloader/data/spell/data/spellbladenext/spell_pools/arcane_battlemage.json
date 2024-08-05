@@ -1,0 +1,9 @@
+{
+  "spell_ids": [
+    "spellbladenext:arcaneflourish",
+    "spellbladenext:frostblink",
+    "spellbladenext:finalstrike",
+    "spellbladenext:amethystslash"
+  ],
+  "creatable_as_spellbook": false
+}

@@ -1,0 +1,8 @@
+{
+  "spell_ids": [
+    "spellbladenext:deathchill",
+    "spellbladenext:frostbloom0",
+    "spellbladenext:coldbuff"
+  ],
+  "creatable_as_spellbook": false
+}

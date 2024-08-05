@@ -1,0 +1,9 @@
+{
+  "spell_ids": [
+    "spellbladenext:fireflourish",
+    "spellbladenext:frostvert",
+    "spellbladenext:flicker_strike",
+    "spellbladenext:flameslash"
+  ],
+  "creatable_as_spellbook": false
+}

@@ -1,0 +1,8 @@
+{
+  "spell_ids": [
+    "spellbladenext:combustion",
+    "spellbladenext:phoenixdive",
+    "spellbladenext:snuffout"
+  ],
+  "creatable_as_spellbook": false
+}

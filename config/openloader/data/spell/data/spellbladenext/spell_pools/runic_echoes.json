@@ -1,0 +1,8 @@
+{
+  "spell_ids": [
+    "spellbladenext:echoes",
+    "spellbladenext:bladestorm",
+    "spellbladenext:eldritchblast"
+  ],
+  "creatable_as_spellbook": false
+}
