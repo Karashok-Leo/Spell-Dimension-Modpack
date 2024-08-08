@@ -1,9 +1,8 @@
 ## Add
- - Armor attribute modifiers config
- - More armor set bonus - spell power
- - Highly specialized mage major - refer to LOL champions
- - Configurable Mob Effects
+- More armor set bonus - spell power
+- Mob Effects Config
+- Spell Scroll Config
+- Debuff Refactor
+- Passive Skills
 ## Fix
- - Spell slots overlap shortcut bars - better way to cast spell?
- - Missing textures in main menu after reloading resourcepack (Fancy Menu)
- - Drippy Loading Screen conflicts with Remove Reloading Screen (Crash) (Set Aside?)
+- Spell slots overlap shortcut bars - better way to cast spell?

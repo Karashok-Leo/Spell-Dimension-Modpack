@@ -1,5 +1,0 @@
-#Fri Jul 26 10:44:58 CST 2024
-LIGHT_SHAFT=false
-SHADOW_COLOR=false
-shadowDistance=192.0
-shadowMapResolution=1536

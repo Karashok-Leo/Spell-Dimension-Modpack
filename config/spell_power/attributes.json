@@ -1,6 +1,6 @@
 {
   "attributes_container_injection_scope": "LIVING_ENTITY",
-  "use_vanilla_magic_damage_type": true,
+  "use_vanilla_magic_damage_type": false,
   "base_spell_critical_chance_percentage": 5.0,
   "base_spell_critical_damage_percentage": 50.0,
   "status_effect_raw_id_starts_at": 730,
