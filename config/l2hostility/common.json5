@@ -1,0 +1,335 @@
+{
+	// Allow entity specific difficulty configs to load
+	"enableEntitySpecificDatapack": true,
+	"difficulty": {
+		// Difficulty increment takes this many kills of same level mob
+		"killsPerLevel": 30,
+		// Max player adaptive level
+		"maxPlayerLevel": 2000,
+		// Mobs spawned within this range will use lowest player level in range instead of nearest player's level to determine mob level
+		"newPlayerProtectRange": 48,
+		// Decay in player difficulty on death
+		"playerDeathDecay": 0.8,
+		// Allow KeepInventory to keep difficulty as well
+		"keepInventoryRuleKeepDifficulty": false,
+		// On player death, clear dimension penalty
+		"deathDecayDimension": true,
+		// On player death, reduce max trait spawned by 1
+		"deathDecayTraitCap": true
+	},
+	"scaling": {
+		// Health factor per level
+		"healthFactor": 0.03,
+		// Use exponential health
+		"exponentialHealth": false,
+		// Damage factor per level
+		"damageFactor": 0.02,
+		// Use exponential damage
+		"exponentialDamage": false,
+		// Experience drop factor per level
+		"expDropFactor": 0.05,
+		// Chance per level for drowned to hold trident
+		"drownedTridentChancePerLevel": 0.005,
+		/* Enchantment bonus per level.
+		   Note: use it only when Apotheosis is installed,
+		   Otherwise too high enchantment level will yield no enchantment
+		*/
+		"enchantmentFactor": 0.0,
+		// Difficulty bonus per level visited
+		"dimensionFactor": 10,
+		// Difficulty bonus per block from origin
+		"distanceFactor": 0.003,
+		/* Chance for health/damage bonus and trait to apply
+		   Not applicable to mobs with minimum level.
+		*/
+		"globalApplyChance": 1.0,
+		/* Chance for trait to apply
+		   Not applicable to mobs with minimum level.
+		*/
+		"globalTraitChance": 1.0,
+		/* Chance to stop adding traits after adding a trait
+		   Not applicable to mobs with minimum level.
+		*/
+		"globalTraitSuppression": 0.1,
+		// Allow legendary traits
+		"allowLegendary": true,
+		// Allow chunk section to accumulate difficulty
+		"allowSectionDifficulty": true,
+		// Allow difficulty clearing bypass mob minimum level
+		"allowBypassMinimum": true,
+		// Allow level-related extra enchantment spawning
+		"allowExtraEnchantments": true,
+		// Default dimension base difficulty for mod dimensions
+		"defaultLevelBase": 20,
+		// Default dimension difficulty variation for mod dimensions
+		"defaultLevelVar": 16.0,
+		// Default dimension difficulty scale for mod dimensions
+		"defaultLevelScale": 1.5,
+		/* Mobs at Lv.N will have N x k% chance to have trait
+		   Default k% = 0.01, so Lv.N mobs with have N% chance to have trait
+		   Mobs with entity config and trait chance of 1 will not be affected
+		*/
+		"initialTraitChanceSlope": 0.01,
+		// Slimes hostility loot drop rate decay per split
+		"splitDropRateFactor": 0.25,
+		// Allow mobs without AI to have levels
+		"allowNoAI": false,
+		// Allow mobs allied to player to have levels
+		"allowPlayerAllies": false,
+		// Keep traits on mobs tamed by player
+		"allowTraitOnOwnable": false
+	},
+	"orbAndSpawner": {
+		// Allow to use hostility orb
+		"allowHostilityOrb": true,
+		/* Radius for Hostility Orb to take effect.
+		   0 means 1x1x1 section, 1 means 3x3x3 sections, 2 means 5x5x5 sections
+		*/
+		"orbRadius": 2,
+		// [NYI] Allow to use hostility spawner
+		"allowHostilitySpawner": true,
+		// [NYI] Number of mobs to spawn in Hostility Spawner
+		"hostilitySpawnCount": 16,
+		// [NYI] Level bonus factor for mobs to spawn in Hostility Spawner
+		"hostilitySpawnLevelFactor": 2
+	},
+	"items": {
+		// Number of level to add when using bottle of curse
+		"bottleOfCurseLevel": 50,
+		// Minimum duration for witch charge to be effective, in ticks
+		"witchChargeMinDuration": 200,
+		// Max percentage of max health a damage can hurt wearer of Ring of Life
+		"ringOfLifeMaxDamage": 0.9,
+		// Time in ticks of Soul Flame to inflict
+		"flameThornTime": 100,
+		// Radius in blocks for Ring of Reflection to work
+		"reflectTrinketRadius": 16,
+		// Factor of effect duration for witch wand, to make up for splash decay
+		"witchWandFactor": 4,
+		// Factor of maximum durability to cost for ring of corrosion
+		"ringOfCorrosionFactor": 0.2,
+		// Penalty of maximum durability to cost for ring of corrosion
+		"ringOfCorrosionPenalty": 0.1,
+		// Percentage of health to heal every second
+		"ringOfHealingRate": 0.05,
+		"curse": {
+			// Number of level to add when using Curse of Envy
+			"envyExtraLevel": 50,
+			// Number of level to add when using Curse of Greed
+			"greedExtraLevel": 50,
+			// Number of level to add when using Curse of Lust
+			"lustExtraLevel": 50,
+			// Number of level to add when using Curse of Wrath
+			"wrathExtraLevel": 50,
+			// Hostility loot drop factor when using Curse of Greed
+			"greedDropFactor": 2.0,
+			// Trait item drop rate per rank when using Curse of Envy
+			"envyDropRate": 0.02,
+			// Bottle of Curse drop rate per level when using Curse of Gluttony
+			"gluttonyBottleDropRate": 0.02,
+			// Damage bonus per level difference when using Curse of Wrath
+			"wrathDamageBonus": 0.05,
+			// Damage bonus per level when using Curse of Pride
+			"prideDamageBonus": 0.02,
+			// Health boost per level in percentage when using Curse of Pride
+			"prideHealthBonus": 0.02,
+			// Trait cost multiplier when using Curse of Pride
+			"prideTraitFactor": 0.5
+		},
+		// Number of level to add when using Abrahadabra
+		"abrahadabraExtraLevel": 100,
+		// Number of level to add when using Greed of Nidhoggur
+		"nidhoggurExtraLevel": 100,
+		// All loot drop factor when using Greed of Nidhoggur
+		"nidhoggurDropFactor": 0.01,
+		// Insulator Enchantment factor for reducing pushing
+		"insulatorFactor": 0.8
+	},
+	"effects": {
+		/* Effect Categories that can cleansed
+		   Only supports configuration in the config file.
+		*/
+		"cleansePredicate": [
+			"BENEFICIAL",
+			"HARMFUL",
+			"NEUTRAL"
+		]
+	},
+	"enchantments": { },
+	"traits": {
+		// Health bonus for Tank trait per level
+		"tankHealth": 0.5,
+		// Armor bonus for Tank trait per level
+		"tankArmor": 10.0,
+		// Toughness bonus for Tank trait per level
+		"tankTough": 4.0,
+		// Speed bonus for Speedy trait per level
+		"speedy": 0.12,
+		// Regen rate for Regeneration trait per second per level
+		"regen": 0.02,
+		// Damage factor for Adaptive. Higher means less reduction
+		"adaptFactor": 0.5,
+		// Reflect factor per level for Reflect. 0.5 means +50% extra damage
+		"reflectFactor": 0.3,
+		// Duration in ticks for enchantments to be disabled per level for Dispell
+		"dispellTime": 200,
+		// Duration in seconds to set target on fire by Fiery
+		"fieryTime": 5,
+		// Duration in ticks for Weakness
+		"weakTime": 200,
+		// Duration in ticks for Slowness
+		"slowTime": 200,
+		// Duration in ticks for Poison
+		"poisonTime": 200,
+		// Duration in ticks for Wither
+		"witherTime": 200,
+		/* Duration in ticks for Levitation
+		   It defaults to 200 in the original mod, but I've reduced it based on my personal preference.
+		*/
+		"levitationTime": 80,
+		// Duration in ticks for Blindness
+		"blindTime": 200,
+		// Duration in ticks for Nausea
+		"confusionTime": 200,
+		// Duration in ticks for Soul Burner
+		"soulBurnerTime": 60,
+		// Duration in ticks for Freezing
+		"freezingTime": 200,
+		// Duration in ticks for Cursed
+		"curseTime": 200,
+		// Interval in ticks for Teleport
+		"teleportDuration": 100,
+		// Range in blocks for Teleport
+		"teleportRange": 16,
+		// Range in blocks for Repell
+		"repellRange": 10,
+		// Repell force strength, default is 0.2
+		"repellStrength": 0.2,
+		// Fraction of remaining durability to corrode, per trait rank
+		"corrosionDurability": 0.3,
+		// Damage bonus when nothing to corrode
+		"corrosionDamage": 0.25,
+		// Fraction of lost durability to erode, per trait rank
+		"erosionDurability": 0.1,
+		// Damage bonus when nothing to erode
+		"erosionDamage": 0.25,
+		// Seal time per level for Ragnarok
+		"ragnarokTime": 20,
+		// Allow Ragnarok to seal items with Backpack in its id
+		"ragnarokSealBackpack": false,
+		// Allow Ragnarok to seal trinket items that adds trinket slot
+		"ragnarokSealSlotAdder": false,
+		// Damage for killer aura
+		"killerAuraDamage": 10,
+		// Range for for killer aura
+		"killerAuraRange": 6,
+		// Interval for for killer aura
+		"killerAuraInterval": 120,
+		// Interval for for shulker
+		"shulkerInterval": 40,
+		// Interval for for grenade (explode shulker in the original mod)
+		"grenadeInterval": 60,
+		// Damage bonus for each negative effects
+		"drainDamage": 0.1,
+		// Duration boost for negative effects
+		"drainDuration": 0.5,
+		// Max duration boost for negative effects
+		"drainDurationMax": 1200,
+		// Max duration boost for negative effects
+		"counterStrikeDuration": 100,
+		// Max duration boost for negative effects
+		"counterStrikeRange": 6,
+		// Range in blocks for Pulling
+		"pullingRange": 10,
+		// Pulling force strength, default is 0.2
+		"pullingStrength": 0.2,
+		// Reprint damage factor per enchantment point
+		"reprintDamage": 0.02,
+		// Reprint will gain Void Touch 20 (NYI) and Vanishing Curse when it hits a mob with max Enchantment level of X or higher
+		"reprintBypass": 10,
+		/* Trait toggle
+		   Only supports configuration in the config file.
+		*/
+		"traitToggle": {
+			"corrosion": true,
+			"cursed": true,
+			"speedy": true,
+			"fiery": true,
+			"teleport": true,
+			"invisible": true,
+			"counter_strike": true,
+			"protection": true,
+			"arena": true,
+			"dementor": true,
+			"killer_aura": true,
+			"drain": true,
+			"adaptive": true,
+			"weakness": true,
+			"reflect": true,
+			"split": true,
+			"undying": true,
+			"tank": true,
+			"levitation": true,
+			"ragnarok": true,
+			"grenade": true,
+			"soul_burner": true,
+			"shulker": true,
+			"poison": true,
+			"reprint": true,
+			"blindness": true,
+			"dispell": true,
+			"moonwalk": true,
+			"slowness": true,
+			"nausea": true,
+			"repelling": true,
+			"regenerate": true,
+			"freezing": true,
+			"gravity": true,
+			"erosion": true,
+			"pulling": true,
+			"growth": true,
+			"wither": true
+		},
+		/* Effect range for aura effect traits
+		   Only supports configuration in the config file.
+		*/
+		"auraRange": {
+			"gravity": 10,
+			"arena": 24,
+			"moonwalk": 10
+		}
+	},
+	"complements": {
+		"enableVanillaItemRecipe": true,
+		"enableSpawnEggRecipe": true,
+		"enableImmunityEnchantments": true,
+		"materials": {
+			"windSpeed": 10.0,
+			"belowVoid": 16,
+			"phantomHeight": 200,
+			"explosionDamage": 80,
+			"enableSpaceShard": true,
+			"spaceDamage": 16384
+		},
+		"fireCharge": {
+			"soulFireChargeDuration": 60,
+			"blackFireChargeDuration": 100,
+			"strongFireChargePower": 2
+		},
+		"properties": {
+			"totemicHealDuration": 100,
+			"totemicHealAmount": 1,
+			"windSweepIncrement": 1.0,
+			"emeraldDamageFactor": 0.5,
+			"emeraldBaseRange": 10,
+			"iceEnchantDuration": 100,
+			"flameEnchantDuration": 60,
+			"bleedEnchantDuration": 80,
+			"curseEnchantDuration": 100,
+			"bleedEnchantMax": 3,
+			"voidTouchChance": 0.05,
+			"voidTouchChanceBonus": 0.5,
+			"mobTypeBonus": 1.0
+		}
+	}
+}

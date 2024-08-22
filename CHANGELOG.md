@@ -1,3 +1,30 @@
+## 0.3.5 - 2024.08.22
+##### Added
+- Enchantments
+	- Spell Curse
+	- Spell Haste
+	- Spell Dash
+	- Stress Response
+- Monster damage increases with level
+- Reduce difficulty after player death
+##### Removed
+- Dark Enchanting
+- Knight Quest
+##### Changed
+- Reduce the density of the structures
+- Spell Book Requirement
+- Spell Scroll Requirement
+- Remove the prohibition of some enchantments related to spell power
+- Casting spells is now being considered within the logic of Adapting trait
+- Reduce the speed factor of Speedy trait (0.2 per level -> 0.12 per level)
+##### Fixed
+- Enchanted Essence Recipe conflict (mainhand and offhand)
+- Mob with 'noDrop' data no longer drop base essences
+- Wrong descriptions in the keybinding page of the book
+- Split trait and Split Suppressor (enchantment)
+- Magic damage type tag missing vanilla entries
+- Curse effect does not work for Undying trait
+- Server crash
 
 ## 0.3.4 - 2024.08.04
 ##### Added

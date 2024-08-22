@@ -1,0 +1,24 @@
+{
+	// Render Traits in name plate form
+	"showTraitOverHead": true,
+	// Render mob level in name plate form
+	"showLevelOverHead": true,
+	// Name plate render distance
+	"overHeadRenderDistance": 32,
+	// Name plate render offset in lines, upward is positive
+	"overHeadRenderOffset": 0.0,
+	// Overhead render text becomes full bright
+	"overHeadRenderFullBright": true,
+	// Overhead level color in decimal form, converted from hex form
+	"overHeadLevelColor": 11184810,
+	// Overhead level color for mobs affected by abyssal thorn
+	"overHeadLevelColorAbyss": 16733525,
+	// Show nameplate style trait and name only when hovered
+	"showOnlyWhenHovered": false,
+	// Detector Glasses glowing range for hidden mobs
+	"glowingRangeHidden": 32,
+	// Detector Glasses glowing range for nearby mobs
+	"glowingRangeNear": 16,
+	// Render undying particles
+	"showUndyingParticles": true
+}

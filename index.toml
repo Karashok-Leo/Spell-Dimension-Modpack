@@ -241,6 +241,10 @@ file = "config/bettercombat/server.json5"
 hash = "8a3ca0cbeb543de63d478c7aaf065c0244a8b5d4face1c0a0124d1d3a1790c12"
 
 [[files]]
+file = "config/betterendisland-fabric-1_20.toml"
+hash = "24b38c3caa93e98ffaab6d3f7380e9d7469fa3a3576bdb8ff146b78bce636f71"
+
+[[files]]
 file = "config/bigendcitiesmodconfig.properties"
 hash = "46b6754eee92528f4909ecc9eb53595bd8a4ad5d3929ee508ebed5acb3aea097"
 
@@ -281,10 +285,6 @@ file = "config/creeperaiupdated.json"
 hash = "62d857eaccda46f7c08ae5743ace0daa2c164f17868303432598787b8657c7c6"
 
 [[files]]
-file = "config/dark-enchanting-v1.json5"
-hash = "a4966af26690dd31c26a27adc3e87341174b0c58e34d8af655a01f698c276b5d"
-
-[[files]]
 file = "config/deeperdarker.json5"
 hash = "4838cfbddc5a32292286d9a1d67c295733be5eae20c3f5193bac3fa691f548dc"
 
@@ -294,7 +294,11 @@ hash = "a186d6ab6468353cb2a49f5a4229c16b004580a557d4bccaf12041e8a46f9d9e"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
-hash = "ea5b0f93acdc293d107f9d2b89dc3fe98e76d9009031d23cf27f8fe653227c71"
+hash = "c923383681164fec4d9944cfa2046adb3495b63298e8fe7a1d1efcfd7220b755"
+
+[[files]]
+file = "config/dragonfight.json"
+hash = "5f1d2ea380112bc9380646476bd38ebdf17c95ab967e4d7abcf3df92d94a573d"
 
 [[files]]
 file = "config/dragonloot.json5"
@@ -475,6 +479,14 @@ hash = "c5bcdc35b6c4fb7e5a96d552c10c13302c95956b3d6b038817cb97cd26f42801"
 [[files]]
 file = "config/justmobheads/headchances.txt"
 hash = "b866a5ab632fa59ab80030f6b0db3715e12af54e33a11041df94e5d7cae50340"
+
+[[files]]
+file = "config/l2hostility/client.json5"
+hash = "45f72d573115a83715ed993fc9502fabad886c412cd34f05812e86f5ff17cc47"
+
+[[files]]
+file = "config/l2hostility/common.json5"
+hash = "44a5db0a24fd088f833493da439963abf3762dce4f28713ef1e8588eccab7e6d"
 
 [[files]]
 file = "config/limitedspawners.toml"
@@ -689,332 +701,8 @@ file = "config/openloader/data/loot/data/soulsweapons/loot_tables/entities/night
 hash = "4082246b50660616f567d81a1e8367f636f00e95edb5f02b41e81bb4d1500e02"
 
 [[files]]
-file = "config/openloader/data/loot/data/spell-dimension/loot_tables/block/beetroots.json"
-hash = "37593d58807c8719e1a6192705c7c94920eea98638cea47e9dbee093ce66bd59"
-
-[[files]]
-file = "config/openloader/data/loot/data/spell-dimension/loot_tables/block/chorus_plant.json"
-hash = "0c50f867a0f5644c4358325a63e3220f9a0c990e37bc1af44dc0a2a24f00eadc"
-
-[[files]]
-file = "config/openloader/data/loot/data/spell-dimension/loot_tables/block/deepslate.json"
-hash = "1f2a7ac5d45fd13ae828f3704d229e057c039a08505662bf14d3cb54eac35225"
-
-[[files]]
-file = "config/openloader/data/loot/data/spell-dimension/loot_tables/block/dirt.json"
-hash = "86e4b438f230f6c793bf8acf2fc594832ebca92b40539e5815a4527a831ad8ba"
-
-[[files]]
-file = "config/openloader/data/loot/data/spell-dimension/loot_tables/block/end_stone.json"
-hash = "a45afdba8b4893f6b14300e091358e0d0dd5182bca9e4c11fa90b75af3878072"
-
-[[files]]
-file = "config/openloader/data/loot/data/spell-dimension/loot_tables/block/kelp.json"
-hash = "d37e1ab96bd362fa2cc8807ed9f3e6d249b3bae29b24b6c9d74d529fbf8104df"
-
-[[files]]
-file = "config/openloader/data/loot/data/spell-dimension/loot_tables/block/netherrack.json"
-hash = "4efc4bd295e625bc6d2f35c709ec6cabcd6d9431068fb4dcb91f6b8255c000ee"
-
-[[files]]
-file = "config/openloader/data/loot/data/spell-dimension/loot_tables/block/potatoes.json"
-hash = "95adb248874f884fcebb5194777386a87d882cc1b1643f94e354fe8780e672d0"
-
-[[files]]
-file = "config/openloader/data/loot/data/spell-dimension/loot_tables/block/pumpkin.json"
-hash = "ad6f0d5739539679e7a3da3c24755a5edc9d0a7af72a16eb8b470396615d238f"
-
-[[files]]
-file = "config/openloader/data/loot/data/spell-dimension/loot_tables/block/red_sand.json"
-hash = "fa318004c555aeaf32c1c49d3dacd8e375d0d5ce63a67d5ce5dcfc59b8ef48a9"
-
-[[files]]
-file = "config/openloader/data/loot/data/spell-dimension/loot_tables/block/sand.json"
-hash = "b1ba86175a4bc5b862add21501211494389a8102a8fd1db5b0d4cc5b1e9d1001"
-
-[[files]]
-file = "config/openloader/data/loot/data/spell-dimension/loot_tables/block/spawner.json"
-hash = "fe3c996294b2a42ef2a026b176b8b133ace041c84ea765747151cfe91324e539"
-
-[[files]]
-file = "config/openloader/data/loot/data/spell-dimension/loot_tables/block/stone.json"
-hash = "e67851c54b72d52d9fa9bf86fd23c8c11cfb8aef4e0b14ab708d99ad3dbe55a8"
-
-[[files]]
-file = "config/openloader/data/loot/data/spell-dimension/loot_tables/block/sweet_berry_bush.json"
-hash = "05c9d05f2718565bc526dbc0dad2bcf83335c0fae043ed9ce6e4419631ab8129"
-
-[[files]]
-file = "config/openloader/data/loot/data/spell-dimension/loot_tables/block/turtle_egg.json"
-hash = "46d9ad0283804e5380dce13619df10bc03058d9d1e3092ecd8109cc86b2d2034"
-
-[[files]]
-file = "config/openloader/data/loot/data/spell-dimension/loot_tables/block/wheat.json"
-hash = "8c5761a7ca5729dd3ecd3ca815aa01f10c3745b564adeb9f5553ae054d9d4f2e"
-
-[[files]]
-file = "config/openloader/data/loot/data/spell-dimension/loot_tables/boss/accursed_lord_boss.json"
-hash = "fa31f8426b787c283b37f72568533970d8794c701b3c353bf33f0022857fc1b0"
-
-[[files]]
-file = "config/openloader/data/loot/data/spell-dimension/loot_tables/boss/chaos_monarch.json"
-hash = "fe3225e483fc0dffb76cebedfb4a285328030eb0b1f9fc01b6b7a13a6291b28a"
-
-[[files]]
-file = "config/openloader/data/loot/data/spell-dimension/loot_tables/boss/day_stalker.json"
-hash = "4fe8a361b3d5ec471cfcf7e04080e257131681f93f02f03b810a6996a740f6dc"
-
-[[files]]
-file = "config/openloader/data/loot/data/spell-dimension/loot_tables/boss/elder_guardian.json"
-hash = "00c0cefc98b0bd1a3677446c67abc02e4c18c5244909073a0f3d4af0904e6e4f"
-
-[[files]]
-file = "config/openloader/data/loot/data/spell-dimension/loot_tables/boss/ender_dragon.json"
-hash = "9921a44ee01131d70ad73d88ae11d44ed3134ba67a4f166c3ef5a724e13570f0"
-
-[[files]]
-file = "config/openloader/data/loot/data/spell-dimension/loot_tables/boss/night_prowler.json"
-hash = "4fe8a361b3d5ec471cfcf7e04080e257131681f93f02f03b810a6996a740f6dc"
-
-[[files]]
-file = "config/openloader/data/loot/data/spell-dimension/loot_tables/boss/wither.json"
-hash = "5b69eb01dee451c301d2b98cfac86bec0e778f50537a91ca320d788202918540"
-
-[[files]]
-file = "config/openloader/data/loot/data/spell-dimension/loot_tables/entity/bee.json"
-hash = "af28ba1b35d2ccf695fc30f640c269b129168c568d411897c42650b252fe7bd0"
-
-[[files]]
-file = "config/openloader/data/loot/data/spell-dimension/loot_tables/entity/blaze.json"
-hash = "7c880f5d2543acb31770ba6f3850b069d26510eb450e7f65c483d6f85765c471"
-
-[[files]]
-file = "config/openloader/data/loot/data/spell-dimension/loot_tables/entity/chicken.json"
-hash = "9ed9d050d2f5b794c61bffba64c1c90329914f33b5a1482c88eba124420433f7"
-
-[[files]]
-file = "config/openloader/data/loot/data/spell-dimension/loot_tables/entity/cod.json"
-hash = "ea8216058a40ad6d2bd2a2c9fcedb99dc8b66a70880e042f7ce5022e798bc07d"
-
-[[files]]
-file = "config/openloader/data/loot/data/spell-dimension/loot_tables/entity/cow.json"
-hash = "339c0ec75b1b57c86de81c65833d99f82bdcadaffaabd363c691ebc4fb0444d0"
-
-[[files]]
-file = "config/openloader/data/loot/data/spell-dimension/loot_tables/entity/creeper.json"
-hash = "2e34171bfb63c7bf08b6b15d11e2afd8d79143f7fa059c3ae6e94c26218147bd"
-
-[[files]]
-file = "config/openloader/data/loot/data/spell-dimension/loot_tables/entity/elder_guardian.json"
-hash = "00c0cefc98b0bd1a3677446c67abc02e4c18c5244909073a0f3d4af0904e6e4f"
-
-[[files]]
-file = "config/openloader/data/loot/data/spell-dimension/loot_tables/entity/ender_dragon.json"
-hash = "9921a44ee01131d70ad73d88ae11d44ed3134ba67a4f166c3ef5a724e13570f0"
-
-[[files]]
-file = "config/openloader/data/loot/data/spell-dimension/loot_tables/entity/enderman.json"
-hash = "9433569f5a430ce8e5bd936595ddc56c5585ef0305e68abe4060d95ef70226f0"
-
-[[files]]
-file = "config/openloader/data/loot/data/spell-dimension/loot_tables/entity/equine.json"
-hash = "911ef4fa8d778f1d239ad005d70f39a258ac3d16edf2580dddc87c2d52035139"
-
-[[files]]
-file = "config/openloader/data/loot/data/spell-dimension/loot_tables/entity/ghast.json"
-hash = "31323314a38b50668d1f52c9a560114be0f9a1cd664baf1faa66886bd40f3f86"
-
-[[files]]
-file = "config/openloader/data/loot/data/spell-dimension/loot_tables/entity/guardian.json"
-hash = "ee297e732c274d51cbeaaa5b84ee341ddddd5de4a34c648f31828f422ab48060"
-
-[[files]]
-file = "config/openloader/data/loot/data/spell-dimension/loot_tables/entity/magma_cube.json"
-hash = "c037124360610245a0ad65b01ba9ae7c200c325529e8f061536f511cbcbd7da0"
-
-[[files]]
-file = "config/openloader/data/loot/data/spell-dimension/loot_tables/entity/ore.json"
-hash = "de22f1348f32f02d6b695c723df6cc3c9fa84fc0ff4e90cfd3177be51c1dc755"
-
-[[files]]
-file = "config/openloader/data/loot/data/spell-dimension/loot_tables/entity/pig.json"
-hash = "8c702cb9dae249fe26e45bab92fa8e61d63aa837725c71576496280a803b33fa"
-
-[[files]]
-file = "config/openloader/data/loot/data/spell-dimension/loot_tables/entity/piglin.json"
-hash = "48360a11dfce86556f50f67c6828b0908542ec0ab2a7476f304925029374fcec"
-
-[[files]]
-file = "config/openloader/data/loot/data/spell-dimension/loot_tables/entity/rabbit.json"
-hash = "bc6eba44918e1ead9421c78fdb7e8b7fb3c074b2d4522724d3a411fabb4e7a94"
-
-[[files]]
-file = "config/openloader/data/loot/data/spell-dimension/loot_tables/entity/salmon.json"
-hash = "f400302469fdaf7e1b365b29ca402340ba4e6eae601b0e21120d4b101a793287"
-
-[[files]]
-file = "config/openloader/data/loot/data/spell-dimension/loot_tables/entity/sheep.json"
-hash = "2d27344a7451f3a767230ca311356a7bb662b40498bfa16292eefd812ec96e84"
-
-[[files]]
-file = "config/openloader/data/loot/data/spell-dimension/loot_tables/entity/shulker.json"
-hash = "539d9cec3c7e39b6919955b7cdce8700bbf688bdc9b06869d37086844f3f23fe"
-
-[[files]]
-file = "config/openloader/data/loot/data/spell-dimension/loot_tables/entity/skeleton.json"
-hash = "3070ede60ff4d388838cc4bb4cd1c0ffca95d0bb89c4385e1274f6e4efa13f29"
-
-[[files]]
-file = "config/openloader/data/loot/data/spell-dimension/loot_tables/entity/slime.json"
-hash = "19203235a428ccd99e7fcf29c30df6e35bf37137bdcc398a8209761f4721e286"
-
-[[files]]
-file = "config/openloader/data/loot/data/spell-dimension/loot_tables/entity/spider.json"
-hash = "c8096a037752857613aa14a961daea474733d5ad83988c7e25affd66a4e20d6a"
-
-[[files]]
-file = "config/openloader/data/loot/data/spell-dimension/loot_tables/entity/strider.json"
-hash = "a43455cd0e1e64a2255effdb7cb880ca5156059f6225f6d6d2e9e724f19b6b74"
-
-[[files]]
-file = "config/openloader/data/loot/data/spell-dimension/loot_tables/entity/turtle.json"
-hash = "e01a7d166c9debe43fc6822addb2b8aba593bd4e89a2d37a7e6caac2e1352558"
-
-[[files]]
-file = "config/openloader/data/loot/data/spell-dimension/loot_tables/entity/wither.json"
-hash = "5b69eb01dee451c301d2b98cfac86bec0e778f50537a91ca320d788202918540"
-
-[[files]]
-file = "config/openloader/data/loot/data/spell-dimension/loot_tables/entity/wither_skeleton.json"
-hash = "ce751040a4c6d6feb81f52aab0c54773238ff91a61cfe0a4b5b1edb8a9a581a9"
-
-[[files]]
-file = "config/openloader/data/loot/data/spell-dimension/loot_tables/entity/zombie.json"
-hash = "0bc2eac702b843c4ee7e4a1462536420b4f06ce52efe563fe0fb2c6035d61c35"
-
-[[files]]
-file = "config/openloader/data/loot/data/spell-dimension/loot_tables/pool/aring.json"
-hash = "24547c4fde6552ac44d512d9179d3dc6df87757a4d45e5f91717c67bf908b211"
-
-[[files]]
-file = "config/openloader/data/loot/data/spell-dimension/loot_tables/pool/artifact.json"
-hash = "c1cb04a69826560c4dc243efa838f501e26028769224b9c0380d0814c279a884"
-
-[[files]]
-file = "config/openloader/data/loot/data/spell-dimension/loot_tables/pool/boss.json"
-hash = "9151ab652ec8113d87bb89a83f6fa3e401b2ae6cc01ddf2271ffa31a7dbf084d"
-
-[[files]]
-file = "config/openloader/data/loot/data/spell-dimension/loot_tables/pool/charm.json"
-hash = "02d8cea730bb1014f112f9ed3e6a6ca5de0ce8c5aa8db2ec4ce284d6571bbd70"
-
-[[files]]
-file = "config/openloader/data/loot/data/spell-dimension/loot_tables/pool/common/book.json"
-hash = "dd18b03fe9c6f297bbca9a4a7fb2ddf821ee5b26737565187611615db91990fe"
-
-[[files]]
-file = "config/openloader/data/loot/data/spell-dimension/loot_tables/pool/common/gear.json"
-hash = "06c40132b47bd6dc5bfdb6289892ebb97312252d15c45ce7e055739ee1fe2893"
-
-[[files]]
-file = "config/openloader/data/loot/data/spell-dimension/loot_tables/pool/common/material.json"
-hash = "8339bff513199ef5707a27cb3a44b37cb9139718eb8e5cae27b4c8d911987b78"
-
-[[files]]
-file = "config/openloader/data/loot/data/spell-dimension/loot_tables/pool/epic/book.json"
-hash = "336dae529f79ede09f2a679fea2b49ce7bfafcab04b033b33d9ca832ded9d116"
-
-[[files]]
-file = "config/openloader/data/loot/data/spell-dimension/loot_tables/pool/epic/gear.json"
-hash = "58961f4211edc4da74aa83f7d69f0ef51d78a9aaacdc200dd565a95f5b42c95d"
-
-[[files]]
-file = "config/openloader/data/loot/data/spell-dimension/loot_tables/pool/epic/material.json"
-hash = "949600366e040a4d6f12bfdb48c32835ca92a4a2b65a3ee78dbb64e6aa5d8321"
-
-[[files]]
-file = "config/openloader/data/loot/data/spell-dimension/loot_tables/pool/jewelry/necklaces.json"
-hash = "6b304d4eb71f78f5b771c7a6cce759878d00e7a0723fdc359794577c72813442"
-
-[[files]]
-file = "config/openloader/data/loot/data/spell-dimension/loot_tables/pool/jewelry/rings.json"
-hash = "cd10ac99585a94baab218d9831963b21c78739e55a7580d03547fe2be45d9fb2"
-
-[[files]]
-file = "config/openloader/data/loot/data/spell-dimension/loot_tables/pool/legendary/book.json"
-hash = "b07ccc168490a32259a1c14464dbcf97ccdc5a258db3c4ecab08d976f64e89c3"
-
-[[files]]
-file = "config/openloader/data/loot/data/spell-dimension/loot_tables/pool/legendary/gear.json"
-hash = "4bc09a25b950a68c3b5bf4456507696c64aea5aab3e41472375f9e9d42f40397"
-
-[[files]]
-file = "config/openloader/data/loot/data/spell-dimension/loot_tables/pool/legendary/material.json"
-hash = "36ad1ade4465791c1d478220deb78be56ee07dbd1ca6960aa0cee0b1fb994535"
-
-[[files]]
-file = "config/openloader/data/loot/data/spell-dimension/loot_tables/pool/midas.json"
-hash = "cf89c94005ff8409dfadd89aa97f85b7588d9e735b15920331771f97574f8fc2"
-
-[[files]]
-file = "config/openloader/data/loot/data/spell-dimension/loot_tables/pool/rare/book.json"
-hash = "a867884c96b9afeaa59aaf6898ca91cdfc175870cb54a28d4ba59a5438053205"
-
-[[files]]
-file = "config/openloader/data/loot/data/spell-dimension/loot_tables/pool/rare/gear.json"
-hash = "27e5952be7f9d26b459c22aa4bf6178b8a3c13621cd4b60fdcce70dea1d1de8a"
-
-[[files]]
-file = "config/openloader/data/loot/data/spell-dimension/loot_tables/pool/rare/material.json"
-hash = "8695636efbc6479ef40116335eec54de4095e744210a5cf543f07795faf2643c"
-
-[[files]]
-file = "config/openloader/data/loot/data/spell-dimension/loot_tables/pool/start.json"
-hash = "a20182fa9e43e46282d2b35400738174958e663877345441cbaed361f57b9353"
-
-[[files]]
-file = "config/openloader/data/loot/data/spell-dimension/loot_tables/pool/uncommon/book.json"
-hash = "1cece880f4602aec7d5b32dacf91c607a9bef8669600ebb468de354a15b70576"
-
-[[files]]
-file = "config/openloader/data/loot/data/spell-dimension/loot_tables/pool/uncommon/gear.json"
-hash = "332865f2e97f4202ee816d9ec12608c4d00490d3d74becec51cd993160e1b34c"
-
-[[files]]
-file = "config/openloader/data/loot/data/spell-dimension/loot_tables/pool/uncommon/material.json"
-hash = "e4666d211054f1102e90f20f5a82673234249b06079ce401147578db4fc90400"
-
-[[files]]
-file = "config/openloader/data/loot/data/spell-dimension/loot_tables/tier/common_drop.json"
-hash = "ec847bd76bb70f5309b38327bb0344ff88664640560c28ca014b9f20d399f86b"
-
-[[files]]
-file = "config/openloader/data/loot/data/spell-dimension/loot_tables/tier/epic_drop.json"
-hash = "b2468081f568fbe131470f23a23cdc272a8efb10f559ec323eabd153916d9dea"
-
-[[files]]
-file = "config/openloader/data/loot/data/spell-dimension/loot_tables/tier/legendary_drop.json"
-hash = "2a67e239f452340f1c4aaa7bdeb1f2f0b40bd72a3b864ee1960702f034c299df"
-
-[[files]]
-file = "config/openloader/data/loot/data/spell-dimension/loot_tables/tier/rare_drop.json"
-hash = "518fd965e5842156e03bc2f554954b46f08079ea5ff32b7618625b37de8b64ee"
-
-[[files]]
-file = "config/openloader/data/loot/data/spell-dimension/loot_tables/tier/uncommon_drop.json"
-hash = "d736953e30a653aad72e7a4fab9257c2bec4e3836c86e4b576ca582c2d377816"
-
-[[files]]
 file = "config/openloader/data/loot/pack.mcmeta"
 hash = "7a14bcffc8d12fd177f4a80e97f8a79969f84a52c126d321a4151164edbc455e"
-
-[[files]]
-file = "config/openloader/data/recipe/data/dark-enchanting/recipes/dark_enchanter.json"
-hash = "ac3ff0b1cde6b169da8bfedc74dce39160d6117446fab4bfe886a9b1bfd05c15"
-
-[[files]]
-file = "config/openloader/data/recipe/data/dark-enchanting/recipes/table_upgrade.json"
-hash = "d14cd5c365b0c3da7429baeddb6a52c3faab747b8dba77fc42eea3f639c603f1"
 
 [[files]]
 file = "config/openloader/data/recipe/data/graveyard/recipes/bone_dagger.json"
@@ -1437,6 +1125,14 @@ file = "config/openloader/resources/translations/assets/spacecatasb/lang/zh_cn.j
 hash = "5a37fe69d8115553d91a860d2706f364110ac6ea8bb08ecc6a6b03a2ef3ec33c"
 
 [[files]]
+file = "config/openloader/resources/translations/assets/spell_power/lang/en_us.json"
+hash = "4c69f0bed0ccd555b019bcfab9d1f81c09b0189b313f7a2123a52136e63fbebd"
+
+[[files]]
+file = "config/openloader/resources/translations/assets/spell_power/lang/zh_cn.json"
+hash = "5845933cfd58f6a030eac8186fc09d41b71af81a22ab4fe35686dab5410b8031"
+
+[[files]]
 file = "config/openloader/resources/translations/assets/spellbladenext/lang/zh_cn.json"
 hash = "f249bc0c682835f02c800d2fa9a6c21b24013fe798cee2b89f803f6d0ff83992"
 
@@ -1518,7 +1214,7 @@ hash = "e718624c8330d0d9d49ead4e22da36e345612d4043979dd59f5d1448e10abe48"
 
 [[files]]
 file = "config/sparsestructures.json5"
-hash = "ffb931e5681f2d1594f2262641cde7a37f9d8478d1b5d9c7ee90f26b2b57bb3f"
+hash = "21f70499105bb4ba6dee99b746559f280d9d8ed52f1ade731bbeab68e2c21518"
 
 [[files]]
 file = "config/spell_engine/client.json5"
@@ -1795,7 +1491,7 @@ metafile = true
 
 [[files]]
 file = "mods/combat-roll.pw.toml"
-hash = "065b976df69c80bd983e8b5182b6d0524b405b6773f4483ac07f73fd1bae8b91"
+hash = "8a3432ac57fefabac2f33b482d56cb3f28af0242f4f18aa19156bd4f453e8e0b"
 metafile = true
 
 [[files]]
@@ -1849,11 +1545,6 @@ hash = "2ceb98c8aa5142b58c2e0a8baedf5f7cc70d4a904b7223e5c50e6f25a3ac26d0"
 metafile = true
 
 [[files]]
-file = "mods/dark-enchanting.pw.toml"
-hash = "45cdca19679333f79ed68312ec833356253c9b24f2385734d59bcbe53ce5ade7"
-metafile = true
-
-[[files]]
 file = "mods/deeperdarker.pw.toml"
 hash = "b668dcbde422d7c080dc77a820e46bf37e0ef46636e284ac29348344f86c93ef"
 metafile = true
@@ -1900,7 +1591,7 @@ metafile = true
 
 [[files]]
 file = "mods/enchantment-infusion.pw.toml"
-hash = "6ff41477ebac84ebf1e777248313425f02c610efd8ac2aaeb92c100e51a02f18"
+hash = "e261cc4e2c3fb287086f2c1b6e4362651175f82432b3d0196c8116fab14ce93a"
 metafile = true
 
 [[files]]
@@ -2103,18 +1794,13 @@ hash = "89e997ac208afad939b9d43b8b4e785dd6e6e405fc4a785d311a0af42821a656"
 metafile = true
 
 [[files]]
-file = "mods/knight-quest-fabric.pw.toml"
-hash = "579a454d8c3cb9a80fcf8bb620c47e49d494b9a9f326855c3176412183aa7958"
-metafile = true
-
-[[files]]
 file = "mods/konkrete-fabric.pw.toml"
 hash = "2895ab3b454293884e288a125bba2fbf4135475573c345ef919d56f2ad91419c"
 metafile = true
 
 [[files]]
 file = "mods/l2-hostility-fabricated.pw.toml"
-hash = "12f6795fab7e1e9e5a4c6e02f6da4a1916735bc83b0f7c4f942917e28e4efde7"
+hash = "630d948207558bd0b8bcadb8d22d28c5412b63ac26d49e8ea7cf9805a3b7716e"
 metafile = true
 
 [[files]]
@@ -2134,7 +1820,7 @@ metafile = true
 
 [[files]]
 file = "mods/leos-loot-bag.pw.toml"
-hash = "dde91848138a029303612c5ca313c9e494d07ab9eeb5f2aad5ddf8c36559c7a8"
+hash = "909f7dbc96265586c58c1e55a9982559777140c37cd049dcf9be7e1ff783237b"
 metafile = true
 
 [[files]]
@@ -2503,8 +2189,8 @@ hash = "6955c024252577178298e691d7fe0111c5bd1155e4497df6ed1251bdac9b5b44"
 metafile = true
 
 [[files]]
-file = "mods/spell_dimension-0.3.4.jar"
-hash = "9a0e69ba8eb47463ef765851fddbf31c3fc6522720e0be5cb635d3c6d11b3fb2"
+file = "mods/spell_dimension-0.3.5.jar"
+hash = "efd3bd31fd5578803b8ee0ed4c65e34d841dea6807f79fa90218202cb5d31bad"
 
 [[files]]
 file = "mods/spellblade-next.pw.toml"
