@@ -1,0 +1,23 @@
+{
+    "pools": [
+        {
+            "name": "eye_pool",
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "item",
+                    "name": "endrem:old_eye"
+                }
+            ]
+        },
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "item",
+                    "name": "soulsweapons:essence_of_eventide"
+                }
+            ]
+        }
+    ]
+}

@@ -4,7 +4,6 @@
     "furnace": true,
     "harvest_tool.show_unbreakable": false,
     "animal_owner": true,
-    "animal_owner.fetch_names": true,
     "harvest_tool.effective_tool": true,
     "item_storage.normal_amount": 9,
     "item_storage": true,
@@ -50,6 +49,9 @@
     "potion_effects": true,
     "painting": true,
     "chiseled_bookshelf": true
+  },
+  "l2hostility": {
+    "mob": true
   },
   "jade": {
     "coordinates.rel": false,
