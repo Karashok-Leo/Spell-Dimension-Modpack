@@ -1,13 +1,13 @@
 name = "Jewelry (RPG Series)"
-filename = "Jewelry-1.3.5+1.20.1.jar"
+filename = "Jewelry-1.3.6+1.20.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "152d2b94081f4eaaaba42bf7fc147fb96341b1f1"
+hash = "864d627e52294ee703f35de952c01265f54749e5"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5558959
+file-id = 5614800
 project-id = 910706

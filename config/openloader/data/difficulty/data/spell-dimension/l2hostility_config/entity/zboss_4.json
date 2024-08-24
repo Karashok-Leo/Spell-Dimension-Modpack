@@ -1,0 +1,31 @@
+{
+  "list": [
+    {
+      "blacklist": [
+        "l2hostility:invisible"
+      ],
+      "difficulty": {
+        "base": 50,
+        "min": 300,
+        "scale": 0.0,
+        "variation": 0.0,
+        "apply_chance": 1.0,
+        "trait_chance": 1.0
+      },
+      "entities": [
+        "minecraft:ender_dragon",
+        "adventurez:the_eye",
+        "adventurez:void_shadow",
+        "bosses_of_mass_destruction:obsidilith"
+      ],
+      "items": [],
+      "traits": [
+        {
+          "free": 1,
+          "min": 1,
+          "trait": "l2hostility:arena"
+        }
+      ]
+    }
+  ]
+}

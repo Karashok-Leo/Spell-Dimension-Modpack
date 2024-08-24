@@ -472,6 +472,14 @@
       "extra_tables": [
         "spell-dimension:boss/chaos_monarch"
       ]
+    },
+    {
+      "target_tables": [
+        "illagerinvasion:entities/invoker"
+      ],
+      "extra_tables": [
+        "spell-dimension:boss/invoker"
+      ]
     }
   ]
 }

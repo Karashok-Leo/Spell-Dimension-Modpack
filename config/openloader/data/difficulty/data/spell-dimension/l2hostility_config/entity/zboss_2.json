@@ -1,0 +1,28 @@
+{
+  "list": [
+    {
+      "blacklist": [
+        "l2hostility:invisible"
+      ],
+      "difficulty": {
+        "base": 50,
+        "min": 200,
+        "scale": 0.0,
+        "variation": 0.0,
+        "apply_chance": 1.0,
+        "trait_chance": 1.0
+      },
+      "entities": [
+        "graveyard:lich"
+      ],
+      "items": [],
+      "traits": [
+        {
+          "free": 1,
+          "min": 1,
+          "trait": "l2hostility:arena"
+        }
+      ]
+    }
+  ]
+}

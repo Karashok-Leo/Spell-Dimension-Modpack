@@ -1,0 +1,34 @@
+{
+  "list": [
+    {
+      "blacklist": [
+        "l2hostility:invisible"
+      ],
+      "difficulty": {
+        "base": 50,
+        "min": 100,
+        "scale": 0.0,
+        "variation": 0.0,
+        "apply_chance": 1.0,
+        "trait_chance": 1.0
+      },
+      "entities": [
+        "minecraft:wither",
+        "minecraft:elder_guardian",
+        "minecraft:warden",
+        "illagerinvasion:invoker",
+        "soulsweapons:accursed_lord_boss",
+        "soulsweapons:draugr_boss",
+        "soulsweapons:night_shade"
+      ],
+      "items": [],
+      "traits": [
+        {
+          "free": 1,
+          "min": 1,
+          "trait": "l2hostility:arena"
+        }
+      ]
+    }
+  ]
+}

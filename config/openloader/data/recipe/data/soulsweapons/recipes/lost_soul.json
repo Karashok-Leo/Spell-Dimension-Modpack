@@ -1,0 +1,19 @@
+{
+    "type": "alloy_forgery:forging",
+    "inputs": [
+      {
+        "item": "minecraft:soul_sand",
+        "count": 16
+      },
+      {
+        "item": "illagerinvasion:primal_essence",
+        "count": 1
+      }
+    ],
+    "output": {
+      "id": "soulsweapons:lost_soul",
+      "count": 16
+    },
+    "min_forge_tier": 1,
+    "fuel_per_tick": 5
+}

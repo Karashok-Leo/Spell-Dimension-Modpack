@@ -1,13 +1,13 @@
 name = "Mythic Upgrades"
-filename = "mythicupgrades-4.0.2+mc1.20.1.jar"
+filename = "mythicupgrades-4.1.4+mc1.20.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "7dc019275b7ef7e29e139053d32f900553efb7f4"
+hash = "b0ef0b18d45c85c69d7698c63ed459d502dd5a35"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5529169
+file-id = 5621816
 project-id = 663567

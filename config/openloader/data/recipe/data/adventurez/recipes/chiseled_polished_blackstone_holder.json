@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "eee",
+    "ede",
+    "eee"
+  ],
+  "key": {
+    "d": {
+      "item": "spell-dimension:accursed_blackstone"
+    },
+    "e": {
+      "item": "minecraft:blackstone"
+    }
+  },
+  "result": {
+    "item": "adventurez:chiseled_polished_blackstone_holder",
+    "count": 4
+  }
+}

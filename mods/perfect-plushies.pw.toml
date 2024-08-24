@@ -1,13 +1,13 @@
 name = "Perfect Plushies"
-filename = "perfectplushies-fabric-1.20.1-1.10.0.jar"
+filename = "perfectplushies-fabric-1.20.1-1.11.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "90e19afb69f90ac6e93a9e1d8294dbaaf8222e6a"
+hash = "0f70c57a51bbf17659b479d2994d503f4d2544fe"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5503339
+file-id = 5622596
 project-id = 867232

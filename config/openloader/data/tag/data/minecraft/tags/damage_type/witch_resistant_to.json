@@ -1,0 +1,8 @@
+{
+    "replace": true,
+    "values": [
+      "minecraft:indirect_magic",
+      "minecraft:sonic_boom",
+      "minecraft:thorns"
+    ]
+  }

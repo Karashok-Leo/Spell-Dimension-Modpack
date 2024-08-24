@@ -1,3 +1,13 @@
+## 0.3.6 - 2024.08.24
+##### Added
+- Boss difficulty configuraions
+##### Removed
+- Startup Time
+##### Changed
+- Update some mods
+##### Fixed
+- Issues with loot tables and Loot-Patcher
+
 ## 0.3.5 - 2024.08.22
 ##### Added
 - Enchantments

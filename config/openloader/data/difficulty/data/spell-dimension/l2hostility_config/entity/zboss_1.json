@@ -1,0 +1,33 @@
+{
+  "list": [
+    {
+      "blacklist": [
+        "l2hostility:invisible"
+      ],
+      "difficulty": {
+        "base": 50,
+        "min": 150,
+        "scale": 0.0,
+        "variation": 0.0,
+        "apply_chance": 1.0,
+        "trait_chance": 1.0
+      },
+      "entities": [
+        "adventurez:blackstone_golem",
+        "aquamirae:captain_cornelia",
+        "deeperdarker:stalker",
+        "soulsweapons:chaos_monarch",
+        "soulsweapons:moonknight",
+        "soulsweapons:returning_knight"
+      ],
+      "items": [],
+      "traits": [
+        {
+          "free": 1,
+          "min": 1,
+          "trait": "l2hostility:arena"
+        }
+      ]
+    }
+  ]
+}
