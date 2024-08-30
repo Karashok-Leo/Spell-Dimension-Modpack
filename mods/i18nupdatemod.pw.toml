@@ -1,6 +1,6 @@
 name = "I18nUpdateMod"
 filename = "I18nUpdateMod-3.5.5-all.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

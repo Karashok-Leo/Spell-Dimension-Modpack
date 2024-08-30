@@ -1,6 +1,6 @@
 name = "NBT Tooltip"
 filename = "nbttooltip-1.7.2.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

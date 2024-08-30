@@ -1,13 +1,13 @@
 name = "L2 Hostility Fabricated"
-filename = "l2hostility-1.1.2.jar"
+filename = "l2hostility-1.1.3.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "829dd5e890bae6231d810dbd61925659f0231908"
+hash = "24f54feb5a87d87e957b11ce190c41fe6e08a968"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5657919
+file-id = 5667430
 project-id = 1062258

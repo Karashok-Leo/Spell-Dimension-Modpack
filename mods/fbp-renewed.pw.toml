@@ -1,6 +1,6 @@
 name = "Fancy Block Particles - Renewed"
 filename = "FancyBlockParticles-1.20.1-fabric-20.1.0.2-beta.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

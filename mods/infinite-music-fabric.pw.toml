@@ -1,6 +1,6 @@
 name = "Infinite Music (updated)"
 filename = "infinite-music-0.3.0.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

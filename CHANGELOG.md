@@ -1,3 +1,13 @@
+## 0.3.7 - 2024.08.30
+##### Added
+- Experimental Quests
+- Some stage restrictions
+##### Removed
+- Pufferfish Skills
+##### Changed
+- Update some mods
+- Reduce duration of Arcane Blink
+
 ## 0.3.6 - 2024.08.24
 ##### Added
 - Boss difficulty configuraions

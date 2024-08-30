@@ -1,6 +1,6 @@
 name = "Armor Points ++"
 filename = "armorpointspp-fabric-1.20-3.1.2.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

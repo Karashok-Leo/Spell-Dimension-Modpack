@@ -486,7 +486,7 @@ hash = "45f72d573115a83715ed993fc9502fabad886c412cd34f05812e86f5ff17cc47"
 
 [[files]]
 file = "config/l2hostility/common.json5"
-hash = "44a5db0a24fd088f833493da439963abf3762dce4f28713ef1e8588eccab7e6d"
+hash = "a0c10ab7d57f4a4ba49483f63e9ca98cbddfb51d6fe72b7144767ed548d55910"
 
 [[files]]
 file = "config/limitedspawners.toml"
@@ -969,6 +969,66 @@ file = "config/openloader/data/spell/data/wizards/spell_pools/frost.json"
 hash = "1db96a377664110b593f5f34615e9684196d7c1f03ed8dc0186495819707140b"
 
 [[files]]
+file = "config/openloader/data/spell/data/wizards/spells/arcane_beam.json"
+hash = "03ae9c639d69ce1ce54bfd352e4470727d905be7a093cb96de5f7fe2bcffd87d"
+
+[[files]]
+file = "config/openloader/data/spell/data/wizards/spells/arcane_blast.json"
+hash = "12e36d3d2c8877c1e39b6e1f91042473dd948be6ebfb71f81d5dc96a925bd3c9"
+
+[[files]]
+file = "config/openloader/data/spell/data/wizards/spells/arcane_blink.json"
+hash = "fbceb92b5a7144926267de34ad663f63ab1c8f65bf34035b6227a8475fc56ba7"
+
+[[files]]
+file = "config/openloader/data/spell/data/wizards/spells/arcane_bolt.json"
+hash = "be8fd65f32eb9869d113b0ea2a56875d3691501719cb28df8c3ebf1b401f33a9"
+
+[[files]]
+file = "config/openloader/data/spell/data/wizards/spells/arcane_missile.json"
+hash = "f3debc3d24221cbe339b3ae0cc640efe9c691b179ab1caa25cd00210a791fd26"
+
+[[files]]
+file = "config/openloader/data/spell/data/wizards/spells/fire_breath.json"
+hash = "4d81166931ca03ffd53d0b450ae03581e310ef18f84558cf7ca931245883dc3a"
+
+[[files]]
+file = "config/openloader/data/spell/data/wizards/spells/fire_meteor.json"
+hash = "0a09135563a5c18cddef96cf9a38a9b1b02bcf77d022b4a46bd20892ccda2ba7"
+
+[[files]]
+file = "config/openloader/data/spell/data/wizards/spells/fire_scorch.json"
+hash = "5076a9a5ef4fa00eaccdd2149d80966a44c5ef63da3493a6a6596b003cf8dd33"
+
+[[files]]
+file = "config/openloader/data/spell/data/wizards/spells/fire_wall.json"
+hash = "99a65fd456b89194e321807d0be14f3a0270c33d795d368943c33bd3015cf255"
+
+[[files]]
+file = "config/openloader/data/spell/data/wizards/spells/fireball.json"
+hash = "db08f9942e15741083b078fe683c21d9ee2807ca591741f7b38ec50e1bc8801b"
+
+[[files]]
+file = "config/openloader/data/spell/data/wizards/spells/frost_blizzard.json"
+hash = "e6941403999576cf7d26dc488ea688e07ae82c36353468e2642a4b3b080b2485"
+
+[[files]]
+file = "config/openloader/data/spell/data/wizards/spells/frost_nova.json"
+hash = "83b256da88f9f9695b1d671c9fd1bf51c1e73d9a2ca133a79112a99a24a297a5"
+
+[[files]]
+file = "config/openloader/data/spell/data/wizards/spells/frost_shard.json"
+hash = "953f4c552c3f52cbaf2027a0eb8c0695d3d3119a029903f0bb81cb18f3ccfa88"
+
+[[files]]
+file = "config/openloader/data/spell/data/wizards/spells/frost_shield.json"
+hash = "c6fad377537ce9901bb9655bbf87da2a9c3f49aec37b695b74642e3c6dc69c72"
+
+[[files]]
+file = "config/openloader/data/spell/data/wizards/spells/frostbolt.json"
+hash = "7fc3cdba334ffcbab6c90363a82c9a2101e35762b74fdc133be452701bd32003"
+
+[[files]]
 file = "config/openloader/data/spell/pack.mcmeta"
 hash = "6fa5b2db495c65dc00502c6aaeb06696326de99c7ffa2afcf0f5a0a94d4c7114"
 
@@ -1439,7 +1499,7 @@ metafile = true
 
 [[files]]
 file = "mods/appleskin.pw.toml"
-hash = "45d8570e9c13f5265d9d833ba2431e982ab9cf2760e86c6d5fd62dd3c092e18c"
+hash = "fac27f24d9e6c73434dfbda5c91ecdd203fb8394ce70f57392da6079f39b866e"
 metafile = true
 
 [[files]]
@@ -1459,7 +1519,7 @@ metafile = true
 
 [[files]]
 file = "mods/armorpoints.pw.toml"
-hash = "e231bde226209d9b1370d36861dd42dd0c51f0fa55e6cc54ff0229753578b5ce"
+hash = "9476e030074a53b582ceeefbda706ff242c361cdf3d7516cbe8e28e86468db0c"
 metafile = true
 
 [[files]]
@@ -1494,7 +1554,7 @@ metafile = true
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "f6da82f771d83d63282ad87dbf4c22f4aa75b5982adf015d3290701bb56d6414"
+hash = "626f345799adca2b61b1851c3cf45884dcad1cba803c87186439184ec3866b2c"
 metafile = true
 
 [[files]]
@@ -1534,7 +1594,7 @@ metafile = true
 
 [[files]]
 file = "mods/chunks-fade-in.pw.toml"
-hash = "9845e5dc4571641227d913cefc1c6a3e4b76c38181805683a1f9e02b427bec1c"
+hash = "ac9678deff0e253dc0836d9671d8420883fe502f55df46c103d6e7f2b1e5f081"
 metafile = true
 
 [[files]]
@@ -1574,12 +1634,12 @@ metafile = true
 
 [[files]]
 file = "mods/continuity.pw.toml"
-hash = "5e004570df8b7f1b0e4e57e199fcc30c2d3d7e77c802cdead2c4bc3d165f6d89"
+hash = "22b71ae09eedc60f269b781bf1ab1e07bb79344ef7f3a01be2d0340810a6372e"
 metafile = true
 
 [[files]]
 file = "mods/controlling.pw.toml"
-hash = "e7513fdc9b93652c928a5af59e9dc6a5b21dfe5200fe78883a6fa56d3cdefa1f"
+hash = "639aee7e72ceaf8b649c473ab94282a20152f1438b599f4328ac5726c6a0ecfe"
 metafile = true
 
 [[files]]
@@ -1649,12 +1709,12 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "5d3b6f9ea868f89a0af57837c40a81d4511f08204fca398878d459787a4b7688"
+hash = "17e4c75b1e2a153efdaff26239ddbecd914c2e3872b2f2f9ce8000629c5cbc32"
 metafile = true
 
 [[files]]
 file = "mods/enchanted-tooltips.pw.toml"
-hash = "27ed97a407fb06e702d66c00d34e678cb0c417504a00fa6c244f5c15d0083409"
+hash = "51d875a503f8d23de156c0c4228b699aac1f093ebf56a230a501efb68190ae13"
 metafile = true
 
 [[files]]
@@ -1684,7 +1744,7 @@ metafile = true
 
 [[files]]
 file = "mods/exordium.pw.toml"
-hash = "8b9a45b365eca901c44243e4909891348a747a1b641ea5dc9cf483633b686f1f"
+hash = "af91e1a3c2cd85b3493741f3e413854f83c33666eff478d02202eeb83d4cefc2"
 metafile = true
 
 [[files]]
@@ -1739,12 +1799,12 @@ metafile = true
 
 [[files]]
 file = "mods/fastquit.pw.toml"
-hash = "d15f94b721a01d87f9f714429a5a2dec23992e67d2bbafa65fc53f203f45ff1b"
+hash = "3c42a829336457bcc9ad7e103c49c985e54867f16d1c9d7b659e0bfc11afa6f9"
 metafile = true
 
 [[files]]
 file = "mods/fbp-renewed.pw.toml"
-hash = "2f1fdacebdd8bb5bb6c8c8edd101bbcf619e297e28782808123bb3016407e1eb"
+hash = "59d6f7aebac28a19b585ade34857ce513627734ed6edc315f56cb1fc8f4dd526"
 metafile = true
 
 [[files]]
@@ -1759,7 +1819,7 @@ metafile = true
 
 [[files]]
 file = "mods/fps-reducer.pw.toml"
-hash = "7a4112d4418602c3a8dc322480e1ae75d7bcefdb676d71e17b981d5541b39b79"
+hash = "6586ad47feb3a385741cbd4a817f3dd3fdc15e9caf08cd4e05c91a630b6a9d5b"
 metafile = true
 
 [[files]]
@@ -1803,7 +1863,7 @@ metafile = true
 
 [[files]]
 file = "mods/i18nupdatemod.pw.toml"
-hash = "c260870f0f98b7d3770fd0ff396776ba643407d5eac1447e4f3e295b2f600b92"
+hash = "95aff28211d980eb814dbff5529766188e7786e04194dcfab30dbd83be90cd62"
 metafile = true
 
 [[files]]
@@ -1813,7 +1873,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "03856359278074b54ecc0a19b1cbf45087d479028934440733263ba958ec8f13"
+hash = "eb98faa17363bdec5a2796c44de7e0f8b012a9b9240cf7d264e12c15372bf0bc"
 metafile = true
 
 [[files]]
@@ -1823,7 +1883,7 @@ metafile = true
 
 [[files]]
 file = "mods/infinite-music-fabric.pw.toml"
-hash = "0836eb11d8b40d41fd993b9461f586e4b6f22d56d04d632e796bc70c6484605f"
+hash = "d752925747bdce7446ed3b159796f33215a6e520c7173944e4ad6b1d5bbcada8"
 metafile = true
 
 [[files]]
@@ -1833,7 +1893,7 @@ metafile = true
 
 [[files]]
 file = "mods/irisshaders.pw.toml"
-hash = "1ed26bc818477ad6eb2f892e074f0ac2d6bbf1cd66348b44d97a59165365a74a"
+hash = "48304b63aa5e67d573a460935488a0e27b6bad880a94f386d7980186f8627565"
 metafile = true
 
 [[files]]
@@ -1848,7 +1908,7 @@ metafile = true
 
 [[files]]
 file = "mods/just-enough-characters.pw.toml"
-hash = "f29cc0dbc5205883bc05c28829cb74c41b49790e6acaddc44eb5aed6f1cb2202"
+hash = "a65843df8ce6969f3fc45a16647401453a5cb2c5513b52928f3ecb313b7e8f61"
 metafile = true
 
 [[files]]
@@ -1868,12 +1928,12 @@ metafile = true
 
 [[files]]
 file = "mods/l2-hostility-fabricated.pw.toml"
-hash = "0c34544c974ecfc09d7efd540aaab1e2cfe044524e8a5db581966d7cc78d8c89"
+hash = "9584c652804d232f8ab6fdc98f4ad9feb8a955703fecb25a97df5300caef6f9c"
 metafile = true
 
 [[files]]
 file = "mods/language-reload.pw.toml"
-hash = "0418dce75165435d2a9a453953b4bdcd20358bf7af0cb2d1cbd8fdc39edfee34"
+hash = "2097ff4c966e014b75e54665b0554f70c55ea68539f46f6ec38f2dbb0482ea0e"
 metafile = true
 
 [[files]]
@@ -1888,7 +1948,7 @@ metafile = true
 
 [[files]]
 file = "mods/leos-loot-bag.pw.toml"
-hash = "909f7dbc96265586c58c1e55a9982559777140c37cd049dcf9be7e1ff783237b"
+hash = "9160889a3e9cf9a97729a85fca583d54b435115abd4cfa5ff96b59f785e29a38"
 metafile = true
 
 [[files]]
@@ -1923,7 +1983,7 @@ metafile = true
 
 [[files]]
 file = "mods/make-bubbles-pop.pw.toml"
-hash = "d73a2964f67807ac1aa7db9ebe0997ea03daf6187a369c5f793d2aee753da50a"
+hash = "8cc4a6b45d640818dbd694b7e51949a623a24eacf41ba91345e9ce06172e00ce"
 metafile = true
 
 [[files]]
@@ -1973,7 +2033,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "66d1b7bc973830475a7bae8a5b823ec42fbc1ed1f4d4c514f1e6a21b20177810"
+hash = "34a122d9787c75db3492a68681cdec2ffb12c9ba4dc429bc503c336020cb7832"
 metafile = true
 
 [[files]]
@@ -1998,7 +2058,7 @@ metafile = true
 
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
-hash = "1b4f637283c0c4e87d642641338dee78b0357b97fbc62fe69911cee8d0b557dc"
+hash = "7ccd7e24f278303579a874288c0fa2385e4f2e2fa1b64a6afb25d4c8b25088c0"
 metafile = true
 
 [[files]]
@@ -2028,7 +2088,7 @@ metafile = true
 
 [[files]]
 file = "mods/nbt-tooltip.pw.toml"
-hash = "647c52e61f3aa344175ce437a0cdc0d2919743c277cc2329445f645ce482a7a8"
+hash = "8ef81c50b7c5c58d5c7c73da91ac83e24cd97680f188d647cadbdd61099fbeac"
 metafile = true
 
 [[files]]
@@ -2112,11 +2172,6 @@ hash = "76191bda92c390836dff435cb1ad6b0fe0f1ae3b87d93d14aaa113cfbba6a9dc"
 metafile = true
 
 [[files]]
-file = "mods/puffish-skills.pw.toml"
-hash = "df336403c2e1d0a3ffaa2ec44ee144cabe293f0701174074e2c9acd00b8b53a8"
-metafile = true
-
-[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "14f25fae14eb85a16c17bc8f0b87acbba51fc9f6a3253c8bd153e0e2348cd34b"
 metafile = true
@@ -2163,7 +2218,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-professions-rep.pw.toml"
-hash = "1b20f1b5ebefb4a1561cc92f775dcfd22d3986a14e56b5f239e0369f0ee3f2f4"
+hash = "e30b7da15cf49d214cf9c8ad82dcd46cff0ac34bca68b91e51a9f5ce7aefc302"
 metafile = true
 
 [[files]]
@@ -2188,7 +2243,7 @@ metafile = true
 
 [[files]]
 file = "mods/searchables.pw.toml"
-hash = "98739e44d0a6e97c0776861a551cf689d9190a215640210007dd28d3edad9107"
+hash = "f0e5cb7f0a94b6ec534cb14388178251d28f1c48e2d25d100548a5938757c386"
 metafile = true
 
 [[files]]
@@ -2198,7 +2253,7 @@ metafile = true
 
 [[files]]
 file = "mods/shoulder-surfing-reloaded.pw.toml"
-hash = "6bfce5fefcad489292773cc6d16d1fe7df13a3800223c89a9c36733804b6b5e4"
+hash = "5205488300ff483d79b7e46df95672ebfce7451a3a24275d9f2a01954bd0f7b6"
 metafile = true
 
 [[files]]
@@ -2233,7 +2288,7 @@ metafile = true
 
 [[files]]
 file = "mods/smooth-swapping.pw.toml"
-hash = "a4fced29c81b31d9f0888b61b1c3c53409c9f35dcb0c6242f2e0aebd8e15ba98"
+hash = "ee6579014fc56a87d60cb5ed383a58e233ffb53ad6a57a813b930891aba07c45"
 metafile = true
 
 [[files]]
@@ -2257,8 +2312,8 @@ hash = "6955c024252577178298e691d7fe0111c5bd1155e4497df6ed1251bdac9b5b44"
 metafile = true
 
 [[files]]
-file = "mods/spell_dimension-0.3.6.jar"
-hash = "d9fa146513232c4498090b3d058235a001d038163718f3df07e4b6bdee8595c6"
+file = "mods/spell_dimension-0.3.7.jar"
+hash = "9984f880e09377931964aaac528ab6561b8d8fae26e1c30e1b6eeeefe1cdc28a"
 
 [[files]]
 file = "mods/spellblade-next.pw.toml"
@@ -2277,7 +2332,7 @@ metafile = true
 
 [[files]]
 file = "mods/stepupnext.pw.toml"
-hash = "0e2af0628c48e4cc5448c8c1c6c4d419399a03728e916809195c884478d203fd"
+hash = "876b81dde4aa1d68740f27c0e3a1a34ab6ce344f8751c9b130e11ace854d1f41"
 metafile = true
 
 [[files]]
@@ -2322,7 +2377,7 @@ metafile = true
 
 [[files]]
 file = "mods/tooltip-scroll-fabric.pw.toml"
-hash = "79b75e082d30fb2a386067c416d0bc00713a5477b06929b3e7832663d8ab01fe"
+hash = "a58ba8e57a173c34278a90727a5f346b191ee701e52b6749483a70529398fce2"
 metafile = true
 
 [[files]]
@@ -2332,7 +2387,7 @@ metafile = true
 
 [[files]]
 file = "mods/travelers-titles-fabric.pw.toml"
-hash = "801431918ee26ff945d3728f4fd6f124ef7944760a61194b3d0898379434ec28"
+hash = "31b45a23d9e7de7cdb4b34eca8d43d59277c002dee5ac6c6765cce4d8fa1c8fa"
 metafile = true
 
 [[files]]
@@ -2367,7 +2422,7 @@ metafile = true
 
 [[files]]
 file = "mods/visuality.pw.toml"
-hash = "92e24a8f89e7091aad6c5258ce66ccb74adaa78f831eb57733683643ae4a6c81"
+hash = "a8ed5a7548de373a19838501e549b6cc8c9c0bfe2d3bda94d84dadf7a03a55bf"
 metafile = true
 
 [[files]]
@@ -2377,7 +2432,7 @@ metafile = true
 
 [[files]]
 file = "mods/wakes.pw.toml"
-hash = "79e6404b32919b5e81791e9b2f014c9605c33c9691002482076a41f3d10ed997"
+hash = "573ad5267b0fc38bde86a49af1e92e3ce8927ef15c2d5a337c12952812b3d60e"
 metafile = true
 
 [[files]]
@@ -2412,7 +2467,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "16499c922a2bf62ecbc740979edb0040f3f2ecab032d005270aabea1a386d321"
+hash = "a3e687167945b36dc8cd67f8bb4fb487f95bfd43ef4b332af0cd32f720e2142c"
 metafile = true
 
 [[files]]
@@ -2457,7 +2512,7 @@ metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "8149fc51cd06d65222690ff313a8553de9dd6a79638726036a10820e9c277698"
+hash = "1ce6ed09d0a530d42893846137f6ea4c5e07eba0ce8fe5f508c455528293a218"
 metafile = true
 
 [[files]]
