@@ -1,3 +1,4 @@
 # Exclude README
 /*.md
 /*.xmind
+/disabled/

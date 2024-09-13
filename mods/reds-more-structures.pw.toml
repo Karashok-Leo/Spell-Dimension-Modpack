@@ -1,6 +1,7 @@
 name = "Red’s More Structures [Fabric & Forge]"
 filename = "reds-more-structures-1.0.8-common.jar"
 side = "both"
+pin = true
 
 [download]
 hash-format = "sha1"

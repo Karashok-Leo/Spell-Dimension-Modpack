@@ -1,13 +1,13 @@
 name = "Extra RPG Attributes (Formerly Reabsorption)"
-filename = "extraspellattributes-1.2.8.jar"
+filename = "extraspellattributes-1.2.11.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "6fe011bfb98f22f7938c40a83b2a848594db8191"
+hash = "7d5968b4f37265907ca4a7574efaf1588d32d53f"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5479623
+file-id = 5685429
 project-id = 941480

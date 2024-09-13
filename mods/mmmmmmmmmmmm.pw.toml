@@ -1,13 +1,13 @@
 name = "MmmMmmMmmMmm (Target Dummy)"
-filename = "dummmmmmy-1.20-1.8.20-fabric.jar"
+filename = "dummmmmmy-1.20-2.0.1-fabric.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "6dc5d6554c51f4441ff23e35a29d777e5582be88"
+hash = "49f55df84ab6a6b29bb10f287b54c62e6a5b1aa7"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5621040
+file-id = 5713882
 project-id = 225738

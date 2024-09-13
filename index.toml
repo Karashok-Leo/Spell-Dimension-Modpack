@@ -498,7 +498,7 @@ hash = "2a2ee19297afe3fc512f5cbe639349847f3e7a74616f282d24a179a17f4559ed"
 
 [[files]]
 file = "config/loot-patcher.json"
-hash = "288b502424ceb77b8034e8fe983bf1575d08e9e6f703f12a51fb0031ba62b261"
+hash = "c945c11a98ef07a66be899f62a02b4a2d4c27316b1dd6fd3dbca908a6f20a200"
 
 [[files]]
 file = "config/mobplaques-client.toml"
@@ -1479,7 +1479,7 @@ metafile = true
 
 [[files]]
 file = "mods/additional-structures-fabric.pw.toml"
-hash = "cd8faedc22db3735071a5a70c9d10294130fe73ebbf3a0e1f82fc6681aa32f5e"
+hash = "c1976c53d9a2411d598d8ece91c9d133f5b0695d4885c0611243d665ce2cdb34"
 metafile = true
 
 [[files]]
@@ -1524,7 +1524,7 @@ metafile = true
 
 [[files]]
 file = "mods/artifacts.pw.toml"
-hash = "82cda9da7129ebbf2f3dcdcd31e2d1a74e3bd4541750bb48078585d67382bd0b"
+hash = "63470864e8511f28cb971475b8b209f37df57b348e3ac61b363f49707536260f"
 metafile = true
 
 [[files]]
@@ -1539,12 +1539,12 @@ metafile = true
 
 [[files]]
 file = "mods/azurelib-armor.pw.toml"
-hash = "5fb1e6efdc6b5c85b84138ded810954b9ee9f977978fa9d294157f61d6199cbc"
+hash = "d9c583c83befb1ffa0d8649cf656d2165bb450cc10b6a73814a39736c17aaa44"
 metafile = true
 
 [[files]]
 file = "mods/azurelib.pw.toml"
-hash = "5da2a2d5dd3afade71b5211892a4ceda00c5f561558416147ce4eed8efec9b4c"
+hash = "205b1245552ceb08f0c199997d25a8ba54bd45ce1fd472b3b3fd9a93d40ff619"
 metafile = true
 
 [[files]]
@@ -1629,7 +1629,7 @@ metafile = true
 
 [[files]]
 file = "mods/construction-wand-fabric.pw.toml"
-hash = "035d98799c078692b78a918bcd878c62fdcc3765500dc2ab74dc532e62c44dfb"
+hash = "695173250662483f476c90011b99feaf1e0df0ce83fd20b8358c4e8d667afa04"
 metafile = true
 
 [[files]]
@@ -1674,7 +1674,7 @@ metafile = true
 
 [[files]]
 file = "mods/deeperdarker.pw.toml"
-hash = "cdf2ca1c5aaa2247e1448c844e129eafe82ee580586bd5a79867b60842e24a74"
+hash = "b89156102d6e0c87c420623efc90cb4f949ed111699af75a1190aaee24aece8a"
 metafile = true
 
 [[files]]
@@ -1713,6 +1713,26 @@ hash = "17e4c75b1e2a153efdaff26239ddbecd914c2e3872b2f2f9ce8000629c5cbc32"
 metafile = true
 
 [[files]]
+file = "mods/emi-enchanting.pw.toml"
+hash = "384e0e7ce4f19a22c11098614a2e1c7e9829ea7356a40268a25873a3a8830de1"
+metafile = true
+
+[[files]]
+file = "mods/emi-loot.pw.toml"
+hash = "9bfa234aa692ac832d9ad749e1af4b0b4a75cb0ab82cab333731550683d02715"
+metafile = true
+
+[[files]]
+file = "mods/emi-trades-villager-trading-emi-plugin.pw.toml"
+hash = "cba9a89d5114ad8aaec8c4593851388bacf317cbe99428e347441c93ae9f8c1b"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+hash = "71c58a89cfc4da4236844f124b7a199e0dfaea507baa6842582bd45cdadfe1bd"
+metafile = true
+
+[[files]]
 file = "mods/enchanted-tooltips.pw.toml"
 hash = "51d875a503f8d23de156c0c4228b699aac1f093ebf56a230a501efb68190ae13"
 metafile = true
@@ -1734,7 +1754,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "08752a8ee02f76fe33629fccaa85044d7e2e5faa24c349f48b16bae5f8ef6044"
+hash = "2b5d8d8115fdf4cb1dddab625edd88e168ce30f5fa0c758571b5b33aef34a815"
 metafile = true
 
 [[files]]
@@ -1759,7 +1779,7 @@ metafile = true
 
 [[files]]
 file = "mods/extra-spell-attributes.pw.toml"
-hash = "05e1b1ceaa4d815845fc7af7f545202be9ae4e8e4cea3235fad04befe4b68fa1"
+hash = "693c0b318779e12c09768359a9206a625c199918ed1aa43391398952d985f8ea"
 metafile = true
 
 [[files]]
@@ -1769,7 +1789,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "efb80c6fd1ed23b6460962289154c214e2d4731e445179011071f7165adb3a37"
+hash = "130d2b078d1a73c86271a0222fcefbd24f5f816df37d94fa780d37a5f1605119"
 metafile = true
 
 [[files]]
@@ -1804,7 +1824,7 @@ metafile = true
 
 [[files]]
 file = "mods/fbp-renewed.pw.toml"
-hash = "59d6f7aebac28a19b585ade34857ce513627734ed6edc315f56cb1fc8f4dd526"
+hash = "19ed2fc630b560d47406b5d7e170209f352e827f7ba278284b2c3d048c88a4a9"
 metafile = true
 
 [[files]]
@@ -1828,13 +1848,18 @@ hash = "afc98470b699a933cbdcc7d95822455596d91864ef14ec21a48f4fdd51d5eb03"
 metafile = true
 
 [[files]]
+file = "mods/fzzy-config.pw.toml"
+hash = "1dc55abe9485f0a1a80e15d066dc31f93901ba428ba044a91377bbb86443a241"
+metafile = true
+
+[[files]]
 file = "mods/gazebos.pw.toml"
 hash = "85c8213957f8b1144f565d7fd5f508fe075ede0ed3510143a766d8930aa0735e"
 metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "37df6121a88ff123078242134b0112c863cd219b6ce80bd4ec79c82a3bb4d8fa"
+hash = "315dc632de6f067ccbda8a4ce4ef4e68945a4306333cfbadec1f7335c7a67c16"
 metafile = true
 
 [[files]]
@@ -1868,12 +1893,12 @@ metafile = true
 
 [[files]]
 file = "mods/illager-invasion.pw.toml"
-hash = "799fbbbc1880a916bee0e79c250222da5a66776ce14c9c04a43751a324e5a5f8"
+hash = "8f7960180ecd68666aede57399911e2389f9202d213b2f8d4ce7833933a5362e"
 metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "eb98faa17363bdec5a2796c44de7e0f8b012a9b9240cf7d264e12c15372bf0bc"
+hash = "d68aebae9e5710fe0f64283434854c16c49650b241e6ab536caece85c701c731"
 metafile = true
 
 [[files]]
@@ -1898,12 +1923,12 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "ee9f60c50e410b1cd7924a61ba20d9e9fc0c57982f0b1f4d1d46204565a49ada"
+hash = "4020f4d1ccecfd5c5a7a7b3b520368767c93723eb3c689fa993c277b5a7940f9"
 metafile = true
 
 [[files]]
 file = "mods/jewelry.pw.toml"
-hash = "f1d70e5998e1903224097b6dec5a993aeec1567c70ed32a162807a7075cfa03c"
+hash = "f1de7e0580ac0d7a3defd87cb8bb4a5597c4e0fd7b903227efc12678bc0dc5d4"
 metafile = true
 
 [[files]]
@@ -2018,7 +2043,7 @@ metafile = true
 
 [[files]]
 file = "mods/mmmmmmmmmmmm.pw.toml"
-hash = "d758e6103bda1fbd07252d4bdf06f4b64236b05efce8364e7e0a118c0748348e"
+hash = "873b75a2ec7af6cc58c9f4d9930d1a4e3f96a7b66de71e631d4a7318ecc16f61"
 metafile = true
 
 [[files]]
@@ -2028,7 +2053,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "a6c3048c93a6dcd6ce45e0c9b1a3569177cd3af06f751b621b7fb296ab03897b"
+hash = "28a7f687f3ded3749975c726dcf34598e23b32fa4d219bef412594c4a33d628e"
 metafile = true
 
 [[files]]
@@ -2038,7 +2063,7 @@ metafile = true
 
 [[files]]
 file = "mods/modonomicon.pw.toml"
-hash = "f8e176860d318c1424dc59ead82ea97fce6a5af3233f697b4782a1ec0630273f"
+hash = "2233b786cb6914844e6b16f787eb56da09e5cd5de9788bcd67b1d5e55219e865"
 metafile = true
 
 [[files]]
@@ -2048,7 +2073,7 @@ metafile = true
 
 [[files]]
 file = "mods/moogs-voyager-structures.pw.toml"
-hash = "f974ba04dbc21e0e388a39f62d4bbe7cf3d3bb6005fbb308c9d52ec1fbf67e3f"
+hash = "ad5c0d2e9bbf37e76d28467f50974c359dfc3a485d117e74b4ba925a9cca6139"
 metafile = true
 
 [[files]]
@@ -2068,12 +2093,12 @@ metafile = true
 
 [[files]]
 file = "mods/mythic-charms.pw.toml"
-hash = "3b31cf522c6dafe54ff645205fbefa0f0d714a4e32ac6550f92c2951814fe218"
+hash = "7a989c18eff22bf3c8b9a64c760a15d7bacb5bca390150df6f0a47c375613fab"
 metafile = true
 
 [[files]]
 file = "mods/mythic-upgrades.pw.toml"
-hash = "b05b5dacda76f587b67501ec240a106f848c0ec733406386754adecc5c7648c2"
+hash = "2d9e92d37e6739a977f27f31c6f619f6225d47cfa6662e274e16eea4e5d42d10"
 metafile = true
 
 [[files]]
@@ -2173,7 +2198,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "14f25fae14eb85a16c17bc8f0b87acbba51fc9f6a3253c8bd153e0e2348cd34b"
+hash = "6ac395c5ca5bc0821396b576123428f3ba27b51d19a30fec8148aafab2e1776b"
 metafile = true
 
 [[files]]
@@ -2193,12 +2218,12 @@ metafile = true
 
 [[files]]
 file = "mods/ranged-weapon-api.pw.toml"
-hash = "ea9dc10b9c697ac70baa6907ed3719c09caaf6a4bab63596fb50e66291b233aa"
+hash = "8a15fb81964fb21577ed2e81c6075489d63024dba1ef357ae5464865bae8052e"
 metafile = true
 
 [[files]]
 file = "mods/reds-more-structures.pw.toml"
-hash = "27ab5fcaaa1822897794ad7f44e1e5ea1b297e0e4a6dc73038347f53ef268f5b"
+hash = "bda2533f0289a58de5f2797ca7ccbac1ca8585961d0d689ea1576a18179cc7a2"
 metafile = true
 
 [[files]]
@@ -2212,23 +2237,8 @@ hash = "c9bbaaac723154422f147810f9bf5cc109149c87cd4b1964f7caafbdd3bcb6c4"
 metafile = true
 
 [[files]]
-file = "mods/roughly-enough-items.pw.toml"
-hash = "057c1a01a5f431f74f7d8f681c5d2f48b180bdf28d1d81c47e9aecd46f9bbc60"
-metafile = true
-
-[[files]]
-file = "mods/roughly-enough-professions-rep.pw.toml"
-hash = "e30b7da15cf49d214cf9c8ad82dcd46cff0ac34bca68b91e51a9f5ce7aefc302"
-metafile = true
-
-[[files]]
-file = "mods/roughly-enough-resources.pw.toml"
-hash = "5221fe509420e0ac4908dbd0a050cb905e4c3c5207b1b3e35da264a006619262"
-metafile = true
-
-[[files]]
 file = "mods/ruins.pw.toml"
-hash = "457195fcf04c4beffb7caf41536c0eead32c5000936c8032d55ae54a73895012"
+hash = "412873cd20865faa079a655dcd0d4e1bdc27f426049b88a69bd28c2d97ad7d96"
 metafile = true
 
 [[files]]
@@ -2248,12 +2258,12 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "88b1c4d297b343f95f2c1774c97cc7975dc3371fe71eccf8ebc6bae7d20d9f41"
+hash = "858c6e94f9a8ccf4a6c5d145f245ecd47f9f7a4f5a272455d591ea14746c6719"
 metafile = true
 
 [[files]]
 file = "mods/shoulder-surfing-reloaded.pw.toml"
-hash = "5205488300ff483d79b7e46df95672ebfce7451a3a24275d9f2a01954bd0f7b6"
+hash = "02ed8b02736d9387be2f976603d77882f70bddfeafaf91e34d8fd06b1d92db30"
 metafile = true
 
 [[files]]
@@ -2268,7 +2278,7 @@ metafile = true
 
 [[files]]
 file = "mods/skeletal-remains.pw.toml"
-hash = "cfc3260a3baf38c85c820b8313b5f136f2d61b45eb97df7d5cb27e8652f68bd9"
+hash = "c4e74f543862ec6386c836bf1925dc84a5915abb00d15b5f995746970c47956b"
 metafile = true
 
 [[files]]
@@ -2293,7 +2303,7 @@ metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"
-hash = "f1b89669775dfe0f4c0dd110fd354eb5a0fd0771e47be2eb44f721af97b18ab7"
+hash = "d5ed51699dd5358cabc504b6a553b290fd6578c9926ab14f29e14786d43b6b84"
 metafile = true
 
 [[files]]
@@ -2303,21 +2313,21 @@ metafile = true
 
 [[files]]
 file = "mods/spell-engine.pw.toml"
-hash = "43145fba54029bfdec38e31216c92a9dcd2a92aff3a1de20840dc3f7e4d71120"
+hash = "b0233d0d482dc1d7f3412bc944ca63b36cfac06fbf595923220d9ac024db7069"
 metafile = true
 
 [[files]]
 file = "mods/spell-power.pw.toml"
-hash = "6955c024252577178298e691d7fe0111c5bd1155e4497df6ed1251bdac9b5b44"
+hash = "7f7cd8af29430b1d5d597aae8682fa87e673f2b359bf57164a9b96762ab8b331"
 metafile = true
 
 [[files]]
-file = "mods/spell_dimension-0.3.7.jar"
-hash = "9984f880e09377931964aaac528ab6561b8d8fae26e1c30e1b6eeeefe1cdc28a"
+file = "mods/spell_dimension-0.3.8.jar"
+hash = "b29c53ac3b82756ffe3a0e2faaa5097176d628c0cbd7b1a92a5e769656fffecb"
 
 [[files]]
 file = "mods/spellblade-next.pw.toml"
-hash = "40df31d1e09ebe06890c45f46139989de927602f9759b6f66abbd61a89e17b98"
+hash = "248b98af8b3d4335b1c3d1d0a3c6a04b7fde5e8a5a66315cd1d153767dd594af"
 metafile = true
 
 [[files]]
@@ -2407,7 +2417,7 @@ metafile = true
 
 [[files]]
 file = "mods/universal-graves.pw.toml"
-hash = "b3a9566a2f3bf46e7e5fe9f6ca9053aef4994f5ea3cda4fb4d80bc86953dc840"
+hash = "5ed8b480656ea08c27d8cac07065f7ca09a3c094671a46a938319c22b35aa1e9"
 metafile = true
 
 [[files]]
@@ -2462,7 +2472,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "c92b14b0c2f874cce03188c2629aa4ae4cd62724d6e04d4113b968f71b55966a"
+hash = "68add5c64f9ccf69b47249a581e99512470df9603110e7e1c1bde7879f0f9940"
 metafile = true
 
 [[files]]
@@ -2522,7 +2532,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/bvb-overlays.pw.toml"
-hash = "f28aba9b60a41a270dfeffd11b61b29bb509ca79371606644dc987ca244e7135"
+hash = "0442a8cc5d80ba4026a01685b96aef333eb8478cd4e56264651a1435ca9cc29d"
 metafile = true
 
 [[files]]
@@ -2532,10 +2542,25 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/enhanced-boss-bars.pw.toml"
-hash = "2770a9d9c74854642f7530631991fa03776565a8cc5c878e4d4b169963a3cd45"
+hash = "7b9fe491d938f1ccf2c815fa83c36a9c694c8ff4d136fa23d00a8c4f35b13c7c"
 metafile = true
 
 [[files]]
-file = "resourcepacks/fast-better-grass.pw.toml"
-hash = "f207326bc1eeb662ad1659c19d25ded7f3867c0f63a157606d9a52f050729b2c"
+file = "shaderpacks/bsl-shaders.pw.toml"
+hash = "2ec4f1ebfc854d6e773b6a2f0d4dce99bce776e4645129f06a19c8d9c8d6acf7"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "8a72dc1bff556553bc502e93fd133b2cfc736688c95e997d501803831f94ba22"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-unbound.pw.toml"
+hash = "976b13a1d20d2147d1f03316155044acce30d46dc8d8e0495d3665d669e6e0c1"
+metafile = true
+
+[[files]]
+file = "shaderpacks/makeup-ultra-fast-shader.pw.toml"
+hash = "b62544c03c47142298e55b3d1dbeb20b0a9f41c906355f941b5915bb0feceee6"
 metafile = true

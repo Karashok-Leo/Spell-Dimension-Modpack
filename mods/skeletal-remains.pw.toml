@@ -1,13 +1,13 @@
 name = "Skeletal Remains [Forge & Fabric]"
-filename = "skeletalremains-1.4.2.jar"
+filename = "skeletalremains-1.4.3.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "8e3ee44ca07f5e8e16f298fca0a9393daf4315e3"
+hash = "e122f1dbaaaf08b0cd4f666abce4ef711e3d286a"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4855757
+file-id = 5659312
 project-id = 845863

@@ -1,3 +1,19 @@
+## 0.3.8 - 2024.09.13
+##### Added
+- Spell-related Enchantments Recipes
+- Dark Dungeon Loot Tweaks (PS: DungeonZ still has issues with FancyMenu)
+- EMI Series
+##### Removed
+- REI Series (Replace; Has issues with L2Hostility & Modonomicon)
+##### Changed
+- All Spell-related Enchantments from SpellDimension are now 'unobtainable', which means:
+	- They cannot be obtained by using the enchanting table
+	- They cannot be obtained by trading with villagers
+	- They are all treasure enchantments
+	- They can only be obtained by crafting or looting
+##### Fixed
+- Spell Damage Types
+
 ## 0.3.7 - 2024.08.30
 ##### Added
 - Experimental Quests

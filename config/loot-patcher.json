@@ -475,10 +475,38 @@
     },
     {
       "target_tables": [
-        "illagerinvasion:entities/invoker"
+        "dungeonz:chests/dark_dungeon_low_tier_chest_loot"
       ],
       "extra_tables": [
-        "spell-dimension:boss/invoker"
+        "spell-dimension:pool/common/eces",
+        "spell-dimension:pool/common/eles"
+      ]
+    },
+    {
+      "target_tables": [
+        "dungeonz:chests/dark_dungeon_mid_tier_chest_loot"
+      ],
+      "extra_tables": [
+        "spell-dimension:pool/uncommon/eces",
+        "spell-dimension:pool/uncommon/eles"
+      ]
+    },
+    {
+      "target_tables": [
+        "dungeonz:chests/dark_dungeon_high_tier_chest_loot"
+      ],
+      "extra_tables": [
+        "spell-dimension:pool/rare/eces",
+        "spell-dimension:pool/rare/eles"
+      ]
+    },
+    {
+      "target_tables": [
+        "dungeonz:chests/dark_dungeon_end_tier_chest_loot"
+      ],
+      "extra_tables": [
+        "spell-dimension:pool/epic/eces",
+        "spell-dimension:pool/epic/eles"
       ]
     }
   ]
