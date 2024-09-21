@@ -3,9 +3,9 @@
 	"enableEntitySpecificDatapack": true,
 	"difficulty": {
 		// Difficulty increment takes this many kills of same level mob
-		"killsPerLevel": 30,
+		"killsPerLevel": 16,
 		// Max player adaptive level
-		"maxPlayerLevel": 2000,
+		"maxPlayerLevel": 1000,
 		// Mobs spawned within this range will use lowest player level in range instead of nearest player's level to determine mob level
 		"newPlayerProtectRange": 48,
 		// Decay in player difficulty on death
@@ -60,7 +60,7 @@
 		// Allow level-related extra enchantment spawning
 		"allowExtraEnchantments": true,
 		// Default dimension base difficulty for mod dimensions
-		"defaultLevelBase": 20,
+		"defaultLevelBase": 30,
 		// Default dimension difficulty variation for mod dimensions
 		"defaultLevelVar": 16.0,
 		// Default dimension difficulty scale for mod dimensions

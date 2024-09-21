@@ -486,11 +486,7 @@ hash = "45f72d573115a83715ed993fc9502fabad886c412cd34f05812e86f5ff17cc47"
 
 [[files]]
 file = "config/l2hostility/common.json5"
-hash = "a0c10ab7d57f4a4ba49483f63e9ca98cbddfb51d6fe72b7144767ed548d55910"
-
-[[files]]
-file = "config/limitedspawners.toml"
-hash = "5d6808e61ea2412b94ab5d2d5ccdca1f7168dcfa75f0a22ef6c05718a661925c"
+hash = "1b48eefacca0110de5cd3aa4387aabe13d6ca5d14b358a024dd403b1698def59"
 
 [[files]]
 file = "config/lmft.json"
@@ -531,6 +527,22 @@ hash = "63a97e371c9b42afc5a5ac7cff0acf0b869d5066615bf1040c32bf710f344f7a"
 [[files]]
 file = "config/openloader/advanced_options.json"
 hash = "2ee7700b88371d21265000c50ef149c42863fd22e0ecbb5dc6af78fd7493fee8"
+
+[[files]]
+file = "config/openloader/data/difficulty/data/spell-dimension/l2hostility_config/difficulty/zend.json"
+hash = "bc4bffb69a830d30cf93b60e9e11ee70d6b780eb6e0516e1a055354f8265fd2e"
+
+[[files]]
+file = "config/openloader/data/difficulty/data/spell-dimension/l2hostility_config/difficulty/znether.json"
+hash = "f4f2ed21801ce442b7c599eb5d967eb3ce2ab69159ad651a3881aa80e645f980"
+
+[[files]]
+file = "config/openloader/data/difficulty/data/spell-dimension/l2hostility_config/difficulty/zotherside.json"
+hash = "0671f65baef16a23cd4f2dcf17c4cb6d1722931168a67f07d09f72dcada53be6"
+
+[[files]]
+file = "config/openloader/data/difficulty/data/spell-dimension/l2hostility_config/difficulty/zoverworld.json"
+hash = "6802e69b215caf6d6ae4bf3814fb2ec779bf8dd45fc257dc47e1e67766c83be8"
 
 [[files]]
 file = "config/openloader/data/difficulty/data/spell-dimension/l2hostility_config/entity/zboss_0.json"
@@ -1402,23 +1414,23 @@ hash = "28f4077403a02396d11331106445a2b04a1330bebe7588f70bd4592c5d71ac9a"
 
 [[files]]
 file = "config/starterkit/kits/arcane.txt"
-hash = "6d58d6174e66855f2fe9c897e39ee9e6a8b506a1a352a4f55a215c5cd303b163"
+hash = "1984a44ee59eedb92ded0472ff8aeb7af52b76f4953d770a082cc4987cf4c5be"
 
 [[files]]
 file = "config/starterkit/kits/fire.txt"
-hash = "0d36c3bcf815a854a08195765cf0b783cf4198e842b866d36f1827b96ac9830c"
+hash = "6b8d2210aac08e377349d975b5cc76ca708610907a838b4cde0a987cc225d4e2"
 
 [[files]]
 file = "config/starterkit/kits/frost.txt"
-hash = "3df59c7a6a4dda64319672335ec98dc0df943046047bf205849ec58354f18bae"
+hash = "b1edea9fbd16112d3fcd78b56036a77ffb9e32311d57af80a0971fd77b9941a7"
 
 [[files]]
 file = "config/starterkit/kits/healing.txt"
-hash = "a4698b068e5a9db75b5617f288c6df0e7b80894473f8b6403c802092951d544a"
+hash = "b8b574574f386a739668add29d7aafef2c395011ea1ab6ebbfd922a3525e0c53"
 
 [[files]]
 file = "config/starterkit/kits/uncertainty.txt"
-hash = "0f3bf0d2d54fd652a84d0def912dc085f7c4cf20a786d72340d6fb9b8b2db347"
+hash = "9a5cbf6c3108864472547a7d38dc4b65a94da91ab0971b20a5ea6075431896c4"
 
 [[files]]
 file = "config/tooltipscroll.json"
@@ -1471,6 +1483,11 @@ hash = "23d3967b4831a5656ec2787296e8a8142f947d91794524ad9a054583da46d0bb"
 [[files]]
 file = "config/zombiehorsespawn.json5"
 hash = "331e20a100efd5afaee0e618fc811e3d13c6104b7e4ff439937336e920309b11"
+
+[[files]]
+file = "mods/a-good-place.pw.toml"
+hash = "ded2931c94065eef95b23e4a441288346c668a7e8bef283bb96cf3fe2107f891"
+metafile = true
 
 [[files]]
 file = "mods/achievements-optimizer.pw.toml"
@@ -1773,11 +1790,6 @@ hash = "fe9d4f1ebf3e6b6b34ff34d7f17fd722ec6269afdddac8d8bb47d76d8ca89f0d"
 metafile = true
 
 [[files]]
-file = "mods/explorers-compass.pw.toml"
-hash = "c2e938d1bdd1136e04b8be8c1378e2e33956ac23aa91d3a76003db6f2f75cbd1"
-metafile = true
-
-[[files]]
 file = "mods/extra-spell-attributes.pw.toml"
 hash = "693c0b318779e12c09768359a9206a625c199918ed1aa43391398952d985f8ea"
 metafile = true
@@ -1982,11 +1994,6 @@ hash = "1549ddf6a28c530fe7e54d00a28149bf8bf1c3e66231a0aefb7b9185a827a2ae"
 metafile = true
 
 [[files]]
-file = "mods/limited-spawners-fabric.pw.toml"
-hash = "b8519cbe32d2a928cb755c40b1f1fb767ef52f61677df24dc416d5e45c62be7b"
-metafile = true
-
-[[files]]
 file = "mods/lithium.pw.toml"
 hash = "2245f34c6d75a8abbce9a07f902d656b34387bcf1c4b60f56ec094ac8a470e19"
 metafile = true
@@ -2107,11 +2114,6 @@ hash = "36ac9f1349d615741c917fb6d83f144117d0a9a0c898305b79bec05c108b42d4"
 metafile = true
 
 [[files]]
-file = "mods/natures-compass.pw.toml"
-hash = "cb38b82b931ae3c33bf9c21ad0934fcebaebcfe065838ade56a0661e283ee7d6"
-metafile = true
-
-[[files]]
 file = "mods/nbt-tooltip.pw.toml"
 hash = "8ef81c50b7c5c58d5c7c73da91ac83e24cd97680f188d647cadbdd61099fbeac"
 metafile = true
@@ -2222,6 +2224,11 @@ hash = "8a15fb81964fb21577ed2e81c6075489d63024dba1ef357ae5464865bae8052e"
 metafile = true
 
 [[files]]
+file = "mods/reacharound.pw.toml"
+hash = "8c659ab97abc3d1f112073fdece1a97b1eb8eb3b2546e7b2891a0a8b28e8ebfb"
+metafile = true
+
+[[files]]
 file = "mods/reds-more-structures.pw.toml"
 hash = "bda2533f0289a58de5f2797ca7ccbac1ca8585961d0d689ea1576a18179cc7a2"
 metafile = true
@@ -2322,8 +2329,8 @@ hash = "7f7cd8af29430b1d5d597aae8682fa87e673f2b359bf57164a9b96762ab8b331"
 metafile = true
 
 [[files]]
-file = "mods/spell_dimension-0.3.8.jar"
-hash = "b29c53ac3b82756ffe3a0e2faaa5097176d628c0cbd7b1a92a5e769656fffecb"
+file = "mods/spell_dimension-0.3.9.jar"
+hash = "ac5b03af4bd9615e24493224706288777d1717f278d0aeea2fb92f3cc0878c54"
 
 [[files]]
 file = "mods/spellblade-next.pw.toml"

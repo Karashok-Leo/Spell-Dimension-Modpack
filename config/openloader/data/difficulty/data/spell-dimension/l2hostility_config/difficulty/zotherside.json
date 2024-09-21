@@ -1,0 +1,13 @@
+{
+  "biomeMap": {},
+  "levelMap": {
+    "deeperdarker:otherside": {
+      "apply_chance": 1.0,
+      "base": 30,
+      "min": 0,
+      "scale": 1.5,
+      "trait_chance": 1.0,
+      "variation": 16.0
+    }
+  }
+}

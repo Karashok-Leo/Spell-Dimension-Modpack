@@ -1,3 +1,25 @@
+## 0.3.9 - 2024.09.21
+##### Added
+- Reacharound
+- A Good Place
+- Empty Quest Scroll & Recipe
+- New Spells
+	- Summon
+	- Locate
+	- Place
+- New Enchantments
+	- Spell Leech
+	- Spell Resistance
+- Artifacts Recipes
+##### Removed
+- Nature's Compass (Replace)
+- Explorer's Compass (Replace)
+- Limited Spawner (Replace)
+##### Changed
+- Decrease Essence Loot
+##### Fixed
+- book_all tag
+
 ## 0.3.8 - 2024.09.13
 ##### Added
 - Spell-related Enchantments Recipes
