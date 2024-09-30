@@ -1934,6 +1934,11 @@ hash = "48304b63aa5e67d573a460935488a0e27b6bad880a94f386d7980186f8627565"
 metafile = true
 
 [[files]]
+file = "mods/item-borders-fabric.pw.toml"
+hash = "82172c8f35bb42c0ba674a2d13faeea87d611036c51b174eacd55a8b0a8dbb91"
+metafile = true
+
+[[files]]
 file = "mods/jade.pw.toml"
 hash = "4020f4d1ccecfd5c5a7a7b3b520368767c93723eb3c689fa993c277b5a7940f9"
 metafile = true

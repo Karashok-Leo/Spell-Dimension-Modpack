@@ -1,0 +1,9 @@
+{
+  "replace": true,
+  "values": [
+    {
+      "id": "l2hostility:chaos_ingot",
+      "required": false
+    }
+  ]
+}
