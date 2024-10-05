@@ -55,6 +55,6 @@
   "cost": {
     "exhaust": 0.4,
     "item_id": "runes:arcane_stone",
-    "cooldown_duration": 6
+    "cooldown_duration": 5
   }
 }

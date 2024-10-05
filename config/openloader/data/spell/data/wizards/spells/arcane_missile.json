@@ -6,7 +6,7 @@
     "tier": 1
   },
   "cast": {
-    "duration": 1.5,
+    "duration": 0.2,
     "animation": "spell_engine:one_handed_projectile_charge",
     "sound": {
       "id": "spell_engine:generic_arcane_casting",
@@ -87,6 +87,8 @@
     }
   ],
   "cost": {
-    "item_id": "runes:arcane_stone"
+    "item_id": "runes:arcane_stone",
+    "cooldown_duration": 1.5,
+    "exhaust" : 0.2
   }
 }

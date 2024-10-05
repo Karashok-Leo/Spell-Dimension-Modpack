@@ -1,0 +1,13 @@
+name = "Castle Dungeons [Forge & Fabric]"
+filename = "castle_dungeons-4.0.0-1.20-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "87b0afac7e515c84aaf1a010e336dfe3a72467e9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4582193
+project-id = 399213

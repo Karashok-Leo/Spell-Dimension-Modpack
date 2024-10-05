@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/appleskin.json5"
+hash = "ef03ef129db2efc8a3784e45518d1a094c3215df5c380fa0ef2ffdd21f27fb09"
+
+[[files]]
 file = "config/armorsets/abyssal_armor.json"
 hash = "3f965bcea376fb86fc65799b8ff73e5c33624241191e8c814502bb9676649a69"
 
@@ -311,6 +315,10 @@ hash = "6ab2cbe3d47549afcd3a0d697e237929545bd96824573fa602773d749c47c4a3"
 [[files]]
 file = "config/dusk.json"
 hash = "b93ec89ab2e22cf3bddc04e5b27dfee914fcaf728666378bb19f9ad766f2f558"
+
+[[files]]
+file = "config/emi.css"
+hash = "f706361d8f4f015e89bf5f41a78837098c7a6c47e2ef3b728e54091012e34690"
 
 [[files]]
 file = "config/endrem.json"
@@ -937,6 +945,42 @@ file = "config/openloader/data/spell/data/paladins/spell_pools/priest.json"
 hash = "8a1dad36a5885cc0234a9f634cfa3dda7b1bdba845adb26f9bfc7f00fb764817"
 
 [[files]]
+file = "config/openloader/data/spell/data/paladins/spells/barrier.json"
+hash = "db4a8cb3a366713e95b6e1a0bab212e47b33ea097638ff0995f93c8ab080566c"
+
+[[files]]
+file = "config/openloader/data/spell/data/paladins/spells/battle_banner.json"
+hash = "8d03f67c35c99e7a0314d4c376bf27a81cdfdf1204810cc720be60263ddd7974"
+
+[[files]]
+file = "config/openloader/data/spell/data/paladins/spells/circle_of_healing.json"
+hash = "0464c00d1fadd8cbe0a0d3b969da24559c050770ff491495aff1c2586c928c3d"
+
+[[files]]
+file = "config/openloader/data/spell/data/paladins/spells/divine_protection.json"
+hash = "4a482733ba9da66627c779bce36c5aee7f3443e6188fe6fe79fed75e8868e200"
+
+[[files]]
+file = "config/openloader/data/spell/data/paladins/spells/flash_heal.json"
+hash = "e4bff9ab2230146387d464e792e701bff99192461dfdd551b9facca2fe076a88"
+
+[[files]]
+file = "config/openloader/data/spell/data/paladins/spells/heal.json"
+hash = "d75bd642ea047bad384bf11496c9526a0bdf6574e48a3f62267f22dd7aa5d66a"
+
+[[files]]
+file = "config/openloader/data/spell/data/paladins/spells/holy_beam.json"
+hash = "c4d784d0f0cc79b37d3fbdc67c2b1e636ec2481ea6fdb8f7e9c2c834ac5e0074"
+
+[[files]]
+file = "config/openloader/data/spell/data/paladins/spells/holy_shock.json"
+hash = "0b8cf4e6703f41f3a67960d95b9254107eac7a05ebdac7c455c12c8d768a445a"
+
+[[files]]
+file = "config/openloader/data/spell/data/paladins/spells/judgement.json"
+hash = "c7ddb99897233d17a0873666d452399090eadb98fa2a9edfb253bfde245e408a"
+
+[[files]]
 file = "config/openloader/data/spell/data/spellbladenext/spell_pools/arcane_battlemage.json"
 hash = "97560498ca12e81e84282bbaf89a35814d09dc4c25a20442eb9ca1e9f62f66b2"
 
@@ -990,7 +1034,7 @@ hash = "12e36d3d2c8877c1e39b6e1f91042473dd948be6ebfb71f81d5dc96a925bd3c9"
 
 [[files]]
 file = "config/openloader/data/spell/data/wizards/spells/arcane_blink.json"
-hash = "fbceb92b5a7144926267de34ad663f63ab1c8f65bf34035b6227a8475fc56ba7"
+hash = "8bab58a3cd39f00b78f592f16aa43bc1393b77ce149ccee076afd67d29b44785"
 
 [[files]]
 file = "config/openloader/data/spell/data/wizards/spells/arcane_bolt.json"
@@ -998,7 +1042,7 @@ hash = "be8fd65f32eb9869d113b0ea2a56875d3691501719cb28df8c3ebf1b401f33a9"
 
 [[files]]
 file = "config/openloader/data/spell/data/wizards/spells/arcane_missile.json"
-hash = "f3debc3d24221cbe339b3ae0cc640efe9c691b179ab1caa25cd00210a791fd26"
+hash = "338f6d3ccf80e547dd5dc99120c50e97462b872f74f87abd8eb5963817eb7b7d"
 
 [[files]]
 file = "config/openloader/data/spell/data/wizards/spells/fire_breath.json"
@@ -1018,7 +1062,7 @@ hash = "99a65fd456b89194e321807d0be14f3a0270c33d795d368943c33bd3015cf255"
 
 [[files]]
 file = "config/openloader/data/spell/data/wizards/spells/fireball.json"
-hash = "db08f9942e15741083b078fe683c21d9ee2807ca591741f7b38ec50e1bc8801b"
+hash = "3011a342e5e2fac54920979aae7fabf4f835a399c7935aa384c76004b3d3bb50"
 
 [[files]]
 file = "config/openloader/data/spell/data/wizards/spells/frost_blizzard.json"
@@ -1038,11 +1082,23 @@ hash = "c6fad377537ce9901bb9655bbf87da2a9c3f49aec37b695b74642e3c6dc69c72"
 
 [[files]]
 file = "config/openloader/data/spell/data/wizards/spells/frostbolt.json"
-hash = "7fc3cdba334ffcbab6c90363a82c9a2101e35762b74fdc133be452701bd32003"
+hash = "90fc88870b5f2cb9ba6182c2b8e7e92a81ac22d425cff19491d3b0be7fcbf7e1"
 
 [[files]]
 file = "config/openloader/data/spell/pack.mcmeta"
 hash = "6fa5b2db495c65dc00502c6aaeb06696326de99c7ffa2afcf0f5a0a94d4c7114"
+
+[[files]]
+file = "config/openloader/data/tag/data/equipment_standard/tags/items/reforge_core/lv1.json"
+hash = "d6352747dc8fab51de1316d1a2708d80f63cbdb508a4020ecaf67758096ee473"
+
+[[files]]
+file = "config/openloader/data/tag/data/equipment_standard/tags/items/reforge_core/lv2.json"
+hash = "338bb2ca2b39e0556e273fca761a9fbcb2f1c8137dfb5addc2056098be62f340"
+
+[[files]]
+file = "config/openloader/data/tag/data/equipment_standard/tags/items/reforge_core/lv3.json"
+hash = "aa4c798bbb80610d652b73796d012efedd5c2d13c6528bddfb004f486b4c0a4e"
 
 [[files]]
 file = "config/openloader/data/tag/data/minecraft/tags/damage_type/witch_resistant_to.json"
@@ -1605,6 +1661,11 @@ hash = "6f0676fe7167a5a5e992ac1588e5a7f62bb6ffcaad158d7f1ace220c73adb938"
 metafile = true
 
 [[files]]
+file = "mods/castle-dungeons.pw.toml"
+hash = "c3d653b330dda6fb919a92dedd7bc19ab49f9d55175c6c6caf4f12cb2b4db855"
+metafile = true
+
+[[files]]
 file = "mods/charm-of-undying.pw.toml"
 hash = "41cbd529d0a8373a536f9b4550f96e5574c94d66029567b31d60cec32bf2604e"
 metafile = true
@@ -1697,6 +1758,11 @@ metafile = true
 [[files]]
 file = "mods/default-options-fabric.pw.toml"
 hash = "6dc6b06e4efee5e835efdaadd8f8239bc777aa0e4efd224ed4c8315633c70a64"
+metafile = true
+
+[[files]]
+file = "mods/desert-dungeon-dungeonz-addon.pw.toml"
+hash = "96143cce3b8b93e6332f8e974651a5df45d398f4fefbb0e2696b8d392b99ccbb"
 metafile = true
 
 [[files]]
@@ -2059,6 +2125,11 @@ hash = "873b75a2ec7af6cc58c9f4d9930d1a4e3f96a7b66de71e631d4a7318ecc16f61"
 metafile = true
 
 [[files]]
+file = "mods/mns-moogs-nether-structures.pw.toml"
+hash = "54d88049a3c22080cf12e4e001bc3e07b34679a889850388931ba464a3097c2f"
+metafile = true
+
+[[files]]
 file = "mods/mob-variants.pw.toml"
 hash = "d754abf5a5ed309fda90240f38826db01762e4f00deac99c55917f474a4a5076"
 metafile = true
@@ -2096,6 +2167,11 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "7ccd7e24f278303579a874288c0fa2385e4f2e2fa1b64a6afb25d4c8b25088c0"
+metafile = true
+
+[[files]]
+file = "mods/mss-moogs-soaring-structures.pw.toml"
+hash = "63d090009b354cb0ba84d5d0fb79434a1988223f2a005b6f05a20b430ddfa4f7"
 metafile = true
 
 [[files]]
@@ -2334,8 +2410,8 @@ hash = "7f7cd8af29430b1d5d597aae8682fa87e673f2b359bf57164a9b96762ab8b331"
 metafile = true
 
 [[files]]
-file = "mods/spell_dimension-0.3.9.jar"
-hash = "0961fc410cee03bafa6ef3f3c9786222eb61383e88a3d563337a9c3ce7246cce"
+file = "mods/spell_dimension-0.3.10.jar"
+hash = "2309b5885efc5996c0f7316c2ba72a820ae1ddd1f53ea94ac537de41beb0a02a"
 
 [[files]]
 file = "mods/spellblade-next.pw.toml"

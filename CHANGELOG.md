@@ -1,3 +1,35 @@
+## 0.3.10 - 2024.10.05
+##### Added
+- REI Compatibility
+- Spawner Soul
+	- Can be used to craft Enchanted Golden Apple / Summon Spell Scroll
+	- Can be used in Summon Spell recipes
+	- Can be used for lv1 reforging
+- Heart Spell Steel
+- New Spells
+	- Light
+	- Moon Swim
+	- Shift
+	- Incarcerate
+	- Force Landing
+	- Fire of Retribution
+	- Frost Blink
+	- Frozen
+	- Cleanse
+	- Exorcism
+- Locate Recipes for finding Crimson Forest and Warped Forest
+- Dessert Dungeon - DungeonZ Addon
+- MNS, MSS
+- Castle Dungeon
+- Item Border
+##### Changed
+- Increase Entity Loot Chance
+- Reduce the cast time of some spells
+##### Fixed
+- Wrong translations of structures
+- AppleSkin Compatibility with Armor++
+- EMI Compatibility with L2Hostility
+
 ## 0.3.9 - 2024.09.21
 ##### Added
 - Reacharound

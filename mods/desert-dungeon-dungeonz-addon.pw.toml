@@ -1,0 +1,13 @@
+name = "Desert Dungeon - DungeonZ Addon"
+filename = "desert-dungeon-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a4e2b32642f4ea179f24a71478c2c66af9bebfbd"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5376467
+project-id = 1026054
