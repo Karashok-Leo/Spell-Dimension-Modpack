@@ -301,6 +301,10 @@ file = "config/defaultoptions/keybindings.txt"
 hash = "c923383681164fec4d9944cfa2046adb3495b63298e8fe7a1d1efcfd7220b755"
 
 [[files]]
+file = "config/defaultoptions/options.txt"
+hash = "d4a72864a4ad8a50c18046b88e1811f2dcea3666b55175c5e79d759bd5e98bae"
+
+[[files]]
 file = "config/dragonfight.json"
 hash = "5f1d2ea380112bc9380646476bd38ebdf17c95ab967e4d7abcf3df92d94a573d"
 
@@ -1970,6 +1974,11 @@ hash = "95aff28211d980eb814dbff5529766188e7786e04194dcfab30dbd83be90cd62"
 metafile = true
 
 [[files]]
+file = "mods/iceberg-fabric.pw.toml"
+hash = "2ff9b2894dd43471b0f2d1779adcc15150e87c08e1ac9501635a04b975ae7c5c"
+metafile = true
+
+[[files]]
 file = "mods/illager-invasion.pw.toml"
 hash = "8f7960180ecd68666aede57399911e2389f9202d213b2f8d4ce7833933a5362e"
 metafile = true
@@ -2052,6 +2061,11 @@ metafile = true
 [[files]]
 file = "mods/leaves-us-in-peace.pw.toml"
 hash = "a58f923a6916cb648d3ecd632adf993d3c28412f8ec29b1e8dcd0f994261726c"
+metafile = true
+
+[[files]]
+file = "mods/legendary-tooltips-fabric.pw.toml"
+hash = "455ebcd7078eddf6c4dd3bff09f70bb3d755d4fa1665ff9070e8c37077c54dce"
 metafile = true
 
 [[files]]
@@ -2277,6 +2291,11 @@ metafile = true
 [[files]]
 file = "mods/potionparticlepack.pw.toml"
 hash = "76191bda92c390836dff435cb1ad6b0fe0f1ae3b87d93d14aaa113cfbba6a9dc"
+metafile = true
+
+[[files]]
+file = "mods/prism-fabric.pw.toml"
+hash = "0f4cbc95a3ba8b72b62fdae171933c59a6e4f87ec6e03b26e8d0dd2a0150f5ca"
 metafile = true
 
 [[files]]

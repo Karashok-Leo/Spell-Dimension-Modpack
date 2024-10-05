@@ -50,7 +50,7 @@
     },
     {
       "target_tables": [
-        "minecraft:entities/wither",
+        "minecraft:entities/wither\\b",
         "minecraft:entities/ender_dragon",
         "minecraft:entities/elder_guardian",
         "bosses_of_mass_destruction:entities/lich",
@@ -419,7 +419,7 @@
     },
     {
       "target_tables": [
-        "minecraft:entities/wither"
+        "minecraft:entities/wither\\b"
       ],
       "extra_tables": [
         "spell-dimension:boss/wither"
