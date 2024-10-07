@@ -2,6 +2,22 @@
   "patches": [
     {
       "target_tables": [
+        "dungeons_arise:chests/"
+      ],
+      "extra_tables": [
+        "spell-dimension:pool/wda_chest"
+      ]
+    },
+    {
+      "target_tables": [
+        "^(?!.*spell-dimension).*chests.*"
+      ],
+      "extra_tables": [
+        "spell-dimension:pool/backpack"
+      ]
+    },
+    {
+      "target_tables": [
         "^(?!.*spell-dimension).*entities.*"
       ],
       "extra_tables": [
