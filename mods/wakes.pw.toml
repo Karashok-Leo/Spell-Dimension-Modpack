@@ -1,6 +1,7 @@
 name = "Wakes"
 filename = "wakes-0.2.4+1.20.1.jar"
 side = "client"
+pin = true
 
 [download]
 hash-format = "sha1"

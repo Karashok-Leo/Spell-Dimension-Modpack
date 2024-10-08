@@ -2,7 +2,8 @@
   "patches": [
     {
       "target_tables": [
-        "dungeons_arise:chests/"
+        "dungeons_arise:chests/",
+        "dungeons_arise_seven_seas:chests/"
       ],
       "extra_tables": [
         "spell-dimension:pool/wda_chest"
