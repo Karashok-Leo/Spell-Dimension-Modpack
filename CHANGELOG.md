@@ -1,3 +1,20 @@
+## 0.3.11 - 2024.10.08
+##### Added
+- Rejuvenating Blossom
+- Default Options (UI size, maximum frame rate, etc.)
+- Monsters now randomly equip gears from mods
+##### Changed
+- Updated most mods
+- Adjusted loot tables
+	- Adjusted the probability of entities dropping loot bags
+	- Added WDA loot chests that drop loot bags
+- Adjusted spell casting times and cooldowns
+##### Removed
+- Totem Pop Animation
+##### Fixed
+- Fixed an issue where wither skeletons would incorrectly drop wither loot
+- Fixed an issue with monster equipment auto-generating at high difficulty levels
+
 ## 0.3.10 - 2024.10.05
 ##### Added
 - REI Compatibility
