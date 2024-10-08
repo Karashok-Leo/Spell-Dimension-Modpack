@@ -2433,7 +2433,7 @@ metafile = true
 
 [[files]]
 file = "mods/spell_dimension-0.3.11.jar"
-hash = "34df92a0ca2aee3e990da1bd5a5639d139da5b7441056ac1909bd31497c541dd"
+hash = "084caee7933f9b017fa2b98c1db02ac9ff84fc90c30dbdf3c99a9d2abc47ea3b"
 
 [[files]]
 file = "mods/spellblade-next.pw.toml"
