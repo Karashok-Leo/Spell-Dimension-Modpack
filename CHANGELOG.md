@@ -1,3 +1,19 @@
+## 0.4.0 - 2024.10.25
+##### Added
+- New dimension: Ocean of Consciousness
+- New blocks:
+	- Consciousness
+	- Consciousness Core
+	- Consciousness Base
+	- Protective Cover
+- New items:
+	- Magic Mirror
+	- Broken Magic Mirror
+	- Armor of Convergence
+##### Changed
+- Waystone Config: cannot teleport to or from the Ocean of Consciousness
+- Tags Adjustment: materials, entities
+
 ## 0.3.11 - 2024.10.08
 ##### Added
 - Rejuvenating Blossom

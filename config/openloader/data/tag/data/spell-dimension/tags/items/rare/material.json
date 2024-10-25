@@ -16,6 +16,12 @@
         "mythicupgrades:sapphire_ingot",
         "mythicmetals:star_platinum",
         "mythicmetals:stormyx_ingot",
-        "mythicupgrades:topaz_ingot"
+        "mythicupgrades:topaz_ingot",
+        "l2hostility:captured_wind",
+        "l2hostility:captured_shulker_bullet",
+        "l2hostility:hard_ice",
+        "l2hostility:soul_flame",
+        "l2hostility:blackstone_core",
+        "l2hostility:chaos_ingot"
     ]
 }

@@ -441,6 +441,10 @@ file = "config/fancymenu/user_variables.db"
 hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
 
 [[files]]
+file = "config/fwaystones/config.json5"
+hash = "b0518db428a377e1342ea9244ec228f7b17f1354a83bbdeaac2b94c8ff11e8fa"
+
+[[files]]
 file = "config/gazebo/villages.json"
 hash = "45666f8485ccf6172db5aae6e40e1585c606d4344ca21b0974034edf9315166f"
 
@@ -510,7 +514,7 @@ hash = "2a2ee19297afe3fc512f5cbe639349847f3e7a74616f282d24a179a17f4559ed"
 
 [[files]]
 file = "config/loot-patcher.json"
-hash = "6764cc1ff210b07c99140ccf59629523d41970fcfe6ecf9631d0bc7f2ffa63a5"
+hash = "4a2561ca61eb30fb351e12b8f35b23f5b44533de754069cbb1b2d6746ca6fb3e"
 
 [[files]]
 file = "config/lootr.json"
@@ -1154,7 +1158,7 @@ hash = "08adb9c3a6aa92a978fa4b48e49cd4ccb90bbb01b87453d573871e5c1af06bbf"
 
 [[files]]
 file = "config/openloader/data/tag/data/spell-dimension/tags/items/epic/material.json"
-hash = "3493ae551a799fa414810f1a732329eb7b44126b6530413f16fa9beb11a39349"
+hash = "a9a4167f055efd61fb405f95ffa8a029620372ada850bc6fdfd41a80481236b5"
 
 [[files]]
 file = "config/openloader/data/tag/data/spell-dimension/tags/items/epic/weapon.json"
@@ -1170,7 +1174,7 @@ hash = "901ec6e4029f06f6a936b00d661372d0d4614156015d63f33b96b8a941a99607"
 
 [[files]]
 file = "config/openloader/data/tag/data/spell-dimension/tags/items/legendary/material.json"
-hash = "0e24cdd971539e8d5d0ec15a64a3ce94c06ec4cd7fdd7252739ba4b168a1695c"
+hash = "eaa03989c380ee9d0efee4bc16fe171e5c7f5d4957d38deda4d3cf5c68f52eb9"
 
 [[files]]
 file = "config/openloader/data/tag/data/spell-dimension/tags/items/legendary/weapon.json"
@@ -1190,7 +1194,7 @@ hash = "db2e5874f5315e61e802b8ec369c6353a4a3e11f3a2eaf27987a2c64431ec0c7"
 
 [[files]]
 file = "config/openloader/data/tag/data/spell-dimension/tags/items/rare/material.json"
-hash = "28f422a0ba9893251a2cb623076a1d634d950e608c7fab7762caf2549b708f07"
+hash = "ee66805ae168217f91ab2344d6fd6def20b6b7bf590e57deddb511d8f175b756"
 
 [[files]]
 file = "config/openloader/data/tag/data/spell-dimension/tags/items/rare/weapon.json"
@@ -2432,8 +2436,8 @@ hash = "7f7cd8af29430b1d5d597aae8682fa87e673f2b359bf57164a9b96762ab8b331"
 metafile = true
 
 [[files]]
-file = "mods/spell_dimension-0.3.11.jar"
-hash = "084caee7933f9b017fa2b98c1db02ac9ff84fc90c30dbdf3c99a9d2abc47ea3b"
+file = "mods/spell_dimension-0.4.0.jar"
+hash = "bea7cb31198bd493459a974072eec6ec1bd6d177ff6bfa4bfb4a5d57080140e0"
 
 [[files]]
 file = "mods/spellblade-next.pw.toml"

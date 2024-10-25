@@ -14,7 +14,7 @@
         "^(?!.*spell-dimension).*chests.*"
       ],
       "extra_tables": [
-        "spell-dimension:pool/backpack"
+        "spell-dimension:pool/addition"
       ]
     },
     {
