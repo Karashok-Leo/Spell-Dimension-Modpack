@@ -333,6 +333,22 @@ file = "config/exordium.json"
 hash = "3f860698e7d79a34e577849d1f875ddf0707bee63ee2e7128ca33fcee6f6ed1a"
 
 [[files]]
+file = "config/fancymenu/assets/icon16x.png"
+hash = "01acc9a05af1544aa2bc460c462b5fe2395b190fbb88f65795421fb42c9aae32"
+
+[[files]]
+file = "config/fancymenu/assets/icon32x.png"
+hash = "746f958b94dce2edc1f120e46cac27ebff241c459ca7aa4510be8dac53a0f573"
+
+[[files]]
+file = "config/fancymenu/assets/icon512x.icns"
+hash = "b9787f00cf5d5bbd94803fe4e53777c4e1a4d9de735ca105d7100e82106e0333"
+
+[[files]]
+file = "config/fancymenu/assets/icon512x.png"
+hash = "5a663f31c329538c5b4376d3e5052f6a95aeb71f83edc31a8051596b2800f5bf"
+
+[[files]]
 file = "config/fancymenu/assets/mods.png"
 hash = "80fb85d00a349491f99f1e1cb2d3a023aa1932e345de664be97cc01578d43645"
 
@@ -398,7 +414,7 @@ hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
 
 [[files]]
 file = "config/fancymenu/options.txt"
-hash = "5a4c62009f13887c7e4cff4ebef0b0fdcade273d40eb006c4c2f56f18b4954c2"
+hash = "5d7c1c22a3eee0a04e9906fa15cd2e9dfe555cb1a475b45ea61a093b7d002ca2"
 
 [[files]]
 file = "config/fancymenu/panoramas/spell-dimension/panorama/panorama_0.png"
@@ -2436,8 +2452,8 @@ hash = "7f7cd8af29430b1d5d597aae8682fa87e673f2b359bf57164a9b96762ab8b331"
 metafile = true
 
 [[files]]
-file = "mods/spell_dimension-0.4.0.jar"
-hash = "0e410f6384e36d2d055c3e90f86f9a856263ccdc3f30bd3dda6ec7ef2a477d7b"
+file = "mods/spell_dimension-0.4.1.jar"
+hash = "4aaa57e0178e595a11a6318be8b6b8d0a6508409228421cff308015e0d2ca37e"
 
 [[files]]
 file = "mods/spellblade-next.pw.toml"
