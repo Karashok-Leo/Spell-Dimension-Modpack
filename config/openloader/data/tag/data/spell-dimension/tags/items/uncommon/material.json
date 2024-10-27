@@ -18,6 +18,9 @@
         "crystals_overhauled:rhodochrosite",
         "crystals_overhauled:saphire",
         "minecraft:crying_obsidian",
-        "minecraft:obsidian"
+        "minecraft:obsidian",
+        "soulsweapons:crimson_ingot",
+        "soulsweapons:soul_ingot",
+        "graveyard:dark_iron_ingot"
     ]
 }

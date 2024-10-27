@@ -8,6 +8,8 @@
         "mythicmetals:osmium_ingot",
         "mythicmetals:silver_ingot",
         "mythicmetals:steel_ingot",
-        "mythicmetals:tin_ingot"
+        "mythicmetals:tin_ingot",
+        "soulsweapons:moonstone",
+        "soulsweapons:verglas"
     ]
 }

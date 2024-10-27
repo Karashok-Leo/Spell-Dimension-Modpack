@@ -514,7 +514,7 @@ hash = "2a2ee19297afe3fc512f5cbe639349847f3e7a74616f282d24a179a17f4559ed"
 
 [[files]]
 file = "config/loot-patcher.json"
-hash = "4a2561ca61eb30fb351e12b8f35b23f5b44533de754069cbb1b2d6746ca6fb3e"
+hash = "bdac69958d66d087c159a7704c00e7c92371c1b6fccb2b6838b4ec0d803fc1d9"
 
 [[files]]
 file = "config/lootr.json"
@@ -1142,7 +1142,7 @@ hash = "c2ae8d7f4005b2c7139128b3072e8ccfc262148fdafefa03342af781a46d8010"
 
 [[files]]
 file = "config/openloader/data/tag/data/spell-dimension/tags/items/common/material.json"
-hash = "2d69055f4223742633a1b3f8704b37c76ab5f7c923f0b9f0b1e1eb83c09648cb"
+hash = "1a58426efd4e48b687b4739ceeef8ec79d763e5f04e6d0d1c86395014d9397bf"
 
 [[files]]
 file = "config/openloader/data/tag/data/spell-dimension/tags/items/common/weapon.json"
@@ -1218,7 +1218,7 @@ hash = "7558722d8f1a8e6f3d1c5b3f3d2f54f6be4cc866d3825dae5cd21ec781cedaf0"
 
 [[files]]
 file = "config/openloader/data/tag/data/spell-dimension/tags/items/uncommon/material.json"
-hash = "48076658ce816d725dfcb23c47c6bbac484f6a63f5d2930cc20f7f7a9b989fd6"
+hash = "4596c67c4b1602f128962675461c415e917983b712cfca0000c6ef290fc10d4e"
 
 [[files]]
 file = "config/openloader/data/tag/data/spell-dimension/tags/items/uncommon/weapon.json"
@@ -2437,7 +2437,7 @@ metafile = true
 
 [[files]]
 file = "mods/spell_dimension-0.4.0.jar"
-hash = "bea7cb31198bd493459a974072eec6ec1bd6d177ff6bfa4bfb4a5d57080140e0"
+hash = "0e410f6384e36d2d055c3e90f86f9a856263ccdc3f30bd3dda6ec7ef2a477d7b"
 
 [[files]]
 file = "mods/spellblade-next.pw.toml"

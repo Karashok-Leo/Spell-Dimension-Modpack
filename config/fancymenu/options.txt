@@ -24,11 +24,11 @@ B:game_intro_fade_out = 'true';
 
 ##[window]
 
-B:show_custom_window_icon = 'false';
-S:custom_window_icon_macos = '';
-S:custom_window_icon_32 = '';
+B:show_custom_window_icon = 'true';
+S:custom_window_icon_macos = '/config/fancymenu/assets/icon512x.icns';
+S:custom_window_icon_32 = '/config/fancymenu/assets/icon32x.png';
 S:custom_window_title = 'Spell Dimension';
-S:custom_window_icon_16 = '';
+S:custom_window_icon_16 = '/config/fancymenu/assets/icon16x.png';
 
 
 ##[multiplayer_screen]

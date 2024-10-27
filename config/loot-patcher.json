@@ -379,6 +379,14 @@
     },
     {
       "target_tables": [
+        "minecraft:entities/phantom"
+      ],
+      "extra_tables": [
+        "spell-dimension:entity/phantom"
+      ]
+    },
+    {
+      "target_tables": [
         "minecraft:entities/shulker"
       ],
       "extra_tables": [

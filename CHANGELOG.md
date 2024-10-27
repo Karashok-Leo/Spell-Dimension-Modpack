@@ -1,3 +1,13 @@
+## 0.4.1 - 2024.10.27
+##### Added
+- Window Icon
+##### Fixed
+- Crash when triggering the invasion event
+- Optimizing teleportation
+- Inproper translations
+- Inproper teleport position
+- Missing textures
+
 ## 0.4.0 - 2024.10.25
 ##### Added
 - New dimension: Ocean of Consciousness
