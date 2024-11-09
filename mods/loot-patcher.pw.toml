@@ -1,13 +1,13 @@
 name = "Loot Patcher"
-filename = "loot-patcher-1.1.1.jar"
+filename = "loot-patcher-1.2.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "b1178d2ea6554cd2e3bbf99af39ebbda50c52b29"
+hash = "eb6ceb143f9992cfacb0c06e0f2c300f27ae3553"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5655899
+file-id = 5886906
 project-id = 984667

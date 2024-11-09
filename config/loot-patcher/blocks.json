@@ -1,0 +1,130 @@
+[
+  {
+    "target_tables": [
+      "minecraft:blocks/spawner"
+    ],
+    "extra_tables": [
+      "spell-dimension:block/spawner"
+    ]
+  },
+  {
+    "target_tables": [
+      "minecraft:blocks/dirt"
+    ],
+    "extra_tables": [
+      "spell-dimension:block/dirt"
+    ]
+  },
+  {
+    "target_tables": [
+      "minecraft:blocks/stone"
+    ],
+    "extra_tables": [
+      "spell-dimension:block/stone"
+    ]
+  },
+  {
+    "target_tables": [
+      "minecraft:blocks/deepslate"
+    ],
+    "extra_tables": [
+      "spell-dimension:block/deepslate"
+    ]
+  },
+  {
+    "target_tables": [
+      "minecraft:blocks/netherrack"
+    ],
+    "extra_tables": [
+      "spell-dimension:block/netherrack"
+    ]
+  },
+  {
+    "target_tables": [
+      "minecraft:blocks/end_stone"
+    ],
+    "extra_tables": [
+      "spell-dimension:block/end_stone"
+    ]
+  },
+  {
+    "target_tables": [
+      "minecraft:blocks/sand"
+    ],
+    "extra_tables": [
+      "spell-dimension:block/sand"
+    ]
+  },
+  {
+    "target_tables": [
+      "minecraft:blocks/red_sand"
+    ],
+    "extra_tables": [
+      "spell-dimension:block/red_sand"
+    ]
+  },
+  {
+    "target_tables": [
+      "minecraft:blocks/wheat"
+    ],
+    "extra_tables": [
+      "spell-dimension:block/wheat"
+    ]
+  },
+  {
+    "target_tables": [
+      "minecraft:blocks/beetroots"
+    ],
+    "extra_tables": [
+      "spell-dimension:block/beetroots"
+    ]
+  },
+  {
+    "target_tables": [
+      "minecraft:blocks/kelp"
+    ],
+    "extra_tables": [
+      "spell-dimension:block/kelp"
+    ]
+  },
+  {
+    "target_tables": [
+      "minecraft:blocks/chorus_plant"
+    ],
+    "extra_tables": [
+      "spell-dimension:block/chorus_plant"
+    ]
+  },
+  {
+    "target_tables": [
+      "minecraft:blocks/potatoes"
+    ],
+    "extra_tables": [
+      "spell-dimension:block/potatoes"
+    ]
+  },
+  {
+    "target_tables": [
+      "minecraft:blocks/pumpkin"
+    ],
+    "extra_tables": [
+      "spell-dimension:block/pumpkin"
+    ]
+  },
+  {
+    "target_tables": [
+      "minecraft:blocks/sweet_berry_bush"
+    ],
+    "extra_tables": [
+      "spell-dimension:block/sweet_berry_bush"
+    ]
+  },
+  {
+    "target_tables": [
+      "minecraft:blocks/turtle_egg"
+    ],
+    "extra_tables": [
+      "spell-dimension:block/turtle_egg"
+    ]
+  }
+]

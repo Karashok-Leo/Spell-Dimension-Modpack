@@ -1,0 +1,186 @@
+[
+  {
+    "target_tables": [
+      "minecraft:entities/wither\\b"
+    ],
+    "extra_tables": [
+      "spell-dimension:boss/wither"
+    ]
+  },
+  {
+    "target_tables": [
+      "minecraft:entities/ender_dragon"
+    ],
+    "extra_tables": [
+      "spell-dimension:boss/ender_dragon"
+    ]
+  },
+  {
+    "target_tables": [
+      "minecraft:entities/elder_guardian"
+    ],
+    "extra_tables": [
+      "spell-dimension:boss/elder_guardian"
+    ]
+  },
+  {
+    "target_tables": [
+      "minecraft:entities/warden"
+    ],
+    "extra_tables": [
+      "spell-dimension:boss/warden"
+    ]
+  },
+  {
+    "target_tables": [
+      "illagerinvasion:entities/invoker"
+    ],
+    "extra_tables": [
+      "spell-dimension:boss/invoker"
+    ]
+  },
+  {
+    "target_tables": [
+      "deeperdarker:entities/stalker"
+    ],
+    "extra_tables": [
+      "spell-dimension:boss/stalker"
+    ]
+  },
+  {
+    "target_tables": [
+      "graveyard:entities/lich"
+    ],
+    "extra_tables": [
+      "spell-dimension:boss/lich"
+    ]
+  },
+  {
+    "target_tables": [
+      "aquamirae:entities/captain_cornelia"
+    ],
+    "extra_tables": [
+      "spell-dimension:boss/captain_cornelia"
+    ]
+  },
+  {
+    "target_tables": [
+      "adventurez:entities/blackstone_golem"
+    ],
+    "extra_tables": [
+      "spell-dimension:boss/advz/blackstone_golem"
+    ]
+  },
+  {
+    "target_tables": [
+      "adventurez:entities/the_eye"
+    ],
+    "extra_tables": [
+      "spell-dimension:boss/advz/the_eye"
+    ]
+  },
+  {
+    "target_tables": [
+      "adventurez:entities/void_shadow"
+    ],
+    "extra_tables": [
+      "spell-dimension:boss/advz/void_shadow"
+    ]
+  },
+  {
+    "target_tables": [
+      "bosses_of_mass_destruction:entities/lich"
+    ],
+    "extra_tables": [
+      "spell-dimension:boss/bomd/lich"
+    ]
+  },
+  {
+    "target_tables": [
+      "bosses_of_mass_destruction:entities/void_blossom"
+    ],
+    "extra_tables": [
+      "spell-dimension:boss/bomd/void_blossom"
+    ]
+  },
+  {
+    "target_tables": [
+      "bosses_of_mass_destruction:chests/gauntlet"
+    ],
+    "extra_tables": [
+      "spell-dimension:boss/bomd/gauntlet"
+    ]
+  },
+  {
+    "target_tables": [
+      "bosses_of_mass_destruction:chests/obsidilith"
+    ],
+    "extra_tables": [
+      "spell-dimension:boss/bomd/obsidilith"
+    ]
+  },
+  {
+    "target_tables": [
+      "soulsweapons:entities/day_stalker"
+    ],
+    "extra_tables": [
+      "spell-dimension:boss/soulsweapons/day_stalker"
+    ]
+  },
+  {
+    "target_tables": [
+      "soulsweapons:entities/night_prowler"
+    ],
+    "extra_tables": [
+      "spell-dimension:boss/soulsweapons/night_prowler"
+    ]
+  },
+  {
+    "target_tables": [
+      "soulsweapons:entities/draugr_boss"
+    ],
+    "extra_tables": [
+      "spell-dimension:boss/soulsweapons/draugr_boss"
+    ]
+  },
+  {
+    "target_tables": [
+      "soulsweapons:entities/night_shade"
+    ],
+    "extra_tables": [
+      "spell-dimension:boss/soulsweapons/night_shade"
+    ]
+  },
+  {
+    "target_tables": [
+      "soulsweapons:entities/accursed_lord_boss"
+    ],
+    "extra_tables": [
+      "spell-dimension:boss/soulsweapons/accursed_lord_boss"
+    ]
+  },
+  {
+    "target_tables": [
+      "soulsweapons:entities/chaos_monarch"
+    ],
+    "extra_tables": [
+      "spell-dimension:boss/soulsweapons/chaos_monarch"
+    ]
+  },
+  {
+    "target_tables": [
+      "soulsweapons:entities/moonknight"
+    ],
+    "extra_tables": [
+      "spell-dimension:boss/soulsweapons/moonknight"
+    ]
+  },
+  {
+    "target_tables": [
+      "soulsweapons:entities/returning_knight"
+    ],
+    "extra_tables": [
+      "spell-dimension:boss/soulsweapons/returning_knight"
+    ]
+  }
+]

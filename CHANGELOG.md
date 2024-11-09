@@ -1,3 +1,14 @@
+## 0.4.2 - 2024.11.09
+##### Added
+- Fusion Smithing
+- Better Tips Nbt Tag
+##### Changed
+- Reduce the cooldowns of primary spells
+##### Removed
+- Nbt Tooltip (Replace)
+##### Fixed
+
+
 ## 0.4.1 - 2024.10.27
 ##### Added
 - Window Icon

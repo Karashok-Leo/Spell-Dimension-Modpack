@@ -1,0 +1,13 @@
+{
+  "type": "fusion-smithing:smithing_fusion",
+  "mode": "MERGE",
+  "template": {
+    "item": "fusion-smithing:fusion_smithing_template"
+  },
+  "base": {
+    "tag": "equipment_standard:helmets"
+  },
+  "addition": {
+    "tag": "equipment_standard:helmets"
+  }
+}

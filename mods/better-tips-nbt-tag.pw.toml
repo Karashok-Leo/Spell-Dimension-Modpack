@@ -1,0 +1,13 @@
+name = "Better Tag NBT Tips"
+filename = "BetterTags-1.20.1-Fabric-1.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "02e250b79a23c2ea1a163dd2b13423550b1fc525"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5315488
+project-id = 682363

@@ -1,13 +1,13 @@
 name = "Iceberg [Fabric]"
-filename = "Iceberg-1.20.1-fabric-1.1.18.jar"
+filename = "Iceberg-1.20.1-fabric-1.1.25.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "ee85c1bb37f77dd2c99658bdb50227bb7ae35754"
+hash = "365e70abde54faab847d2594420dc2bbd589ad3d"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4953470
+file-id = 5838145
 project-id = 539382

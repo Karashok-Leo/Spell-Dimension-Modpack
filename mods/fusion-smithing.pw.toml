@@ -1,0 +1,13 @@
+name = "Fusion Smithing"
+filename = "fusion_smithing-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ceadf196def945ec352d17eb26ba4b2bad1ed394"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5864845
+project-id = 995028

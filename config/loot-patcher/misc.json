@@ -1,0 +1,95 @@
+[
+  {
+    "target_tables": [
+      "dungeons_arise:chests/",
+      "dungeons_arise_seven_seas:chests/"
+    ],
+    "extra_tables": [
+      "spell-dimension:pool/wda_chest"
+    ]
+  },
+  {
+    "target_tables": [
+      "^(?!.*spell-dimension).*chests.*"
+    ],
+    "extra_tables": [
+      "spell-dimension:pool/addition"
+    ]
+  },
+  {
+    "target_tables": [
+      "^(?!.*spell-dimension).*entities.*"
+    ],
+    "extra_tables": [
+      "spell-dimension:tier/common_drop"
+    ]
+  },
+  {
+    "target_tables": [
+      "^(?!.*spell-dimension).*entities.*"
+    ],
+    "extra_tables": [
+      "spell-dimension:tier/uncommon_drop"
+    ]
+  },
+  {
+    "target_tables": [
+      "^(?!.*spell-dimension).*entities.*"
+    ],
+    "extra_tables": [
+      "spell-dimension:tier/rare_drop"
+    ]
+  },
+  {
+    "target_tables": [
+      "^(?!.*spell-dimension).*entities.*"
+    ],
+    "extra_tables": [
+      "spell-dimension:tier/epic_drop"
+    ]
+  },
+  {
+    "target_tables": [
+      "^(?!.*spell-dimension).*entities.*"
+    ],
+    "extra_tables": [
+      "spell-dimension:tier/legendary_drop"
+    ]
+  },
+  {
+    "target_tables": [
+      "^(?!.*spell-dimension).*entities.*"
+    ],
+    "extra_tables": [
+      "spell-dimension:entity/ore"
+    ]
+  },
+  {
+    "target_tables": [
+      "minecraft:entities/wither\\b",
+      "minecraft:entities/ender_dragon",
+      "minecraft:entities/elder_guardian",
+      "illagerinvasion:entities/invoker",
+      "deeperdarker:entities/stalker",
+      "graveyard:entities/lich",
+      "aquamirae:entities/captain_cornelia",
+      "adventurez:entities/blackstone_golem",
+      "adventurez:entities/the_eye",
+      "adventurez:entities/void_shadow",
+      "bosses_of_mass_destruction:entities/lich",
+      "bosses_of_mass_destruction:entities/void_blossom",
+      "bosses_of_mass_destruction:chests/gauntlet",
+      "bosses_of_mass_destruction:chests/obsidilith",
+      "soulsweapons:entities/day_stalker",
+      "soulsweapons:entities/night_prowler",
+      "soulsweapons:entities/draugr_boss",
+      "soulsweapons:entities/accursed_lord_boss",
+      "soulsweapons:entities/chaos_monarch",
+      "soulsweapons:entities/moonknight",
+      "soulsweapons:entities/returning_knight"
+    ],
+    "extra_tables": [
+      "spell-dimension:pool/boss"
+    ]
+  }
+]

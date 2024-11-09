@@ -326,7 +326,7 @@ hash = "f706361d8f4f015e89bf5f41a78837098c7a6c47e2ef3b728e54091012e34690"
 
 [[files]]
 file = "config/endrem.json"
-hash = "99fc4b17248207162df75c5c3d395eb3010fd595933639c8a2c2352668f85a9f"
+hash = "85eda7121ff75c51b0a8865c29869d7a5b995eb49c022ebc9f3dac1c58c1a991"
 
 [[files]]
 file = "config/exordium.json"
@@ -457,6 +457,10 @@ file = "config/fancymenu/user_variables.db"
 hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
 
 [[files]]
+file = "config/fusion-smithing.json"
+hash = "7cd2a431a7c2ed60675154ce7677946627a3f5e55e7cca6e625a816978c02989"
+
+[[files]]
 file = "config/fwaystones/config.json5"
 hash = "b0518db428a377e1342ea9244ec228f7b17f1354a83bbdeaac2b94c8ff11e8fa"
 
@@ -529,8 +533,24 @@ file = "config/lmft.json"
 hash = "2a2ee19297afe3fc512f5cbe639349847f3e7a74616f282d24a179a17f4559ed"
 
 [[files]]
-file = "config/loot-patcher.json"
-hash = "bdac69958d66d087c159a7704c00e7c92371c1b6fccb2b6838b4ec0d803fc1d9"
+file = "config/loot-patcher/blocks.json"
+hash = "549c76b0f8d362be3516bd4581815e9a95bdc522357d8b0baf68abfba6e655cb"
+
+[[files]]
+file = "config/loot-patcher/bosses.json"
+hash = "164a5d8b55330ebd6518cd2abd07245883395526a8d30a69247e420d8b9fb092"
+
+[[files]]
+file = "config/loot-patcher/dungeonz.json"
+hash = "c45a56e13f9cd7165a15ab7492b3333cbeea832c995d23a5d85c71c2bba41a75"
+
+[[files]]
+file = "config/loot-patcher/entities.json"
+hash = "3b3699d6e69f9d9a86ebf800249352256f358b3254f820bb268b6fcdb6309363"
+
+[[files]]
+file = "config/loot-patcher/misc.json"
+hash = "650f68f6474de4167e6118cc407ecb273bf6441e4e505d722bc434b9d7dae140"
 
 [[files]]
 file = "config/lootr.json"
@@ -750,35 +770,35 @@ hash = "e8842082a1ef6190060702d9a59622d9be4c06c1ba0356cf6a8589a5956e8800"
 
 [[files]]
 file = "config/openloader/data/loot/data/endrem/loot_tables/minecraft/chests/abandoned_mineshaft.json"
-hash = "4323145b71a4bab8029605f0fd6ceaae490aa6a6e07d07ab3dce63ad3b9571e4"
+hash = "2d8511a4b786c214023dde8964066e9b73bca126693c8f29c4ed8323c7725b0d"
 
 [[files]]
 file = "config/openloader/data/loot/data/endrem/loot_tables/minecraft/chests/bastion_treasure.json"
-hash = "3d7a35b6cfa0d5cd489dec436a3d409c1f0df2f45085dd2fe3ff870ef279b83a"
+hash = "7fa5c909af7fd81bacc112a488f08a8fdfc4e5e7a8eadd124dc36285f0516469"
 
 [[files]]
 file = "config/openloader/data/loot/data/endrem/loot_tables/minecraft/chests/buried_treasure.json"
-hash = "8c1366869e339deb45f37c7ab99c68fb4bf38de8f87e300b08fd6fa88892dd93"
+hash = "2d8511a4b786c214023dde8964066e9b73bca126693c8f29c4ed8323c7725b0d"
 
 [[files]]
 file = "config/openloader/data/loot/data/endrem/loot_tables/minecraft/chests/desert_pyramid.json"
-hash = "532c5f94d263e7b49bc0d1123ed3a24018c11f2c23106419176f4de4c94cd765"
+hash = "2d8511a4b786c214023dde8964066e9b73bca126693c8f29c4ed8323c7725b0d"
 
 [[files]]
 file = "config/openloader/data/loot/data/endrem/loot_tables/minecraft/chests/igloo_chest.json"
-hash = "23789b32e1f8ab6e5565af82882a07b221d13c36951b61c3fcba72558df2f4c7"
+hash = "2d8511a4b786c214023dde8964066e9b73bca126693c8f29c4ed8323c7725b0d"
 
 [[files]]
 file = "config/openloader/data/loot/data/endrem/loot_tables/minecraft/chests/jungle_temple.json"
-hash = "4ca2663bf25473a6b8ae15e7dabcbf9f47d6242e2f624f0ec6e9c1f5ea59beab"
+hash = "2d8511a4b786c214023dde8964066e9b73bca126693c8f29c4ed8323c7725b0d"
 
 [[files]]
 file = "config/openloader/data/loot/data/endrem/loot_tables/minecraft/chests/nether_bridge.json"
-hash = "87a4f76cbe96bd7239b3b64e232262ecbaacb590b268e53f04ae20731ecc168e"
+hash = "2d8511a4b786c214023dde8964066e9b73bca126693c8f29c4ed8323c7725b0d"
 
 [[files]]
 file = "config/openloader/data/loot/data/endrem/loot_tables/minecraft/chests/pillager_outpost.json"
-hash = "83d8dadb04e3c3b12a857619b26c7f9c357c077dfb98f4546a167574a29d6ab3"
+hash = "2d8511a4b786c214023dde8964066e9b73bca126693c8f29c4ed8323c7725b0d"
 
 [[files]]
 file = "config/openloader/data/loot/data/endrem/loot_tables/minecraft/chests/shipwreck_treasure.json"
@@ -786,7 +806,7 @@ hash = "7fa5c909af7fd81bacc112a488f08a8fdfc4e5e7a8eadd124dc36285f0516469"
 
 [[files]]
 file = "config/openloader/data/loot/data/endrem/loot_tables/minecraft/chests/simple_dungeon.json"
-hash = "04e47e5e413c8bd043df2ecbab4f4234508038e76b80a6e70745741d2f1953f2"
+hash = "7fa5c909af7fd81bacc112a488f08a8fdfc4e5e7a8eadd124dc36285f0516469"
 
 [[files]]
 file = "config/openloader/data/loot/data/endrem/loot_tables/minecraft/chests/woodland_mansion.json"
@@ -794,23 +814,23 @@ hash = "7fa5c909af7fd81bacc112a488f08a8fdfc4e5e7a8eadd124dc36285f0516469"
 
 [[files]]
 file = "config/openloader/data/loot/data/endrem/loot_tables/minecraft/entities/elder_guardian.json"
-hash = "6f8252d17787f9571060086bae293814c2274ac81fad42b8563335aa3ba4cb52"
+hash = "7fa5c909af7fd81bacc112a488f08a8fdfc4e5e7a8eadd124dc36285f0516469"
 
 [[files]]
 file = "config/openloader/data/loot/data/endrem/loot_tables/minecraft/entities/evoker.json"
-hash = "ee0baecd22c4542e3a1f61c5661ca6b6bcefaf385249a65bb6f498e819ab720e"
+hash = "7fa5c909af7fd81bacc112a488f08a8fdfc4e5e7a8eadd124dc36285f0516469"
 
 [[files]]
 file = "config/openloader/data/loot/data/endrem/loot_tables/minecraft/entities/skeleton_horse.json"
-hash = "1d5dd27b10ff90b5962c30372bf32fcef28a768f4bdaacc970aa72037575e961"
+hash = "7fa5c909af7fd81bacc112a488f08a8fdfc4e5e7a8eadd124dc36285f0516469"
 
 [[files]]
 file = "config/openloader/data/loot/data/endrem/loot_tables/minecraft/entities/witch.json"
-hash = "2e25f532dea220df2ef5437d6c8d3110a3813172221998fa6da093caacbf5464"
+hash = "7fa5c909af7fd81bacc112a488f08a8fdfc4e5e7a8eadd124dc36285f0516469"
 
 [[files]]
 file = "config/openloader/data/loot/data/endrem/loot_tables/minecraft/entities/wither.json"
-hash = "0ff22520c999491c63dc079edd15bf4ffb8e17df372f4c3d1dc1fbe30f51331b"
+hash = "7fa5c909af7fd81bacc112a488f08a8fdfc4e5e7a8eadd124dc36285f0516469"
 
 [[files]]
 file = "config/openloader/data/loot/pack.mcmeta"
@@ -867,6 +887,58 @@ hash = "24c3eb08906d85108de44e57715f6d91475eee36b8e1557333489847e0208b1c"
 [[files]]
 file = "config/openloader/data/recipe/data/spell-dimension/recipes/frost/2.json"
 hash = "c022495a85bb1db56c13f40f8aab1cfaf120bb4bd68d9e4adbad43cf7ed0ef11"
+
+[[files]]
+file = "config/openloader/data/recipe/data/spell-dimension/recipes/fusion-smithing/axes.json"
+hash = "bb14919191db377650525e1cdd5f3f76ead620b73577708c43d926737498e635"
+
+[[files]]
+file = "config/openloader/data/recipe/data/spell-dimension/recipes/fusion-smithing/boots.json"
+hash = "9adace7998773d1263b2d1d4a60e2f6df5035be2cce4f85fc884aefde2b6cd6e"
+
+[[files]]
+file = "config/openloader/data/recipe/data/spell-dimension/recipes/fusion-smithing/bows.json"
+hash = "e7d5104710d5de6f806d025b78f91add515a228c91a11de4205d82fbf1a2b61d"
+
+[[files]]
+file = "config/openloader/data/recipe/data/spell-dimension/recipes/fusion-smithing/chestplates.json"
+hash = "03c271277a9b742e41a27c23da5cd6bb4979e2b4ee959c4072a4c0b2a8a4da02"
+
+[[files]]
+file = "config/openloader/data/recipe/data/spell-dimension/recipes/fusion-smithing/crossbows.json"
+hash = "3a1d5cec9fea42835565268b348bafbd7249f039c3f3c880b3f032c852ed330d"
+
+[[files]]
+file = "config/openloader/data/recipe/data/spell-dimension/recipes/fusion-smithing/helmets.json"
+hash = "e4321d6b169e5616e17c03b6bfa6d0f4cdf61bc26e44af66427258cc08c68c71"
+
+[[files]]
+file = "config/openloader/data/recipe/data/spell-dimension/recipes/fusion-smithing/hoes.json"
+hash = "c1c1ae4e4c7f2104588f62828a5c8bf76fc10e8141a5135647326753216227a8"
+
+[[files]]
+file = "config/openloader/data/recipe/data/spell-dimension/recipes/fusion-smithing/leggings.json"
+hash = "6b9cd925fba7cb1c7674438b975543c6acc5d2879790d0fde3a1f4842574b303"
+
+[[files]]
+file = "config/openloader/data/recipe/data/spell-dimension/recipes/fusion-smithing/pickaxes.json"
+hash = "60a3924091ac6be182309bd9980702518ea74e29526c0612c73511f095be4ecf"
+
+[[files]]
+file = "config/openloader/data/recipe/data/spell-dimension/recipes/fusion-smithing/shields.json"
+hash = "9d3f3d44255775fb60bb1f6a776332cade52aa56042ad595a91dea0e60abe635"
+
+[[files]]
+file = "config/openloader/data/recipe/data/spell-dimension/recipes/fusion-smithing/shovels.json"
+hash = "c85e6bf7a967a6442c9636e5208c0f8b416ce048395f5d422c7985280ced8dca"
+
+[[files]]
+file = "config/openloader/data/recipe/data/spell-dimension/recipes/fusion-smithing/swords.json"
+hash = "9159b413716451f12968e0122c364ca553f99ab2bb96d2f84d99c6d26cea3505"
+
+[[files]]
+file = "config/openloader/data/recipe/data/spell-dimension/recipes/fusion-smithing/tridents.json"
+hash = "23ecaa893043aa8ec7ee50458b6686a9c71b95da3293a5505fd1b693474d377f"
 
 [[files]]
 file = "config/openloader/data/recipe/data/spell-dimension/recipes/healing/0.json"
@@ -1006,7 +1078,7 @@ hash = "c4d784d0f0cc79b37d3fbdc67c2b1e636ec2481ea6fdb8f7e9c2c834ac5e0074"
 
 [[files]]
 file = "config/openloader/data/spell/data/paladins/spells/holy_shock.json"
-hash = "dbbee3b2616c96b8d513e670af97a43cf37561ef531d3e146afab0dc123ba0f0"
+hash = "6ce421a96239981ea9248ad479c1aa84be4324e9ab4b8e27e34937abfa9cf0b4"
 
 [[files]]
 file = "config/openloader/data/spell/data/paladins/spells/judgement.json"
@@ -1074,7 +1146,7 @@ hash = "be8fd65f32eb9869d113b0ea2a56875d3691501719cb28df8c3ebf1b401f33a9"
 
 [[files]]
 file = "config/openloader/data/spell/data/wizards/spells/arcane_missile.json"
-hash = "f7e5e9325f27f589a1f6d67664eb505131d60d820fc439b40ccc90264d6f8210"
+hash = "807a313ca02f76a5f67987feac9ac1e3480fff7f0fcf8b97d22d36b7d20af8a2"
 
 [[files]]
 file = "config/openloader/data/spell/data/wizards/spells/fire_breath.json"
@@ -1094,7 +1166,7 @@ hash = "99a65fd456b89194e321807d0be14f3a0270c33d795d368943c33bd3015cf255"
 
 [[files]]
 file = "config/openloader/data/spell/data/wizards/spells/fireball.json"
-hash = "f70cb4eb0204a878407d0a8d837ac5d3f38c16d6e00acd0de33a0bc06bc24453"
+hash = "00a535b98767266821e093609501e4c693ec27f81c3dd91ccbf74836fbe420a9"
 
 [[files]]
 file = "config/openloader/data/spell/data/wizards/spells/frost_blizzard.json"
@@ -1114,7 +1186,7 @@ hash = "c6fad377537ce9901bb9655bbf87da2a9c3f49aec37b695b74642e3c6dc69c72"
 
 [[files]]
 file = "config/openloader/data/spell/data/wizards/spells/frostbolt.json"
-hash = "3c294f04b8a2abf06f01272ea45ce76f100f724dd2b5adb3ecff5d7e494cbc03"
+hash = "f4fc42317540efe4b0176598bbe3030bd697afc56b877f06bce1f0759202f978"
 
 [[files]]
 file = "config/openloader/data/spell/pack.mcmeta"
@@ -1643,6 +1715,11 @@ hash = "2ea3d87ffc2806e4bcb6ee9f5a35bdb4588b29030aba235dc7616d1833349d5b"
 metafile = true
 
 [[files]]
+file = "mods/autotag.pw.toml"
+hash = "b9a735d5fa8a449c3f177edee653043235a3af096bba1d91ac09d53987b2868a"
+metafile = true
+
+[[files]]
 file = "mods/azurelib-armor.pw.toml"
 hash = "0962d4388dabc82fbe7651fc13cc880876ba66b8c4efd76c9e28bbcf751131c5"
 metafile = true
@@ -1659,7 +1736,7 @@ metafile = true
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "626f345799adca2b61b1851c3cf45884dcad1cba803c87186439184ec3866b2c"
+hash = "010e3cbd9a4e0fd0632c20ca5a7c500c80c501fb6633470bbc051d97c2f8ab7b"
 metafile = true
 
 [[files]]
@@ -1675,6 +1752,11 @@ metafile = true
 [[files]]
 file = "mods/better-combat-by-daedelus.pw.toml"
 hash = "b91695a9291401b4e09a28d7365e26513e5a2359b5edd4def897e673cd582f6d"
+metafile = true
+
+[[files]]
+file = "mods/better-tips-nbt-tag.pw.toml"
+hash = "11c15533b5a06003e5499cd0a28eee2f9967fb98fc5d04e5fcceee59b8a8eda9"
 metafile = true
 
 [[files]]
@@ -1724,7 +1806,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "bfd96e4905f01d0aa1917fe581093afe7ad3b51386be9753ef2371fac24f6c1d"
+hash = "56ca5adf65660e95f1acd0a30e3fed0565e490bc545e7b32c628051a5926632c"
 metafile = true
 
 [[files]]
@@ -1839,7 +1921,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "14bd2d1ab5d33f90469fd95953fffc4dba915a064c2c1a1411d4a3577f0f626c"
+hash = "a9cc3936802a504e1fdcca6e86563d00e58600735a2547e5a95b9e142bdf0803"
 metafile = true
 
 [[files]]
@@ -1864,7 +1946,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "2b5d8d8115fdf4cb1dddab625edd88e168ce30f5fa0c758571b5b33aef34a815"
+hash = "847862a6a11a385e0fe6e0bba0127b220876770f1d414fceaaa7037fadd37a19"
 metafile = true
 
 [[files]]
@@ -1894,7 +1976,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "261283f7a28a695ecc876ee7d3fe82e3f3598b8ec075624f8588f7800a31bf84"
+hash = "987c02c2f31875d512336cccc2f5a9d8bbbb60337a9256fd632f6de25a3c3d62"
 metafile = true
 
 [[files]]
@@ -1914,7 +1996,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "8be6726272f4e5e9d9097ff12b01dc42915bc2dc903e6dc7c7b8bef1a49f6b72"
+hash = "8ab49738ebea6091cdeffd9da699c7b245d721aeec854e557daac16135fe88b2"
 metafile = true
 
 [[files]]
@@ -1929,7 +2011,7 @@ metafile = true
 
 [[files]]
 file = "mods/fbp-renewed.pw.toml"
-hash = "c07d843f1de41980affb3cb80d6ffbcdfa0d2555b9d226ff4f133e11f1114657"
+hash = "fcf1fbb6b75276e39712dd6e303615968ed6cb540b8199abb75d60d881ca3223"
 metafile = true
 
 [[files]]
@@ -1953,8 +2035,13 @@ hash = "afc98470b699a933cbdcc7d95822455596d91864ef14ec21a48f4fdd51d5eb03"
 metafile = true
 
 [[files]]
+file = "mods/fusion-smithing.pw.toml"
+hash = "06a59c6420a0ecb2bfdfbff3f9cf9b3d09e6e9091f77abb42bd9991c4e41c078"
+metafile = true
+
+[[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "b82e1cb555e69844229db5802b18adb498961a52473ac8d273036faedabf6f2d"
+hash = "3ffc8d2e9bee6cf7be287982ae9373308d404dd331a02a396af30c5514834f96"
 metafile = true
 
 [[files]]
@@ -1969,7 +2056,7 @@ metafile = true
 
 [[files]]
 file = "mods/geophilic.pw.toml"
-hash = "ca527a5e6e7a429232a925545e793f4f9157f9a4cd3d698c8c4fce56b6ab987c"
+hash = "914358de6bb96f8e4c915ebef4a57566aee4e28e73a2c466bb4d233fa362b241"
 metafile = true
 
 [[files]]
@@ -1993,12 +2080,12 @@ metafile = true
 
 [[files]]
 file = "mods/i18nupdatemod.pw.toml"
-hash = "95aff28211d980eb814dbff5529766188e7786e04194dcfab30dbd83be90cd62"
+hash = "8171ba1a407710be17b194fe071418023bfed2c9ab245cdf99fe694b536268c2"
 metafile = true
 
 [[files]]
 file = "mods/iceberg-fabric.pw.toml"
-hash = "2ff9b2894dd43471b0f2d1779adcc15150e87c08e1ac9501635a04b975ae7c5c"
+hash = "2c1bac5d5bc9061449e91525e3564883743273cbe2eade645a2a70e8c38a9927"
 metafile = true
 
 [[files]]
@@ -2008,7 +2095,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "d68aebae9e5710fe0f64283434854c16c49650b241e6ab536caece85c701c731"
+hash = "ee65fa8b3c4e4d7cb9d80a9d100d03d02e5e249c3b293493a8e4a06091d6093a"
 metafile = true
 
 [[files]]
@@ -2073,7 +2160,7 @@ metafile = true
 
 [[files]]
 file = "mods/language-reload.pw.toml"
-hash = "2097ff4c966e014b75e54665b0554f70c55ea68539f46f6ec38f2dbb0482ea0e"
+hash = "03fb7aefd35cde96ffb8598ea72f53a472c7d4b6af564fd6b6693382f175bed4"
 metafile = true
 
 [[files]]
@@ -2083,7 +2170,7 @@ metafile = true
 
 [[files]]
 file = "mods/leaves-us-in-peace.pw.toml"
-hash = "68561751df88e48c3cbe9dd49b5e37b3bb94ef3a7f31218997dfcfa0ac8137b1"
+hash = "0e0878b16c8cd2f112597e47e6e2411287e8ef4e9b6bbec44a433f008b512d65"
 metafile = true
 
 [[files]]
@@ -2113,7 +2200,7 @@ metafile = true
 
 [[files]]
 file = "mods/loot-patcher.pw.toml"
-hash = "2830106c683f9800206ee116a8cd734ea0b8d9ad8912173520dd972dc6f185eb"
+hash = "be1ce324550fef675a42ebefed3dee3aa4a461ab926a81bb2330275baa6a3cd7"
 metafile = true
 
 [[files]]
@@ -2128,7 +2215,7 @@ metafile = true
 
 [[files]]
 file = "mods/mariums-soulslike-weaponry.pw.toml"
-hash = "42f702a00c382fa44ad4a10d0b06f1632e350233eef5a12119d32a79c921e8f4"
+hash = "5cfb5cf44f5558f17f6db9f998de1c553a62ec233a386b4cdbf2aca8c6516416"
 metafile = true
 
 [[files]]
@@ -2163,7 +2250,7 @@ metafile = true
 
 [[files]]
 file = "mods/mns-moogs-nether-structures.pw.toml"
-hash = "54d88049a3c22080cf12e4e001bc3e07b34679a889850388931ba464a3097c2f"
+hash = "e175fed64e330f613d7955fd470e8058ec94f84e355139cf39597637b630e079"
 metafile = true
 
 [[files]]
@@ -2173,7 +2260,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "28a7f687f3ded3749975c726dcf34598e23b32fa4d219bef412594c4a33d628e"
+hash = "7fa3c3e13adb86e60fc4d191db8a08cfeb512307a84bd8496f084a902caed8bf"
 metafile = true
 
 [[files]]
@@ -2188,7 +2275,7 @@ metafile = true
 
 [[files]]
 file = "mods/moogs-end-structures.pw.toml"
-hash = "cebbfab3ab0278d7fbcedcd0d5bb83405ad78a2e94c91b8f25df41aea7c0dbbf"
+hash = "83d54934435b92f5b38cbd1034f1e95eebcef3e906fdafb44de250394877b229"
 metafile = true
 
 [[files]]
@@ -2208,7 +2295,7 @@ metafile = true
 
 [[files]]
 file = "mods/mss-moogs-soaring-structures.pw.toml"
-hash = "63d090009b354cb0ba84d5d0fb79434a1988223f2a005b6f05a20b430ddfa4f7"
+hash = "3ee05a1b51be6b0b941a2b7adf2957884af76c9094fa324e9a90e1fd7f86e1aa"
 metafile = true
 
 [[files]]
@@ -2218,7 +2305,7 @@ metafile = true
 
 [[files]]
 file = "mods/mythic-charms.pw.toml"
-hash = "7a989c18eff22bf3c8b9a64c760a15d7bacb5bca390150df6f0a47c375613fab"
+hash = "f4229b924ee3c5eebbb76380e5d7f6376ec2ff496d52165b67e1ab858ab9a6be"
 metafile = true
 
 [[files]]
@@ -2229,11 +2316,6 @@ metafile = true
 [[files]]
 file = "mods/mythicmetals.pw.toml"
 hash = "36ac9f1349d615741c917fb6d83f144117d0a9a0c898305b79bec05c108b42d4"
-metafile = true
-
-[[files]]
-file = "mods/nbt-tooltip.pw.toml"
-hash = "8ef81c50b7c5c58d5c7c73da91ac83e24cd97680f188d647cadbdd61099fbeac"
 metafile = true
 
 [[files]]
@@ -2348,7 +2430,7 @@ metafile = true
 
 [[files]]
 file = "mods/reacharound.pw.toml"
-hash = "8c659ab97abc3d1f112073fdece1a97b1eb8eb3b2546e7b2891a0a8b28e8ebfb"
+hash = "af6b641baab16c9cda97256c29112e38f24864d976bbf310c63ccbb6a8ae1603"
 metafile = true
 
 [[files]]
@@ -2388,12 +2470,12 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "e61d7eeab7d9887ff9865eb5f80e19c6d5c36a2c534d9925e67faf82600b154c"
+hash = "71a34d3ec371a744845971de4dc327789c56892dc8786e71cf4bbd7fc03a0364"
 metafile = true
 
 [[files]]
 file = "mods/shoulder-surfing-reloaded.pw.toml"
-hash = "56a3312415e5d2dc1903de6bee8cadd3e791f738f61a071323df263a299c93e9"
+hash = "9d7a1de8b83dae93645c3c749aa4e6040475a99451dc421a9a4a4c3beb955865"
 metafile = true
 
 [[files]]
@@ -2452,8 +2534,8 @@ hash = "7f7cd8af29430b1d5d597aae8682fa87e673f2b359bf57164a9b96762ab8b331"
 metafile = true
 
 [[files]]
-file = "mods/spell_dimension-0.4.1.jar"
-hash = "4aaa57e0178e595a11a6318be8b6b8d0a6508409228421cff308015e0d2ca37e"
+file = "mods/spell_dimension-0.4.2.jar"
+hash = "89900ce1b4f7841167095dc1e0d885166f7d286927221ad972a647c6d9efbfd9"
 
 [[files]]
 file = "mods/spellblade-next.pw.toml"
@@ -2602,7 +2684,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "c7ea2de80b7e20fb841872e300f8df8afd813a666a6b3026f980f0bba8073ccc"
+hash = "032410edd474ea91763ccad01241f690d3b289a55017e9545c01c79a9f1028eb"
 metafile = true
 
 [[files]]
@@ -2612,7 +2694,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "acd55735f9afdce738488f79a359c799438447d13803929c74d45921f85f09a2"
+hash = "b2b74f4114afc97346085d7ec86b8e54045d3dc7a7b3d3b8aeb69e8ded659001"
 metafile = true
 
 [[files]]
@@ -2652,7 +2734,7 @@ metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "1ce6ed09d0a530d42893846137f6ea4c5e07eba0ce8fe5f508c455528293a218"
+hash = "c80eb931ec304452e4f3a79c9e40255e5358994f00355e2b7e2759c3812bf4a5"
 metafile = true
 
 [[files]]
@@ -2682,12 +2764,12 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
-hash = "8a72dc1bff556553bc502e93fd133b2cfc736688c95e997d501803831f94ba22"
+hash = "59da31b1a0add66422b1e86676db55efe0864c91abc6706203282f213062269a"
 metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-unbound.pw.toml"
-hash = "976b13a1d20d2147d1f03316155044acce30d46dc8d8e0495d3665d669e6e0c1"
+hash = "e49207fdf7601fbd5a5e79f3bfd5a150516a7af0b00cf8eb848451b5af719637"
 metafile = true
 
 [[files]]

@@ -1,13 +1,13 @@
 name = "MNS - Moog's Nether Structures"
-filename = "mns-1.0.1-1.20-fabric.jar"
+filename = "mns-1.0.3-1.20-fabric.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "e9dc691941c4f3ad16f21e406cd25ac221883b49"
+hash = "cf81563729136e4322707aaadab8beb178e107b7"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5261986
+file-id = 5850726
 project-id = 967466
