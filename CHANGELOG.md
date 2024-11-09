@@ -2,12 +2,12 @@
 ##### Added
 - Fusion Smithing
 - Better Tips Nbt Tag
+- Breastplate Items
 ##### Changed
 - Reduce the cooldowns of primary spells
 ##### Removed
 - Nbt Tooltip (Replace)
-##### Fixed
-
+- Creeper AI Updated (Bug)
 
 ## 0.4.1 - 2024.10.27
 ##### Added

@@ -402,7 +402,7 @@ hash = "04bc233713cb1865a30943e5c26386ca3237d605287a51882feec6cc6ae8b0c1"
 
 [[files]]
 file = "config/fancymenu/customization/spell-dimension.txt"
-hash = "8658d9f27a63466476afef8cee3b40a2dbab3e045dbd5000e5dc9c3a400103e1"
+hash = "8dfb55a853d0cac0bb20e99bc5ec5c9b0bff0a5dd3311f8f18a3d2b9fc61c242"
 
 [[files]]
 file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
@@ -414,7 +414,7 @@ hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
 
 [[files]]
 file = "config/fancymenu/options.txt"
-hash = "5d7c1c22a3eee0a04e9906fa15cd2e9dfe555cb1a475b45ea61a093b7d002ca2"
+hash = "5cfa1feb5e19ec5cbff71346e6dd7f4b979345fefee8fd45c7166deaec945b16"
 
 [[files]]
 file = "config/fancymenu/panoramas/spell-dimension/panorama/panorama_0.png"
@@ -919,6 +919,14 @@ hash = "c1c1ae4e4c7f2104588f62828a5c8bf76fc10e8141a5135647326753216227a8"
 [[files]]
 file = "config/openloader/data/recipe/data/spell-dimension/recipes/fusion-smithing/leggings.json"
 hash = "6b9cd925fba7cb1c7674438b975543c6acc5d2879790d0fde3a1f4842574b303"
+
+[[files]]
+file = "config/openloader/data/recipe/data/spell-dimension/recipes/fusion-smithing/magic_armor.json"
+hash = "bc0212a3e99b80d3a9f3aadc5ae64f58b6b616787f3be77d5097ea2bcd08792e"
+
+[[files]]
+file = "config/openloader/data/recipe/data/spell-dimension/recipes/fusion-smithing/magic_weapons.json"
+hash = "dd84ccd7e8a67a5f7568c59af3cf2ad040551faae747334ffe594b2893e76a6a"
 
 [[files]]
 file = "config/openloader/data/recipe/data/spell-dimension/recipes/fusion-smithing/pickaxes.json"
@@ -1835,11 +1843,6 @@ hash = "639aee7e72ceaf8b649c473ab94282a20152f1438b599f4328ac5726c6a0ecfe"
 metafile = true
 
 [[files]]
-file = "mods/creeper-ai-updated.pw.toml"
-hash = "143047e4aa995bb66f2c749554c40f052f8e5dc6d7fb0aec2b73b1bb84d5803a"
-metafile = true
-
-[[files]]
 file = "mods/creeper-firework.pw.toml"
 hash = "cd6bd048a1c1ec43b524c0891af0a0c94069910045c4988793fb9268606fe277"
 metafile = true
@@ -2011,7 +2014,7 @@ metafile = true
 
 [[files]]
 file = "mods/fbp-renewed.pw.toml"
-hash = "fcf1fbb6b75276e39712dd6e303615968ed6cb540b8199abb75d60d881ca3223"
+hash = "6609511b7454830b198f259725c8bb20fffca2ecef689ead12eb85329f4acc62"
 metafile = true
 
 [[files]]
