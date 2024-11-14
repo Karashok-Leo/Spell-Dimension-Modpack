@@ -1,0 +1,15 @@
+{
+    "type": "alloy_forgery:forging",
+    "inputs": [
+        {
+            "tag": "spell-dimension:legendary/material",
+            "count": 6
+        }
+    ],
+    "output": {
+        "id": "spell-dimension:random_legendary_material",
+        "count": 1
+    },
+    "min_forge_tier": 3,
+    "fuel_per_tick": 5
+}

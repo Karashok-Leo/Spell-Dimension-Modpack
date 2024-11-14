@@ -1,3 +1,29 @@
+## 0.4.3 - 2024.11.15
+##### Added
+- Rerollable Loot Items (Craftable)
+- Recipe of mending essence
+- Player check of Conscious Event
+- Wireless Terminal enhancement
+- So many new enchantments from L2Hostility
+##### Changed
+- Update some mods
+- Optimize atomic breastplate turning
+- Adjust coordinate scale of ocean dimension
+- Adjust some loot tables
+	- More reasonable gear loot
+	- Increase material loot
+	- Add blank heart aspect loot
+- Goblin Traders now can spawn in overworld surface with a higher chance
+- L2Hostility config
+	- Reduce difficulty decay on player death
+	- Increase the difficulty increments by killing
+##### Removed
+- Conscious buff
+##### Fixed
+- ConsciousnessPivotFeature height
+- ConsciousComponent sync
+- Missing or wrong assets
+
 ## 0.4.2 - 2024.11.09
 ##### Added
 - Fusion Smithing

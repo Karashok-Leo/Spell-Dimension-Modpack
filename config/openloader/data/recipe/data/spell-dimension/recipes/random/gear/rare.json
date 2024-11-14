@@ -1,0 +1,15 @@
+{
+    "type": "alloy_forgery:forging",
+    "inputs": [
+        {
+            "tag": "spell-dimension:rare/gear",
+            "count": 3
+        }
+    ],
+    "output": {
+        "id": "spell-dimension:random_rare_gear",
+        "count": 1
+    },
+    "min_forge_tier": 2,
+    "fuel_per_tick": 5
+}

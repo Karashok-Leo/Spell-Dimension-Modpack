@@ -1,0 +1,19 @@
+{
+    "type": "alloy_forgery:forging",
+    "inputs": [
+        {
+            "item": "minecraft:enchanted_book",
+            "count": 6
+        },
+        {
+            "tag": "spell-dimension:uncommon/material",
+            "count": 1
+        }
+    ],
+    "output": {
+        "id": "spell-dimension:random_uncommon_book",
+        "count": 1
+    },
+    "min_forge_tier": 1,
+    "fuel_per_tick": 5
+}
