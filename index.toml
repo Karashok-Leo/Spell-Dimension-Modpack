@@ -469,6 +469,10 @@ file = "config/gazebo/villages.json"
 hash = "45666f8485ccf6172db5aae6e40e1585c606d4344ca21b0974034edf9315166f"
 
 [[files]]
+file = "config/goblintraders-entities.toml"
+hash = "43754c39a4bff1153acc9d6aa4de81aa51d2fb5a10740f6025d72ffcb5eeedab"
+
+[[files]]
 file = "config/graveyard/the-graveyard-3.0-config.json5"
 hash = "d3c4b80ecc098946480ef5186657c671520a2d0592d30ad4b49a4ec2ae40aada"
 
@@ -522,7 +526,7 @@ hash = "45f72d573115a83715ed993fc9502fabad886c412cd34f05812e86f5ff17cc47"
 
 [[files]]
 file = "config/l2hostility/common.json5"
-hash = "1b48eefacca0110de5cd3aa4387aabe13d6ca5d14b358a024dd403b1698def59"
+hash = "733719e7ef9e8597e9a7fccdb604076524fb155b07022e90468eee75f819fb68"
 
 [[files]]
 file = "config/legendarytooltips-common.toml"
@@ -1043,6 +1047,66 @@ hash = "a59879fb7cc18e8e44763ceb3f08dba38806802a265ca7eb033fd487b6c91679"
 [[files]]
 file = "config/openloader/data/recipe/data/spell-dimension/recipes/misc/wither_skeleton_skull.json"
 hash = "aebf870c71dacc2c8022bf9c7816d83df7021221a56f8e5586cca48c3c0ae5eb"
+
+[[files]]
+file = "config/openloader/data/recipe/data/spell-dimension/recipes/random/book/common.json"
+hash = "00c2c74790873d0abb15d680fd20f3fecff484d5f3000641476999d43ffc59e8"
+
+[[files]]
+file = "config/openloader/data/recipe/data/spell-dimension/recipes/random/book/epic.json"
+hash = "c2f6c24ab25bb86ce5ea4460f413a923c779847277ac94831d05d055f8c32af9"
+
+[[files]]
+file = "config/openloader/data/recipe/data/spell-dimension/recipes/random/book/legendary.json"
+hash = "5ed8657366c1f45b0d3e2366d37b6f1c7ff4adbc05daa87fffdbc19db3705260"
+
+[[files]]
+file = "config/openloader/data/recipe/data/spell-dimension/recipes/random/book/rare.json"
+hash = "6c2c42f84b1b55e5e2105f7c7c85c034459820ff42b8ce89827a580ecebe3cf4"
+
+[[files]]
+file = "config/openloader/data/recipe/data/spell-dimension/recipes/random/book/uncommon.json"
+hash = "35f543f11102a37ebd1229e4f4c6f7b20e30a0edb0e5109308b87bb5fc95693b"
+
+[[files]]
+file = "config/openloader/data/recipe/data/spell-dimension/recipes/random/gear/common.json"
+hash = "d2d7b815d3c66820cc141e724359282a4c96769b6c418e4a599956e77c6f3e0d"
+
+[[files]]
+file = "config/openloader/data/recipe/data/spell-dimension/recipes/random/gear/epic.json"
+hash = "8f33ee183d9b97d105f4676e20ee682ab57188a4cd92150cc3d2fa96035ca260"
+
+[[files]]
+file = "config/openloader/data/recipe/data/spell-dimension/recipes/random/gear/legendary.json"
+hash = "2b15cff7ee9eab341f324192e9706c4e9e94a1869b5cbd2066d01ec5360525f8"
+
+[[files]]
+file = "config/openloader/data/recipe/data/spell-dimension/recipes/random/gear/rare.json"
+hash = "20df598753d6448f922df1979a2bd6df4d339306921e35fb2da24ea7861392f8"
+
+[[files]]
+file = "config/openloader/data/recipe/data/spell-dimension/recipes/random/gear/uncommon.json"
+hash = "616e2765999cadd4463303ebcb3c81458f4883f1a98eb46ea1ebbf94192b2313"
+
+[[files]]
+file = "config/openloader/data/recipe/data/spell-dimension/recipes/random/material/common.json"
+hash = "6ec51933b7108bbc6223d1ddda26c4f48f48b97752c0a8ec1bbb72829a938366"
+
+[[files]]
+file = "config/openloader/data/recipe/data/spell-dimension/recipes/random/material/epic.json"
+hash = "13b0554d80cacf542fea0f4e310cd3f82c9deb96d857ce6b9f11fcd0cb728a56"
+
+[[files]]
+file = "config/openloader/data/recipe/data/spell-dimension/recipes/random/material/legendary.json"
+hash = "ac20f504f8c5f0dcd74cacd78936b90e235e58e6ff211343149b994ddff2023a"
+
+[[files]]
+file = "config/openloader/data/recipe/data/spell-dimension/recipes/random/material/rare.json"
+hash = "df857cf516a444e6d91959f59b86ba6ec46624e62c7cf490febef261227cd3f9"
+
+[[files]]
+file = "config/openloader/data/recipe/data/spell-dimension/recipes/random/material/uncommon.json"
+hash = "5968749bce8d24bf3bcb553aab20e5a1a80fca4be54c538e597bcbe9d7c1b050"
 
 [[files]]
 file = "config/openloader/data/recipe/pack.mcmeta"
@@ -1934,7 +1998,7 @@ metafile = true
 
 [[files]]
 file = "mods/enchantment-infusion.pw.toml"
-hash = "e261cc4e2c3fb287086f2c1b6e4362651175f82432b3d0196c8116fab14ce93a"
+hash = "4531fb41c6e1365e9b6a5909b41d45481c6299dd18adb6b4fa7b48d950651f91"
 metafile = true
 
 [[files]]
@@ -2044,7 +2108,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "3ffc8d2e9bee6cf7be287982ae9373308d404dd331a02a396af30c5514834f96"
+hash = "b85be89cd240dfcb8259519b4b3d1f337314a8e2d229ae925ba76be2a7717cd0"
 metafile = true
 
 [[files]]
@@ -2138,7 +2202,7 @@ metafile = true
 
 [[files]]
 file = "mods/just-enough-characters.pw.toml"
-hash = "a65843df8ce6969f3fc45a16647401453a5cb2c5513b52928f3ecb313b7e8f61"
+hash = "c31077132a2b81693fa3b0af0c9c96c382dbffcd385a96e7e110577334a15abe"
 metafile = true
 
 [[files]]
@@ -2158,7 +2222,7 @@ metafile = true
 
 [[files]]
 file = "mods/l2-hostility-fabricated.pw.toml"
-hash = "51c5639176a16845f8e8426e13ee247a697e8dbfc665b3041566694e0d2d631b"
+hash = "7d193e357d7d2169a8b61b937857a7a2d40a1ba82c491f0f8186603c7b8d0d4d"
 metafile = true
 
 [[files]]
@@ -2408,7 +2472,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "34f3e071220deb81fe7bc4d7d005e6caabae32f089f3166a7e903819f4a78166"
+hash = "0262df78f767ee3ef2d32c1815b82b2f5710ea7c934bd875639a711197f27342"
 metafile = true
 
 [[files]]
@@ -2537,8 +2601,8 @@ hash = "7f7cd8af29430b1d5d597aae8682fa87e673f2b359bf57164a9b96762ab8b331"
 metafile = true
 
 [[files]]
-file = "mods/spell_dimension-0.4.2.jar"
-hash = "89900ce1b4f7841167095dc1e0d885166f7d286927221ad972a647c6d9efbfd9"
+file = "mods/spell_dimension-0.4.4.jar"
+hash = "33f5861389b25b005eec062a9adf0e6637f66d37035217efbf1e305f49ad9ab5"
 
 [[files]]
 file = "mods/spellblade-next.pw.toml"
@@ -2762,7 +2826,7 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/bsl-shaders.pw.toml"
-hash = "0f9b3cff742c93eacdc52e4e8dc33f28eff58409e0297053494e5774fb14e99a"
+hash = "c384d1c117331920a44021339b534c9129286b78ccdf54cda7a41a3ce75529e4"
 metafile = true
 
 [[files]]
@@ -2777,5 +2841,5 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/makeup-ultra-fast-shader.pw.toml"
-hash = "b62544c03c47142298e55b3d1dbeb20b0a9f41c906355f941b5915bb0feceee6"
+hash = "02b9a80eaf63433b3c2bf26eb2f57a8f75c7dc26ebc73117f5b6be074704cf2d"
 metafile = true

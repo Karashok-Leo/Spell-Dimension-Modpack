@@ -1,13 +1,13 @@
 name = "Enchantment Infusion"
-filename = "enchantment_infusion-1.1.0.jar"
+filename = "enchantment_infusion-1.1.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "77f33000baf297e5bd23da4ed32793d9a162f477"
+hash = "551d12888e848e6495d09b6402eb024e43c7e970"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5649003
+file-id = 5909842
 project-id = 1061777

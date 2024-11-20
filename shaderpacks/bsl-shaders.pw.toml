@@ -1,13 +1,13 @@
 name = "BSL Shaders"
-filename = "BSL_v8.4p1.zip"
+filename = "BSL_v8.4.zip"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "7834d5ed05aff798a0b45e2e5e657e1f728bb4ed"
+hash = "ee9a262f6f284e581dd946644704d299d1f735d5"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5899793
+file-id = 5905130
 project-id = 322506

@@ -1,3 +1,19 @@
+## 0.4.4 - 2024.11.20
+##### Added
+- New Enchantment - Spell Mending
+- Enchantment Recipes for Mending and Spell Mending
+- Recipe for Netherite Upgrade Template
+##### Changed
+- Base essence compose recipes
+- Increase drop chance of high level base essences
+- Make essential items fireproof
+##### Removed
+- Obfuscated names of Rerollable Loot Items
+##### Fixed
+- Issue that some recipes mismatches
+- Soul Burner trait recursively trigger itself
+
+
 ## 0.4.3 - 2024.11.15
 ##### Added
 - Rerollable Loot Items (Craftable)
