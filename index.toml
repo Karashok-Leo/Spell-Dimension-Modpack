@@ -2108,7 +2108,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "b85be89cd240dfcb8259519b4b3d1f337314a8e2d229ae925ba76be2a7717cd0"
+hash = "fad7ced69c46f76381d3aa03c3acbd6c19d0c6e1c3e5815031b7f93b13d8aacb"
 metafile = true
 
 [[files]]
@@ -2222,7 +2222,7 @@ metafile = true
 
 [[files]]
 file = "mods/l2-hostility-fabricated.pw.toml"
-hash = "7d193e357d7d2169a8b61b937857a7a2d40a1ba82c491f0f8186603c7b8d0d4d"
+hash = "248a419a2ad4113e92218e869e266dae2e16b5b68497531b61e49d3aad30667c"
 metafile = true
 
 [[files]]
@@ -2412,7 +2412,7 @@ metafile = true
 
 [[files]]
 file = "mods/open-parties-and-claims.pw.toml"
-hash = "f42ba2ad4e7b34f18d70658e03d9f3047c8616969d2d9bca723af39ed86ad4d8"
+hash = "124395e251bbfb0969b7adbf28fe912ef918d54fdb130be1572ed8cdbc2f0c0b"
 metafile = true
 
 [[files]]
@@ -2537,12 +2537,12 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "916ce8b1aed05a06e06a52ab6a752d3ec6d53edd264a1a3c70f1ba52deffde30"
+hash = "b9c46de0fcb623eb747743e240f00a376e5243fc2b2b1e9b26e90e3c003e7a39"
 metafile = true
 
 [[files]]
 file = "mods/shoulder-surfing-reloaded.pw.toml"
-hash = "9d7a1de8b83dae93645c3c749aa4e6040475a99451dc421a9a4a4c3beb955865"
+hash = "c67a0f5a3a2475ea4295fec082f103d92089f022c21a0d5c1ce5ed8a8e71fee6"
 metafile = true
 
 [[files]]
@@ -2572,7 +2572,7 @@ metafile = true
 
 [[files]]
 file = "mods/smooth-chunk-save.pw.toml"
-hash = "6c622ba7f91c31843cc394e056948a018db6a0e08b20b8dd9fc4182854d27715"
+hash = "59415593d917326a44382ddb0fa4713a80b1daea51dadc666420bb17c3a37261"
 metafile = true
 
 [[files]]
@@ -2606,7 +2606,7 @@ hash = "33f5861389b25b005eec062a9adf0e6637f66d37035217efbf1e305f49ad9ab5"
 
 [[files]]
 file = "mods/spellblade-next.pw.toml"
-hash = "e9fb21f65f07763e68fc3646fdff820a3295d66f436867f4ed68ecb8f20948c7"
+hash = "af0b1afb83a2010983496e59c1677956abfda8b2ea228d39ad3c82c49b5cd18e"
 metafile = true
 
 [[files]]

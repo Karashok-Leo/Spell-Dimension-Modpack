@@ -24,7 +24,15 @@
     },
     {
       "type": "attribute",
-      "name": "spell_power:lightning",
+      "name": "spell_power:arcane",
+      "value": 1.3,
+      "modifierUUID": "ac90ef6f-6eb2-416a-b235-451599b9c5b6",
+      "attributeOperation": 2,
+      "interactionType": "self"
+    },
+    {
+      "type": "attribute",
+      "name": "spell_power:fire",
       "value": 1.3,
       "modifierUUID": "893f7062-650c-41e2-9f90-4263e95653bc",
       "attributeOperation": 2,
