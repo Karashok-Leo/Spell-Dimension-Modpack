@@ -3,3 +3,5 @@
 
 # Exclude exported Modrinth modpacks
 *.mrpack
+
+*.xmind
