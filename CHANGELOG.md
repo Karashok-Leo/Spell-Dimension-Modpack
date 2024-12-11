@@ -1,3 +1,30 @@
+
+## 0.4.5 - 2024.12.12
+##### Added
+- Tooltip for Flex Breastplate
+- Locate recipe for Monument
+- Effect immunity enchantments
+- New enchantments: Spell Tearing
+- Easy recipe for Hardened
+##### Changed
+- Update some mods
+- Enhance the bonus of some armor sets
+- Mutant Enderman now will drop Endersoul Hand with a 100% chance
+- Fusion-template recipes are now available with normal weapons and magic weapons
+- Ocean dimension will not have raids
+- Magic Mirror will try teleport to spawn point first
+- Reduce speed modifier of Enchanted Essence
+- Reduce ratio of Flex Breastplate
+- Relax enchanted essence merge restrictions
+- Mending Essence logic overhauling
+##### Removed
+- Recipe for Snorkel, (instead the ring will be output)
+##### Fixed
+- Optimizing teleportation (again)
+- Make spell infusion pedestal breakable with pickaxes
+- translations of SpellBladeNext
+- Fix dynamic book item
+
 ## 0.4.4 - 2024.11.20
 ##### Added
 - New Enchantment - Spell Mending
