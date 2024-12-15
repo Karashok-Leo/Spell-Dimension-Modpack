@@ -148,14 +148,6 @@
   },
   {
     "target_tables": [
-      "mutantmonsters:entities/mutant_enderman"
-    ],
-    "extra_tables": [
-      "spell-dimension:entity/mutant_enderman"
-    ]
-  },
-  {
-    "target_tables": [
       "minecraft:entities/ghast",
       "frycmobvariants:entities/nightmare"
     ],

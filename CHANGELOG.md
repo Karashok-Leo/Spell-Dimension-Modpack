@@ -1,4 +1,18 @@
 
+## 0.4.6 - 2024.12.16
+##### Added
+- New recipes:
+	- Gilded Blackstone Shard
+	- Locate: Better Fortress, Ancient Temple, Ruins, Lich Prison
+	- Summon: Piglin Brute 6 -> 20
+##### Changed
+- Optimize the mechanics of Adapting trait
+##### Removed
+- Default Options
+##### Fixed
+- Fix badly formatted loot table - Mutant Enderman now will drop Endersoul Hand with a 100% chance
+- Move keybindings.txt and options.txt to root directory (to forcely apply settings)
+
 ## 0.4.5 - 2024.12.12
 ##### Added
 - Tooltip for Flex Breastplate

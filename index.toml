@@ -290,19 +290,11 @@ hash = "62d857eaccda46f7c08ae5743ace0daa2c164f17868303432598787b8657c7c6"
 
 [[files]]
 file = "config/deeperdarker.json5"
-hash = "4838cfbddc5a32292286d9a1d67c295733be5eae20c3f5193bac3fa691f548dc"
+hash = "ab755ad75567aeebd8aac539ecf0a2d8cee647eb7574f16bc38e842cd7fb7921"
 
 [[files]]
 file = "config/defaultoptions-common.toml"
 hash = "a186d6ab6468353cb2a49f5a4229c16b004580a557d4bccaf12041e8a46f9d9e"
-
-[[files]]
-file = "config/defaultoptions/keybindings.txt"
-hash = "c923383681164fec4d9944cfa2046adb3495b63298e8fe7a1d1efcfd7220b755"
-
-[[files]]
-file = "config/defaultoptions/options.txt"
-hash = "d4a72864a4ad8a50c18046b88e1811f2dcea3666b55175c5e79d759bd5e98bae"
 
 [[files]]
 file = "config/dragonfight.json"
@@ -550,7 +542,7 @@ hash = "c45a56e13f9cd7165a15ab7492b3333cbeea832c995d23a5d85c71c2bba41a75"
 
 [[files]]
 file = "config/loot-patcher/entities.json"
-hash = "83d3f0af7f79092097c91119fe109137c1885322c0c5e756fde709a06cd84d4a"
+hash = "3b3699d6e69f9d9a86ebf800249352256f358b3254f820bb268b6fcdb6309363"
 
 [[files]]
 file = "config/loot-patcher/misc.json"
@@ -837,6 +829,10 @@ file = "config/openloader/data/loot/data/endrem/loot_tables/minecraft/entities/w
 hash = "7fa5c909af7fd81bacc112a488f08a8fdfc4e5e7a8eadd124dc36285f0516469"
 
 [[files]]
+file = "config/openloader/data/loot/data/mutantmonsters/loot_tables/entities/mutant_enderman.json"
+hash = "bbc8d20233ab91541fb3d548ffe0ce6d1aa9226421f3874ebcdb0fb4e8969c08"
+
+[[files]]
 file = "config/openloader/data/loot/pack.mcmeta"
 hash = "7a14bcffc8d12fd177f4a80e97f8a79969f84a52c126d321a4151164edbc455e"
 
@@ -933,7 +929,7 @@ file = "config/openloader/data/recipe/data/spell-dimension/recipes/fusion-smithi
 hash = "dd84ccd7e8a67a5f7568c59af3cf2ad040551faae747334ffe594b2893e76a6a"
 
 [[files]]
-file = "config/openloader/data/recipe/data/spell-dimension/recipes/fusion-smithing/magic_weapons_2.json"
+file = "config/openloader/data/recipe/data/spell-dimension/recipes/fusion-smithing/magic_weapons_2_weapons.json"
 hash = "68a462012a17136df9066553b395285d865c4114f0fc649accc762d3514bf1e4"
 
 [[files]]
@@ -955,6 +951,10 @@ hash = "9159b413716451f12968e0122c364ca553f99ab2bb96d2f84d99c6d26cea3505"
 [[files]]
 file = "config/openloader/data/recipe/data/spell-dimension/recipes/fusion-smithing/tridents.json"
 hash = "23ecaa893043aa8ec7ee50458b6686a9c71b95da3293a5505fd1b693474d377f"
+
+[[files]]
+file = "config/openloader/data/recipe/data/spell-dimension/recipes/fusion-smithing/weapons_2_magic_weapons.json"
+hash = "30608c9cd11b278447dd404c81c6f62b54ecb2096e2daa5872882f24b9b6d2f6"
 
 [[files]]
 file = "config/openloader/data/recipe/data/spell-dimension/recipes/healing/0.json"
@@ -1721,6 +1721,10 @@ file = "config/zombiehorsespawn.json5"
 hash = "331e20a100efd5afaee0e618fc811e3d13c6104b7e4ff439937336e920309b11"
 
 [[files]]
+file = "keybindings.txt"
+hash = "c923383681164fec4d9944cfa2046adb3495b63298e8fe7a1d1efcfd7220b755"
+
+[[files]]
 file = "mods/a-good-place.pw.toml"
 hash = "0c857e851d2dff40fe9b3020ba5bf36c35e1a214762c82f953a2ea4535ceecb7"
 metafile = true
@@ -1933,11 +1937,6 @@ metafile = true
 [[files]]
 file = "mods/deeperdarker.pw.toml"
 hash = "38c0af3a8580fdd64c9ca8a7f13a77d35964cd70c35da257cfb375fe6fafd65f"
-metafile = true
-
-[[files]]
-file = "mods/default-options-fabric.pw.toml"
-hash = "6dc6b06e4efee5e835efdaadd8f8239bc777aa0e4efd224ed4c8315633c70a64"
 metafile = true
 
 [[files]]
@@ -2605,8 +2604,8 @@ hash = "7f7cd8af29430b1d5d597aae8682fa87e673f2b359bf57164a9b96762ab8b331"
 metafile = true
 
 [[files]]
-file = "mods/spell_dimension-0.4.5.jar"
-hash = "19cfdff3e9df2f9606dda5725f4c8019f4f7f9ddca95b5ab31429ca5e25ec37f"
+file = "mods/spell_dimension-0.4.6.jar"
+hash = "e53fbda4efcc29c78670c0799969beb914d309a65b0c8b33869a8f18b7f01133"
 
 [[files]]
 file = "mods/spellblade-next.pw.toml"
@@ -2807,6 +2806,10 @@ metafile = true
 file = "mods/zoomify.pw.toml"
 hash = "c80eb931ec304452e4f3a79c9e40255e5358994f00355e2b7e2759c3812bf4a5"
 metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "d4a72864a4ad8a50c18046b88e1811f2dcea3666b55175c5e79d759bd5e98bae"
 
 [[files]]
 file = "resourcepacks/blinking-ender-eyes.pw.toml"
