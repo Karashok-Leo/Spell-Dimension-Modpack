@@ -1850,6 +1850,11 @@ hash = "62a06523495d2fe4423080876dbcd631378cf805c20a64c63f3768027b4f8c15"
 metafile = true
 
 [[files]]
+file = "mods/c2me.pw.toml"
+hash = "9646a997e2bd775b930dce79d18d4c1f19e9662a728ed00ad323b4657aa863b1"
+metafile = true
+
+[[files]]
 file = "mods/cardinal-components-api.pw.toml"
 hash = "6f0676fe7167a5a5e992ac1588e5a7f62bb6ffcaad158d7f1ace220c73adb938"
 metafile = true
@@ -1967,11 +1972,6 @@ metafile = true
 [[files]]
 file = "mods/elytra-slot.pw.toml"
 hash = "436f208cf8f63df864c0b6ffa6baa774e214db1c5745a7115fa060122ceeb089"
-metafile = true
-
-[[files]]
-file = "mods/embeddium.pw.toml"
-hash = "17e4c75b1e2a153efdaff26239ddbecd914c2e3872b2f2f9ce8000629c5cbc32"
 metafile = true
 
 [[files]]
@@ -2171,6 +2171,11 @@ metafile = true
 [[files]]
 file = "mods/immersive-structures.pw.toml"
 hash = "d2e090c84a3288de988a117708a9d4284436306de0a3e194c30689beb3cac8ca"
+metafile = true
+
+[[files]]
+file = "mods/indium.pw.toml"
+hash = "7e0aa0482e5ffef1c3a1d533813cd734db0b6d4ace1f83dfbaab63372236d823"
 metafile = true
 
 [[files]]
@@ -2509,6 +2514,11 @@ hash = "bda2533f0289a58de5f2797ca7ccbac1ca8585961d0d689ea1576a18179cc7a2"
 metafile = true
 
 [[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "c7a632600334f8643c3dca388a7e6b6b30f15607d21dd7cb1bad3f59a52f0f84"
+metafile = true
+
+[[files]]
 file = "mods/regions-unexplored.pw.toml"
 hash = "f6a672f1ce665498458f5fa2a66e0d6d95f7b6b970a6405a964b8b29855b03cc"
 metafile = true
@@ -2581,6 +2591,16 @@ metafile = true
 [[files]]
 file = "mods/smooth-swapping.pw.toml"
 hash = "ee6579014fc56a87d60cb5ed383a58e233ffb53ad6a57a813b930891aba07c45"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "1c715482d789775635bdadfd07a193c9b72474d9bbae2259e3c65c3a054edddd"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "607e46ceb8ff9140a7a928734a10fdce835d1b4fbb0d49226d83f39e60d42e44"
 metafile = true
 
 [[files]]
