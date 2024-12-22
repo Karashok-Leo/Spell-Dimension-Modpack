@@ -65,19 +65,6 @@
                 "count": 32
             },
             "max_trades": 1
-        },
-        {
-            "type": "goblintraders:basic",
-            "offer_item": {
-                "item": "loot-bag:loot_bag",
-                "nbt": "{BagId:\"spell-dimension:charm\"}",
-                "count": 1
-            },
-            "payment_item": {
-                "item": "numismatic-overhaul:gold_coin",
-                "count": 32
-            },
-            "max_trades": 1
         }
     ]
 }

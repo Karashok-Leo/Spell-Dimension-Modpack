@@ -569,10 +569,6 @@ file = "config/mutantmonsters-server.toml"
 hash = "8fd3dac82246b1f0bcfe58ed8b30e7662f0eab12a55039f16bab9adc5fd2f53a"
 
 [[files]]
-file = "config/mythic-charms-config.json5"
-hash = "c3743914edef0da0e03553fbe12d511147efdec92bccb3942b092da4f91eb51c"
-
-[[files]]
 file = "config/mythicupgrades-config.json5"
 hash = "476414f4048939bfec4c54d1e3b041f7ec9c591166883523afd0979876089f1a"
 
@@ -831,6 +827,10 @@ hash = "7fa5c909af7fd81bacc112a488f08a8fdfc4e5e7a8eadd124dc36285f0516469"
 [[files]]
 file = "config/openloader/data/loot/data/mutantmonsters/loot_tables/entities/mutant_enderman.json"
 hash = "bbc8d20233ab91541fb3d548ffe0ce6d1aa9226421f3874ebcdb0fb4e8969c08"
+
+[[files]]
+file = "config/openloader/data/loot/data/simplyswords/loot_tables/grant_book_on_first_join.json"
+hash = "23d7e8032600b65e2becca8631c005d2eace87b58af063c407365612cbf5ac09"
 
 [[files]]
 file = "config/openloader/data/loot/pack.mcmeta"
@@ -1422,7 +1422,7 @@ hash = "6c5e57c67139e295fc74312c06a7dd4dc9e744a3b2fc8d0fa41d93d6d461e0e6"
 
 [[files]]
 file = "config/openloader/data/trade/data/spell-dimension/trades/vein_goblin_trader/legendary.json"
-hash = "59bb2ae44fd91a59bf1123d37f28705f8ed2edb5e254f7b603e90cb2e9165191"
+hash = "58dae0264c5ce79c3b5c451907c7db479705a63b2fc9c1d8404185e2091b0b14"
 
 [[files]]
 file = "config/openloader/data/trade/data/spell-dimension/trades/vein_goblin_trader/rare.json"
@@ -1801,12 +1801,12 @@ metafile = true
 
 [[files]]
 file = "mods/azurelib-armor.pw.toml"
-hash = "0962d4388dabc82fbe7651fc13cc880876ba66b8c4efd76c9e28bbcf751131c5"
+hash = "b39837b3e37380994b4284f984bba3093746db066ef8346ac321085eba0094c2"
 metafile = true
 
 [[files]]
 file = "mods/azurelib.pw.toml"
-hash = "12b5153dfeba6c6163a3f9629169bbb58ace4bde75a0583ad075973f6bc4d763"
+hash = "a81054022290ba2d5614eb534884b3b2842ce776342fb6d30ed9abfec1a76978"
 metafile = true
 
 [[files]]
@@ -1821,7 +1821,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm-fabric.pw.toml"
-hash = "0692f3e985180a07a90415a4185d27fc579cdd9c201f1d03ba8369ad347842e8"
+hash = "88d4ede7f5ed092076125de8c50fa9edf85076e0c3053ee7716d9d02449dd8b1"
 metafile = true
 
 [[files]]
@@ -1941,7 +1941,7 @@ metafile = true
 
 [[files]]
 file = "mods/deeperdarker.pw.toml"
-hash = "38c0af3a8580fdd64c9ca8a7f13a77d35964cd70c35da257cfb375fe6fafd65f"
+hash = "fd5e34a06a44e05049fda34d2885dfd237e1a7a5be99ee12cb2d8745f55d01e5"
 metafile = true
 
 [[files]]
@@ -2036,7 +2036,7 @@ metafile = true
 
 [[files]]
 file = "mods/extra-spell-attributes.pw.toml"
-hash = "d50852ff5285d48c9c203146e39d34757a5f31cc55baa7ae7be98683aa74afc6"
+hash = "8eb76eb0e6159bc06f152ab340750fb2b46e7fb4c6e0ec4b41657782fbc9d945"
 metafile = true
 
 [[files]]
@@ -2126,7 +2126,7 @@ metafile = true
 
 [[files]]
 file = "mods/geophilic.pw.toml"
-hash = "914358de6bb96f8e4c915ebef4a57566aee4e28e73a2c466bb4d233fa362b241"
+hash = "3629af46a55a542424e7429f8954a39d287e33db3b36505efcf0d32ac0ef1911"
 metafile = true
 
 [[files]]
@@ -2230,7 +2230,7 @@ metafile = true
 
 [[files]]
 file = "mods/l2-hostility-fabricated.pw.toml"
-hash = "248a419a2ad4113e92218e869e266dae2e16b5b68497531b61e49d3aad30667c"
+hash = "fc32d4b921fe7fbd6eea05c66cca221e2820dca2f8f52afcd51d1e3716d60ab0"
 metafile = true
 
 [[files]]
@@ -2335,7 +2335,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "b42f2880c2890b2376b229ab2ad1738ab30aab14bbe2113cd3e768c0f93714c1"
+hash = "9d3efa99729c1fc119636c4d3328abbe60898f8b575ed44fef31848c91b1b718"
 metafile = true
 
 [[files]]
@@ -2379,11 +2379,6 @@ hash = "b350cc83e24f5927ff800af0c21f70713aaff9458f1fb70bac4d13c3e670cf09"
 metafile = true
 
 [[files]]
-file = "mods/mythic-charms.pw.toml"
-hash = "5556775e8440169fad2f081151e9c262510c38335cea598b870aed9650690978"
-metafile = true
-
-[[files]]
 file = "mods/mythic-upgrades.pw.toml"
 hash = "2d9e92d37e6739a977f27f31c6f619f6225d47cfa6662e274e16eea4e5d42d10"
 metafile = true
@@ -2420,7 +2415,7 @@ metafile = true
 
 [[files]]
 file = "mods/open-parties-and-claims.pw.toml"
-hash = "fd96d8895002010ab9e0fafb76b616bb2096989cddb445ae5ae084392dd5bc84"
+hash = "ddc0bb0da617fcc8150c9acd1ee08e82f89d77024f3815daf1d56234935480fd"
 metafile = true
 
 [[files]]
@@ -2550,12 +2545,12 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "3e306c29ba2be1fa4b80a99d256272d9868086b6ad7742869115d8f16b64cfe6"
+hash = "558e39174311780b7ced4bc9d7ba707cd7ac3b36e726779893df1debe9f25edc"
 metafile = true
 
 [[files]]
 file = "mods/shoulder-surfing-reloaded.pw.toml"
-hash = "c67a0f5a3a2475ea4295fec082f103d92089f022c21a0d5c1ce5ed8a8e71fee6"
+hash = "6b655c08e3a0dd33ea009fc1018ccf2780660863128617d68ae8ade7eacf5595"
 metafile = true
 
 [[files]]
@@ -2615,7 +2610,7 @@ metafile = true
 
 [[files]]
 file = "mods/spell-engine.pw.toml"
-hash = "1ac7dcff580a64c64c667c0ddf1a8eb1bf9009feb3981161d14c80ede9eea344"
+hash = "2ed550b63e5149b07b09a20f708696c8d41bdff7dfcc85550263584a7de4d7b5"
 metafile = true
 
 [[files]]
@@ -2624,12 +2619,12 @@ hash = "7f7cd8af29430b1d5d597aae8682fa87e673f2b359bf57164a9b96762ab8b331"
 metafile = true
 
 [[files]]
-file = "mods/spell_dimension-0.4.6.jar"
-hash = "e53fbda4efcc29c78670c0799969beb914d309a65b0c8b33869a8f18b7f01133"
+file = "mods/spell_dimension-0.4.7.jar"
+hash = "c51954cac3329476608a8c23667cec35558b5f540633eb58c31971a8fb43027c"
 
 [[files]]
 file = "mods/spellblade-next.pw.toml"
-hash = "b5f43fc2bcb5ec345e06f3f24b154187038914e880b3a05961c47d5523ec48bf"
+hash = "48995650d997eaf2c2b70b9e39b0ff4dd37ed4ab6c8243c26a49aa610854b7b9"
 metafile = true
 
 [[files]]
@@ -2684,7 +2679,7 @@ metafile = true
 
 [[files]]
 file = "mods/toms-storage-fabric.pw.toml"
-hash = "813a19cb4f0893149db105abb01c2c5387709a59adae551f6c830a793ccbbf03"
+hash = "87aae6d18fc180e3fd55c838601a38f0eb00b458db2187472dd3f88c9511e299"
 metafile = true
 
 [[files]]
@@ -2779,7 +2774,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "a3e687167945b36dc8cd67f8bb4fb487f95bfd43ef4b332af0cd32f720e2142c"
+hash = "3947c93fa3c6794af5983d10946e70b516e9fbbae21b0eaf93eefce3e01993a9"
 metafile = true
 
 [[files]]
@@ -2868,5 +2863,5 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/makeup-ultra-fast-shader.pw.toml"
-hash = "02b9a80eaf63433b3c2bf26eb2f57a8f75c7dc26ebc73117f5b6be074704cf2d"
+hash = "cbc31c1923bd96e6b20b34ce807b5921c0e2b24f6f396dda3baddb1bf474be4a"
 metafile = true
