@@ -2620,7 +2620,7 @@ metafile = true
 
 [[files]]
 file = "mods/spell_dimension-0.4.7.jar"
-hash = "c51954cac3329476608a8c23667cec35558b5f540633eb58c31971a8fb43027c"
+hash = "3df01091d4c627b2c30e4e86d03099d01a35e52a84ff9ac505d8d92120a89bba"
 
 [[files]]
 file = "mods/spellblade-next.pw.toml"
@@ -2630,11 +2630,6 @@ metafile = true
 [[files]]
 file = "mods/staaaaaaaaaaaack.pw.toml"
 hash = "8a09a1246daec875d75bff53b28a9c1a6b8ea4a8dd987adad5f0463648df8c3e"
-metafile = true
-
-[[files]]
-file = "mods/starter-kit.pw.toml"
-hash = "65e2f876769b7392d0a96fd7a5f8f108457ef87eaebe91b6dd0416ce543c071e"
 metafile = true
 
 [[files]]
@@ -2824,7 +2819,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "d4a72864a4ad8a50c18046b88e1811f2dcea3666b55175c5e79d759bd5e98bae"
+hash = "603ff2a43158f0883f7a5d57820bdba2791263f8e63b415701a109306272a79e"
 
 [[files]]
 file = "resourcepacks/blinking-ender-eyes.pw.toml"

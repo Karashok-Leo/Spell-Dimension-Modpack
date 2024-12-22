@@ -1,3 +1,14 @@
+# Change Log
+
+## 0.4.7 - 2024.12.16
+##### Added
+- Content of the guide book
+- Game over overlay
+##### Removed
+- Starter Kit (Bug)
+- Mythic Charms (No need)
+##### Fixed
+- Fix keybinds settings (again)
 
 ## 0.4.6 - 2024.12.16
 ##### Added
