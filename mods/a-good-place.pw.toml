@@ -1,6 +1,6 @@
 name = "A Good Place"
 filename = "a_good_place-1.20-1.2.5-fabric.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

@@ -1726,7 +1726,7 @@ hash = "c923383681164fec4d9944cfa2046adb3495b63298e8fe7a1d1efcfd7220b755"
 
 [[files]]
 file = "mods/a-good-place.pw.toml"
-hash = "0c857e851d2dff40fe9b3020ba5bf36c35e1a214762c82f953a2ea4535ceecb7"
+hash = "928d7bd8fa7ecd2932c415a9a8514786acf50707802e2e4c99d69c60582f51ee"
 metafile = true
 
 [[files]]
@@ -1836,7 +1836,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-tips-nbt-tag.pw.toml"
-hash = "11c15533b5a06003e5499cd0a28eee2f9967fb98fc5d04e5fcceee59b8a8eda9"
+hash = "c17025b8816a658572d041b586b622b336fe679becd61633a1fde8373b3b0744"
 metafile = true
 
 [[files]]
@@ -1976,7 +1976,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi-enchanting.pw.toml"
-hash = "753c540d67ba6e771dc36032518dead86d6737967f3770ba0f4d7edd8c677276"
+hash = "037aba6334d935158c8ad889939fc659314693e365e284bfbcbe4e4f4fe65d55"
 metafile = true
 
 [[files]]
@@ -1986,7 +1986,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi-trades-villager-trading-emi-plugin.pw.toml"
-hash = "cba9a89d5114ad8aaec8c4593851388bacf317cbe99428e347441c93ae9f8c1b"
+hash = "48caa52d23acd0511446cdbff61566c5cb06da65b4414c627d93478f174b8af1"
 metafile = true
 
 [[files]]
@@ -2047,11 +2047,6 @@ metafile = true
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "070f3b65efd84e7d28e84d819e94f1d886ebb9df0d2c8e2e5acc168966a34f67"
-metafile = true
-
-[[files]]
-file = "mods/fabric-progressive-bosses.pw.toml"
-hash = "81218a98f34d60fa15bbd8d12b12abf30e4358483475ef1460dc9e66ba107b50"
 metafile = true
 
 [[files]]
@@ -2140,10 +2135,6 @@ hash = "ef262ef928caa77eb677d89c8ea30c0705278dc3dc11e5c1444301c4b3b159fa"
 metafile = true
 
 [[files]]
-file = "mods/hotshot-0.0.2.jar"
-hash = "cf41eb7298cfb5336306232674a87a9c09dd21d4081eef5770d22b19c951238a"
-
-[[files]]
 file = "mods/husk-spawn.pw.toml"
 hash = "7788267e3c4262c6da383c0dd5c46f9377efa37970027baee4c820b2c863f0d9"
 metafile = true
@@ -2155,7 +2146,7 @@ metafile = true
 
 [[files]]
 file = "mods/iceberg-fabric.pw.toml"
-hash = "2c1bac5d5bc9061449e91525e3564883743273cbe2eade645a2a70e8c38a9927"
+hash = "99652822d207c9e400e26c45da119ba47ff786d0e71449b517cf3339f2b59708"
 metafile = true
 
 [[files]]
@@ -2175,7 +2166,7 @@ metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "7e0aa0482e5ffef1c3a1d533813cd734db0b6d4ace1f83dfbaab63372236d823"
+hash = "f09ab402c41408abf3904865124172c5c1dc0699df137f8725c7471b089d3c7c"
 metafile = true
 
 [[files]]
@@ -2195,7 +2186,7 @@ metafile = true
 
 [[files]]
 file = "mods/item-borders-fabric.pw.toml"
-hash = "82172c8f35bb42c0ba674a2d13faeea87d611036c51b174eacd55a8b0a8dbb91"
+hash = "0c01f5b5e616cf20109acb2439977574e87addd6936dc4e8fa30afca47da4f8a"
 metafile = true
 
 [[files]]
@@ -2250,7 +2241,7 @@ metafile = true
 
 [[files]]
 file = "mods/legendary-tooltips-fabric.pw.toml"
-hash = "455ebcd7078eddf6c4dd3bff09f70bb3d755d4fa1665ff9070e8c37077c54dce"
+hash = "c60ef9a042ed9891745d7797917215bd00144156a2761018f3ccee6741092303"
 metafile = true
 
 [[files]]
@@ -2470,7 +2461,7 @@ metafile = true
 
 [[files]]
 file = "mods/prism-fabric.pw.toml"
-hash = "0f4cbc95a3ba8b72b62fdae171933c59a6e4f87ec6e03b26e8d0dd2a0150f5ca"
+hash = "365afda4d539b4b93038b787c8279e9dde18670ab3b1de841e589f36cb217505"
 metafile = true
 
 [[files]]
@@ -2500,7 +2491,7 @@ metafile = true
 
 [[files]]
 file = "mods/reacharound.pw.toml"
-hash = "af6b641baab16c9cda97256c29112e38f24864d976bbf310c63ccbb6a8ae1603"
+hash = "ebe816b9845808a4f009cc034f7e2d664d6c9ba74b9cc51a27a99b0256130f3d"
 metafile = true
 
 [[files]]
@@ -2510,7 +2501,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "c7a632600334f8643c3dca388a7e6b6b30f15607d21dd7cb1bad3f59a52f0f84"
+hash = "1927c657016f17e5ad5f2363782ea2de94db857e962cc547d57dc3157735f246"
 metafile = true
 
 [[files]]
@@ -2590,12 +2581,12 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "1c715482d789775635bdadfd07a193c9b72474d9bbae2259e3c65c3a054edddd"
+hash = "602eb16e6b3ca9ace56a0c97789bc61536c9e7e0a32d4dd6cd610386323261c0"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "607e46ceb8ff9140a7a928734a10fdce835d1b4fbb0d49226d83f39e60d42e44"
+hash = "2ec8e7934143c36d29ec6ba822800758667ae3aae617fb2638855ffc4f352c35"
 metafile = true
 
 [[files]]
