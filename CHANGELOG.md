@@ -1,5 +1,11 @@
 # Change Log
 
+## 0.4.8 - 2024.12.24
+##### Removed
+- Fabric Progressive Bosses (Bug)
+##### Fixed
+- Crash on MP mode when querying advancements from server (Quest Scrolls)
+
 ## 0.4.7 - 2024.12.16
 ##### Added
 - Content of the guide book

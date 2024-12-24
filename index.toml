@@ -1437,36 +1437,8 @@ file = "config/openloader/data/trade/pack.mcmeta"
 hash = "4fc1642b2f29b9864506f7c5292ff7b55e52e5cac5e0c5170e88b674fd8ba202"
 
 [[files]]
-file = "config/openloader/resources/translations/assets/advancedcombat/lang/zh_cn.json"
-hash = "6296d1bc66086de6fd26ee435daac9a7e96a2543ab8713070cf1c99ae6738cf3"
-
-[[files]]
-file = "config/openloader/resources/translations/assets/cenchants/lang/zh_cn.json"
-hash = "787f5690154c73d560f1af8ad2e2647fd16e429f1247623a5c0c39a01eca99e7"
-
-[[files]]
 file = "config/openloader/resources/translations/assets/crystals_overhauled/lang/zh_cn.json"
 hash = "23d2455e724b5aadd953e283ee37e85311509996b0bc1beb54fc38e6f213560f"
-
-[[files]]
-file = "config/openloader/resources/translations/assets/endercage/lang/zh_cn.json"
-hash = "24c761ee66e976adcdb82e192d48397da1d70aedd20d3a16a9bc46cc07866c6d"
-
-[[files]]
-file = "config/openloader/resources/translations/assets/geode_plus/lang/zh_cn.json"
-hash = "557bb60f629effcd759a4bd4d118836cb948cef7c52cfe12df0731fda17b3e2d"
-
-[[files]]
-file = "config/openloader/resources/translations/assets/morebows/lang/en_us.json"
-hash = "09538610ee908de80b8145a1f211de83391e5c85fff6d5250ef933ddb8cfb304"
-
-[[files]]
-file = "config/openloader/resources/translations/assets/morebows/lang/zh_cn.json"
-hash = "ba7969f0f1bdae1c22240634a1d18109cf6073d489fc4499fd39a6eb2e303fb4"
-
-[[files]]
-file = "config/openloader/resources/translations/assets/mythic_charms/lang/zh_cn.json"
-hash = "f7c61e86c0d8c84951706f36951416af8b856515c620ed3bbf1093ad9a54d56e"
 
 [[files]]
 file = "config/openloader/resources/translations/assets/mythicupgrades/lang/zh_cn.json"
@@ -1493,16 +1465,12 @@ file = "config/openloader/resources/translations/assets/plushables/lang/zh_cn.js
 hash = "7db6ab7349a6f441622693360655ab57075c7a6652ddfeda9dae0f0eb41b20d8"
 
 [[files]]
-file = "config/openloader/resources/translations/assets/puffish_skills/lang/zh_cn.json"
-hash = "71397ce1f17b4be26963ab60816c88dba548afcc71c5d183b1367eb044f29059"
-
-[[files]]
-file = "config/openloader/resources/translations/assets/simplyskills/lang/zh_cn.json"
-hash = "1f646c4f83fd596212dcd0238e56f5b15b065cc2ef67cb86cdbc4a23959096b7"
-
-[[files]]
 file = "config/openloader/resources/translations/assets/spacecatasb/lang/zh_cn.json"
 hash = "5a37fe69d8115553d91a860d2706f364110ac6ea8bb08ecc6a6b03a2ef3ec33c"
+
+[[files]]
+file = "config/openloader/resources/translations/assets/spell_engine/lang/zh_cn.json"
+hash = "83cf1da8ab1ba2d8d8601181b5d515bb9c35e277b92dde31b6ee493543b47d5e"
 
 [[files]]
 file = "config/openloader/resources/translations/assets/spell_power/lang/en_us.json"
@@ -1515,14 +1483,6 @@ hash = "5845933cfd58f6a030eac8186fc09d41b71af81a22ab4fe35686dab5410b8031"
 [[files]]
 file = "config/openloader/resources/translations/assets/spellbladenext/lang/zh_cn.json"
 hash = "0db33b37a984e1a6a1c7b93966086236d3c0b5492aa4d9c703e84aff4c87292c"
-
-[[files]]
-file = "config/openloader/resources/translations/assets/vanityslots/lang/en_us.json"
-hash = "274e22bfcfb5edfbdd6a89c7f796a22af959bd273fc101f34a9ebab2e63c1ed8"
-
-[[files]]
-file = "config/openloader/resources/translations/assets/vanityslots/lang/zh_cn.json"
-hash = "bc94373a34351ff488e81e255f244d5c7dea067b6af373ffbb90d680b9ef6ba0"
 
 [[files]]
 file = "config/openloader/resources/translations/assets/victus/lang/zh_cn.json"
@@ -2600,6 +2560,11 @@ hash = "7c872adce752a4a6efe3d220fac7cdc1d429a0e8b47f42b19557f4d15d0893ca"
 metafile = true
 
 [[files]]
+file = "mods/spell-dimension-extra.pw.toml"
+hash = "526fb0f6123b80cbeb96156f4837703a39fb6aa571bd493ba7ae39c34e3f2dbd"
+metafile = true
+
+[[files]]
 file = "mods/spell-engine.pw.toml"
 hash = "2ed550b63e5149b07b09a20f708696c8d41bdff7dfcc85550263584a7de4d7b5"
 metafile = true
@@ -2608,10 +2573,6 @@ metafile = true
 file = "mods/spell-power.pw.toml"
 hash = "7f7cd8af29430b1d5d597aae8682fa87e673f2b359bf57164a9b96762ab8b331"
 metafile = true
-
-[[files]]
-file = "mods/spell_dimension-0.4.7.jar"
-hash = "3df01091d4c627b2c30e4e86d03099d01a35e52a84ff9ac505d8d92120a89bba"
 
 [[files]]
 file = "mods/spellblade-next.pw.toml"
