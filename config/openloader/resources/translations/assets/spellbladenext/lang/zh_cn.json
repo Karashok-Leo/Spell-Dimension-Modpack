@@ -124,5 +124,128 @@
   "item.spellbladenext.magus_head": "原基法帽",
   "item.spellbladenext.magus_chest": "原基长袍",
   "item.spellbladenext.magus_legs": "原基护腿",
-  "item.spellbladenext.magus_feet": "原基靴子"
+  "item.spellbladenext.magus_feet": "原基靴子",
+
+  "attribute.name.spellbladenext.convertfromfire" : "火焰法术强度转化为攻击伤害",
+  "attribute.name.spellbladenext.convertfromfrost" : "冰霜法术强度转化为攻击伤害",
+  "attribute.name.spellbladenext.convertfromarcane" : "奥秘法术强度转化为攻击伤害",
+  "attribute.name.spellbladenext.converttofire" : "攻击伤害转化为火焰法术强度",
+  "attribute.name.spellbladenext.converttofrost" : "攻击伤害转化为冰霜法术强度",
+  "attribute.name.spellbladenext.converttoarcane" : "攻击伤害转化为奥秘法术强度",
+  "attribute.name.spellbladenext.converttoheal" : "攻击伤害转化为治愈法术强度",
+  "attribute.name.spellbladenext.purpose" : "非治愈法术强度转化为治愈法术强度",
+
+  "spellbladenext.spellbladetext": "Upon casting a spell with this Spellblade, you gain Strength and Haste equal to a quarter of your power relating to the spell's school, for up to however long the cooldown of the spell is.",
+  "item.spellbladenext.ashes": "Ashes of the Stars",
+  "item.spellbladenext.higherpurpose": "Higher Purpose",
+  "item.spellbladenext.theavatar": "The Avatar",
+  "item.spellbladenext.thesis_spell_book": "Thesis of Awakening",
+  "item.spellbladenext.thesis_spell_book.desc": "Fear not the mage who has cast a thousand different spells once, fear the mage who has cast a single spell a thousand times.",
+  "item.spellbladenext.thesis_spell_book.desc2": "Awaken your spell at a spell binding table.",
+  "item.spellbladenext.vengeance_spell_book": "Oath of Vengeance",
+
+  "item.spellbladenext.magus_spawn_egg": "Magus Spawn Egg",
+
+  "item.spellbladenext.omni": "Crystallised Omniscience",
+  "item.spellbladenext.tabula_rasa": "Tabula Rasa",
+  "item.spellbladenext.tabula_rasa.desc": "If you wish to be reborn, empty is the best way to be.",
+  "item.spellbladenext.tabula_rasa.desc2": "Apply up to six Spell Oils onto this item.",
+
+
+  "spellblades.avatarof" : "Avatar of",
+  "itemGroup.spellbladenext.thesis": "SnS Thesis Books",
+  "itemGroup.spellbladenext.spelloils": "SnS Spell Oils",
+
+
+  "item.spellbladenext.spelloil.desc1": "Binds the spell to an item that can cast spells, but does not already have a spell bound.",
+  "item.spellbladenext.spelloil.desc2": "Drag to an item and right click to apply. IRREVERSIBLE. See Spell Engine Keybind 1 if used incorrrectly.",
+
+  "item.spellbladenext.phoenix_spell_book": "Phoenix Rites",
+  "item.spellbladenext.runic_echoes_spell_book": "Echoes Unleashed",
+  "item.spellbladenext.deathchill_spell_book": "Deathchill Tome",
+  "item.spellbladenext.thread": "Thread of Hope",
+
+  "entity.spellbladenext.cycloneentity": "风暴",
+  "spell.spellbladenext.challenge.name": "激怒",
+  "spell.spellbladenext.challenge.description": "激怒敌人，让他们每次受到伤害时都改变攻击目标。当被激怒者被杀死时，它的攻击目标会治愈和增强，同时削弱它的盟友。",
+
+  "effect.spellbladenext.fervor": "热忱",
+  "effect.spellbladenext.sundered": "分裂",
+  "effect.spellbladenext.challenged": "激怒",
+
+  "spell.spellbladenext.thesis.name": "觉醒",
+  "spell.spellbladenext.thesis.description": "你已将毕生精力投入到一个特定法术的施放中。你的法术强度和施法急速增加50%。",
+  "spell.spellbladenext.overpower.name": "征服",
+  "spell.spellbladenext.overpower.description": "向前冲锋，拖着附近的敌人前进，在施放结束时造成{damage_1}物理伤害和{damage_2}治愈法术伤害。被最后一击击中的目标会在6秒内受到雷击，失去所有护甲状态并无法移动。",
+  "spell.spellbladenext.soul_of_vengeance.name": "复仇之魂",
+  "spell.spellbladenext.soul_of_vengeance.description": "刷新你的热忱效果为5级，持续8秒。",
+  "spell.spellbladenext.staffstrike.name": "棍击",
+  "spell.spellbladenext.staffstrike.description": "击中前方6个方块90度锥形范围内的所有敌人，造成{damage}物理伤害，并传送到最近被击中的敌人面前。",
+
+  "spell.spellbladenext.combustion.name": "不死鸟之咒",
+  "spell.spellbladenext.combustion.description": "被动：冷却时，你造成的伤害会使敌人着火，持续2秒，并在相同的持续时间内给予他们不死鸟之咒效果，在2秒内造成4次{damage}火焰法术伤害。不死鸟之咒算作燃烧。激活：对附近的敌人造成{damage}火焰法术伤害。",
+  "spell.spellbladenext.phoenixdive.name": "不死鸟冲击",
+  "spell.spellbladenext.phoenixdive.description": "朝目标方向闪烁，落地时施放烈焰新星，造成{damage}火焰法术伤害，并将击中的敌人点燃。",
+  "spell.spellbladenext.snuffout.name": "野火",
+  "spell.spellbladenext.snuffout.description": "使周围化为炼狱，燃烧对周围区域造成{damage}火焰法术伤害。",
+  "spell.spellbladenext.spellstrike.name": "“法术闪击",
+  "spell.spellbladenext.spellstrike.description": "激活可获得持续16秒的 “法术闪击 ”buff，赋予50%%的施法急速。在持续时间内，你会在命中时造成该类型魔法强度最高80%的法术伤害。",
+
+  "spell.spellbladenext.eldritchblast.name": "回响射线",
+  "spell.spellbladenext.eldritchblast.description": "向目标方向发射一次回响爆炸，对一条直线上的所有敌人造成{damage}奥秘法术伤害。",
+  "spell.spellbladenext.echoes.name": "符文回响 / 击溃",
+  "spell.spellbladenext.echoes.description": "被动：你每4秒获得1层蓄势待发效果。你的法术将会重复施放，次数等同于你的蓄势待发效果层数，在你施法时消耗。主动：在敌人身上叠加击溃效果，2秒后对其造成{damage}点伤害。",
+  "spell.spellbladenext.bladestorm.name": "回响风暴",
+  "spell.spellbladenext.bladestorm.description": "召唤一个回响风暴，如果你选中了目标，它将追踪目标，每半秒造成{damage}奥秘法术伤害。",
+
+  "spell.spellbladenext.frostgrasp.name": "凛冬之握",
+  "spell.spellbladenext.frostgrasp.description": "用凛冬之握冻结目标区域，造成{damage}冰霜法术伤害。",
+  "spell.spellbladenext.starfall.name": "星陨",
+  "spell.spellbladenext.starfall.description": "四颗小型紫水晶流星砸向目标区域，每颗流星都会造成{damage}奥秘法术伤害。",
+  "spell.spellbladenext.flamelance.name": "烈焰长矛",
+  "spell.spellbladenext.flamelance.description": "焚烧你前方的一条直线，对每个敌人造成{damage}火焰法术伤害。",
+
+
+  "spell.spellbladenext.coldbuff.name": "低温集群",
+  "spell.spellbladenext.coldbuff.description": "对附近的敌人施加冰冻以及亡寒效果，每半秒造成{damage}冰霜法术伤害。已带有亡寒效果的敌人会以双倍效果刷新debuff。",
+
+  "spell.spellbladenext.frostbloom0.name": "霜花瀑",
+  "spell.spellbladenext.frostbloom0.description": "在你周围施放寒冰新星，对6个方块范围内的敌人造成{damage}冰霜法术伤害。寒冰新星会在半秒后从击中的敌人身上连锁，最多两次。每次施法只能击中敌人一次。",
+
+  "spell.spellbladenext.deathchill.name": "亡寒烙印",
+  "spell.spellbladenext.deathchill.description": "被动：你的寒冷速度更快，升温速度更慢。你的伤害会让敌人感到寒冷，同时温暖自己。主动：对目标造成虚弱寒意，每半秒造成{damage}冰霜法术伤害，持续8秒。",
+
+  "spellblades.unidentified":"Unidentified ",
+  "biome.spellbladenext.glassocean": "Mirror's Edge",
+  "dimension.spellbladenext.glassocean": "Glass Ocean",
+  "dimensiontype.spellbladenext.glassocean": "Glass Ocean",
+  "travelerstitles.spellbladenext.glassocean": "Glass Ocean",
+  
+  "item.spellbladenext.runegleam_nugget": "Gleaming Runebolt",
+  "item.spellbladenext.runeblaze_nugget": "Blazing Runebolt",
+  "item.spellbladenext.runefrost_nugget": "Frigid Runebolt",
+  "item.spellbladenext.runegleam_plate": "Gleaming Runeplates",
+  "item.spellbladenext.runeblaze_plate": "Blazing Runeplates",
+  "item.spellbladenext.runefrost_plate": "Frigid Runeplates",
+  "effect.spellbladenext.unleash": "蓄势待发",
+  "effect.spellbladenext.slamming": "Dragon Slam",
+  "effect.spellbladenext.phoenixcurse": "不死鸟之咒",
+  "effect.spellbladenext.collapse": "击溃",
+  "effect.spellbladenext.deathchill": "亡寒",
+  "effect.spellbladenext.spellstrike": "法术闪击",
+
+  "item.spellbladenext.ashherald_head": "Ashen Herald Helmet",
+  "item.spellbladenext.ashherald_chest": "Ashen Herald Chestplate",
+  "item.spellbladenext.ashherald_legs": "Ashen Herald Leggings",
+  "item.spellbladenext.ashherald_feet": "Ashen Herald Boots",
+  "item.spellbladenext.frostherald_head": "Frigid Herald Helmet",
+  "item.spellbladenext.frostherald_chest":"Frigid Herald Raiment",
+  "item.spellbladenext.frostherald_legs": "Frigid Herald Leggings",
+  "item.spellbladenext.frostherald_feet": "Frigid Herald Boots",
+  "item.spellbladenext.arcaneherald_head": "Enigmatic Herald Helmet",
+  "item.spellbladenext.arcaneherald_chest":"Enigmatic Herald Chestplate",
+  "item.spellbladenext.arcaneherald_legs": "Enigmatic Herald Leggings",
+  "item.spellbladenext.arcaneherald_feet": "Enigmatic Herald Boots",
+  "item.spellbladenext.voidforge": "Voidforge",
+  "item.spellbladenext.weaverswand": "Weaver's Wand"
 }
