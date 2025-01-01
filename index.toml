@@ -1441,8 +1441,16 @@ file = "config/openloader/data/trade/pack.mcmeta"
 hash = "4fc1642b2f29b9864506f7c5292ff7b55e52e5cac5e0c5170e88b674fd8ba202"
 
 [[files]]
+file = "config/openloader/resources/translations/assets/adventurez/lang/zh_cn.json"
+hash = "fcfb4cdf09af7f22b4a08b4b80a700f2832fc5d0ce68416eb7c87743d66e19bb"
+
+[[files]]
 file = "config/openloader/resources/translations/assets/crystals_overhauled/lang/zh_cn.json"
 hash = "23d2455e724b5aadd953e283ee37e85311509996b0bc1beb54fc38e6f213560f"
+
+[[files]]
+file = "config/openloader/resources/translations/assets/extraspellattributes/lang/zh_cn.json"
+hash = "92e78d6d240e3813832fa40865c903d8b1eb0e3d38d7fc314fd005903d0c3926"
 
 [[files]]
 file = "config/openloader/resources/translations/assets/mythicupgrades/lang/zh_cn.json"
@@ -1471,6 +1479,10 @@ hash = "eaaf94fec12fc68b9bc3851a052b1008a06456374c249fd49d3afea7b1af0df4"
 [[files]]
 file = "config/openloader/resources/translations/assets/plushables/lang/zh_cn.json"
 hash = "7db6ab7349a6f441622693360655ab57075c7a6652ddfeda9dae0f0eb41b20d8"
+
+[[files]]
+file = "config/openloader/resources/translations/assets/ringsofascension/lang/zh_cn.json"
+hash = "c516a350f7fb4afa4e16b6c3b7e64ae67ce98157ddd45b2acd1fc8e4313d0ccd"
 
 [[files]]
 file = "config/openloader/resources/translations/assets/spacecatasb/lang/zh_cn.json"
