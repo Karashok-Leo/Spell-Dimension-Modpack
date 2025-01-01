@@ -1193,6 +1193,10 @@ file = "config/openloader/data/spell/data/spellbladenext/spell_pools/thesis.json
 hash = "28fda1d27a520cacdd52279bea7795b5c453f0685360a42b18b89adcc56d0086"
 
 [[files]]
+file = "config/openloader/data/spell/data/spellbladenext/spell_pools/vengeance.json"
+hash = "1bd64eccfd789574882ff073e24c47129488ae2eac26f8e268ea7591f1571a8a"
+
+[[files]]
 file = "config/openloader/data/spell/data/wizards/spell_pools/arcane.json"
 hash = "4245ca02f2261ef182bfd2d6c7345d58c583c13bfe86bfe3ca1d4431dca7dd98"
 
@@ -1449,6 +1453,10 @@ file = "config/openloader/resources/translations/assets/numismatic-overhaul/lang
 hash = "1c2fc31461a6e32753ba55b99fbb29c5091ece31d1abe7dd10b1076c3b329eb3"
 
 [[files]]
+file = "config/openloader/resources/translations/assets/paladins/lang/zh_cn.json"
+hash = "a9db366ceba1e19c7eec2e85ba78640601e3abf682a063fc4568eddb222d334c"
+
+[[files]]
 file = "config/openloader/resources/translations/assets/perfectplushies/lang/zh_cn.json"
 hash = "2d0c56b8ba9516a1356d6e8bc293dbf8a0df08e6848f81ec62c1ce426b63bd1e"
 
@@ -1470,7 +1478,7 @@ hash = "5a37fe69d8115553d91a860d2706f364110ac6ea8bb08ecc6a6b03a2ef3ec33c"
 
 [[files]]
 file = "config/openloader/resources/translations/assets/spell_engine/lang/zh_cn.json"
-hash = "83cf1da8ab1ba2d8d8601181b5d515bb9c35e277b92dde31b6ee493543b47d5e"
+hash = "d073ea89d66febfb281bdc4a56ff90b3db1ca9530a644846cc0642100fecc044"
 
 [[files]]
 file = "config/openloader/resources/translations/assets/spell_power/lang/en_us.json"
@@ -1482,11 +1490,15 @@ hash = "5845933cfd58f6a030eac8186fc09d41b71af81a22ab4fe35686dab5410b8031"
 
 [[files]]
 file = "config/openloader/resources/translations/assets/spellbladenext/lang/zh_cn.json"
-hash = "0db33b37a984e1a6a1c7b93966086236d3c0b5492aa4d9c703e84aff4c87292c"
+hash = "cac2194c53163f10b79134b0df7c98e74e9d4c92d0f108e171bf7d614326f567"
 
 [[files]]
 file = "config/openloader/resources/translations/assets/victus/lang/zh_cn.json"
 hash = "2c4dadd4def16916cfebab0a030a7de59225d2be63032be6302cf0c70084ded3"
+
+[[files]]
+file = "config/openloader/resources/translations/assets/wizards/lang/zh_cn.json"
+hash = "701f5741c5728ae859cc30a8c650aeccc70dd27607a3e1eb2c85fdb9e6155a53"
 
 [[files]]
 file = "config/openloader/resources/translations/pack.mcmeta"
@@ -1674,7 +1686,11 @@ hash = "a87897a4389bdf2c245e93c9a6d798a2878307fd09de518e26cc35a1ea25a2c9"
 
 [[files]]
 file = "config/xaerominimap.txt"
-hash = "23d3967b4831a5656ec2787296e8a8142f947d91794524ad9a054583da46d0bb"
+hash = "96ec227ae6a7537b96bac7bedfaf95703442904c150e689e4ad64fc59b218ee1"
+
+[[files]]
+file = "config/xaeroworldmap.txt"
+hash = "ada7ab7e75e41608bad88c4f3857a682d784ed17d8bc13e993a18baefb3cec01"
 
 [[files]]
 file = "config/zombiehorsespawn.json5"
@@ -1792,11 +1808,6 @@ metafile = true
 [[files]]
 file = "mods/better-combat-by-daedelus.pw.toml"
 hash = "b91695a9291401b4e09a28d7365e26513e5a2359b5edd4def897e673cd582f6d"
-metafile = true
-
-[[files]]
-file = "mods/better-tips-nbt-tag.pw.toml"
-hash = "c17025b8816a658572d041b586b622b336fe679becd61633a1fde8373b3b0744"
 metafile = true
 
 [[files]]
@@ -2001,7 +2012,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "8de441dd57379d434805fb87722233fa39e346a9152828e7ff49b0ed9b2bd518"
+hash = "dbb2d8f1bab2dcfaef4bf0ee2728c6ab2ce688b689d8e57f5d8ed468c8b62b9f"
 metafile = true
 
 [[files]]
@@ -2050,11 +2061,6 @@ hash = "7d5bfb2d7dea6386110f2f1f364696f43b23afa969be6f41cebafa7e7e992335"
 metafile = true
 
 [[files]]
-file = "mods/fps-reducer.pw.toml"
-hash = "6586ad47feb3a385741cbd4a817f3dd3fdc15e9caf08cd4e05c91a630b6a9d5b"
-metafile = true
-
-[[files]]
 file = "mods/framework-fabric.pw.toml"
 hash = "afc98470b699a933cbdcc7d95822455596d91864ef14ec21a48f4fdd51d5eb03"
 metafile = true
@@ -2076,7 +2082,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "315dc632de6f067ccbda8a4ce4ef4e68945a4306333cfbadec1f7335c7a67c16"
+hash = "40bedfcd9fba9603087615ef8fff7cd32dbbb8df596602b06563b9cb5ae5f7ab"
 metafile = true
 
 [[files]]
@@ -2286,7 +2292,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "9d3efa99729c1fc119636c4d3328abbe60898f8b575ed44fef31848c91b1b718"
+hash = "ece1c73bdc292cc91416eda1c7b878dc1613e9fe7ee76b52a5994011225e2aaa"
 metafile = true
 
 [[files]]
@@ -2296,7 +2302,7 @@ metafile = true
 
 [[files]]
 file = "mods/modonomicon.pw.toml"
-hash = "a548a071c0b923575ed5f0634ccd600805829fcec4ae4b2118f176929868720c"
+hash = "4be600c46751bf79d4c8b4abe5e593df03396fae38a321e6ffa2772a62c20d9c"
 metafile = true
 
 [[files]]
@@ -2476,7 +2482,7 @@ metafile = true
 
 [[files]]
 file = "mods/ruins.pw.toml"
-hash = "6ff6c9873d976a6bd2143e77a6c75cc461babc45d2a097c679b5eef9a790db27"
+hash = "a58506a9be4b52690d2fc9c9a3597331161336c072612da6f53c253d07579242"
 metafile = true
 
 [[files]]
@@ -2496,7 +2502,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "558e39174311780b7ced4bc9d7ba707cd7ac3b36e726779893df1debe9f25edc"
+hash = "00cd949eaa2b439bd884c27e0301f3c900790c49a91f05885d95d36b69d6a004"
 metafile = true
 
 [[files]]
@@ -2550,18 +2556,13 @@ hash = "2ec8e7934143c36d29ec6ba822800758667ae3aae617fb2638855ffc4f352c35"
 metafile = true
 
 [[files]]
-file = "mods/spark.pw.toml"
-hash = "d5ed51699dd5358cabc504b6a553b290fd6578c9926ab14f29e14786d43b6b84"
-metafile = true
-
-[[files]]
 file = "mods/sparse-structures.pw.toml"
 hash = "7c872adce752a4a6efe3d220fac7cdc1d429a0e8b47f42b19557f4d15d0893ca"
 metafile = true
 
 [[files]]
 file = "mods/spell-dimension-extra.pw.toml"
-hash = "526fb0f6123b80cbeb96156f4837703a39fb6aa571bd493ba7ae39c34e3f2dbd"
+hash = "15783abfc966c993aedace62d9da43eefac55c8a670cb382663a2599b6460769"
 metafile = true
 
 [[files]]
@@ -2576,7 +2577,7 @@ metafile = true
 
 [[files]]
 file = "mods/spellblade-next.pw.toml"
-hash = "48995650d997eaf2c2b70b9e39b0ff4dd37ed4ab6c8243c26a49aa610854b7b9"
+hash = "6e8f076977f714b19d6a5fde1e8c861e09a23712c36328ee17026f96a24dbd1c"
 metafile = true
 
 [[files]]
@@ -2716,7 +2717,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "032410edd474ea91763ccad01241f690d3b289a55017e9545c01c79a9f1028eb"
+hash = "cd0073cfc7bd2fbc89ddf46fb021d469e93a059ef382d3fedca8f961af3081ee"
 metafile = true
 
 [[files]]
