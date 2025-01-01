@@ -1,0 +1,54 @@
+{
+  "attribute.name.extraspellattributes.reabsorption": "再吸收",
+  "attribute.name.extraspellattributes.converttofire": "攻击伤害转化为火焰法术强度",
+  "attribute.name.extraspellattributes.convertfromfire": "火焰法术强度转化为攻击伤害",
+  "attribute.name.extraspellattributes.converttoarcane": "攻击伤害转化为奥秘法术强度",
+  "attribute.name.extraspellattributes.convertfromarcane": "奥秘法术强度转化为攻击伤害",
+  "attribute.name.extraspellattributes.converttofrost": "攻击伤害转化为冰霜法术强度",
+  "attribute.name.extraspellattributes.convertfromfrost": "冰霜法术强度转化为攻击伤害",
+  "attribute.name.extraspellattributes.converttoheal": "攻击伤害转化为治愈法术强度",
+  "attribute.name.extraspellattributes.glancingblow": "扭曲攻击(使其只造成65%的伤害)的几率",
+  "attribute.name.extraspellattributes.spellsuppression": "抑制法术(使其只造成50%的伤害)的几率",
+  "attribute.name.extraspellattributes.serenity": "免疫被抑制的法术伤害的几率(最高75%)",
+  "attribute.name.extraspellattributes.endu": "耐力",
+  "attribute.name.extraspellattributes.defi": "无视伤害(收益递减)",
+  "enchantment.extraspellattributes.suppression": "抑制",
+  "enchantment.extraspellattributes.defiance": "抗争",
+  "enchantment.extraspellattributes.warding": "守护",
+  "enchantment.extraspellattributes.spellbreak": "魔力破除",
+  "enchantment.extraspellattributes.glancingblow": "闪避",
+  "enchantment.extraspellattributes.battlerouse": "战斗意志",
+  "enchantment.extraspellattributes.suppression.desc": "每级 +4% 抑制法术的几率。被抑制的法术造成的伤害减少50%。",
+  "enchantment.extraspellattributes.defiance.desc": "每级 +0.25 免疫伤害数额，收益递减。",
+  "enchantment.extraspellattributes.warding.desc": "每级 +1 再吸收",
+  "enchantment.extraspellattributes.spellbreak.desc": "每级 +4% 免疫被抑制的法术伤害的几率。最大75%。",
+  "enchantment.extraspellattributes.glancingblow.desc": "每级 +4% 扭曲攻击的几率。被扭曲的攻击造成的伤害减少35%。",
+  "enchantment.extraspellattributes.battlerouse.desc": "每级 +4% 受伤后的4秒内恢复失去的生命值",
+
+  "attribute.name.extraspellattributes.determination": "受伤后的4秒内恢复失去的生命值",
+
+  "desc.extraspellattributes.glance": "被扭曲的攻击只造成65%的伤害。你无法扭曲不来自于实体的攻击，比如着火和中毒。",
+
+  "desc.extraspellattributes.supp": "被抑制的法术只造成50%的伤害。",
+
+  "desc.extraspellattributes.defi": "抗争: 免疫固定数额的伤害，收益递减。",
+  "desc.extraspellattributes.acro":"魔力破除: 免疫被抑制的法术伤害的几率。最大75%。",
+  "desc.extraspellattributes.determination":"决心: 伤后的4秒内恢复失去的生命值比例",
+  "desc.extraspellattributes.reabsorption":"未受到伤害4秒后，你会逐渐恢复伤害吸收（黄心），直至达到最大再吸收。",
+
+  "itemGroup.extraspellattributes.general": "额外RPG属性饰品",
+  "item.extraspellattributes.netheritediamondring": "下界合金钻石戒指",
+  "item.extraspellattributes.goldquartzring": "黄金石英戒指",
+  "item.extraspellattributes.netheritediamondamulet": "下界合金钻石护身符",
+  "item.extraspellattributes.goldquartzamulet": "黄金石英护身符",
+  "item.extraspellattributes.martialbracer": "海龟护腕",
+  "item.extraspellattributes.arcanebracer": "紫水晶护腕",
+  "item.extraspellattributes.nonbelieversamulet": "无神论者的护腕",
+  "item.extraspellattributes.turtlegirdle": "海龟腰带",
+  "item.extraspellattributes.defiancering": "荣耀之戒",
+  "item.extraspellattributes.undyingsoul": "不朽之魂"
+
+
+
+
+}
