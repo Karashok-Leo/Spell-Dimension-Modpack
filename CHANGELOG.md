@@ -1,5 +1,24 @@
 # Change Log
 
+## 0.4.9 - 2025.1.1
+##### Added
+- Configs for xaero's mods to disable update notifications
+- Missing Chinese translations for some mods:
+	- Spell Engine
+	- Wizards
+	- Paladins
+	- Spell Blade Next
+	- Extra RPG Attributes
+	- Rings of Ascension
+	- AdventureZ
+##### Changed
+- Update some mods
+##### Removed
+- Recipe of vengeance book
+- FpsReducer
+- Better Tag Tooltips
+- Spark
+
 ## 0.4.8 - 2024.12.24
 ##### Removed
 - Fabric Progressive Bosses (Bug)

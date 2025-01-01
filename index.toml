@@ -1450,7 +1450,7 @@ hash = "23d2455e724b5aadd953e283ee37e85311509996b0bc1beb54fc38e6f213560f"
 
 [[files]]
 file = "config/openloader/resources/translations/assets/extraspellattributes/lang/zh_cn.json"
-hash = "92e78d6d240e3813832fa40865c903d8b1eb0e3d38d7fc314fd005903d0c3926"
+hash = "7466a348b1b88704cac12d110b75db274b4a79b3a75940526d4e880bb6453f2b"
 
 [[files]]
 file = "config/openloader/resources/translations/assets/mythicupgrades/lang/zh_cn.json"

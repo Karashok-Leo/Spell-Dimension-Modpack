@@ -11,7 +11,7 @@
   "attribute.name.extraspellattributes.spellsuppression": "抑制法术(使其只造成50%的伤害)的几率",
   "attribute.name.extraspellattributes.serenity": "免疫被抑制的法术伤害的几率(最高75%)",
   "attribute.name.extraspellattributes.endu": "耐力",
-  "attribute.name.extraspellattributes.defi": "无视伤害(收益递减)",
+  "attribute.name.extraspellattributes.defi": "免疫伤害的数额(收益递减)",
   "enchantment.extraspellattributes.suppression": "抑制",
   "enchantment.extraspellattributes.defiance": "抗争",
   "enchantment.extraspellattributes.warding": "守护",

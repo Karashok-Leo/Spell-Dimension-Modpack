@@ -1,9 +1,28 @@
 # 更新日志
 
+## 0.4.9 - 2025.1.1
+##### 新增
+- xaero的模组配置，以禁用更新提示
+- 部分缺失的中文翻译:
+	- Spell Engine
+	- Wizards
+	- Paladins
+	- Spell Blade Next
+	- Extra RPG Attributes
+	- Rings of Ascension
+	- AdventureZ
+##### 修改
+- 更新了一些模组
+##### 移除
+- Vengeance book的配方
+- FpsReducer
+- Better Tag Tooltips
+- Spark
+
 ## 0.4.8 - 2024.12.24
-##### Removed
+##### 移除
 - Fabric Progressive Bosses (Bug)
-##### Fixed
+##### 修复
 - 多人模式下从服务器获取成就信息时崩溃(任务卷轴)
 
 ## 0.4.7 - 2024.12.16
