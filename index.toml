@@ -462,7 +462,7 @@ hash = "45666f8485ccf6172db5aae6e40e1585c606d4344ca21b0974034edf9315166f"
 
 [[files]]
 file = "config/goblintraders-entities.toml"
-hash = "43754c39a4bff1153acc9d6aa4de81aa51d2fb5a10740f6025d72ffcb5eeedab"
+hash = "2f7d669793e21271933218bc1167ceb79ce53f17ee8ee17dd19db3c8555d70cd"
 
 [[files]]
 file = "config/graveyard/the-graveyard-3.0-config.json5"
@@ -546,7 +546,7 @@ hash = "3b3699d6e69f9d9a86ebf800249352256f358b3254f820bb268b6fcdb6309363"
 
 [[files]]
 file = "config/loot-patcher/misc.json"
-hash = "650f68f6474de4167e6118cc407ecb273bf6441e4e505d722bc434b9d7dae140"
+hash = "3caf35372ac976d23b443f6b2c10128216bbb4968cfda4559d169eac0a97e7a9"
 
 [[files]]
 file = "config/lootr.json"
@@ -839,6 +839,22 @@ hash = "7a14bcffc8d12fd177f4a80e97f8a79969f84a52c126d321a4151164edbc455e"
 [[files]]
 file = "config/openloader/data/recipe/data/adventurez/recipes/chiseled_polished_blackstone_holder.json"
 hash = "4b4efa367fff6b23f3378eaa46ecd570541292797b8c366407180ae5d92b4b57"
+
+[[files]]
+file = "config/openloader/data/recipe/data/constructionwand/recipes/diamond_wand.json"
+hash = "f967d0cbb67b04561d623594675202ab83bd82959277a2f150eaf01498ad3fab"
+
+[[files]]
+file = "config/openloader/data/recipe/data/constructionwand/recipes/infinity_wand.json"
+hash = "dc5b2addef1923c19a45cd0a8b5840057705ebdc89f7e37c0375a3185b1be212"
+
+[[files]]
+file = "config/openloader/data/recipe/data/constructionwand/recipes/iron_wand.json"
+hash = "52f9b74de11c8119ef45e3162ccf2d3111aae0a7ea364147ef20bf4c5f8a7430"
+
+[[files]]
+file = "config/openloader/data/recipe/data/constructionwand/recipes/stone_wand.json"
+hash = "ca809c124d70b8c9bc796c33cb4b05f4ee4cd773996fcc295c55fb169d752dfb"
 
 [[files]]
 file = "config/openloader/data/recipe/data/graveyard/recipes/bone_dagger.json"
@@ -1858,11 +1874,6 @@ hash = "ac9678deff0e253dc0836d9671d8420883fe502f55df46c103d6e7f2b1e5f081"
 metafile = true
 
 [[files]]
-file = "mods/chunky-pregenerator.pw.toml"
-hash = "8f3e01ad47042d186087576cd17e91f78576295e7ca16fb885550910cb97caa4"
-metafile = true
-
-[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "ae11fe7c63207b7257ecb782d421655c6f56adb551b78ad430066edc94bee3b1"
 metafile = true
@@ -2519,7 +2530,7 @@ metafile = true
 
 [[files]]
 file = "mods/shoulder-surfing-reloaded.pw.toml"
-hash = "6b655c08e3a0dd33ea009fc1018ccf2780660863128617d68ae8ade7eacf5595"
+hash = "d2401482a86a9e51e6bbf34fe0f7caa7687b78febbc32d5d045c7413aac260da"
 metafile = true
 
 [[files]]
@@ -2548,11 +2559,6 @@ hash = "f2459547dbd2ca2869ed3799cb5b1be4cb98cffbfc016339768ae9990d38d2ef"
 metafile = true
 
 [[files]]
-file = "mods/smooth-chunk-save.pw.toml"
-hash = "59415593d917326a44382ddb0fa4713a80b1daea51dadc666420bb17c3a37261"
-metafile = true
-
-[[files]]
 file = "mods/smooth-swapping.pw.toml"
 hash = "ee6579014fc56a87d60cb5ed383a58e233ffb53ad6a57a813b930891aba07c45"
 metafile = true
@@ -2574,7 +2580,7 @@ metafile = true
 
 [[files]]
 file = "mods/spell-dimension-extra.pw.toml"
-hash = "15783abfc966c993aedace62d9da43eefac55c8a670cb382663a2599b6460769"
+hash = "d617c2266a2ce41ab90864e0906dd3fd73336ca15f56a7cdbe2ce40d4410b223"
 metafile = true
 
 [[files]]
@@ -2640,11 +2646,6 @@ metafile = true
 [[files]]
 file = "mods/toms-storage-fabric.pw.toml"
 hash = "87aae6d18fc180e3fd55c838601a38f0eb00b458db2187472dd3f88c9511e299"
-metafile = true
-
-[[files]]
-file = "mods/tooltip-scroll-fabric.pw.toml"
-hash = "a58ba8e57a173c34278a90727a5f346b191ee701e52b6749483a70529398fce2"
 metafile = true
 
 [[files]]

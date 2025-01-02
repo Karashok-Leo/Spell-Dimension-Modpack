@@ -13,7 +13,8 @@
       "^(?!.*spell-dimension).*chests.*"
     ],
     "extra_tables": [
-      "spell-dimension:pool/addition"
+      "spell-dimension:pool/addition",
+      "spell-dimension:pool/normal_chest"
     ]
   },
   {

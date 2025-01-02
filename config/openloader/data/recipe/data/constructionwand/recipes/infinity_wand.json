@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " #X",
+    " ##",
+    "#  "
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:nether_star"
+    },
+    "#": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "constructionwand:infinity_wand"
+  }
+}

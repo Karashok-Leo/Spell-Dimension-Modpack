@@ -1,5 +1,19 @@
 # Change Log
 
+## 0.4.10 - 2025.1.2
+##### Changed
+- Update some mods
+- Update LICENSE
+- Raise spawn chance of Goblin Traders
+##### Removed
+- Tooltip Scrolls (looking for replacement)
+- Smooth Chunk Save (possible bug)
+- Chunk Pregenerator (no need)
+##### Fixed
+- Missing entries in some loot tables
+- Some conflict recipes
+- May fix the memory overflow issue on servers
+
 ## 0.4.9 - 2025.1.1
 ##### Added
 - Configs for xaero's mods to disable update notifications
