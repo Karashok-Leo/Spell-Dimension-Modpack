@@ -310,7 +310,7 @@ hash = "6ab2cbe3d47549afcd3a0d697e237929545bd96824573fa602773d749c47c4a3"
 
 [[files]]
 file = "config/dusk.json"
-hash = "b93ec89ab2e22cf3bddc04e5b27dfee914fcaf728666378bb19f9ad766f2f558"
+hash = "aab7bd98a7ad3fa6d19b5b1ce9c16675c220d61414287e94a8fd11c72a672f2a"
 
 [[files]]
 file = "config/emi.css"
@@ -507,10 +507,6 @@ hash = "96e2bb21e73b095649b1a6dad6fc951b045eaf74f7d5a4efb7e51cd28a227308"
 [[files]]
 file = "config/justmobheads.json5"
 hash = "c5bcdc35b6c4fb7e5a96d552c10c13302c95956b3d6b038817cb97cd26f42801"
-
-[[files]]
-file = "config/justmobheads/headchances.txt"
-hash = "b866a5ab632fa59ab80030f6b0db3715e12af54e33a11041df94e5d7cae50340"
 
 [[files]]
 file = "config/l2hostility/client.json5"
@@ -902,7 +898,7 @@ hash = "24c3eb08906d85108de44e57715f6d91475eee36b8e1557333489847e0208b1c"
 
 [[files]]
 file = "config/openloader/data/recipe/data/spell-dimension/recipes/frost/2.json"
-hash = "c022495a85bb1db56c13f40f8aab1cfaf120bb4bd68d9e4adbad43cf7ed0ef11"
+hash = "9e7d59c987319fc4b4514413585552c5f7745d642f1e336e07382e69ceec361b"
 
 [[files]]
 file = "config/openloader/data/recipe/data/spell-dimension/recipes/fusion-smithing/axes.json"
@@ -1090,43 +1086,43 @@ hash = "35f543f11102a37ebd1229e4f4c6f7b20e30a0edb0e5109308b87bb5fc95693b"
 
 [[files]]
 file = "config/openloader/data/recipe/data/spell-dimension/recipes/random/gear/common.json"
-hash = "d2d7b815d3c66820cc141e724359282a4c96769b6c418e4a599956e77c6f3e0d"
+hash = "23f1ed5305a29df205c240e66262d28ad6f0aa60cfd8764873403c85ca297524"
 
 [[files]]
 file = "config/openloader/data/recipe/data/spell-dimension/recipes/random/gear/epic.json"
-hash = "8f33ee183d9b97d105f4676e20ee682ab57188a4cd92150cc3d2fa96035ca260"
+hash = "bcbac8682f6df32be4a2c1d16afb3c4f6ac644e14ca52e79e9451ef2915af944"
 
 [[files]]
 file = "config/openloader/data/recipe/data/spell-dimension/recipes/random/gear/legendary.json"
-hash = "2b15cff7ee9eab341f324192e9706c4e9e94a1869b5cbd2066d01ec5360525f8"
+hash = "2e376f93ca86f8aeeaa78770961c05b6c4be3f3f7338847c5c2ea1e68d8426d3"
 
 [[files]]
 file = "config/openloader/data/recipe/data/spell-dimension/recipes/random/gear/rare.json"
-hash = "20df598753d6448f922df1979a2bd6df4d339306921e35fb2da24ea7861392f8"
+hash = "c01b7887fabc71e5046368cdf73984f59e1e66276a596f57fe355699a3c1b167"
 
 [[files]]
 file = "config/openloader/data/recipe/data/spell-dimension/recipes/random/gear/uncommon.json"
-hash = "616e2765999cadd4463303ebcb3c81458f4883f1a98eb46ea1ebbf94192b2313"
+hash = "82a3b5fbbfa607fda7b672952a9fa1986bdd8e5cff89836583f221946ba34c69"
 
 [[files]]
 file = "config/openloader/data/recipe/data/spell-dimension/recipes/random/material/common.json"
-hash = "6ec51933b7108bbc6223d1ddda26c4f48f48b97752c0a8ec1bbb72829a938366"
+hash = "75387b774944be8b2a6d43049371585800a854774cf08f4dbde129954dd55343"
 
 [[files]]
 file = "config/openloader/data/recipe/data/spell-dimension/recipes/random/material/epic.json"
-hash = "13b0554d80cacf542fea0f4e310cd3f82c9deb96d857ce6b9f11fcd0cb728a56"
+hash = "207a5aff785d05e64671011e827684163bf6cbb5f65b0684eaee2524cd176ad8"
 
 [[files]]
 file = "config/openloader/data/recipe/data/spell-dimension/recipes/random/material/legendary.json"
-hash = "ac20f504f8c5f0dcd74cacd78936b90e235e58e6ff211343149b994ddff2023a"
+hash = "74dd6d580f5a23a00b4bd51bd984d84b5428553e24610ec56d8cde3865776d3c"
 
 [[files]]
 file = "config/openloader/data/recipe/data/spell-dimension/recipes/random/material/rare.json"
-hash = "df857cf516a444e6d91959f59b86ba6ec46624e62c7cf490febef261227cd3f9"
+hash = "cb227619636dcd6d0e4e3059b15052975923e07d0fb9873f5ef202ab09421a42"
 
 [[files]]
 file = "config/openloader/data/recipe/data/spell-dimension/recipes/random/material/uncommon.json"
-hash = "5968749bce8d24bf3bcb553aab20e5a1a80fca4be54c538e597bcbe9d7c1b050"
+hash = "07795562fe1c7d22c0a21984f58a1fe40cd3ed759a219cb15629fa8b079a99aa"
 
 [[files]]
 file = "config/openloader/data/recipe/pack.mcmeta"
@@ -1594,7 +1590,7 @@ hash = "e718624c8330d0d9d49ead4e22da36e345612d4043979dd59f5d1448e10abe48"
 
 [[files]]
 file = "config/sparsestructures.json5"
-hash = "21f70499105bb4ba6dee99b746559f280d9d8ed52f1ade731bbeab68e2c21518"
+hash = "fa6bca9931ac5234247d671d7054c113ea1ed731c58334afe66efb488cbe7ef6"
 
 [[files]]
 file = "config/spell_engine/client.json5"
@@ -2194,11 +2190,6 @@ hash = "c31077132a2b81693fa3b0af0c9c96c382dbffcd385a96e7e110577334a15abe"
 metafile = true
 
 [[files]]
-file = "mods/just-mob-heads.pw.toml"
-hash = "75e6e272e9a8723fc2557c988be0edb133bbfd524a16bf2e221ecd89ca742332"
-metafile = true
-
-[[files]]
 file = "mods/kibe.pw.toml"
 hash = "89e997ac208afad939b9d43b8b4e785dd6e6e405fc4a785d311a0af42821a656"
 metafile = true
@@ -2785,7 +2776,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "603ff2a43158f0883f7a5d57820bdba2791263f8e63b415701a109306272a79e"
+hash = "34d946603d72c7f51439fbb884d779f21c9eec2d6224060ce99efe5c0d6e02d4"
 
 [[files]]
 file = "resourcepacks/blinking-ender-eyes.pw.toml"
@@ -2826,3 +2817,7 @@ metafile = true
 file = "shaderpacks/makeup-ultra-fast-shader.pw.toml"
 hash = "cbc31c1923bd96e6b20b34ce807b5921c0e2b24f6f396dda3baddb1bf474be4a"
 metafile = true
+
+[[files]]
+file = "wiki-link.lnk"
+hash = "58d06eb46d9bdb266655160dfb84a9c8d219b25965df5da32919265473249ecf"

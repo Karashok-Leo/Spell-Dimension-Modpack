@@ -3,7 +3,7 @@
     "inputs": [
         {
             "tag": "spell-dimension:legendary/material",
-            "count": 6
+            "count": 8
         }
     ],
     "output": {

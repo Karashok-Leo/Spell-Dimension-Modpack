@@ -3,7 +3,7 @@
     "inputs": [
         {
             "tag": "spell-dimension:rare/material",
-            "count": 8
+            "count": 12
         }
     ],
     "output": {
