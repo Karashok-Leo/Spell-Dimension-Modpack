@@ -189,7 +189,7 @@ key_key.trashslot.toggleLock:key.keyboard.unknown
 key_key.trashslot.delete:key.keyboard.delete
 key_key.trashslot.deleteAll:key.keyboard.unknown
 key_key.trashslot.deleteAll_modifier:key.keyboard.left.shift
-key_key.veinmining.activate.desc:key.keyboard.unknown
+key_key.veinmining.activate.desc:key.keyboard.grave.accent
 key_key.walljump.cling:key.keyboard.left.shift
 key_gui.xaero_switch_waypoint_set:key.keyboard.unknown
 key_gui.xaero_instant_waypoint:key.keyboard.keypad.add
