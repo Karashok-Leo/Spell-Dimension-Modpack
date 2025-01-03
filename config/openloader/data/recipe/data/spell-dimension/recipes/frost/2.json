@@ -9,16 +9,16 @@
         "item": "spell-dimension:spell_book_frost_1"
       },
       "A": {
-        "item": "aquamirae:coral_lance"
+        "item": "aquamirae:abyssal_tiara"
       },
       "B": {
-        "item": "simplyswords:icewhisper"
+        "item": "jewelry:unique_frost_ring"
       },
       "C": {
-        "item": "simplyswords:frostfall"
+        "item": "endrem:cold_eye"
       },
       "D": {
-        "item": "aquamirae:abyssal_tiara"
+        "item": "l2hostility:ring_of_ocean"
       }
     },
     "pattern": [

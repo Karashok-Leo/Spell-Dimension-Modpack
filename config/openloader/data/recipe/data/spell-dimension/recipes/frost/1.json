@@ -12,13 +12,13 @@
         "item": "aquamirae:abyssal_amethyst"
       },
       "B": {
-        "item": "soulsweapons:moonstone"
+        "item": "minecraft:trident"
       },
       "C": {
         "item": "aquamirae:ship_graveyard_echo"
       },
       "D": {
-        "item": "soulsweapons:verglas"
+        "item": "mythicmetals:aquarium_sword"
       }
     },
     "pattern": [

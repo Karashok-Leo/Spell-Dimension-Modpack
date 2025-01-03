@@ -870,11 +870,11 @@ hash = "b5c76b555b800f1094f36be7b84d83ad966b2a9ae2f695f937ae8a79452e51a7"
 
 [[files]]
 file = "config/openloader/data/recipe/data/spell-dimension/recipes/arcane/1.json"
-hash = "c28bfce3520ff8de515a40ebbe241eef5483502d466800b0a93dbb2c83c7243b"
+hash = "d6678e6277b2b7226364a26849aac58c63060f5ec4f83d859f0369ed5d5ff39a"
 
 [[files]]
 file = "config/openloader/data/recipe/data/spell-dimension/recipes/arcane/2.json"
-hash = "a03ba9417a47ca0f9492455e4f6fcb32fa1a7fdc4772fb824b0564782125fe46"
+hash = "c37939b36df898950911901f5489dbd461a9180cf583bc17ecb377fd495cb658"
 
 [[files]]
 file = "config/openloader/data/recipe/data/spell-dimension/recipes/fire/0.json"
@@ -894,11 +894,11 @@ hash = "fe0b7af0a8287289d222efbe1e8271359acaa419b7e9334571939d1fdd9366fd"
 
 [[files]]
 file = "config/openloader/data/recipe/data/spell-dimension/recipes/frost/1.json"
-hash = "24c3eb08906d85108de44e57715f6d91475eee36b8e1557333489847e0208b1c"
+hash = "df4d81cf74f3af1be28ec702009461e5443e9f6fabd9e323d70304940830bf08"
 
 [[files]]
 file = "config/openloader/data/recipe/data/spell-dimension/recipes/frost/2.json"
-hash = "9e7d59c987319fc4b4514413585552c5f7745d642f1e336e07382e69ceec361b"
+hash = "cf590783412571406b40457fbdc900e1955404f8a602ded3264ce91d8dfb5a70"
 
 [[files]]
 file = "config/openloader/data/recipe/data/spell-dimension/recipes/fusion-smithing/axes.json"
@@ -2571,7 +2571,7 @@ metafile = true
 
 [[files]]
 file = "mods/spell-dimension-extra.pw.toml"
-hash = "d617c2266a2ce41ab90864e0906dd3fd73336ca15f56a7cdbe2ce40d4410b223"
+hash = "148217505c035959d42b210084a318c7dbdd0c89e24dd94b8129b0a75966ab6f"
 metafile = true
 
 [[files]]
@@ -2776,7 +2776,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "34d946603d72c7f51439fbb884d779f21c9eec2d6224060ce99efe5c0d6e02d4"
+hash = "19124a94832a0d988262caf563a67a16a30ca4d7742d7e1ba6f91b9613b74583"
 
 [[files]]
 file = "resourcepacks/blinking-ender-eyes.pw.toml"

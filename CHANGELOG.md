@@ -1,5 +1,20 @@
 # Change Log
 
+## 0.4.11 - 2025.1.3
+##### Changed
+- Reduced the count of items in the material bag and enchantment book bag
+- Changed the merge conditions for Enchanted Essence, now it can be merged as long as the attribute modifiers are the same
+- Modified the Consciousness fluid so that it does not decrease in level with flow
+- Weakened the Flex Breastplate, which now caps damage reduction at 50% and grows at half the original rate
+- Reduced count of monsters to spawn and players no longer need to stay up
+- Reduction of density of structures by a factor of 1.25
+- Increased the count of ingredients for alloying random loot bags recipes
+- Optimized recipes for Frost and Fire spellbooks
+##### Removed
+- Just Mob Heads (no need)
+##### Fixed
+- Issue with beacons not working for storage terminals
+
 ## 0.4.10 - 2025.1.2
 ##### Changed
 - Update some mods
