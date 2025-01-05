@@ -130,9 +130,9 @@
 			// Damage bonus per level difference when using Curse of Wrath
 			"wrathDamageBonus": 0.05,
 			// Damage bonus per level when using Curse of Pride
-			"prideDamageBonus": 0.02,
+			"prideDamageBonus": 0.01,
 			// Health boost per level in percentage when using Curse of Pride
-			"prideHealthBonus": 0.02,
+			"prideHealthBonus": 0.01,
 			// Trait cost multiplier when using Curse of Pride
 			"prideTraitFactor": 0.5
 		},

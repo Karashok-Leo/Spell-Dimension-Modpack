@@ -273,14 +273,6 @@ file = "config/combatroll/server.json5"
 hash = "6c3ec2b2926b78c73dddf0cfedaf483efb7c3fe8a093f557e560ab280a0683f4"
 
 [[files]]
-file = "config/configurablemobpotioneffects/ondamageeffects.txt"
-hash = "b77b7718f62abdd4bc36041039237b70e632c39775d89d6fc855a5ff5b73489d"
-
-[[files]]
-file = "config/configurablemobpotioneffects/permanenteffects.txt"
-hash = "28f4f36e3e254af0c1776adb1a9905b417cdc8ebfffcc690aa29ff5f303fa2a0"
-
-[[files]]
 file = "config/creeper_firework.json5"
 hash = "b8044d3bf7dbb4778ed2586f3abf92d3a0a9c9257d22c65abc2ebcb61f6cd711"
 
@@ -514,7 +506,7 @@ hash = "45f72d573115a83715ed993fc9502fabad886c412cd34f05812e86f5ff17cc47"
 
 [[files]]
 file = "config/l2hostility/common.json5"
-hash = "733719e7ef9e8597e9a7fccdb604076524fb155b07022e90468eee75f819fb68"
+hash = "bb3d9ceea05880724845d6962806284570bf287a5dbb6900905725a31e66ad75"
 
 [[files]]
 file = "config/legendarytooltips-common.toml"
@@ -1562,7 +1554,7 @@ hash = "d518a1ed11db7384ca31ec7254e6089bde8bdea7a91055b7880a6b9573014159"
 
 [[files]]
 file = "config/randommobeffects/blacklist.txt"
-hash = "f68229f7e490fef2d5d1da33a399420bb163a52f172f6d443af37fea26abd9c4"
+hash = "881075f4341fd799b562f3b303087d979e7f826fee8aa410fea7f2db529c4db9"
 
 [[files]]
 file = "config/rpg_series/loot_v2.json"
@@ -1730,6 +1722,16 @@ hash = "928d7bd8fa7ecd2932c415a9a8514786acf50707802e2e4c99d69c60582f51ee"
 metafile = true
 
 [[files]]
+file = "mods/accessories-tc-layer.pw.toml"
+hash = "d089bd1afa7fad1d3c8414b3f1765cdca030b20d974bdd1f8e232069286c26d0"
+metafile = true
+
+[[files]]
+file = "mods/accessories.pw.toml"
+hash = "4d69e25285e9ddba8e2313f39d85860a3e87d98b6c308b0a9eb9a97999fdd995"
+metafile = true
+
+[[files]]
 file = "mods/achievements-optimizer.pw.toml"
 hash = "a8f1efb050382052dec631c2d5d79c0251fdeca001d4304c87000736929adf86"
 metafile = true
@@ -1807,11 +1809,6 @@ metafile = true
 [[files]]
 file = "mods/azurelib.pw.toml"
 hash = "a81054022290ba2d5614eb534884b3b2842ce776342fb6d30ed9abfec1a76978"
-metafile = true
-
-[[files]]
-file = "mods/backpacked-fabric.pw.toml"
-hash = "83a32267aa14479c455eb564df451b8a14a6a4148661264193d2ef6aa84a0537"
 metafile = true
 
 [[files]]
@@ -2565,6 +2562,16 @@ hash = "2ec8e7934143c36d29ec6ba822800758667ae3aae617fb2638855ffc4f352c35"
 metafile = true
 
 [[files]]
+file = "mods/sophisticated-backpacks-unofficial-fabric-port.pw.toml"
+hash = "38874a197c53302277a7627a900e4bdbab81d027132bc098bc09d1a7c91b1992"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-core-unofficial-fabric-port.pw.toml"
+hash = "3a3782b9926abdf259202c95e673e4479f96e5f7e1a968c704f8942c0e1e5d89"
+metafile = true
+
+[[files]]
 file = "mods/sparse-structures.pw.toml"
 hash = "7c872adce752a4a6efe3d220fac7cdc1d429a0e8b47f42b19557f4d15d0893ca"
 metafile = true
@@ -2647,11 +2654,6 @@ metafile = true
 [[files]]
 file = "mods/travelers-titles-fabric.pw.toml"
 hash = "31b45a23d9e7de7cdb4b34eca8d43d59277c002dee5ac6c6765cce4d8fa1c8fa"
-metafile = true
-
-[[files]]
-file = "mods/trinkets.pw.toml"
-hash = "d9bfec2cf36b6bae2d85a1136560e047ab8ce1b0e9798e7b6be5d0670f65fb55"
 metafile = true
 
 [[files]]
@@ -2817,7 +2819,3 @@ metafile = true
 file = "shaderpacks/makeup-ultra-fast-shader.pw.toml"
 hash = "cbc31c1923bd96e6b20b34ce807b5921c0e2b24f6f396dda3baddb1bf474be4a"
 metafile = true
-
-[[files]]
-file = "wiki-link.lnk"
-hash = "58d06eb46d9bdb266655160dfb84a9c8d219b25965df5da32919265473249ecf"
