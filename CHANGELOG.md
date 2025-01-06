@@ -1,6 +1,10 @@
 # Change Log
 
 ## 0.5.0 - 2025.1.6
+##### Warning
+- This is a destructive update, so please be sure to back up your game saves!
+- Due to the replacement of trinkets and backpacks, please remove all items from your backpack and trinket slots before updating!
+- Due to the revised invasion event mechanism, all loaded Consciousness Cores will be removed!
 ##### Added
 - Recipe Remover
 - Sophisticated Backpack
