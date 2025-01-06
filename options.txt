@@ -118,6 +118,7 @@ key_key.hotbar.6:key.keyboard.6
 key_key.hotbar.7:key.keyboard.7
 key_key.hotbar.8:key.keyboard.8
 key_key.hotbar.9:key.keyboard.9
+key_accessories.key.open_accessories_screen:key.keyboard.h
 key_key.adventurez.dragonflydown:key.keyboard.unknown
 key_key.adventurez.dragonfirebreath:key.keyboard.unknown
 key_key.antighost.reveal:key.keyboard.unknown
@@ -161,6 +162,15 @@ key_key.shouldersurfing.toggle_third_person_front:key.keyboard.unknown
 key_key.shouldersurfing.toggle_third_person_back:key.keyboard.unknown
 key_key.shouldersurfing.free_look:key.keyboard.unknown
 key_key.shouldersurfing.toggle_camera_coupling:key.keyboard.unknown
+key_keybind.sophisticatedbackpacks.open_backpack:key.keyboard.b
+key_keybind.sophisticatedbackpacks.inventory_interaction:key.keyboard.c
+key_keybind.sophisticatedbackpacks.tool_swap:key.keyboard.unknown
+key_keybind.sophisticatedbackpacks.sort:key.mouse.middle
+key_keybind.sophisticatedbackpacks.toggle_upgrade_2:key.keyboard.x
+key_keybind.sophisticatedbackpacks.toggle_upgrade_3:key.keyboard.unknown
+key_keybind.sophisticatedbackpacks.toggle_upgrade_4:key.keyboard.unknown
+key_keybind.sophisticatedbackpacks.toggle_upgrade_5:key.keyboard.unknown
+key_keybind.sophisticatedbackpacks.toggle_upgrade_1:key.keyboard.z
 key_key.soulsweapons.return_freyr_sword:key.keyboard.unknown
 key_key.soulsweapons.freyr_sword_stationary:key.keyboard.z
 key_key.soulsweapons.collect_summons_soul_reaper:key.keyboard.v
@@ -221,7 +231,6 @@ key_gui.xaero_quick_confirm:key.keyboard.right.shift
 key_gui.xaero_toggle_dimension:key.keyboard.unknown
 key_zoomify.key.zoom:key.keyboard.c
 key_zoomify.key.zoom.secondary:key.keyboard.f6
-key_key.backpack:key.keyboard.b
 key_iris.keybind.reload:key.keyboard.unknown
 key_iris.keybind.toggleShaders:key.keyboard.k
 key_iris.keybind.shaderPackSelection:key.keyboard.unknown
