@@ -1,13 +1,13 @@
 name = "Custom Totem Particles"
-filename = "CustomTotemParticles-1.20.1-2.5.jar"
+filename = "CustomTotemParticles-1.20.1-2.9.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "46cc7ca0798dbbbac69aae0bcfd72f47955056d1"
+hash = "16558536c0e8dd538d64ba5cd0c42c7cd2a38c08"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5319378
+file-id = 6056675
 project-id = 872466

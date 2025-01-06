@@ -16,6 +16,10 @@
         "l2hostility:poseidite_ingot",
         "l2hostility:shulkerate_ingot",
         "l2hostility:hostility_essence",
+        "l2hostility:void_eye",
+        "l2hostility:sun_membrane",
+        "l2hostility:resonant_feather",
+        "l2hostility:force_field",
         "l2hostility:miracle_powder"
     ]
 }

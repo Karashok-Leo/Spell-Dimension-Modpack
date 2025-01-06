@@ -506,7 +506,7 @@ hash = "45f72d573115a83715ed993fc9502fabad886c412cd34f05812e86f5ff17cc47"
 
 [[files]]
 file = "config/l2hostility/common.json5"
-hash = "bb3d9ceea05880724845d6962806284570bf287a5dbb6900905725a31e66ad75"
+hash = "413acf58195a8bab3617e114cbd7c97c8c52c8f3c0a3edd394c0aa33f14bc4ba"
 
 [[files]]
 file = "config/legendarytooltips-common.toml"
@@ -1330,7 +1330,7 @@ hash = "08adb9c3a6aa92a978fa4b48e49cd4ccb90bbb01b87453d573871e5c1af06bbf"
 
 [[files]]
 file = "config/openloader/data/tag/data/spell-dimension/tags/items/epic/material.json"
-hash = "a9a4167f055efd61fb405f95ffa8a029620372ada850bc6fdfd41a80481236b5"
+hash = "146a2d1c9070a916245823a47bf6b2cdf4d55a355cafd406083e80b8f0bc59cc"
 
 [[files]]
 file = "config/openloader/data/tag/data/spell-dimension/tags/items/epic/weapon.json"
@@ -1346,7 +1346,7 @@ hash = "901ec6e4029f06f6a936b00d661372d0d4614156015d63f33b96b8a941a99607"
 
 [[files]]
 file = "config/openloader/data/tag/data/spell-dimension/tags/items/legendary/material.json"
-hash = "eaa03989c380ee9d0efee4bc16fe171e5c7f5d4957d38deda4d3cf5c68f52eb9"
+hash = "23113c7dd85d1cef26b6f9baba4ded8ebfe954f4cde520f064ceb7893a577a73"
 
 [[files]]
 file = "config/openloader/data/tag/data/spell-dimension/tags/items/legendary/weapon.json"
@@ -1366,7 +1366,7 @@ hash = "db2e5874f5315e61e802b8ec369c6353a4a3e11f3a2eaf27987a2c64431ec0c7"
 
 [[files]]
 file = "config/openloader/data/tag/data/spell-dimension/tags/items/rare/material.json"
-hash = "ee66805ae168217f91ab2344d6fd6def20b6b7bf590e57deddb511d8f175b756"
+hash = "7ae29524b744dc0d45578e7849cac6f8dba5d06796d81e4d571550e59c03085a"
 
 [[files]]
 file = "config/openloader/data/tag/data/spell-dimension/tags/items/rare/weapon.json"
@@ -1390,7 +1390,7 @@ hash = "7558722d8f1a8e6f3d1c5b3f3d2f54f6be4cc866d3825dae5cd21ec781cedaf0"
 
 [[files]]
 file = "config/openloader/data/tag/data/spell-dimension/tags/items/uncommon/material.json"
-hash = "4596c67c4b1602f128962675461c415e917983b712cfca0000c6ef290fc10d4e"
+hash = "5c5697cf104bdc6a8055f7f89df62c5008356fd28e2bc6da06d64151ab51c358"
 
 [[files]]
 file = "config/openloader/data/tag/data/spell-dimension/tags/items/uncommon/weapon.json"
@@ -1555,6 +1555,10 @@ hash = "d518a1ed11db7384ca31ec7254e6089bde8bdea7a91055b7880a6b9573014159"
 [[files]]
 file = "config/randommobeffects/blacklist.txt"
 hash = "881075f4341fd799b562f3b303087d979e7f826fee8aa410fea7f2db529c4db9"
+
+[[files]]
+file = "config/reciperemover.json"
+hash = "3be7465034d70b9ce6b45a7982d6f1901d5632e090744e5c64ae39650f3217f0"
 
 [[files]]
 file = "config/rpg_series/loot_v2.json"
@@ -1923,7 +1927,7 @@ metafile = true
 
 [[files]]
 file = "mods/custom-totem-particles.pw.toml"
-hash = "099d9e35626bbeb876a05ba97db54e267d59f80a6b03b3d60573bdfda72dd47a"
+hash = "56280abbf194ef042f6dc2244a7d5e5b5fb0e0aa01d4e3d47a163db8f266050e"
 metafile = true
 
 [[files]]
@@ -2198,7 +2202,7 @@ metafile = true
 
 [[files]]
 file = "mods/l2-hostility-fabricated.pw.toml"
-hash = "fc32d4b921fe7fbd6eea05c66cca221e2820dca2f8f52afcd51d1e3716d60ab0"
+hash = "3bcf0f560e1f9dd00842a3806fe74d3cea6c33d30eb613d9cdc6a9b7c7355ef7"
 metafile = true
 
 [[files]]
@@ -2383,7 +2387,7 @@ metafile = true
 
 [[files]]
 file = "mods/open-parties-and-claims.pw.toml"
-hash = "ddc0bb0da617fcc8150c9acd1ee08e82f89d77024f3815daf1d56234935480fd"
+hash = "4b43c9335a67a4ba3eb76cc11f02c6c2347d4bc1d28e4a6f5522c513068b1007"
 metafile = true
 
 [[files]]
@@ -2469,6 +2473,11 @@ metafile = true
 [[files]]
 file = "mods/reacharound.pw.toml"
 hash = "ebe816b9845808a4f009cc034f7e2d664d6c9ba74b9cc51a27a99b0256130f3d"
+metafile = true
+
+[[files]]
+file = "mods/reciperemover.pw.toml"
+hash = "495382867f6e087b3e16b27826a01b24e9d28b1a22730839488deec45a35553a"
 metafile = true
 
 [[files]]
@@ -2578,7 +2587,7 @@ metafile = true
 
 [[files]]
 file = "mods/spell-dimension-extra.pw.toml"
-hash = "148217505c035959d42b210084a318c7dbdd0c89e24dd94b8129b0a75966ab6f"
+hash = "864740c5fc54884921cb4157e6da8ebe04098efadcd568e6f209222abfcf0969"
 metafile = true
 
 [[files]]

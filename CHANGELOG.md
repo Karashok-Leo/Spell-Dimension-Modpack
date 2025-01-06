@@ -1,5 +1,33 @@
 # Change Log
 
+## 0.5.0 - 2025.1.6
+##### Added
+- Recipe Remover
+- Sophisticated Backpack
+    - Sophisticated Core
+- Accessories
+    - Accessories Trinkets Compat Layer
+- Quest of crafting rune
+- Quick jump from the quest scroll to the relevant page of the guidebook
+- Liquid flotation in the Ocean of Consciousness
+##### Changed
+- Update some mods
+- Optimized part of the text of the Magic Guidance
+- Looting Charm now can only be obtained from quests
+- Looting Charm now increases your charm slot
+- The Invasion Event is now taking place in the Ocean of Consciousness
+- Weakened the effect of Curse of Pride
+- Remove curse effects (from Kibe) from monster random effects (no more extremely fast monsters)
+- Allow to use the Hostility Orb before entering the Ocean of Consciousness
+- Adjusted the rarity of some materials
+##### Removed
+- Backpacked (Replace)
+- Trinkets (Replace)
+- Recipe for Looting Charm
+- Recipe for Invincible Enchantment
+##### Fixed
+- Issue of invalidating immunity to some damage
+
 ## 0.4.11 - 2025.1.3
 ##### Changed
 - Reduced the count of items in the material bag and enchantment book bag

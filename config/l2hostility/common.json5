@@ -81,7 +81,7 @@
 	},
 	"orbAndSpawner": {
 		// Allow to use hostility orb
-		"allowHostilityOrb": false,
+		"allowHostilityOrb": true,
 		/* Radius for Hostility Orb to take effect.
 		   0 means 1x1x1 section, 1 means 3x3x3 sections, 2 means 5x5x5 sections
 		*/

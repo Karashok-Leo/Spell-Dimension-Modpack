@@ -1,0 +1,13 @@
+name = "RecipeRemover"
+filename = "reciperemover-1.0.11.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "06f9818a1239edd32d3067bb99c893c3bf14ec3a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5808781
+project-id = 666011
