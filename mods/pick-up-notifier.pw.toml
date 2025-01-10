@@ -1,6 +1,6 @@
 name = "Pick Up Notifier [Forge & Fabric]"
 filename = "PickUpNotifier-v8.0.0-1.20.1-Fabric.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

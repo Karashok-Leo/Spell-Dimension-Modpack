@@ -301,20 +301,12 @@ file = "config/dungeonz.json5"
 hash = "6ab2cbe3d47549afcd3a0d697e237929545bd96824573fa602773d749c47c4a3"
 
 [[files]]
-file = "config/dusk.json"
-hash = "aab7bd98a7ad3fa6d19b5b1ce9c16675c220d61414287e94a8fd11c72a672f2a"
-
-[[files]]
 file = "config/emi.css"
 hash = "f706361d8f4f015e89bf5f41a78837098c7a6c47e2ef3b728e54091012e34690"
 
 [[files]]
 file = "config/endrem.json"
 hash = "85eda7121ff75c51b0a8865c29869d7a5b995eb49c022ebc9f3dac1c58c1a991"
-
-[[files]]
-file = "config/exordium.json"
-hash = "3f860698e7d79a34e577849d1f875ddf0707bee63ee2e7128ca33fcee6f6ed1a"
 
 [[files]]
 file = "config/fancymenu/assets/icon16x.png"
@@ -1506,7 +1498,7 @@ hash = "5845933cfd58f6a030eac8186fc09d41b71af81a22ab4fe35686dab5410b8031"
 
 [[files]]
 file = "config/openloader/resources/translations/assets/spellbladenext/lang/zh_cn.json"
-hash = "cac2194c53163f10b79134b0df7c98e74e9d4c92d0f108e171bf7d614326f567"
+hash = "fc35c67b64fef52b0ab8c4806990d6ebe8f8645b3c005f4e69a98c5603255274"
 
 [[files]]
 file = "config/openloader/resources/translations/assets/victus/lang/zh_cn.json"
@@ -1615,6 +1607,14 @@ hash = "70a86e07d3a2038d202e8a64b060cf38385430aa029afd56fa5e833872cf19b7"
 [[files]]
 file = "config/spell_power/status_effects.json"
 hash = "a93b4e811672df57fd12a2925568b3b17bbc412fd38208617719aaa8edb9e58b"
+
+[[files]]
+file = "config/spellbladenext/items_v10.json"
+hash = "fde7be4e69fcbd26569b01f8064670414f1b3d7726f85978753f2138b6ddd925"
+
+[[files]]
+file = "config/spellbladenext/server.json5"
+hash = "10e1607f7ebabbddafef178bacd6f3f215a24f52870f3101809dc2c6bd72113f"
 
 [[files]]
 file = "config/starterkit.json5"
@@ -1852,7 +1852,7 @@ metafile = true
 
 [[files]]
 file = "mods/cardinal-components-api.pw.toml"
-hash = "6f0676fe7167a5a5e992ac1588e5a7f62bb6ffcaad158d7f1ace220c73adb938"
+hash = "a70ae3f1065e875cbca6afae1b9b497ccfc7e905823b8c9fcc3fbe8474ab315e"
 metafile = true
 
 [[files]]
@@ -1927,7 +1927,7 @@ metafile = true
 
 [[files]]
 file = "mods/custom-totem-particles.pw.toml"
-hash = "56280abbf194ef042f6dc2244a7d5e5b5fb0e0aa01d4e3d47a163db8f266050e"
+hash = "43599c7bc3c420a7d148c71b9938aab3687b1392b402f59a94458bc4d670d9e0"
 metafile = true
 
 [[files]]
@@ -1948,11 +1948,6 @@ metafile = true
 [[files]]
 file = "mods/dungeonz.pw.toml"
 hash = "13567e260000f37eb096a6152cc0374121c8456a869732f1ca914a679e2697cc"
-metafile = true
-
-[[files]]
-file = "mods/dusk.pw.toml"
-hash = "e08384c58e94312859c5cda36e9d9ec2b5326becf488ab96679d65a17183ef2a"
 metafile = true
 
 [[files]]
@@ -2002,7 +1997,7 @@ metafile = true
 
 [[files]]
 file = "mods/enhanced-block-entities.pw.toml"
-hash = "de33a63b6e7182dc3229d77c95c118cdc2ad64321ae4fc16d16a23a3b34e746b"
+hash = "63e1916f7e0447dee1e84963ae9c847a4eb183fe338b07d836644da2e3b853b1"
 metafile = true
 
 [[files]]
@@ -2013,11 +2008,6 @@ metafile = true
 [[files]]
 file = "mods/equipment-standard.pw.toml"
 hash = "e3772710a6033c60a920d0834963cd2dd6c1a2f1ad91e29f06e9c3ec1aff2c50"
-metafile = true
-
-[[files]]
-file = "mods/exordium.pw.toml"
-hash = "af91e1a3c2cd85b3493741f3e413854f83c33666eff478d02202eeb83d4cefc2"
 metafile = true
 
 [[files]]
@@ -2067,7 +2057,7 @@ metafile = true
 
 [[files]]
 file = "mods/fbp-renewed.pw.toml"
-hash = "78e82f1e39a829e26eb04d856df0119bfa66d1f72bb33bc6014a3e62fd823e79"
+hash = "23ebc9d67c2752ae1d7c8dcaa6a0e8e09988a37246971230b89ebe79aec12b38"
 metafile = true
 
 [[files]]
@@ -2092,7 +2082,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "0ee41445ce06bf3d31157937bef07afa8d4c025e3788e8b2f3ab891b74d018b9"
+hash = "30a31cd07f394486b22c7253403f03749ca3b783ef85dd72388d4bf77713db5d"
 metafile = true
 
 [[files]]
@@ -2202,7 +2192,7 @@ metafile = true
 
 [[files]]
 file = "mods/l2-hostility-fabricated.pw.toml"
-hash = "3bcf0f560e1f9dd00842a3806fe74d3cea6c33d30eb613d9cdc6a9b7c7355ef7"
+hash = "9c83294bfb2840b30cb03155872a30c21b4272c6985216192448ce59f2fc421b"
 metafile = true
 
 [[files]]
@@ -2317,7 +2307,7 @@ metafile = true
 
 [[files]]
 file = "mods/modonomicon.pw.toml"
-hash = "4be600c46751bf79d4c8b4abe5e593df03396fae38a321e6ffa2772a62c20d9c"
+hash = "cf8d420d5b56cea26ea813fe2bea57ce5eaf7d22ef964003d1e748292200fbdd"
 metafile = true
 
 [[files]]
@@ -2417,7 +2407,7 @@ metafile = true
 
 [[files]]
 file = "mods/pick-up-notifier.pw.toml"
-hash = "7aa88c3736f441c44c44457e337d0c45eaa4302efd807f5023757ddd44d6de20"
+hash = "253ac68d348467a85dd18a800b99ca8c0518418c319725e9d14c9ef9e3ca3a60"
 metafile = true
 
 [[files]]
@@ -2522,7 +2512,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "00cd949eaa2b439bd884c27e0301f3c900790c49a91f05885d95d36b69d6a004"
+hash = "cc77646e6e5668f225c755b5519e376d65e7b8c15a04c7ec959709c30d18c352"
 metafile = true
 
 [[files]]
@@ -2787,7 +2777,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "19124a94832a0d988262caf563a67a16a30ca4d7742d7e1ba6f91b9613b74583"
+hash = "edb81787db0307e0c9eded685c6d6ca9187133cb68a37d016dea86e507069a30"
 
 [[files]]
 file = "resourcepacks/blinking-ender-eyes.pw.toml"
