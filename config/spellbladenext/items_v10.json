@@ -1,0 +1,752 @@
+{
+  "weapons": {
+    "fire_claymore": {
+      "attack_damage": 6.0,
+      "attack_speed": -3.0,
+      "attributes": [
+        {
+          "id": "spell_power:fire",
+          "value": 4.0,
+          "operation": "ADDITION"
+        },
+        {
+          "id": "extraspellattributes:converttofire",
+          "value": 0.2,
+          "operation": "MULTIPLY_BASE"
+        }
+      ]
+    },
+    "voidforge": {
+      "attack_damage": 0.0,
+      "attack_speed": -3.0,
+      "attributes": []
+    },
+    "starforge": {
+      "attack_damage": 9.0,
+      "attack_speed": -2.4,
+      "attributes": [
+        {
+          "id": "spell_power:frost",
+          "value": 4.0,
+          "operation": "ADDITION"
+        },
+        {
+          "id": "spell_power:fire",
+          "value": 4.0,
+          "operation": "ADDITION"
+        },
+        {
+          "id": "spell_power:arcane",
+          "value": 4.0,
+          "operation": "ADDITION"
+        }
+      ]
+    },
+    "arcane_orb": {
+      "attack_damage": 1.0,
+      "attack_speed": -3.0,
+      "attributes": [
+        {
+          "id": "spell_power:arcane",
+          "value": 2.0,
+          "operation": "ADDITION"
+        },
+        {
+          "id": "spell_power:haste",
+          "value": 0.25,
+          "operation": "MULTIPLY_BASE"
+        }
+      ]
+    },
+    "fire_blade": {
+      "attack_damage": 3.0,
+      "attack_speed": -2.4,
+      "attributes": [
+        {
+          "id": "spell_power:fire",
+          "value": 2.0,
+          "operation": "ADDITION"
+        },
+        {
+          "id": "extraspellattributes:converttofire",
+          "value": 0.2,
+          "operation": "MULTIPLY_BASE"
+        }
+      ]
+    },
+    "frost_orb": {
+      "attack_damage": 1.0,
+      "attack_speed": -3.0,
+      "attributes": [
+        {
+          "id": "spell_power:frost",
+          "value": 2.0,
+          "operation": "ADDITION"
+        },
+        {
+          "id": "spell_power:haste",
+          "value": 0.25,
+          "operation": "MULTIPLY_BASE"
+        }
+      ]
+    },
+    "crystal_cutlass": {
+      "attack_damage": 5.0,
+      "attack_speed": -2.4,
+      "attributes": [
+        {
+          "id": "spell_power:arcane",
+          "value": 3.0,
+          "operation": "ADDITION"
+        },
+        {
+          "id": "extraspellattributes:converttoarcane",
+          "value": 0.2,
+          "operation": "MULTIPLY_BASE"
+        }
+      ]
+    },
+    "frost_claymore": {
+      "attack_damage": 6.0,
+      "attack_speed": -3.0,
+      "attributes": [
+        {
+          "id": "spell_power:frost",
+          "value": 4.0,
+          "operation": "ADDITION"
+        },
+        {
+          "id": "extraspellattributes:converttofrost",
+          "value": 0.2,
+          "operation": "MULTIPLY_BASE"
+        }
+      ]
+    },
+    "frost_blade": {
+      "attack_damage": 3.0,
+      "attack_speed": -2.4,
+      "attributes": [
+        {
+          "id": "spell_power:frost",
+          "value": 2.0,
+          "operation": "ADDITION"
+        },
+        {
+          "id": "extraspellattributes:converttofrost",
+          "value": 0.2,
+          "operation": "MULTIPLY_BASE"
+        }
+      ]
+    },
+    "arcane_claymore": {
+      "attack_damage": 6.0,
+      "attack_speed": -3.0,
+      "attributes": [
+        {
+          "id": "spell_power:arcane",
+          "value": 4.0,
+          "operation": "ADDITION"
+        },
+        {
+          "id": "extraspellattributes:converttoarcane",
+          "value": 0.2,
+          "operation": "MULTIPLY_BASE"
+        }
+      ]
+    },
+    "flaming_falchion": {
+      "attack_damage": 5.0,
+      "attack_speed": -2.4,
+      "attributes": [
+        {
+          "id": "spell_power:fire",
+          "value": 3.0,
+          "operation": "ADDITION"
+        },
+        {
+          "id": "extraspellattributes:converttofire",
+          "value": 0.2,
+          "operation": "MULTIPLY_BASE"
+        }
+      ]
+    },
+    "arcane_blade": {
+      "attack_damage": 3.0,
+      "attack_speed": -2.4,
+      "attributes": [
+        {
+          "id": "spell_power:arcane",
+          "value": 2.0,
+          "operation": "ADDITION"
+        },
+        {
+          "id": "extraspellattributes:converttoarcane",
+          "value": 0.2,
+          "operation": "MULTIPLY_BASE"
+        }
+      ]
+    },
+    "glacial_gladius": {
+      "attack_damage": 5.0,
+      "attack_speed": -2.4,
+      "attributes": [
+        {
+          "id": "spell_power:frost",
+          "value": 3.0,
+          "operation": "ADDITION"
+        },
+        {
+          "id": "extraspellattributes:converttofrost",
+          "value": 0.2,
+          "operation": "MULTIPLY_BASE"
+        }
+      ]
+    },
+    "fire_orb": {
+      "attack_damage": 1.0,
+      "attack_speed": -3.0,
+      "attributes": [
+        {
+          "id": "spell_power:fire",
+          "value": 2.0,
+          "operation": "ADDITION"
+        },
+        {
+          "id": "spell_power:haste",
+          "value": 0.25,
+          "operation": "MULTIPLY_BASE"
+        }
+      ]
+    }
+  },
+  "armor_sets": {
+    "runeblazing": {
+      "armor_toughness": 0.0,
+      "knockback_resistance": 0.0,
+      "head": {
+        "armor": 2,
+        "attributes": [
+          {
+            "id": "spell_power:fire",
+            "value": 0.03,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "minecraft:generic.attack_damage",
+            "value": 0.03,
+            "operation": "MULTIPLY_BASE"
+          }
+        ]
+      },
+      "chest": {
+        "armor": 5,
+        "attributes": [
+          {
+            "id": "spell_power:fire",
+            "value": 0.03,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "minecraft:generic.attack_damage",
+            "value": 0.03,
+            "operation": "MULTIPLY_BASE"
+          }
+        ]
+      },
+      "legs": {
+        "armor": 4,
+        "attributes": [
+          {
+            "id": "spell_power:fire",
+            "value": 0.03,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "minecraft:generic.attack_damage",
+            "value": 0.03,
+            "operation": "MULTIPLY_BASE"
+          }
+        ]
+      },
+      "feet": {
+        "armor": 2,
+        "attributes": [
+          {
+            "id": "spell_power:fire",
+            "value": 0.03,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "minecraft:generic.attack_damage",
+            "value": 0.03,
+            "operation": "MULTIPLY_BASE"
+          }
+        ]
+      }
+    },
+    "blazing": {
+      "armor_toughness": 0.0,
+      "knockback_resistance": 0.0,
+      "head": {
+        "armor": 2,
+        "attributes": [
+          {
+            "id": "spell_power:critical_chance",
+            "value": 0.04,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "spell_power:haste",
+            "value": 0.06,
+            "operation": "MULTIPLY_BASE"
+          }
+        ]
+      },
+      "chest": {
+        "armor": 6,
+        "attributes": [
+          {
+            "id": "spell_power:fire",
+            "value": 0.03,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "minecraft:generic.attack_damage",
+            "value": 0.04,
+            "operation": "MULTIPLY_BASE"
+          }
+        ]
+      },
+      "legs": {
+        "armor": 4,
+        "attributes": [
+          {
+            "id": "spell_power:fire",
+            "value": 0.03,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "minecraft:generic.attack_damage",
+            "value": 0.04,
+            "operation": "MULTIPLY_BASE"
+          }
+        ]
+      },
+      "feet": {
+        "armor": 2,
+        "attributes": [
+          {
+            "id": "spell_power:fire",
+            "value": 0.03,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "minecraft:generic.attack_damage",
+            "value": 0.04,
+            "operation": "MULTIPLY_BASE"
+          }
+        ]
+      }
+    },
+    "ashherald": {
+      "armor_toughness": 0.0,
+      "knockback_resistance": 0.0,
+      "head": {
+        "armor": 2,
+        "attributes": []
+      },
+      "chest": {
+        "armor": 7,
+        "attributes": []
+      },
+      "legs": {
+        "armor": 5,
+        "attributes": []
+      },
+      "feet": {
+        "armor": 2,
+        "attributes": []
+      }
+    },
+    "runefrosted": {
+      "armor_toughness": 0.0,
+      "knockback_resistance": 0.0,
+      "head": {
+        "armor": 2,
+        "attributes": [
+          {
+            "id": "spell_power:frost",
+            "value": 0.03,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "minecraft:generic.attack_damage",
+            "value": 0.03,
+            "operation": "MULTIPLY_BASE"
+          }
+        ]
+      },
+      "chest": {
+        "armor": 5,
+        "attributes": [
+          {
+            "id": "spell_power:frost",
+            "value": 0.03,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "minecraft:generic.attack_damage",
+            "value": 0.04,
+            "operation": "MULTIPLY_BASE"
+          }
+        ]
+      },
+      "legs": {
+        "armor": 4,
+        "attributes": [
+          {
+            "id": "spell_power:frost",
+            "value": 0.03,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "minecraft:generic.attack_damage",
+            "value": 0.03,
+            "operation": "MULTIPLY_BASE"
+          }
+        ]
+      },
+      "feet": {
+        "armor": 2,
+        "attributes": [
+          {
+            "id": "spell_power:frost",
+            "value": 0.03,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "minecraft:generic.attack_damage",
+            "value": 0.03,
+            "operation": "MULTIPLY_BASE"
+          }
+        ]
+      }
+    },
+    "arcaneherald": {
+      "armor_toughness": 0.0,
+      "knockback_resistance": 0.0,
+      "head": {
+        "armor": 2,
+        "attributes": []
+      },
+      "chest": {
+        "armor": 7,
+        "attributes": []
+      },
+      "legs": {
+        "armor": 5,
+        "attributes": []
+      },
+      "feet": {
+        "armor": 2,
+        "attributes": []
+      }
+    },
+    "frozen": {
+      "armor_toughness": 0.0,
+      "knockback_resistance": 0.0,
+      "head": {
+        "armor": 2,
+        "attributes": [
+          {
+            "id": "spell_power:critical_chance",
+            "value": 0.04,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "spell_power:critical_damage",
+            "value": 0.2,
+            "operation": "MULTIPLY_BASE"
+          }
+        ]
+      },
+      "chest": {
+        "armor": 6,
+        "attributes": [
+          {
+            "id": "spell_power:frost",
+            "value": 0.03,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "minecraft:generic.attack_damage",
+            "value": 0.04,
+            "operation": "MULTIPLY_BASE"
+          }
+        ]
+      },
+      "legs": {
+        "armor": 4,
+        "attributes": [
+          {
+            "id": "spell_power:frost",
+            "value": 0.03,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "minecraft:generic.attack_damage",
+            "value": 0.04,
+            "operation": "MULTIPLY_BASE"
+          }
+        ]
+      },
+      "feet": {
+        "armor": 2,
+        "attributes": [
+          {
+            "id": "spell_power:frost",
+            "value": 0.03,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "minecraft:generic.attack_damage",
+            "value": 0.04,
+            "operation": "MULTIPLY_BASE"
+          }
+        ]
+      }
+    },
+    "gleaming": {
+      "armor_toughness": 0.0,
+      "knockback_resistance": 0.0,
+      "head": {
+        "armor": 2,
+        "attributes": [
+          {
+            "id": "spell_power:critical_damage",
+            "value": 0.2,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "spell_power:haste",
+            "value": 0.06,
+            "operation": "MULTIPLY_BASE"
+          }
+        ]
+      },
+      "chest": {
+        "armor": 6,
+        "attributes": [
+          {
+            "id": "spell_power:arcane",
+            "value": 0.03,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "minecraft:generic.attack_damage",
+            "value": 0.04,
+            "operation": "MULTIPLY_BASE"
+          }
+        ]
+      },
+      "legs": {
+        "armor": 4,
+        "attributes": [
+          {
+            "id": "spell_power:arcane",
+            "value": 0.03,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "minecraft:generic.attack_damage",
+            "value": 0.04,
+            "operation": "MULTIPLY_BASE"
+          }
+        ]
+      },
+      "feet": {
+        "armor": 2,
+        "attributes": [
+          {
+            "id": "spell_power:arcane",
+            "value": 0.03,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "minecraft:generic.attack_damage",
+            "value": 0.04,
+            "operation": "MULTIPLY_BASE"
+          }
+        ]
+      }
+    },
+    "magus": {
+      "armor_toughness": 0.0,
+      "knockback_resistance": 0.0,
+      "head": {
+        "armor": 2,
+        "attributes": [
+          {
+            "id": "spell_power:frost",
+            "value": 0.1,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "spell_power:fire",
+            "value": 0.1,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "spell_power:arcane",
+            "value": 0.1,
+            "operation": "MULTIPLY_BASE"
+          }
+        ]
+      },
+      "chest": {
+        "armor": 4,
+        "attributes": [
+          {
+            "id": "spell_power:frost",
+            "value": 0.1,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "spell_power:fire",
+            "value": 0.1,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "spell_power:arcane",
+            "value": 0.1,
+            "operation": "MULTIPLY_BASE"
+          }
+        ]
+      },
+      "legs": {
+        "armor": 3,
+        "attributes": [
+          {
+            "id": "spell_power:frost",
+            "value": 0.1,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "spell_power:fire",
+            "value": 0.1,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "spell_power:arcane",
+            "value": 0.1,
+            "operation": "MULTIPLY_BASE"
+          }
+        ]
+      },
+      "feet": {
+        "armor": 1,
+        "attributes": [
+          {
+            "id": "spell_power:frost",
+            "value": 0.1,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "spell_power:fire",
+            "value": 0.1,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "spell_power:arcane",
+            "value": 0.1,
+            "operation": "MULTIPLY_BASE"
+          }
+        ]
+      }
+    },
+    "runegleaming": {
+      "armor_toughness": 0.0,
+      "knockback_resistance": 0.0,
+      "head": {
+        "armor": 2,
+        "attributes": [
+          {
+            "id": "spell_power:arcane",
+            "value": 0.03,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "minecraft:generic.attack_damage",
+            "value": 0.03,
+            "operation": "MULTIPLY_BASE"
+          }
+        ]
+      },
+      "chest": {
+        "armor": 5,
+        "attributes": [
+          {
+            "id": "spell_power:arcane",
+            "value": 0.03,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "minecraft:generic.attack_damage",
+            "value": 0.03,
+            "operation": "MULTIPLY_BASE"
+          }
+        ]
+      },
+      "legs": {
+        "armor": 4,
+        "attributes": [
+          {
+            "id": "spell_power:arcane",
+            "value": 0.03,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "minecraft:generic.attack_damage",
+            "value": 0.03,
+            "operation": "MULTIPLY_BASE"
+          }
+        ]
+      },
+      "feet": {
+        "armor": 2,
+        "attributes": [
+          {
+            "id": "spell_power:arcane",
+            "value": 0.03,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "minecraft:generic.attack_damage",
+            "value": 0.03,
+            "operation": "MULTIPLY_BASE"
+          }
+        ]
+      }
+    },
+    "frostherald": {
+      "armor_toughness": 0.0,
+      "knockback_resistance": 0.0,
+      "head": {
+        "armor": 2,
+        "attributes": []
+      },
+      "chest": {
+        "armor": 7,
+        "attributes": []
+      },
+      "legs": {
+        "armor": 5,
+        "attributes": []
+      },
+      "feet": {
+        "armor": 2,
+        "attributes": []
+      }
+    }
+  }
+}

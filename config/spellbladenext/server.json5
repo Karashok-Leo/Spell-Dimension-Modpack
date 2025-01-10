@@ -1,0 +1,48 @@
+{
+	// Upper bound of Ashes of the Stars (Default: 50)
+	"ashes_upper_bound": 50,
+	// Lower bound of Ashes of the Stars (Default: 10)
+	"ashes_lower_bound": 10,
+	// Upper bound of Crystallised Omniscience (Default: 30)
+	"omni_upper": 30,
+	// Lower bound of Crystallised Omniscience (Default: 5)
+	"omni_lower": 5,
+	// Coefficient for Voidforge gained damage (Default: 1x, results in 100% gained as)
+	"voidforge": 1,
+	// Spellblade passive maximum Strength and Haste(Default: 10
+	"passive": 10,
+	// Distance from 0,0 below which Hexblades will not invade in the Glass Ocean (Default: 0)
+	"hexblade_grace": 0,
+	// Damage multiplier for spin attacks (eg: Whirlwind) (Default: 1.0)
+	"spin_attack_coeff": 1.0,
+	// Hexblade module (Default: TRUE)
+	"hexblade_on": true,
+	// Magus changes the weather on phase end (Default: TRUE)
+	"magusWeather": true,
+	// Magus can be summoned outside the glass ocean (Default: TRUE)
+	"magusWeaker": true,
+	// Reactive ward regen rate coefficient (Default: 1.0)
+	"wardrate": 1.0,
+	// Horde Spawn with Mutations (Only with Fight or Die: Mutations)
+	"horde": false,
+	// Enable Teleporting to Glass Ocean
+	"glassocean": true,
+	// Horde/Hexblade spawn modifier (Default: 1.0)
+	"spawnmodifier": 1.0,
+	// Magisters give different xp in the Glass Ocean (Default: false)
+	"diffXP": false,
+	// Magister XP in the Glass Ocean, if different (Default: 25)
+	"magisterXP": 25,
+	// Do not apply Spell Oil capability to any item matching this regex. (Not applied of empty)
+	"blacklist_spell_oil_regex": "",
+	// Enable tabula rasa (Default: true
+	"tab": true,
+	// ARMOR spell school multiplier (Default: 1.0
+	"ARMORMULT": 1.0,
+	// Defiance of Destiny ARMOR Coefficient (Default: 0.0) (Defiance of Destiny healing is (1% of your max health)*(1+(Armor)*(ArmorCoeff)+(Healing Power)*(HealCoeff))*(Effect Amplifier)*(coeff)
+	"ArmorCoeff": 0.0,
+	// Defiance of Destiny HEALING Coefficient (Default: 1F) (Defiance of Destiny healing is (1% of your max health)*(1+(Armor)*(ArmorCoeff)+(Healing Power)*(HealCoeff))*(Effect Amplifier)*(coeff)
+	"HealCoeff": 1.0,
+	// Defiance of Destiny OVERALL Efficiency Coefficient (Default: 1F) (Defiance of Destiny healing is (1% of your max health)*(1+(Armor)*(ArmorCoeff)+(Healing Power)*(HealCoeff))*(Effect Amplifier)*(coeff)
+	"coeff": 1.0
+}
