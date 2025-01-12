@@ -225,10 +225,6 @@ file = "config/armorsets/warden_weapon.json"
 hash = "08cc9f54f996aa8865bf327372cbc6e171f9916af6d3ac4e7addc6ebb5bde735"
 
 [[files]]
-file = "config/backpacked-common.toml"
-hash = "a1e956d49765e14d790ccfa951a13eff2dd618ceb724f418358d31268a0f5bd8"
-
-[[files]]
 file = "config/bestylewither.toml"
 hash = "d0bd61ffac3500a94a61cd827b4d2d5973ec3ecf33b2c81ebb7c2401746b2e2d"
 
@@ -275,10 +271,6 @@ hash = "6c3ec2b2926b78c73dddf0cfedaf483efb7c3fe8a093f557e560ab280a0683f4"
 [[files]]
 file = "config/creeper_firework.json5"
 hash = "b8044d3bf7dbb4778ed2586f3abf92d3a0a9c9257d22c65abc2ebcb61f6cd711"
-
-[[files]]
-file = "config/creeperaiupdated.json"
-hash = "62d857eaccda46f7c08ae5743ace0daa2c164f17868303432598787b8657c7c6"
 
 [[files]]
 file = "config/deeperdarker.json5"
@@ -378,7 +370,7 @@ hash = "04bc233713cb1865a30943e5c26386ca3237d605287a51882feec6cc6ae8b0c1"
 
 [[files]]
 file = "config/fancymenu/customization/spell-dimension.txt"
-hash = "8dfb55a853d0cac0bb20e99bc5ec5c9b0bff0a5dd3311f8f18a3d2b9fc61c242"
+hash = "f6d4883b8d3e9a30ee0b8fabb0a0957c63696be5480a32d6b3bd35b23cabc635"
 
 [[files]]
 file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
@@ -391,34 +383,6 @@ hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
 [[files]]
 file = "config/fancymenu/options.txt"
 hash = "5cfa1feb5e19ec5cbff71346e6dd7f4b979345fefee8fd45c7166deaec945b16"
-
-[[files]]
-file = "config/fancymenu/panoramas/spell-dimension/panorama/panorama_0.png"
-hash = "0c284192eb7cd08f4779eee3904bc65242525349132b917e4f535f2d58ae4da3"
-
-[[files]]
-file = "config/fancymenu/panoramas/spell-dimension/panorama/panorama_1.png"
-hash = "8ba6ccbdff7c6df95c6d4fcf7625c3710578d40cb3746aaf227c4b0c216570f0"
-
-[[files]]
-file = "config/fancymenu/panoramas/spell-dimension/panorama/panorama_2.png"
-hash = "8ed057df61d2521b197b6363c91c133f347d71b92d64e228ee9c245315bcd537"
-
-[[files]]
-file = "config/fancymenu/panoramas/spell-dimension/panorama/panorama_3.png"
-hash = "def49cd497e9687642dbb8f0397c8dd394feeb312a0b43aa8a41e5367438781a"
-
-[[files]]
-file = "config/fancymenu/panoramas/spell-dimension/panorama/panorama_4.png"
-hash = "9cb21d884fca2b89844ed28083b685f905d172ff8bd997ddee5df2a0fbaade32"
-
-[[files]]
-file = "config/fancymenu/panoramas/spell-dimension/panorama/panorama_5.png"
-hash = "28fa48ae53c0144ce958efa4446faac885687d1af37fd93fab6822f1922e1cc1"
-
-[[files]]
-file = "config/fancymenu/panoramas/spell-dimension/properties.txt"
-hash = "3604312bc218a16a6caf5bb3675460afa0957e68c35ba1927c7a82ef02c998bf"
 
 [[files]]
 file = "config/fancymenu/ui_themes/dark.json"
@@ -489,10 +453,6 @@ file = "config/jewelry/items_v4.json"
 hash = "96e2bb21e73b095649b1a6dad6fc951b045eaf74f7d5a4efb7e51cd28a227308"
 
 [[files]]
-file = "config/justmobheads.json5"
-hash = "c5bcdc35b6c4fb7e5a96d552c10c13302c95956b3d6b038817cb97cd26f42801"
-
-[[files]]
 file = "config/l2hostility/client.json5"
 hash = "45f72d573115a83715ed993fc9502fabad886c412cd34f05812e86f5ff17cc47"
 
@@ -531,10 +491,6 @@ hash = "3caf35372ac976d23b443f6b2c10128216bbb4968cfda4559d169eac0a97e7a9"
 [[files]]
 file = "config/lootr.json"
 hash = "db140e54acd3b625ffea9307ff1e969fd5884f7d586c43a1ebeb32b9fa0a8413"
-
-[[files]]
-file = "config/mobplaques-client.toml"
-hash = "eb0eda663cd6c6cd36c89df90b1c820cd659723171d91cb95162960a5736b088"
 
 [[files]]
 file = "config/modmenu.json"
@@ -1501,10 +1457,6 @@ file = "config/openloader/resources/translations/assets/spellbladenext/lang/zh_c
 hash = "fc35c67b64fef52b0ab8c4806990d6ebe8f8645b3c005f4e69a98c5603255274"
 
 [[files]]
-file = "config/openloader/resources/translations/assets/victus/lang/zh_cn.json"
-hash = "2c4dadd4def16916cfebab0a030a7de59225d2be63032be6302cf0c70084ded3"
-
-[[files]]
 file = "config/openloader/resources/translations/assets/wizards/lang/zh_cn.json"
 hash = "701f5741c5728ae859cc30a8c650aeccc70dd27607a3e1eb2c85fdb9e6155a53"
 
@@ -1529,14 +1481,6 @@ file = "config/pickupnotifier/pickupnotifier-server.toml"
 hash = "b07cfb4b25e91c9cd03c21b19d156d270f4375c518f4b3c4268d34bee35c0b3a"
 
 [[files]]
-file = "config/progressivebosses.conf"
-hash = "b79a0045c9bbb43e5494f96012517eb4876047006067484c99534a7a75b5a7e3"
-
-[[files]]
-file = "config/puffish_skills/config.json"
-hash = "ecb5d695667131fe96c0d04165bbcf4a144c4dc5e1890c3226a653247b27a87d"
-
-[[files]]
 file = "config/rallyhealth.toml"
 hash = "822f0388e3087de6b4961c8be442f6fe09d85ebebf1c5cbadaa4f69bcaadfc37"
 
@@ -1550,7 +1494,7 @@ hash = "881075f4341fd799b562f3b303087d979e7f826fee8aa410fea7f2db529c4db9"
 
 [[files]]
 file = "config/reciperemover.json"
-hash = "3be7465034d70b9ce6b45a7982d6f1901d5632e090744e5c64ae39650f3217f0"
+hash = "e289a35d23c69b28a8a0524f9883574b6d92e48177bf5b85fa0477e5f9bdc233"
 
 [[files]]
 file = "config/rpg_series/loot_v2.json"
@@ -1617,54 +1561,6 @@ file = "config/spellbladenext/server.json5"
 hash = "10e1607f7ebabbddafef178bacd6f3f215a24f52870f3101809dc2c6bd72113f"
 
 [[files]]
-file = "config/starterkit.json5"
-hash = "ed18501fad8911026af6621ab5a90382a195a915dc547d2a988d1fd9992f9ddf"
-
-[[files]]
-file = "config/starterkit/descriptions/arcane.txt"
-hash = "54ef3994122c9f679d113cada34e44acc57122132b79eb79321c7c02023e5bb5"
-
-[[files]]
-file = "config/starterkit/descriptions/fire.txt"
-hash = "c407fe9cbd6ea19d0557535c2bc124ddd5846141bef18724248577d010865559"
-
-[[files]]
-file = "config/starterkit/descriptions/frost.txt"
-hash = "60f267fcd47db825d3bbf441815fabbaba0eaf9c02579818d2ac71d928fca02a"
-
-[[files]]
-file = "config/starterkit/descriptions/healing.txt"
-hash = "ecc633ef02eca1a6cd66c8aa91e1f60268745504c81725644c645554fa72bc8e"
-
-[[files]]
-file = "config/starterkit/descriptions/uncertainty.txt"
-hash = "28f4077403a02396d11331106445a2b04a1330bebe7588f70bd4592c5d71ac9a"
-
-[[files]]
-file = "config/starterkit/kits/arcane.txt"
-hash = "1984a44ee59eedb92ded0472ff8aeb7af52b76f4953d770a082cc4987cf4c5be"
-
-[[files]]
-file = "config/starterkit/kits/fire.txt"
-hash = "6b8d2210aac08e377349d975b5cc76ca708610907a838b4cde0a987cc225d4e2"
-
-[[files]]
-file = "config/starterkit/kits/frost.txt"
-hash = "b1edea9fbd16112d3fcd78b56036a77ffb9e32311d57af80a0971fd77b9941a7"
-
-[[files]]
-file = "config/starterkit/kits/healing.txt"
-hash = "b8b574574f386a739668add29d7aafef2c395011ea1ab6ebbfd922a3525e0c53"
-
-[[files]]
-file = "config/starterkit/kits/uncertainty.txt"
-hash = "9a5cbf6c3108864472547a7d38dc4b65a94da91ab0971b20a5ea6075431896c4"
-
-[[files]]
-file = "config/tooltipscroll.json"
-hash = "babd1722de92cbf8fb6f4476a2183bb170cd51da7ff62bd5b849116becf1083a"
-
-[[files]]
 file = "config/universal-graves/config.json"
 hash = "d64bfb57e54759eb13e4bdacdcd5a7a390237ef273a2a59f7b8f66cb8f75c98e"
 
@@ -1699,6 +1595,10 @@ hash = "e83de0531f5100ebcbb22ed4750e008b28b10da40a02aa78c09da04f08b0da22"
 [[files]]
 file = "config/veinmining-server.toml"
 hash = "4fdc7908dc74871192553ba9e390e090486ad2c5fc35a0b7be12f56325bebff6"
+
+[[files]]
+file = "config/voidz.json5"
+hash = "bd57c0dec00015978e15d660cacaba957364e826046a465649c1957ee5a5c94a"
 
 [[files]]
 file = "config/wizards/items_v4.json"
@@ -2673,11 +2573,6 @@ metafile = true
 [[files]]
 file = "mods/vein-mining.pw.toml"
 hash = "26abe43f2212a3fd943798d445db6bf9f8ecba76c4e8f7fe45ed703ff8d77645"
-metafile = true
-
-[[files]]
-file = "mods/victus.pw.toml"
-hash = "eab96b0bfb4f642b7e3de9dea7116b422e63a82b35068cbc9f4edffa5999f6d3"
 metafile = true
 
 [[files]]
