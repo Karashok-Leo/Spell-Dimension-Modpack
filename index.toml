@@ -777,6 +777,30 @@ file = "config/openloader/data/recipe/data/adventurez/recipes/chiseled_polished_
 hash = "4b4efa367fff6b23f3378eaa46ecd570541292797b8c366407180ae5d92b4b57"
 
 [[files]]
+file = "config/openloader/data/recipe/data/alloy_forgery/recipes/bricks_forge.json"
+hash = "8fd431363ae1d9091e35840e4f7e6e3e66d0358c15822175d2b9ead90ba39775"
+
+[[files]]
+file = "config/openloader/data/recipe/data/alloy_forgery/recipes/deepslate_bricks_forge.json"
+hash = "d34ac3d77bb087dec4fbb8cac667f071e1c0a89f24f00271dd4af8496a4e4741"
+
+[[files]]
+file = "config/openloader/data/recipe/data/alloy_forgery/recipes/end_stone_bricks_forge.json"
+hash = "a7a942160ba92dd8e4256a971cc850b692ff995d07e21da6bbdaace21c963e59"
+
+[[files]]
+file = "config/openloader/data/recipe/data/alloy_forgery/recipes/polished_blackstone_forge.json"
+hash = "606be0779242284c1a743b2d0453809bc6bafa63e7161dda7986d97771943625"
+
+[[files]]
+file = "config/openloader/data/recipe/data/alloy_forgery/recipes/prismarine_bricks_forge.json"
+hash = "8d400bc35238ac582aec80b405b65478ade9f4deaaba662d2150b7389ade64b1"
+
+[[files]]
+file = "config/openloader/data/recipe/data/alloy_forgery/recipes/stone_bricks_forge.json"
+hash = "b78cab938e8cdeef0112bf510db24103e02cdfb0fbceb7968d66364d306768a2"
+
+[[files]]
 file = "config/openloader/data/recipe/data/constructionwand/recipes/diamond_wand.json"
 hash = "f967d0cbb67b04561d623594675202ab83bd82959277a2f150eaf01498ad3fab"
 
@@ -795,6 +819,10 @@ hash = "ca809c124d70b8c9bc796c33cb4b05f4ee4cd773996fcc295c55fb169d752dfb"
 [[files]]
 file = "config/openloader/data/recipe/data/graveyard/recipes/bone_dagger.json"
 hash = "553206c9c3d3159700482fdbe585411488656b9f13839516e94cd98fd0eecf12"
+
+[[files]]
+file = "config/openloader/data/recipe/data/mythicmetals/recipes/adamantite_forge.json"
+hash = "c4278fa0526c104a0b668855261fd7b0474a6352d68e0325f763de4b613d6881"
 
 [[files]]
 file = "config/openloader/data/recipe/data/soulsweapons/recipes/chaos_orb.json"
@@ -818,7 +846,7 @@ hash = "c37939b36df898950911901f5489dbd461a9180cf583bc17ecb377fd495cb658"
 
 [[files]]
 file = "config/openloader/data/recipe/data/spell-dimension/recipes/fire/0.json"
-hash = "cabd8b66fe53a3ddfe94cd655e9eb4c709f6f091eeb9fe42cfad31175ea54df9"
+hash = "56c129fb6f64e0e7088c989dc93ee3f0120a21f4cffe970248007e104af9a7ff"
 
 [[files]]
 file = "config/openloader/data/recipe/data/spell-dimension/recipes/fire/1.json"
@@ -929,10 +957,6 @@ file = "config/openloader/data/recipe/data/spell-dimension/recipes/misc/adamanti
 hash = "94e9790c5eec14f2f1ef4be0d75dd845b7c5575c79040325166cfc0cb4666078"
 
 [[files]]
-file = "config/openloader/data/recipe/data/spell-dimension/recipes/misc/backpack.json"
-hash = "b124f8096712d4ff4d3362f4b2165b69e1d777df6de6fb9322a1c87b56fee4b0"
-
-[[files]]
 file = "config/openloader/data/recipe/data/spell-dimension/recipes/misc/black_dye.json"
 hash = "0b9318cfb984715401f2a61ae92b8013e598ff75514bd438d8a2b4616e226c31"
 
@@ -962,7 +986,19 @@ hash = "9088ccf6df9e2833e733f4b17d997f5b508393b9ffd995e967dcfd224f5a3665"
 
 [[files]]
 file = "config/openloader/data/recipe/data/spell-dimension/recipes/misc/enchanted_golden_apple.json"
+hash = "50c2208547a59fd40940c52b8dedd443e3bdef758bb2c1e8db48e1eb8e82a812"
+
+[[files]]
+file = "config/openloader/data/recipe/data/spell-dimension/recipes/misc/enchanted_golden_apple_alloy.json"
 hash = "ccb1b35c82b289ca7190b4938e34b4b9dbe5b94dbd330f1eb249eaf0a334d82f"
+
+[[files]]
+file = "config/openloader/data/recipe/data/spell-dimension/recipes/misc/enchanted_golden_carrot.json"
+hash = "bc7d9b3037d0c50f4041fbc15daee5dce47ce5e8d2d31715ffd3bc9db78957c1"
+
+[[files]]
+file = "config/openloader/data/recipe/data/spell-dimension/recipes/misc/enchanted_golden_carrot_alloy.json"
+hash = "993dfd03d18d0c27785f55d1abf05b0c662f3f263b9d78f26908fe5c5610ddb0"
 
 [[files]]
 file = "config/openloader/data/recipe/data/spell-dimension/recipes/misc/flint.json"
@@ -1554,7 +1590,7 @@ hash = "a93b4e811672df57fd12a2925568b3b17bbc412fd38208617719aaa8edb9e58b"
 
 [[files]]
 file = "config/spellbladenext/items_v10.json"
-hash = "fde7be4e69fcbd26569b01f8064670414f1b3d7726f85978753f2138b6ddd925"
+hash = "20978b67c34b60b5565335ae965d80304c157202a9728a1213a0464f00d8f5bd"
 
 [[files]]
 file = "config/spellbladenext/server.json5"
@@ -1722,7 +1758,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm-fabric.pw.toml"
-hash = "88d4ede7f5ed092076125de8c50fa9edf85076e0c3053ee7716d9d02449dd8b1"
+hash = "6262896ed548c1789e0aec5877cf175c03ec201e1bcc236e9abc77b9ec91bb68"
 metafile = true
 
 [[files]]
@@ -1877,7 +1913,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "a9cc3936802a504e1fdcca6e86563d00e58600735a2547e5a95b9e142bdf0803"
+hash = "b7a71d29f63b2e8fe36064b2471b6aad3e6f148510040dad2107d333d3ea778d"
 metafile = true
 
 [[files]]
@@ -1997,7 +2033,7 @@ metafile = true
 
 [[files]]
 file = "mods/geophilic.pw.toml"
-hash = "3629af46a55a542424e7429f8954a39d287e33db3b36505efcf0d32ac0ef1911"
+hash = "e70dddccebb71fe277a379a820fd2d7d810a89713f6da9f35fb39bf0d8df2870"
 metafile = true
 
 [[files]]
@@ -2092,7 +2128,7 @@ metafile = true
 
 [[files]]
 file = "mods/l2-hostility-fabricated.pw.toml"
-hash = "9c83294bfb2840b30cb03155872a30c21b4272c6985216192448ce59f2fc421b"
+hash = "6e9382b1eec0f07103534ba23e93c88ecebb041c05cf21bba7ce8c63e860dd34"
 metafile = true
 
 [[files]]
@@ -2232,7 +2268,7 @@ metafile = true
 
 [[files]]
 file = "mods/mss-moogs-soaring-structures.pw.toml"
-hash = "3ee05a1b51be6b0b941a2b7adf2957884af76c9094fa324e9a90e1fd7f86e1aa"
+hash = "7997621268eb8e3667e9993a2026e992c7b0375ac83695fe2f686e449545ff1a"
 metafile = true
 
 [[files]]
@@ -2412,7 +2448,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "cc77646e6e5668f225c755b5519e376d65e7b8c15a04c7ec959709c30d18c352"
+hash = "b169465bd82303a2d82f0582aafdae72cfecbd77048d3686169cb70c974fcba2"
 metafile = true
 
 [[files]]
@@ -2477,7 +2513,7 @@ metafile = true
 
 [[files]]
 file = "mods/spell-dimension-extra.pw.toml"
-hash = "864740c5fc54884921cb4157e6da8ebe04098efadcd568e6f209222abfcf0969"
+hash = "9f8548437d21248d56581d2ff397a78278c439e2fafe0c070f020b3dfc70554f"
 metafile = true
 
 [[files]]
@@ -2547,7 +2583,7 @@ metafile = true
 
 [[files]]
 file = "mods/trashslot-fabric-edition.pw.toml"
-hash = "d6c027258791e6e373e3200a7422e8ac108bf0cc17d8be0fc1de71b0fc1d669c"
+hash = "0b4eb8815e83c6bfeb1534c025bdfc6c35c3ece39503fcb0f11a2598c8afe29d"
 metafile = true
 
 [[files]]

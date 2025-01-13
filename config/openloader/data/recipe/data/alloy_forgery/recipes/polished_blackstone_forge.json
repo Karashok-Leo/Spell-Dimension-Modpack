@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "#B#",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:polished_blackstone"
+        },
+        "B": {
+            "item": "l2hostility:soul_flame"
+        }
+    },
+    "result": {
+        "item": "alloy_forgery:polished_blackstone_forge_controller",
+        "count": 1
+    }
+}

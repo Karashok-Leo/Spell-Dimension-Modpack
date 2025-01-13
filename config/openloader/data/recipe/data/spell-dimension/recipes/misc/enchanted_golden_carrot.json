@@ -3,7 +3,7 @@
   "category": "misc",
   "key": {
     "A": {
-      "item": "minecraft:golden_apple"
+      "item": "minecraft:golden_carrot"
     },
     "S": {
       "item": "spell-dimension:spawner_soul"
@@ -15,6 +15,6 @@
     "SSS"
   ],
   "result": {
-    "item": "minecraft:enchanted_golden_apple"
+    "item": "midashunger:enchanted_golden_carrot"
   }
 }

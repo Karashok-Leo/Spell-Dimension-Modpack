@@ -307,7 +307,7 @@
         "attributes": [
           {
             "id": "spell_power:fire",
-            "value": 0.03,
+            "value": 0.04,
             "operation": "MULTIPLY_BASE"
           },
           {
@@ -322,7 +322,7 @@
         "attributes": [
           {
             "id": "spell_power:fire",
-            "value": 0.03,
+            "value": 0.04,
             "operation": "MULTIPLY_BASE"
           },
           {
@@ -337,7 +337,7 @@
         "attributes": [
           {
             "id": "spell_power:fire",
-            "value": 0.03,
+            "value": 0.04,
             "operation": "MULTIPLY_BASE"
           },
           {
@@ -475,7 +475,7 @@
         "attributes": [
           {
             "id": "spell_power:frost",
-            "value": 0.03,
+            "value": 0.04,
             "operation": "MULTIPLY_BASE"
           },
           {
@@ -490,7 +490,7 @@
         "attributes": [
           {
             "id": "spell_power:frost",
-            "value": 0.03,
+            "value": 0.04,
             "operation": "MULTIPLY_BASE"
           },
           {
@@ -505,7 +505,7 @@
         "attributes": [
           {
             "id": "spell_power:frost",
-            "value": 0.03,
+            "value": 0.04,
             "operation": "MULTIPLY_BASE"
           },
           {
@@ -539,7 +539,7 @@
         "attributes": [
           {
             "id": "spell_power:arcane",
-            "value": 0.03,
+            "value": 0.04,
             "operation": "MULTIPLY_BASE"
           },
           {
@@ -554,7 +554,7 @@
         "attributes": [
           {
             "id": "spell_power:arcane",
-            "value": 0.03,
+            "value": 0.04,
             "operation": "MULTIPLY_BASE"
           },
           {
@@ -569,7 +569,7 @@
         "attributes": [
           {
             "id": "spell_power:arcane",
-            "value": 0.03,
+            "value": 0.04,
             "operation": "MULTIPLY_BASE"
           },
           {
@@ -588,17 +588,17 @@
         "attributes": [
           {
             "id": "spell_power:frost",
-            "value": 0.1,
+            "value": 0.04,
             "operation": "MULTIPLY_BASE"
           },
           {
             "id": "spell_power:fire",
-            "value": 0.1,
+            "value": 0.04,
             "operation": "MULTIPLY_BASE"
           },
           {
             "id": "spell_power:arcane",
-            "value": 0.1,
+            "value": 0.04,
             "operation": "MULTIPLY_BASE"
           }
         ]
@@ -608,17 +608,17 @@
         "attributes": [
           {
             "id": "spell_power:frost",
-            "value": 0.1,
+            "value": 0.04,
             "operation": "MULTIPLY_BASE"
           },
           {
             "id": "spell_power:fire",
-            "value": 0.1,
+            "value": 0.04,
             "operation": "MULTIPLY_BASE"
           },
           {
             "id": "spell_power:arcane",
-            "value": 0.1,
+            "value": 0.04,
             "operation": "MULTIPLY_BASE"
           }
         ]
@@ -628,17 +628,17 @@
         "attributes": [
           {
             "id": "spell_power:frost",
-            "value": 0.1,
+            "value": 0.04,
             "operation": "MULTIPLY_BASE"
           },
           {
             "id": "spell_power:fire",
-            "value": 0.1,
+            "value": 0.04,
             "operation": "MULTIPLY_BASE"
           },
           {
             "id": "spell_power:arcane",
-            "value": 0.1,
+            "value": 0.04,
             "operation": "MULTIPLY_BASE"
           }
         ]
@@ -648,17 +648,17 @@
         "attributes": [
           {
             "id": "spell_power:frost",
-            "value": 0.1,
+            "value": 0.04,
             "operation": "MULTIPLY_BASE"
           },
           {
             "id": "spell_power:fire",
-            "value": 0.1,
+            "value": 0.04,
             "operation": "MULTIPLY_BASE"
           },
           {
             "id": "spell_power:arcane",
-            "value": 0.1,
+            "value": 0.04,
             "operation": "MULTIPLY_BASE"
           }
         ]

@@ -1,5 +1,38 @@
 # Change Log
 
+## 0.5.1 - 2025.1.13
+##### Added
+- New spell: Remote Destruction
+- Recipe for Enchanted Golden Carrot
+##### Changed
+- Update some mods
+- Recipe for forge controllers
+- Adjust the mechanics of Curse of Pride to now increase both damage dealt and damage taken
+- Increase the drop chance of base essences (10%->15%)
+- Allow Void Shadow to respawn automatically (at 20 minute intervals)
+- Significantly reduce the spell bonus from the armor sets of spellbladenext
+- Grenade no longer causes misfires
+- Arena no longer restricts interactions other than placing blocks and destroying blocks
+- Max level of Shulker has been increased to 5.
+- Buffs/debuffs caused by spells are now forced on the target, meaning that these effects now also work on Wither, Ender Dragon, and Void Shadow
+- Lifegain mechanics
+    - No longer able to pre-grow by absorbing experience, but rather by killing monsters
+    - No longer able to increase max health by consuming Life Essence.
+##### Removed
+- Dusk (caused players to be unable to set respawn points during the day / may not perform well on multiplayer servers)
+- Exordium (causes some renders to flicker)
+- Victus (conflicts with Armor Points++/difficult to balance)
+- Panoramic images of the main menu, reducing the size of the import pack to 3MB
+- Some historical redundant config files in the import pack
+##### Fixed
+- Bad formatting of some translation
+- Crash caused by using trait symbols on monsters in server
+- Teleporting over bedrock when using locate spell in the nether
+- Locate spell failing to locate graveyard:ruins
+- Curse of Pride damage reduction that should not exist
+- Problem with Incarn not suppressing teleportation
+- Attribute tab display issue
+
 ## 0.5.0 - 2025.1.6
 ##### Warning
 - This is a destructive update, so please be sure to back up your game saves!
@@ -16,14 +49,14 @@
 - Liquid flotation in the Ocean of Consciousness
 ##### Changed
 - Update some mods
-- Optimized part of the text of the Magic Guidance
+- Optimize part of the text of the Magic Guidance
 - Looting Charm now can only be obtained from quests
 - Looting Charm now increases your charm slot
 - The Invasion Event is now taking place in the Ocean of Consciousness
-- Weakened the effect of Curse of Pride
+- Weaken the effect of Curse of Pride
 - Remove curse effects (from Kibe) from monster random effects (no more extremely fast monsters)
 - Allow to use the Hostility Orb before entering the Ocean of Consciousness
-- Adjusted the rarity of some materials
+- Adjust the rarity of some materials
 ##### Removed
 - Backpacked (Replace)
 - Trinkets (Replace)
@@ -34,14 +67,14 @@
 
 ## 0.4.11 - 2025.1.3
 ##### Changed
-- Reduced the count of items in the material bag and enchantment book bag
-- Changed the merge conditions for Enchanted Essence, now it can be merged as long as the attribute modifiers are the same
-- Modified the Consciousness fluid so that it does not decrease in level with flow
-- Weakened the Flex Breastplate, which now caps damage reduction at 50% and grows at half the original rate
-- Reduced count of monsters to spawn and players no longer need to stay up
+- Reduce the count of items in the material bag and enchantment book bag
+- Change the merge conditions for Enchanted Essence, now it can be merged as long as the attribute modifiers are the same
+- Modify the Consciousness fluid so that it does not decrease in level with flow
+- Weakene the Flex Breastplate, which now caps damage reduction at 50% and grows at half the original rate
+- Reduce count of monsters to spawn and players no longer need to stay up
 - Reduction of density of structures by a factor of 1.25
-- Increased the count of ingredients for alloying random loot bags recipes
-- Optimized recipes for Frost and Fire spellbooks
+- Increase the count of ingredients for alloying random loot bags recipes
+- Optimize recipes for Frost and Fire spellbooks
 ##### Removed
 - Just Mob Heads (no need)
 ##### Fixed

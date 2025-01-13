@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "#B#",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:end_stone_bricks"
+        },
+        "B": {
+            "item": "l2hostility:sun_membrane"
+        }
+    },
+    "result": {
+        "item": "alloy_forgery:end_stone_bricks_forge_controller",
+        "count": 1
+    }
+}

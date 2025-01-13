@@ -1,0 +1,18 @@
+{
+  "type": "alloy_forgery:forging",
+  "inputs": [
+    {
+      "item": "minecraft:carrot"
+    },
+    {
+      "item": "minecraft:gold_block",
+      "count": 16
+    }
+  ],
+  "output": {
+    "id": "midashunger:enchanted_golden_carrot",
+    "count": 1
+  },
+  "min_forge_tier": 3,
+  "fuel_per_tick": 5
+}
