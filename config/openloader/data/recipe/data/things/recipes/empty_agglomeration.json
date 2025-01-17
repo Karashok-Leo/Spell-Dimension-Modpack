@@ -1,0 +1,27 @@
+{
+  "fabric:load_conditions": [
+    {
+      "condition": "things:agglomeration_enabled"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SCS",
+    "CNC",
+    "SCS"
+  ],
+  "key": {
+    "S": {
+      "tag": "spell-dimension:legendary/material"
+    },
+    "N": {
+      "item": "l2hostility:miracle_block"
+    },
+    "C": {
+      "item": "l2hostility:eternium_ingot"
+    }
+  },
+  "result": {
+    "item": "things:empty_agglomeration"
+  }
+}
