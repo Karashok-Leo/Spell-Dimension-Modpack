@@ -1,0 +1,65 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "soulsweapons:draugr_boss",
+      "required": false
+    },
+    {
+      "id": "soulsweapons:night_shade",
+      "required": false
+    },
+    {
+      "id": "soulsweapons:accursed_lord_boss",
+      "required": false
+    },
+    {
+      "id": "soulsweapons:moonknight",
+      "required": false
+    },
+    {
+      "id": "soulsweapons:returning_knight",
+      "required": false
+    },
+    {
+      "id": "soulsweapons:chaos_monarch",
+      "required": false
+    },
+    {
+      "id": "soulsweapons:day_stalker",
+      "required": false
+    },
+    {
+      "id": "soulsweapons:night_prowler",
+      "required": false
+    },
+    {
+      "id": "adventurez:blackstone_golem",
+      "required": false
+    },
+    {
+      "id": "adventurez:the_eye",
+      "required": false
+    },
+    {
+      "id": "adventurez:void_shadow",
+      "required": false
+    },
+    {
+      "id": "graveyard:lich",
+      "required": false
+    },
+    {
+      "id": "aquamirae:captain_cornelia",
+      "required": false
+    },
+    {
+      "id": "illagerinvasion:invoker",
+      "required": false
+    },
+    {
+      "id": "deeperdarker:stalker",
+      "required": false
+    }
+  ]
+}
