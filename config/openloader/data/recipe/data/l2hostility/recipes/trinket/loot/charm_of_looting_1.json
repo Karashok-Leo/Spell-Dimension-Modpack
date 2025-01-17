@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:emerald"
+    },
+    [
+      {
+        "item": "things:agglomeration"
+      },
+      {
+        "item": "things:empty_agglomeration"
+      }
+    ]
+  ],
+  "result": {
+    "item": "l2hostility:charm_of_looting_1"
+  },
+  "show_notification": true
+}

@@ -6,10 +6,6 @@
   "removeAllVanillaAdvancements": false,
   "removeAllAdvancements": false,
   "recipeList": [
-    "l2hostility:trinket/loot/charm_of_looting_1",
-    "l2hostility:trinket/loot/charm_of_looting_2",
-    "l2hostility:trinket/loot/charm_of_looting_3",
-    "l2hostility:trinket/loot/charm_of_looting_4",
     "l2hostility:enchantment/immune/invincible/1",
     "kibe:cursed_lasso",
     "kibe:diamond_lasso"
