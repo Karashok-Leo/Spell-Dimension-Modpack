@@ -27,7 +27,7 @@
   "entity.spellbladenext.amethyst": "紫水晶",
   "entity.spellbladenext.gladius": "冰川之刃",
   "entity.spellbladenext.magister": "咒剑首领",
-  "entity.spellbladenext.magus": "魔法师",
+  "entity.spellbladenext.magus": "原基魔法师",
   "entity.spellbladenext.hexbladeportal": "咒剑传送门",
   "item.spellbladenext.monkeystaff": "定海神针",
   "spell.spellbladenext.monkeyreflect.name": "裂风斩",
@@ -135,35 +135,33 @@
   "attribute.name.spellbladenext.converttoheal" : "攻击伤害转化为治愈法术强度",
   "attribute.name.spellbladenext.purpose" : "非治愈法术强度转化为治愈法术强度",
 
-  "spellbladenext.spellbladetext": "Upon casting a spell with this Spellblade, you gain Strength and Haste equal to a quarter of your power relating to the spell's school, for up to however long the cooldown of the spell is.",
-  "item.spellbladenext.ashes": "Ashes of the Stars",
-  "item.spellbladenext.higherpurpose": "Higher Purpose",
-  "item.spellbladenext.theavatar": "The Avatar",
+  "spellbladenext.spellbladetext": "使用这把法术之刃施放法术时，你会获得额外25%相应法术强度和施法急速，持续时间不超过该法术的冷却时间。",
+  "item.spellbladenext.ashes": "星芒灰烬",
+  "item.spellbladenext.higherpurpose": "至高使命",
+  "item.spellbladenext.theavatar": "化身：无",
   "item.spellbladenext.thesis_spell_book": "Thesis of Awakening",
   "item.spellbladenext.thesis_spell_book.desc": "Fear not the mage who has cast a thousand different spells once, fear the mage who has cast a single spell a thousand times.",
   "item.spellbladenext.thesis_spell_book.desc2": "Awaken your spell at a spell binding table.",
   "item.spellbladenext.vengeance_spell_book": "Oath of Vengeance",
 
-  "item.spellbladenext.magus_spawn_egg": "Magus Spawn Egg",
+  "item.spellbladenext.magus_spawn_egg": "原基魔法师刷怪蛋",
 
-  "item.spellbladenext.omni": "Crystallised Omniscience",
+  "item.spellbladenext.omni": "全知结晶",
   "item.spellbladenext.tabula_rasa": "Tabula Rasa",
   "item.spellbladenext.tabula_rasa.desc": "If you wish to be reborn, empty is the best way to be.",
   "item.spellbladenext.tabula_rasa.desc2": "Apply up to six Spell Oils onto this item.",
 
-
-  "spellblades.avatarof" : "Avatar of",
+  "spellblades.avatarof" : "化身：",
   "itemGroup.spellbladenext.thesis": "SnS Thesis Books",
   "itemGroup.spellbladenext.spelloils": "SnS Spell Oils",
 
-
-  "item.spellbladenext.spelloil.desc1": "Binds the spell to an item that can cast spells, but does not already have a spell bound.",
-  "item.spellbladenext.spelloil.desc2": "Drag to an item and right click to apply. IRREVERSIBLE. See Spell Engine Keybind 1 if used incorrrectly.",
+  "item.spellbladenext.spelloil.desc1": "将法术绑定到可以施法但尚未绑定法术的物品上。",
+  "item.spellbladenext.spelloil.desc2": "拖动到某个物品上，然后右键应用。不可逆转！！！如果用法错误，请参考法术引擎按键绑定1。",
 
   "item.spellbladenext.phoenix_spell_book": "Phoenix Rites",
   "item.spellbladenext.runic_echoes_spell_book": "Echoes Unleashed",
   "item.spellbladenext.deathchill_spell_book": "Deathchill Tome",
-  "item.spellbladenext.thread": "Thread of Hope",
+  "item.spellbladenext.thread": "希望之丝",
 
   "entity.spellbladenext.cycloneentity": "风暴",
   "spell.spellbladenext.challenge.name": "激怒",
@@ -215,7 +213,7 @@
   "spell.spellbladenext.deathchill.name": "亡寒烙印",
   "spell.spellbladenext.deathchill.description": "被动：你的寒冷速度更快，升温速度更慢。你的伤害会让敌人感到寒冷，同时温暖自己。主动：对目标造成虚弱寒意，每半秒造成{damage}冰霜法术伤害，持续8秒。",
 
-  "spellblades.unidentified":"未知 ",
+  "spellblades.unidentified":"未鉴定",
   "biome.spellbladenext.glassocean": "镜之边缘",
   "dimension.spellbladenext.glassocean": "玻璃海",
   "dimensiontype.spellbladenext.glassocean": "玻璃海",
