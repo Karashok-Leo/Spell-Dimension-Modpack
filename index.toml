@@ -498,7 +498,7 @@ hash = "e9b8b04bd98fde3809a4697183493d028244c06a94d9d21bfd29f28f643acf4c"
 
 [[files]]
 file = "config/mutantmonsters-common.toml"
-hash = "75b3bf991fb0c2fb0e5c26b29968c7c29ccdcfb06bfa9bf5779cdc55a48cf4ee"
+hash = "bc41aafe93b02bac7cb81f470354853b550a4e74c00cf472e2eb09896e936409"
 
 [[files]]
 file = "config/mutantmonsters-server.toml"
@@ -759,6 +759,10 @@ hash = "7fa5c909af7fd81bacc112a488f08a8fdfc4e5e7a8eadd124dc36285f0516469"
 [[files]]
 file = "config/openloader/data/loot/data/endrem/loot_tables/minecraft/entities/wither.json"
 hash = "7fa5c909af7fd81bacc112a488f08a8fdfc4e5e7a8eadd124dc36285f0516469"
+
+[[files]]
+file = "config/openloader/data/loot/data/mutantmonsters/loot_tables/entities/mutant_creeper.json"
+hash = "9558abcd185c9342725e53524475085a5423d8971b46956e46709b54af8869e8"
 
 [[files]]
 file = "config/openloader/data/loot/data/mutantmonsters/loot_tables/entities/mutant_enderman.json"
@@ -1271,6 +1275,10 @@ hash = "338bb2ca2b39e0556e273fca761a9fbcb2f1c8137dfb5addc2056098be62f340"
 [[files]]
 file = "config/openloader/data/tag/data/equipment_standard/tags/items/reforge_core/lv3.json"
 hash = "aa4c798bbb80610d652b73796d012efedd5c2d13c6528bddfb004f486b4c0a4e"
+
+[[files]]
+file = "config/openloader/data/tag/data/l2hostility/tags/entity_types/semiboss.json"
+hash = "fabadc993989292b8b836350572cc47d74cbb424269531bd903bddfee87e0423"
 
 [[files]]
 file = "config/openloader/data/tag/data/minecraft/tags/damage_type/witch_resistant_to.json"
@@ -1953,7 +1961,7 @@ metafile = true
 
 [[files]]
 file = "mods/extra-spell-attributes.pw.toml"
-hash = "8eb76eb0e6159bc06f152ab340750fb2b46e7fb4c6e0ec4b41657782fbc9d945"
+hash = "b2963e684e7dbcfae3e7302b8711dd9ffa6055900aea90d83f698288fec5c74a"
 metafile = true
 
 [[files]]
@@ -2033,7 +2041,7 @@ metafile = true
 
 [[files]]
 file = "mods/geophilic.pw.toml"
-hash = "e70dddccebb71fe277a379a820fd2d7d810a89713f6da9f35fb39bf0d8df2870"
+hash = "6ced030e5855628608637ba82d5c20213ac0edb16f8e934abd91ed6282612eae"
 metafile = true
 
 [[files]]
@@ -2128,7 +2136,7 @@ metafile = true
 
 [[files]]
 file = "mods/l2-hostility-fabricated.pw.toml"
-hash = "6e9382b1eec0f07103534ba23e93c88ecebb041c05cf21bba7ce8c63e860dd34"
+hash = "8779adde449b1fcbe911c0cf424c794e7a73e0204d7f014698ae4c2d2eca6cd7"
 metafile = true
 
 [[files]]
@@ -2448,12 +2456,12 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "b169465bd82303a2d82f0582aafdae72cfecbd77048d3686169cb70c974fcba2"
+hash = "79a2ab66ec2444fcc9e24bbd4d47aea275502d0f4282fbc39123a3b0a2493430"
 metafile = true
 
 [[files]]
 file = "mods/shoulder-surfing-reloaded.pw.toml"
-hash = "d2401482a86a9e51e6bbf34fe0f7caa7687b78febbc32d5d045c7413aac260da"
+hash = "6497a62ccde568266e5b4dcb30ab8dec5983cc020a3bbd7885ce28c2cd10f07f"
 metafile = true
 
 [[files]]
@@ -2578,7 +2586,7 @@ metafile = true
 
 [[files]]
 file = "mods/toms-storage-fabric.pw.toml"
-hash = "87aae6d18fc180e3fd55c838601a38f0eb00b458db2187472dd3f88c9511e299"
+hash = "478931df30f16ab7cd220c1fd29562dfe96ff7e0e681840ed0d7828dd4764fe5"
 metafile = true
 
 [[files]]
@@ -2648,7 +2656,7 @@ metafile = true
 
 [[files]]
 file = "mods/wizards.pw.toml"
-hash = "b41106b7632569e92faf1f79e8665704f05f43eb0f1743f667b156745e923e96"
+hash = "5469cab2aacdd6f09b484737960ca3fbbcc62eaebc49677fd3403be20248a6b0"
 metafile = true
 
 [[files]]
