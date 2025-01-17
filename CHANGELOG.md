@@ -1,5 +1,30 @@
 # Change Log
 
+## 0.5.2 - 2025.1.17
+##### Added
+- Recipe for locating Illager Invasion structures
+- Tip for touching End Portal when not unlocked End Stage
+- Chinese translation of some of the text for Things and SpellBladeNext.
+##### Changed
+- Update some mods
+- No longer able to wear more than one of the same Hostility trinket at the same time
+- Optimized the content of the guidebook
+- Removed block placement interaction in off hand when main hand is holding a spell scroll.
+- Automatically teleport Void Shadow to the center when it is too far away from the center
+- Allowed Mutant Creeper to spawn naturally
+- Mutant Creeper will always drop Creeper Shard
+- Recipe for Empty Agglomeration
+##### Removed
+- Critical Hit bonus of Terrible Sword
+- Ocean of Consciousness respawn point limit
+##### Fixed
+- Slime infinite splitting issue
+- Multi-block guide for The Eye Altar (missing dragon egg)
+- Quest requirements for The Eye
+- Fixed the issue where some bosses could also have traits like split and teleport
+- Possible fix for crash in the End
+- ASB unreasonable Tooltip text
+
 ## 0.5.1 - 2025.1.13
 ##### Added
 - New spell: Remote Destruction

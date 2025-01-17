@@ -130,7 +130,7 @@ hash = "009de2038dfc8e6ace977e1b1a28f63f0f7443930265381e93c172dbd33ffff5"
 
 [[files]]
 file = "config/armorsets/metallurgium_armor.json"
-hash = "3fc0a999778eba53736b15f9ecbe99dc7245487eed341a6ec12e0699fb6ccf70"
+hash = "639da492f619e19eca8db15645c8e3b0eb35b466c883e18de9922032d1248c66"
 
 [[files]]
 file = "config/armorsets/midas_gold_set.json"
@@ -1105,6 +1105,10 @@ file = "config/openloader/data/recipe/data/spell-dimension/recipes/random/materi
 hash = "07795562fe1c7d22c0a21984f58a1fe40cd3ed759a219cb15629fa8b079a99aa"
 
 [[files]]
+file = "config/openloader/data/recipe/data/things/recipes/empty_agglomeration.json"
+hash = "a2ba0da81a919c9a50ddddfbac4a2e87964de4bb82f5d8a6b150da027825f4e1"
+
+[[files]]
 file = "config/openloader/data/recipe/pack.mcmeta"
 hash = "d3b1c9d71d37e3e0ab66c29cdb393c84c7125b3380a7127fa2a6d0b1661226dc"
 
@@ -1482,7 +1486,7 @@ hash = "c516a350f7fb4afa4e16b6c3b7e64ae67ce98157ddd45b2acd1fc8e4313d0ccd"
 
 [[files]]
 file = "config/openloader/resources/translations/assets/spacecatasb/lang/zh_cn.json"
-hash = "5a37fe69d8115553d91a860d2706f364110ac6ea8bb08ecc6a6b03a2ef3ec33c"
+hash = "f5cc396ee32029e20b5d647b364dff41215c04e479c1ed52f6e6b0e7c494247e"
 
 [[files]]
 file = "config/openloader/resources/translations/assets/spell_engine/lang/zh_cn.json"
@@ -1498,7 +1502,11 @@ hash = "5845933cfd58f6a030eac8186fc09d41b71af81a22ab4fe35686dab5410b8031"
 
 [[files]]
 file = "config/openloader/resources/translations/assets/spellbladenext/lang/zh_cn.json"
-hash = "fc35c67b64fef52b0ab8c4806990d6ebe8f8645b3c005f4e69a98c5603255274"
+hash = "59b1c65999dad80ecf247ba82f1d53b3a283fbae129997dd175015a13fabcac1"
+
+[[files]]
+file = "config/openloader/resources/translations/assets/things/lang/zh_cn.json"
+hash = "f2ca0ef3808b6238c062c456988c5dad78269dcc5ea2dafcd48494090eb6574f"
 
 [[files]]
 file = "config/openloader/resources/translations/assets/wizards/lang/zh_cn.json"
@@ -1646,7 +1654,15 @@ hash = "bd57c0dec00015978e15d660cacaba957364e826046a465649c1957ee5a5c94a"
 
 [[files]]
 file = "config/wizards/items_v4.json"
-hash = "a87897a4389bdf2c245e93c9a6d798a2878307fd09de518e26cc35a1ea25a2c9"
+hash = "529f61b6d24ef6eae4f7b9485c2ed3da0d0f0ef6db39215b4d3e8243d14c7ee6"
+
+[[files]]
+file = "config/wizards/tweaks.json"
+hash = "4568418cb62da85fa6a4a88a5c332d7c786ba3f4b872d7dfc05b09619b85c9ea"
+
+[[files]]
+file = "config/wizards/villages.json"
+hash = "4f7d44cb2b2588446db0886af941fb2c4194d15bfba7d303de1ca0d2879cff31"
 
 [[files]]
 file = "config/xaerominimap.txt"
@@ -2521,7 +2537,7 @@ metafile = true
 
 [[files]]
 file = "mods/spell-dimension-extra.pw.toml"
-hash = "9f8548437d21248d56581d2ff397a78278c439e2fafe0c070f020b3dfc70554f"
+hash = "989f4a4e2018f59f551ad2700459ad636ce7ea71b4c73ebcc989674aae64d15d"
 metafile = true
 
 [[files]]

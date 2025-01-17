@@ -16,14 +16,6 @@
   "fullSetBonuses": [
     {
       "type": "attribute",
-      "name": "obscure_api:healing_power",
-      "value": 1.6,
-      "modifierUUID": "6fb849a5-11ff-42e8-80fe-5ce823fb6f48",
-      "attributeOperation": 0,
-      "interactionType": "self"
-    },
-    {
-      "type": "attribute",
       "name": "minecraft:generic.max_health",
       "value": 10.0,
       "modifierUUID": "0efb85e0-709d-4bf1-8e92-6f64f17d26a3",
