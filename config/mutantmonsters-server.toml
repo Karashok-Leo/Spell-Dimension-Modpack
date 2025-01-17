@@ -3,4 +3,4 @@
 endersoul_hand_teleport_distance = 128
 #When infested with a Mutant X potion, what mutant mob should the target transform into. Otherwise the target will ony explode and take damage.
 #Format for every entry is "<namespace>:<path>,<namespace>:<path>" with the second id representing the mutant. Namespace may be omitted to use "minecraft" by default.
-mutant_x_conversions = ["minecraft:enderman,mutantmonsters:mutant_enderman", "minecraft:skeleton,mutantmonsters:mutant_skeleton", "minecraft:snow_golem,mutantmonsters:mutant_snow_golem", "minecraft:zombie,mutantmonsters:mutant_zombie"]
+mutant_x_conversions = ["minecraft:enderman,mutantmonsters:mutant_enderman", "minecraft:skeleton,mutantmonsters:mutant_skeleton", "minecraft:snow_golem,mutantmonsters:mutant_snow_golem", "minecraft:zombie,mutantmonsters:mutant_zombie", "minecraft:creeper,mutantmonsters:mutant_creeper"]

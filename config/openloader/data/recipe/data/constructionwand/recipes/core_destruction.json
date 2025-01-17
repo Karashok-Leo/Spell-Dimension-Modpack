@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " #X",
+    "#O#",
+    "X# "
+  ],
+  "key": {
+    "O": {
+      "item": "mythicmetals:banglum_nuke_core"
+    },
+    "X": {
+      "item": "mutantmonsters:creeper_shard"
+    },
+    "#": {
+      "tag": "c:glass_panes"
+    }
+  },
+  "result": {
+    "item": "constructionwand:core_destruction"
+  }
+}
