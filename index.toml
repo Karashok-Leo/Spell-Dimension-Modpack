@@ -1692,7 +1692,7 @@ metafile = true
 
 [[files]]
 file = "mods/accessories.pw.toml"
-hash = "4d69e25285e9ddba8e2313f39d85860a3e87d98b6c308b0a9eb9a97999fdd995"
+hash = "cfd017dbaa63c60bee0546dd4c9b5405714a0b9a03965e091c34830edbcd69a2"
 metafile = true
 
 [[files]]
@@ -2042,7 +2042,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "30a31cd07f394486b22c7253403f03749ca3b783ef85dd72388d4bf77713db5d"
+hash = "9d1ff5fb558fa63ca7c2fe45959c00d871bc80d52c315b3c20164e7c26f5eff5"
 metafile = true
 
 [[files]]
@@ -2057,7 +2057,7 @@ metafile = true
 
 [[files]]
 file = "mods/geophilic.pw.toml"
-hash = "6ced030e5855628608637ba82d5c20213ac0edb16f8e934abd91ed6282612eae"
+hash = "fe213ae1ba13c8cf1f6234cd4f36d181bf02fdfbc5389361ce64bb253884d933"
 metafile = true
 
 [[files]]
@@ -2187,7 +2187,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "2245f34c6d75a8abbce9a07f902d656b34387bcf1c4b60f56ec094ac8a470e19"
+hash = "39d1aa66bf641027827a4bfcfe2c088ad6506405b0ff603fd65b1a9828d40c94"
 metafile = true
 
 [[files]]
@@ -2352,7 +2352,7 @@ metafile = true
 
 [[files]]
 file = "mods/paladins-and-priests.pw.toml"
-hash = "491c14d1ca9f0db748604d16b6bec77177672e8acfad2329b1c3cd2d454fbd90"
+hash = "f455a4f6d37f1eda74eead021f15d7fc833508d65f2334a83a91b44b385759da"
 metafile = true
 
 [[files]]
@@ -2472,7 +2472,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "79a2ab66ec2444fcc9e24bbd4d47aea275502d0f4282fbc39123a3b0a2493430"
+hash = "191d1848501fdb70f19f068732431367cb3b69d5d912bc33854dbc047c7a97e8"
 metafile = true
 
 [[files]]
@@ -2522,12 +2522,12 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks-unofficial-fabric-port.pw.toml"
-hash = "38874a197c53302277a7627a900e4bdbab81d027132bc098bc09d1a7c91b1992"
+hash = "7814b21e543c90551d002aeb01ce09fa475f21e9189f45405ba8a809a3a73a78"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core-unofficial-fabric-port.pw.toml"
-hash = "3a3782b9926abdf259202c95e673e4479f96e5f7e1a968c704f8942c0e1e5d89"
+hash = "97fc6020504bf1eb7c0a7d50ab071b6bc6cdab02c11ac55ac7947ae62918f553"
 metafile = true
 
 [[files]]
@@ -2672,7 +2672,7 @@ metafile = true
 
 [[files]]
 file = "mods/wizards.pw.toml"
-hash = "5469cab2aacdd6f09b484737960ca3fbbcc62eaebc49677fd3403be20248a6b0"
+hash = "4b3ae554bb5ed13a1e82228067a00e3461c87091a436dead9fd6e26705ec8e85"
 metafile = true
 
 [[files]]
@@ -2771,5 +2771,5 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/makeup-ultra-fast-shader.pw.toml"
-hash = "cbc31c1923bd96e6b20b34ce807b5921c0e2b24f6f396dda3baddb1bf474be4a"
+hash = "632ba0bfd4209ba7423e63b037726020a295b71846df772ff67727e82ada9bab"
 metafile = true
