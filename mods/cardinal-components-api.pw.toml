@@ -1,14 +1,13 @@
 name = "Cardinal Components API"
-filename = "cardinal-components-api-5.2.2.jar"
+filename = "cardinal-components-api-5.2.3.jar"
 side = "both"
-pin = true
 
 [download]
 hash-format = "sha1"
-hash = "b049c6342185dae10607d6c1fe2fd792db189582"
+hash = "d0d687d8fc3f367bf696fa0059bccdf0591c51f4"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4681153
+file-id = 6064429
 project-id = 318449

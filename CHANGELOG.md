@@ -1,5 +1,39 @@
 # Change Log
 
+## 0.5.3 - 2025.1.19
+##### Added
+- New Spells(all belong to Healing):
+    - Divine Aura
+    - Spell Volatility
+    - Advanced Resist
+    - Advanced Regen
+    - Speed/Advanced Speed
+    - Spell Haste/Advanced Spell Haste
+    - Empowering Presence/Advanced Empowering Presence
+- Recipes from Agglomeration to Looting Charm
+- Description of Dimension for locating spell recipes
+##### Changed
+- Update some mods
+- Cast duration and Cooldown duration of Heal
+- Fixed the text for both melee physical damage and ranged physical damage attributes, and unified the spell school text in item descriptions and spell descriptions
+- Recipe for Hardening Catalyst
+- Recipe for Destruction Wand Core
+- Spell Schools corrected:
+    - Judgment: (Spell School)Physical->Healing
+    - Maelstrom: (Bonus School)Physical Melee->Arcane
+    - Flickering Flame: (Bonus School)Arcane->Physical Melee
+- Enchantment bonuses adjusted:
+    - Spell Power: 5%->3% per level
+    - Sunfire/Soulfrost/Energized：3%->5% per level
+- Status effect bonuses adjusted:
+    - Spell Haste: 5%->10% per level
+    - Speed Vol：5%->10% per level
+- Spell power cap adjustment: 2048->65536
+##### Removed
+- Spell Power bonus to Absorption effect amplifier of Circle of Healing
+##### Fixed
+- Issue that potions cannot convert creeper to mutant creeper
+
 ## 0.5.2 - 2025.1.17
 ##### Added
 - Recipe for locating Illager Invasion structures

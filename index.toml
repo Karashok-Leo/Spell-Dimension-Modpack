@@ -225,6 +225,10 @@ file = "config/armorsets/warden_weapon.json"
 hash = "08cc9f54f996aa8865bf327372cbc6e171f9916af6d3ac4e7addc6ebb5bde735"
 
 [[files]]
+file = "config/attributefix.json"
+hash = "2185bdfd711a8ccf52adab013315e199278b6cc22ce14e0ad0155d1562d0de3d"
+
+[[files]]
 file = "config/bestylewither.toml"
 hash = "d0bd61ffac3500a94a61cd827b4d2d5973ec3ecf33b2c81ebb7c2401746b2e2d"
 
@@ -502,7 +506,7 @@ hash = "bc41aafe93b02bac7cb81f470354853b550a4e74c00cf472e2eb09896e936409"
 
 [[files]]
 file = "config/mutantmonsters-server.toml"
-hash = "8fd3dac82246b1f0bcfe58ed8b30e7662f0eab12a55039f16bab9adc5fd2f53a"
+hash = "53f7819766546576c0e7dfc84910660f85f4889cd09eb46bc2fd741b62828560"
 
 [[files]]
 file = "config/mythicupgrades-config.json5"
@@ -805,6 +809,10 @@ file = "config/openloader/data/recipe/data/alloy_forgery/recipes/stone_bricks_fo
 hash = "b78cab938e8cdeef0112bf510db24103e02cdfb0fbceb7968d66364d306768a2"
 
 [[files]]
+file = "config/openloader/data/recipe/data/constructionwand/recipes/core_destruction.json"
+hash = "af1301a0fabd3dbe042d094bde159c6a3f6efda34d4dd22eb2469e45d6ec7398"
+
+[[files]]
 file = "config/openloader/data/recipe/data/constructionwand/recipes/diamond_wand.json"
 hash = "f967d0cbb67b04561d623594675202ab83bd82959277a2f150eaf01498ad3fab"
 
@@ -823,6 +831,22 @@ hash = "ca809c124d70b8c9bc796c33cb4b05f4ee4cd773996fcc295c55fb169d752dfb"
 [[files]]
 file = "config/openloader/data/recipe/data/graveyard/recipes/bone_dagger.json"
 hash = "553206c9c3d3159700482fdbe585411488656b9f13839516e94cd98fd0eecf12"
+
+[[files]]
+file = "config/openloader/data/recipe/data/l2hostility/recipes/trinket/loot/charm_of_looting_1.json"
+hash = "887f4f388074d1a5fbfb4d8b232ddfcd972652dad4bda7268aa5399fa03b092a"
+
+[[files]]
+file = "config/openloader/data/recipe/data/l2hostility/recipes/trinket/loot/charm_of_looting_2.json"
+hash = "a25cbde80fc5c773d4794745c3df2f6744120414b8c4f4cdfe1d23e83d0f265b"
+
+[[files]]
+file = "config/openloader/data/recipe/data/l2hostility/recipes/trinket/loot/charm_of_looting_3.json"
+hash = "9cd2d80c1e0633b741980c0053bf7b4759ad6a5a107150a98af9bc1d2fb8c740"
+
+[[files]]
+file = "config/openloader/data/recipe/data/l2hostility/recipes/trinket/loot/charm_of_looting_4.json"
+hash = "b42a9afa661bf34b03a785486ed20d6f39d377992a88ddaffbf32a3f8aadb59f"
 
 [[files]]
 file = "config/openloader/data/recipe/data/mythicmetals/recipes/adamantite_forge.json"
@@ -1109,6 +1133,10 @@ file = "config/openloader/data/recipe/data/things/recipes/empty_agglomeration.js
 hash = "a2ba0da81a919c9a50ddddfbac4a2e87964de4bb82f5d8a6b150da027825f4e1"
 
 [[files]]
+file = "config/openloader/data/recipe/data/things/recipes/hardening_catalyst.json"
+hash = "307f466b00c9ed3489d494f2778c9079e55aaed546fbe46885c55185ba72b12d"
+
+[[files]]
 file = "config/openloader/data/recipe/pack.mcmeta"
 hash = "d3b1c9d71d37e3e0ab66c29cdb393c84c7125b3380a7127fa2a6d0b1661226dc"
 
@@ -1130,7 +1158,7 @@ hash = "8d03f67c35c99e7a0314d4c376bf27a81cdfdf1204810cc720be60263ddd7974"
 
 [[files]]
 file = "config/openloader/data/spell/data/paladins/spells/circle_of_healing.json"
-hash = "0464c00d1fadd8cbe0a0d3b969da24559c050770ff491495aff1c2586c928c3d"
+hash = "b52f44917cfb98e5faf980002b7673be5e44327bc2f00db9d705580c92f7f492"
 
 [[files]]
 file = "config/openloader/data/spell/data/paladins/spells/divine_protection.json"
@@ -1142,7 +1170,7 @@ hash = "e4bff9ab2230146387d464e792e701bff99192461dfdd551b9facca2fe076a88"
 
 [[files]]
 file = "config/openloader/data/spell/data/paladins/spells/heal.json"
-hash = "d75bd642ea047bad384bf11496c9526a0bdf6574e48a3f62267f22dd7aa5d66a"
+hash = "9d602bf21fc775f020e30b39c0bc396941ccc9f64999ba04543c6ffb3471c70e"
 
 [[files]]
 file = "config/openloader/data/spell/data/paladins/spells/holy_beam.json"
@@ -1154,7 +1182,7 @@ hash = "6ce421a96239981ea9248ad479c1aa84be4324e9ab4b8e27e34937abfa9cf0b4"
 
 [[files]]
 file = "config/openloader/data/spell/data/paladins/spells/judgement.json"
-hash = "c7ddb99897233d17a0873666d452399090eadb98fa2a9edfb253bfde245e408a"
+hash = "5091c49f2297f6528b11d13992a3b20e23246aa5e505ce100a082714fa3fc222"
 
 [[files]]
 file = "config/openloader/data/spell/data/spellbladenext/spell_pools/arcane_battlemage.json"
@@ -1191,6 +1219,14 @@ hash = "28fda1d27a520cacdd52279bea7795b5c453f0685360a42b18b89adcc56d0086"
 [[files]]
 file = "config/openloader/data/spell/data/spellbladenext/spell_pools/vengeance.json"
 hash = "1bd64eccfd789574882ff073e24c47129488ae2eac26f8e268ea7591f1571a8a"
+
+[[files]]
+file = "config/openloader/data/spell/data/spellbladenext/spells/flicker_strike.json"
+hash = "7d53908d9e2652305d3f4723eb99dd8928ed3a2b4114b072d66cdd1af8d1c79c"
+
+[[files]]
+file = "config/openloader/data/spell/data/spellbladenext/spells/maelstrom.json"
+hash = "623d6f875af5b2636f20e6794bee07989b0ddc3956e8cfbec1d9700b0df2dd25"
 
 [[files]]
 file = "config/openloader/data/spell/data/wizards/spell_pools/arcane.json"
@@ -1450,7 +1486,7 @@ hash = "23d2455e724b5aadd953e283ee37e85311509996b0bc1beb54fc38e6f213560f"
 
 [[files]]
 file = "config/openloader/resources/translations/assets/extraspellattributes/lang/zh_cn.json"
-hash = "7466a348b1b88704cac12d110b75db274b4a79b3a75940526d4e880bb6453f2b"
+hash = "ed278efe847c372dd02fca10fa670a0ac1efb01d9f4a9ffd70dfc258c546a53b"
 
 [[files]]
 file = "config/openloader/resources/translations/assets/mythicupgrades/lang/zh_cn.json"
@@ -1481,6 +1517,14 @@ file = "config/openloader/resources/translations/assets/plushables/lang/zh_cn.js
 hash = "7db6ab7349a6f441622693360655ab57075c7a6652ddfeda9dae0f0eb41b20d8"
 
 [[files]]
+file = "config/openloader/resources/translations/assets/ranged_weapon/lang/en_us.json"
+hash = "30edef5c0d1d7cda281262d2810791f875cba4bf0a799612cecb6b1a976d841a"
+
+[[files]]
+file = "config/openloader/resources/translations/assets/ranged_weapon/lang/zh_cn.json"
+hash = "ad543279308de536d33825e2bda00ee26e9031dfcf1c48eb47631cbfbe5e61ae"
+
+[[files]]
 file = "config/openloader/resources/translations/assets/ringsofascension/lang/zh_cn.json"
 hash = "c516a350f7fb4afa4e16b6c3b7e64ae67ce98157ddd45b2acd1fc8e4313d0ccd"
 
@@ -1502,7 +1546,7 @@ hash = "5845933cfd58f6a030eac8186fc09d41b71af81a22ab4fe35686dab5410b8031"
 
 [[files]]
 file = "config/openloader/resources/translations/assets/spellbladenext/lang/zh_cn.json"
-hash = "59b1c65999dad80ecf247ba82f1d53b3a283fbae129997dd175015a13fabcac1"
+hash = "6a770fc873bb14ce861d054097546904ac39c912b75614e97ae93c37c552414a"
 
 [[files]]
 file = "config/openloader/resources/translations/assets/things/lang/zh_cn.json"
@@ -1546,7 +1590,7 @@ hash = "881075f4341fd799b562f3b303087d979e7f826fee8aa410fea7f2db529c4db9"
 
 [[files]]
 file = "config/reciperemover.json"
-hash = "e289a35d23c69b28a8a0524f9883574b6d92e48177bf5b85fa0477e5f9bdc233"
+hash = "b076a02570d0699de50872e9a1837723f9edd1ba8405b98a81a46038a042e863"
 
 [[files]]
 file = "config/rpg_series/loot_v2.json"
@@ -1594,15 +1638,11 @@ hash = "46a56caebd678584c1f0fb6d01d3f5a081a9892868dfc13b8498760a502ed4b2"
 
 [[files]]
 file = "config/spell_power/attributes.json"
-hash = "7b6eaf8b4596d50c46ceeaea1a6ae778614959dc984f507e8cfc8abf070878be"
+hash = "7e33779c1c724e1bd3be5df83b154ac495914a765da36052e1151b8a12fe1800"
 
 [[files]]
 file = "config/spell_power/enchantments.json"
-hash = "70a86e07d3a2038d202e8a64b060cf38385430aa029afd56fa5e833872cf19b7"
-
-[[files]]
-file = "config/spell_power/status_effects.json"
-hash = "a93b4e811672df57fd12a2925568b3b17bbc412fd38208617719aaa8edb9e58b"
+hash = "f8d8d88fc92b0f48c4929c148abb5848d6a0b9ef157f629b47bafb186210446d"
 
 [[files]]
 file = "config/spellbladenext/items_v10.json"
@@ -1812,7 +1852,7 @@ metafile = true
 
 [[files]]
 file = "mods/cardinal-components-api.pw.toml"
-hash = "a70ae3f1065e875cbca6afae1b9b497ccfc7e905823b8c9fcc3fbe8474ab315e"
+hash = "c652306fdcbb41d5acb22b625217b0ab31e4d8e36d61411ba74008c829046d11"
 metafile = true
 
 [[files]]
@@ -2537,7 +2577,7 @@ metafile = true
 
 [[files]]
 file = "mods/spell-dimension-extra.pw.toml"
-hash = "989f4a4e2018f59f551ad2700459ad636ce7ea71b4c73ebcc989674aae64d15d"
+hash = "889859613995459d423b1e3a87433881119b1a60a6ccf2fe68cfa2c50653edfc"
 metafile = true
 
 [[files]]
