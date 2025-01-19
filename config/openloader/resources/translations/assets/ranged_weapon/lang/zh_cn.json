@@ -1,0 +1,10 @@
+{
+  "attribute.name.generic.attack_damage" : "近战物理伤害",
+  "attribute.name.ranged_weapon.damage" : "远程物理伤害",
+  "attribute.name.ranged_weapon.haste" : "拉伸速度",
+  "attribute.name.ranged_weapon.pull_time" : "秒 拉动时间",
+  "item.modifiers.both_hands": "持有时：",
+  "effect.ranged_weapon.damage": "冲击",
+  "effect.ranged_weapon.haste": "速射",
+  "item.ranged_weapon.pull_time": "%1$s 秒 拉动时间"
+}

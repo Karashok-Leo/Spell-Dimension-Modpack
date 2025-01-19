@@ -1,0 +1,10 @@
+{
+  "attribute.name.generic.attack_damage" : "Physical Melee Damage",
+  "attribute.name.ranged_weapon.damage" : "Physical Ranged Damage",
+  "attribute.name.ranged_weapon.haste" : "Draw Speed",
+  "attribute.name.ranged_weapon.pull_time" : "sec Pull Time",
+  "item.modifiers.both_hands": "When Held:",
+  "effect.ranged_weapon.damage": "Impact",
+  "effect.ranged_weapon.haste": "Rapid Fire",
+  "item.ranged_weapon.pull_time": "%1$s sec Pull Time"
+}

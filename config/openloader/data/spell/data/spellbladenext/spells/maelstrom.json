@@ -1,0 +1,76 @@
+{
+  "school": "ARCANE",
+  "range": 3.5,
+  "learn": {
+    "tier": 1
+  },
+  "cast": {
+    "duration": 8,
+    "movement_speed": 1.1,
+
+    "animation": "spellbladenext:spin",
+    "channel_ticks": 4,
+    "sound": {
+      "id": "spell_engine:generic_arcane_casting",
+      "randomness": 0
+    }
+  },
+  "release": {
+    "custom_impact": true,
+    "target": {
+      "type": "AREA",
+      "area": {
+        "vertical_range_multiplier": 0.5
+      }
+    }
+  },
+  "impact": [
+    {
+      "school": "ARCANE",
+      "action": {
+        "type": "DAMAGE",
+        "damage": {
+          "knockback": 0.5,
+          "spell_power_coefficient": 1.0
+        }
+      },
+      "particles": [
+        {
+          "particle_id": "sweep_attack",
+          "shape": "SPHERE",
+          "origin": "CENTER",
+          "count": 1
+        }
+      ],
+      "sound": {
+        "id": "minecraft:entity.player.attack.sweep"
+      }
+    },
+    {
+      "action": {
+        "type": "DAMAGE",
+        "damage": {
+          "knockback": 0.5,
+          "spell_power_coefficient": 1.4
+        }
+      },
+      "particles": [
+        {
+          "particle_id": "sweep_attack",
+          "shape": "SPHERE",
+          "origin": "CENTER",
+          "count": 1
+        }
+      ],
+      "sound": {
+        "id": "minecraft:entity.player.attack.sweep"
+      }
+    }
+  ],
+  "cost": {
+    "cooldown_duration": 8,
+    "rpgmana": 20,
+    "item_id": "runes:arcane_stone"
+
+  }
+}

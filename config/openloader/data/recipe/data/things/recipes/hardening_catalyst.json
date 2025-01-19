@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "eHe",
+    "FEF",
+    "eHe"
+  ],
+  "key": {
+    "e": {
+      "tag": "spell-dimension:essence/2"
+    },
+    "F": {
+      "item": "l2hostility:force_field"
+    },
+    "H": {
+      "item": "l2hostility:heirophant_green"
+    },
+    "E": {
+      "item": "l2hostility:eternium_block"
+    }
+  },
+  "result": {
+    "item": "things:hardening_catalyst"
+  }
+}

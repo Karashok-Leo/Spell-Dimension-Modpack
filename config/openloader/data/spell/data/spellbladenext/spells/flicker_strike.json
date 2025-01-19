@@ -1,0 +1,100 @@
+{
+  "school": "FIRE",
+  "range": 12,
+  "learn": {
+    "tier": 3
+  },
+  "cast": {
+    "duration": 2,
+    "animation": "spell_engine:one_handed_projectile_charge",
+    "sound": {
+      "id": "spell_engine:generic_fire_casting",
+      "randomness": 0
+    },
+    "particles": [
+      {
+        "particle_id": "spell_engine:flame",
+        "shape": "PIPE",
+        "origin": "FEET",
+        "count": 1.0,
+        "min_speed": 0.05,
+        "max_speed": 0.1
+      }
+    ]
+  },
+  "release": {
+    "custom_impact": true,
+    "target": {
+      "type": "AREA",
+      "area": {
+        "vertical_range_multiplier": 1.4
+      }
+    },
+    "particles": [
+      {
+        "particle_id": "spell_engine:flame",
+        "shape": "PIPE",
+        "origin": "FEET",
+        "count": 60.0,
+        "min_speed": 0.05,
+        "max_speed": 0.1
+      }
+    ]
+  },
+  "impact": [
+    {
+      "school": "PHYSICAL_MELEE",
+      "action": {
+        "type": "DAMAGE",
+        "damage": {
+          "knockback": 0.5,
+          "spell_power_coefficient": 0.5
+        }
+      },
+      "particles": [
+        {
+          "particle_id": "sweep_attack",
+          "shape": "SPHERE",
+          "origin": "CENTER",
+          "count": 1
+        }
+      ],
+      "sound": {
+        "id": "minecraft:entity.player.attack.sweep"
+      }
+    },
+    {
+      "action": {
+        "type": "DAMAGE",
+        "damage": {
+          "knockback": 0.5,
+          "spell_power_coefficient": 0.5
+        }
+      },
+      "particles": [
+        {
+          "particle_id": "sweep_attack",
+          "shape": "SPHERE",
+          "origin": "CENTER",
+          "count": 1
+        },
+        {
+          "particle_id": "spell_engine:flame",
+          "shape": "PIPE",
+          "origin": "FEET",
+          "count": 60.0,
+          "min_speed": 0.05,
+          "max_speed": 0.1
+        }
+      ],
+      "sound": {
+        "id": "minecraft:entity.player.attack.sweep"
+      }
+    }
+  ],
+  "cost": {
+    "cooldown_duration": 12,
+    "rpgmana": 60,
+    "item_id": "runes:fire_stone"
+  }
+}
