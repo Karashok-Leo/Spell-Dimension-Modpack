@@ -168,35 +168,35 @@
 		// Regen rate for Regeneration trait per second per level
 		"regen": 0.02,
 		// Damage factor for Adaptive. Higher means less reduction
-		"adaptFactor": 0.5,
+		"adaptFactor": 0.75,
 		// Reflect factor per level for Reflect. 0.5 means +50% extra damage
-		"reflectFactor": 0.3,
+		"reflectFactor": 0.25,
 		// Duration in ticks for enchantments to be disabled per level for Dispell
-		"dispellTime": 200,
+		"dispellTime": 100,
 		// Duration in seconds to set target on fire by Fiery
-		"fieryTime": 5,
+		"fieryTime": 2.5,
 		// Duration in ticks for Weakness
-		"weakTime": 200,
+		"weakTime": 100,
 		// Duration in ticks for Slowness
-		"slowTime": 200,
+		"slowTime": 100,
 		// Duration in ticks for Poison
-		"poisonTime": 200,
+		"poisonTime": 100,
 		// Duration in ticks for Wither
-		"witherTime": 200,
+		"witherTime": 100,
 		/* Duration in ticks for Levitation
 		   It defaults to 200 in the original mod, but I've reduced it based on my personal preference.
 		*/
 		"levitationTime": 80,
 		// Duration in ticks for Blindness
-		"blindTime": 200,
+		"blindTime": 50,
 		// Duration in ticks for Nausea
-		"confusionTime": 200,
+		"confusionTime": 50,
 		// Duration in ticks for Soul Burner
 		"soulBurnerTime": 60,
 		// Duration in ticks for Freezing
-		"freezingTime": 200,
+		"freezingTime": 50,
 		// Duration in ticks for Cursed
-		"curseTime": 200,
+		"curseTime": 100,
 		// Interval in ticks for Teleport
 		"teleportDuration": 100,
 		// Range in blocks for Teleport

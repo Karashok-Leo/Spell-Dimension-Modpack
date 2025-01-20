@@ -143,7 +143,10 @@
   "item.things.broken_watch.tooltip": "延长50%%的状态效果持续时间",
   "item.things.agglomeration": "融合宝珠",
   "item.things.empty_agglomeration": "空白融合宝珠",
-  "item.things.empty_agglomeration.tooltip": "与至少共享一个插槽的两件饰品组合，使其聚集在一起",
+  "item.things.empty_agglomeration.tooltip": [
+    {"text": "与至少共享一个插槽的两件饰品组合，使其聚集在一起。\n", "color": "gray"},
+    {"text": "警告：融合后无法拆分，且会失去部分特殊效果，请慎重使用！！！", "color": "red", "bold": true}
+  ],
 
   "gui.things.displacement_tome.charges": [
     {"text": "充能: ", "color": "gray"},
