@@ -20,12 +20,7 @@
             "value": 0.3,
             "modifierUUID": "376aa3aa-1fd5-4386-8be3-aa15de554638",
             "attributeOperation": 0,
-            "interactionType": "self",
-            "conditions": [
-                {
-                    "type": "inWater"
-                }
-            ]
+            "interactionType": "self"
         },
         {
             "type": "attribute",
@@ -33,19 +28,14 @@
             "value": 50.0,
             "modifierUUID": "81ce2f04-2ffa-4893-abd3-fe3d2b5de0b8",
             "attributeOperation": 0,
-            "interactionType": "self",
-            "conditions": [
-                {
-                    "type": "inWater"
-                }
-            ]
+            "interactionType": "self"
         },
         {
             "type": "attribute",
             "name": "spell_power:frost",
-            "value": 1.2,
+            "value": 0.2,
             "modifierUUID": "3283b04e-2fbb-4441-b0e1-0363d92088a6",
-            "attributeOperation": 1,
+            "attributeOperation": 2,
             "interactionType": "self"
         }
     ]

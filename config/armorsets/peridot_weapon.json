@@ -1,13 +1,13 @@
 {
-  "armorSetName": "jade_weapon",
+  "armorSetName": "peridot_weapon",
   "performanceMode": true,
   "mainHand": {
-    "itemKey": "mythicupgrades:jade_sword",
+    "itemKey": "mythicupgrades:peridot_sword",
     "mixAndMatch": [
-      "mythicupgrades:jade_axe",
-      "mythicupgrades:jade_pickaxe",
-      "mythicupgrades:jade_shovel",
-      "mythicupgrades:jade_hoe"
+      "mythicupgrades:peridot_axe",
+      "mythicupgrades:peridot_pickaxe",
+      "mythicupgrades:peridot_shovel",
+      "mythicupgrades:peridot_hoe"
     ]
   },
   "fullSetBonuses": [
@@ -15,7 +15,7 @@
       "type": "attribute",
       "name": "spell_power:healing",
       "value": 3.0,
-      "modifierUUID": "e996e90c-3452-40dd-8847-015dd2ccf4a6",
+      "modifierUUID": "fb2ef8ca-673a-4e0d-a1a1-a1340ae580f2",
       "attributeOperation": 0,
       "interactionType": "self"
     },
@@ -23,7 +23,7 @@
       "type": "attribute",
       "name": "minecraft:generic.attack_damage",
       "value": 4.0,
-      "modifierUUID": "96486001-ac46-ded1-1607-df3891fddf05",
+      "modifierUUID": "55a2e3d9-97b8-4b1c-b98c-40a64527552e",
       "attributeOperation": 0,
       "interactionType": "self"
     }

@@ -211,7 +211,7 @@
   "effect.mythicupgrades.arcane_aura": "奥术光环",
   "effect.mythicupgrades.bouncer": "保镖",
 
-  "defaultArmorTooltip.description": "尝试穿着全套盔甲以获得奖励效果（如果有的话）",
+  "defaultArmorTooltip.description": "尝试穿着全套盔甲以获得额外套装效果（如果存在）",
 
   "aquamarine_armor.description": "套装加成: 冰盾 %s",
   "aquamarine_tool.description": "攻击时冻结敌人.",
@@ -234,10 +234,10 @@
   "jade_armor.description": "套装效果: 速度 %s 和跳跃提升 %s",
   "jade_tool.description": "攻击时提供跳跃提升.",
 
-  "death.attack.deflecting": "%s 已受到来自 %s 的足够的偏转伤害而死亡.",
-  "death.attack.deflecting.item": "%s 已受到来自 %s 的足够的偏转伤害，足以在 %s 的帮助下死去.",
-  "death.attack.percentage": "%s 受到了足够的魔法百分比伤害，可以在与 %s 战斗时死亡.",
-  "death.attack.percentage.item": "%s 受到了足够的魔法百分比伤害，可以在与持有 %s 的 %s 战斗时死亡.",
+  "death.attack.deflecting": "%s 因受到来自 %s 的偏转伤害而死亡.",
+  "death.attack.deflecting.item": "%s 因受到来自 %s 的偏转伤害，在 %s 的助攻下死亡.",
+  "death.attack.percentage": "%s 因受到了充足的魔法百分比伤害，在与 %s 战斗时死亡.",
+  "death.attack.percentage.item": "%s 因受到了充足的魔法百分比伤害，在与持有 %s 的 %s 战斗时死亡.",
 
   "item.mythicupgrades.smithing_template.aquamarine_upgrade.additions_slot_description": "添加海蓝宝石锭",
   "item.mythicupgrades.smithing_template.aquamarine_upgrade.applies_to": "下界合金装备",

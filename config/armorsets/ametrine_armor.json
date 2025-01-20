@@ -16,14 +16,6 @@
   "fullSetBonuses": [
     {
       "type": "attribute",
-      "name": "minecraft:generic.armor",
-      "value": 8.0,
-      "modifierUUID": "38b89c5b-3af1-673d-03ea-3fc0aedae3d9",
-      "attributeOperation": 0,
-      "interactionType": "self"
-    },
-    {
-      "type": "attribute",
       "name": "spell_power:arcane",
       "value": 8.0,
       "modifierUUID": "262d35d8-bf0d-41b2-aa25-a2720962d9c0",

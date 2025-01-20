@@ -1,24 +1,24 @@
 {
-  "armorSetName": "sapphire_armor",
+  "armorSetName": "aquamarine_armor",
   "performanceMode": true,
   "head": {
-    "itemKey": "mythicupgrades:sapphire_helmet"
+    "itemKey": "mythicupgrades:aquamarine_helmet"
   },
   "chest": {
-    "itemKey": "mythicupgrades:sapphire_chestplate"
+    "itemKey": "mythicupgrades:aquamarine_chestplate"
   },
   "legs": {
-    "itemKey": "mythicupgrades:sapphire_leggings"
+    "itemKey": "mythicupgrades:aquamarine_leggings"
   },
   "boots": {
-    "itemKey": "mythicupgrades:sapphire_boots"
+    "itemKey": "mythicupgrades:aquamarine_boots"
   },
   "fullSetBonuses": [
     {
       "type": "attribute",
       "name": "spell_power:frost",
       "value": 8.0,
-      "modifierUUID": "e932db29-952e-42e5-952f-da9ca6b88abf",
+      "modifierUUID": "184288a0-81ae-40e7-8f51-5c9f5c0695c8",
       "attributeOperation": 0,
       "interactionType": "self"
     },

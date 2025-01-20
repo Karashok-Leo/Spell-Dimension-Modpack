@@ -13,8 +13,8 @@
   "fullSetBonuses": [
     {
       "type": "attribute",
-      "name": "minecraft:generic.attack_damage",
-      "value": 2.0,
+      "name": "spell_power:fire",
+      "value": 3.0,
       "modifierUUID": "935098bc-5dcc-6d8d-2442-1c478a508adc",
       "attributeOperation": 0,
       "interactionType": "self"

@@ -1,0 +1,33 @@
+{
+    "armorSetName": "peridot_armor",
+    "performanceMode": true,
+    "head": {
+        "itemKey": "mythicupgrades:peridot_helmet"
+    },
+    "chest": {
+        "itemKey": "mythicupgrades:peridot_chestplate"
+    },
+    "legs": {
+        "itemKey": "mythicupgrades:peridot_leggings"
+    },
+    "boots": {
+        "itemKey": "mythicupgrades:peridot_boots"
+    },
+    "fullSetBonuses": [
+        {
+          "type": "attribute",
+          "name": "spell_power:healing",
+          "value": 8.0,
+          "modifierUUID": "758cac66-22ec-4a16-a5c9-9f419a578868",
+          "attributeOperation": 0,
+          "interactionType": "self"
+        },
+        {
+            "type": "effect",
+            "name": "minecraft:regeneration",
+            "value": 0,
+            "interactionType": "self",
+            "interactionDuration": 200
+        }
+    ]
+}

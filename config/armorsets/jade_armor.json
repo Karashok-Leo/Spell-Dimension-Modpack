@@ -16,14 +16,6 @@
   "fullSetBonuses": [
     {
       "type": "attribute",
-      "name": "minecraft:generic.armor",
-      "value": 8.0,
-      "modifierUUID": "3658c2d5-2f73-51f9-2bbe-c67a1f33bf6f",
-      "attributeOperation": 0,
-      "interactionType": "self"
-    },
-    {
-      "type": "attribute",
       "name": "spell_power:healing",
       "value": 8.0,
       "modifierUUID": "bee61deb-fb74-4f62-a88f-29eb47e13462",

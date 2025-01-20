@@ -4,10 +4,21 @@
   "mainHand": {
     "itemKey": "mythicupgrades:sapphire_sword",
     "mixAndMatch": [
-      "mythicupgrades:sapphire_axe"
+      "mythicupgrades:sapphire_axe",
+      "mythicupgrades:sapphire_pickaxe",
+      "mythicupgrades:sapphire_shovel",
+      "mythicupgrades:sapphire_hoe"
     ]
   },
   "fullSetBonuses": [
+    {
+      "type": "attribute",
+      "name": "spell_power:frost",
+      "value": 3.0,
+      "modifierUUID": "373d4e70-834a-4966-97e4-bfd626098946",
+      "attributeOperation": 0,
+      "interactionType": "self"
+    },
     {
       "type": "attribute",
       "name": "minecraft:generic.attack_damage",

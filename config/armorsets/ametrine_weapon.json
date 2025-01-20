@@ -4,10 +4,21 @@
   "mainHand": {
     "itemKey": "mythicupgrades:ametrine_sword",
     "mixAndMatch": [
-      "mythicupgrades:ametrine_axe"
+      "mythicupgrades:ametrine_axe",
+      "mythicupgrades:ametrine_pickaxe",
+      "mythicupgrades:ametrine_shovel",
+      "mythicupgrades:ametrine_hoe"
     ]
   },
   "fullSetBonuses": [
+    {
+      "type": "attribute",
+      "name": "spell_power:arcane",
+      "value": 3.0,
+      "modifierUUID": "f03352e7-9c95-450c-9447-a5e2e05946a6",
+      "attributeOperation": 0,
+      "interactionType": "self"
+    },
     {
       "type": "effect",
       "name": "minecraft:strength",
