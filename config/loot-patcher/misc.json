@@ -19,49 +19,14 @@
   },
   {
     "target_tables": [
-      "^(?!.*spell-dimension).*entities.*"
+      "^(?!.*spell-dimension).*entities.*(?!.*stand).*"
     ],
     "extra_tables": [
-      "spell-dimension:tier/common_drop"
-    ]
-  },
-  {
-    "target_tables": [
-      "^(?!.*spell-dimension).*entities.*"
-    ],
-    "extra_tables": [
-      "spell-dimension:tier/uncommon_drop"
-    ]
-  },
-  {
-    "target_tables": [
-      "^(?!.*spell-dimension).*entities.*"
-    ],
-    "extra_tables": [
-      "spell-dimension:tier/rare_drop"
-    ]
-  },
-  {
-    "target_tables": [
-      "^(?!.*spell-dimension).*entities.*"
-    ],
-    "extra_tables": [
-      "spell-dimension:tier/epic_drop"
-    ]
-  },
-  {
-    "target_tables": [
-      "^(?!.*spell-dimension).*entities.*"
-    ],
-    "extra_tables": [
-      "spell-dimension:tier/legendary_drop"
-    ]
-  },
-  {
-    "target_tables": [
-      "^(?!.*spell-dimension).*entities.*"
-    ],
-    "extra_tables": [
+      "spell-dimension:tier/common_drop",
+      "spell-dimension:tier/uncommon_drop",
+      "spell-dimension:tier/rare_drop",
+      "spell-dimension:tier/epic_drop",
+      "spell-dimension:tier/legendary_drop",
       "spell-dimension:entity/ore"
     ]
   },
