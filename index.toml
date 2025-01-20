@@ -462,7 +462,7 @@ hash = "45f72d573115a83715ed993fc9502fabad886c412cd34f05812e86f5ff17cc47"
 
 [[files]]
 file = "config/l2hostility/common.json5"
-hash = "413acf58195a8bab3617e114cbd7c97c8c52c8f3c0a3edd394c0aa33f14bc4ba"
+hash = "989685b64a2c136b98253e85a72efa8ba497dcfed906644af7da8bbe92c2ce4a"
 
 [[files]]
 file = "config/legendarytooltips-common.toml"
