@@ -18,19 +18,23 @@ hash = "ef7fa16297f55fb9af3523a39f066cab3c5bac2b01f64cf0a6154c6697cb0687"
 
 [[files]]
 file = "config/armorsets/ametrine_armor.json"
-hash = "e51265d4433ac557b2a0cae354db17ccf272127c977b45bfccaa6aea110fea14"
+hash = "82aa8fad7daeab780bda909b3c71d536e5ae6017d3a3f85408e939f9245574c4"
 
 [[files]]
 file = "config/armorsets/ametrine_weapon.json"
-hash = "9f9e7e068ff59434297c4db21ef238619546464ff571ed38035ff9be6132d386"
+hash = "265f2bafdf9cb8e011638c1204723f44fa66d721e6974ad082e40a3976822de9"
+
+[[files]]
+file = "config/armorsets/aquamarine_armor.json"
+hash = "726b707a51536de318b7cdf980922b8c8fb22c2cd15947c0c0976648deeca632"
 
 [[files]]
 file = "config/armorsets/aquamarine_weapon.json"
-hash = "1313b2c57956b6e49e352d37950d4f165ae90fffa6f061bfd39f39eb6b90126c"
+hash = "d49512801867ed238638223e0b314b5cc3fe80f609a19b077bfe11f3fb888592"
 
 [[files]]
 file = "config/armorsets/aquarium_armor.json"
-hash = "d33fc33ab57ed39be198357d5e826256551ef75f2d8195d7d361eb727e81387d"
+hash = "2a2765c7ce22b965f8e06c472e048466ddd8a26647eb9b5ff5563751f8251f9d"
 
 [[files]]
 file = "config/armorsets/banglum_armor.json"
@@ -90,7 +94,7 @@ hash = "82cb0c66928ca6762c96725dbe92a111d1a2dca77060745fa0010348242da558"
 
 [[files]]
 file = "config/armorsets/frozen_diamond_armor.json"
-hash = "fc3d3176e97cbbfb92bac7f9c1b11df141c181f29a4dc32b734485b46cb7bb54"
+hash = "2519466bf1b3cad8346aa37dc23ee7c44ac9d98d2dc008b006900259c4d8a96c"
 
 [[files]]
 file = "config/armorsets/gilded_netherite_armor.json"
@@ -106,11 +110,11 @@ hash = "a2af07be925b5a73ee277a82d21ab1cae6869df388335d7a8e33dd1793c0cd23"
 
 [[files]]
 file = "config/armorsets/jade_armor.json"
-hash = "db3c6346e3baf533b6572ed3bd038351a5065d7f0699d30e91b2357e2c03ebc5"
+hash = "b2c64c4ca9205a874b33caffbd403afcaa6b8c2448d1131b45c67b61c892a3e5"
 
 [[files]]
 file = "config/armorsets/jade_weapon.json"
-hash = "05c5b3588da1ad4440555ad92af455bd46980ad7f8a60e80527734ecacf9bcc2"
+hash = "2d3be2cafce014d54c6c409da1f1f1c787077f695926817c74d364b879d3a99f"
 
 [[files]]
 file = "config/armorsets/kyber_armor.json"
@@ -126,7 +130,7 @@ hash = "87710add00b8314af3ccf21c862b5d1314bc7ea7fc5d9d45c478d2611043e137"
 
 [[files]]
 file = "config/armorsets/marine_diamond_armor.json"
-hash = "009de2038dfc8e6ace977e1b1a28f63f0f7443930265381e93c172dbd33ffff5"
+hash = "728a85c9796fa26027e42fb7054131479c7be95f77a09fa35eacfef3a32cf5fa"
 
 [[files]]
 file = "config/armorsets/metallurgium_armor.json"
@@ -161,8 +165,12 @@ file = "config/armorsets/palladium_armor.json"
 hash = "613924306110f5f472c64cf3bfbdc85da156d0037a089510bffc6c373d92bd3d"
 
 [[files]]
-file = "config/armorsets/peridotite_armor.json"
-hash = "599df3334f346639f8a347cc82a12b7a6e9bfaea078a017fd4bc80be16f54c3d"
+file = "config/armorsets/peridot_armor.json"
+hash = "2a2d653681329f3ce88570cfd83ef47a3bd8e5025ec9890da4944f38cfe506b7"
+
+[[files]]
+file = "config/armorsets/peridot_weapon.json"
+hash = "a9cec64c51d9223297a7409b130b92aab57b4a1521cd77d5df8188d8e36d0414"
 
 [[files]]
 file = "config/armorsets/prometheum_armor.json"
@@ -173,24 +181,24 @@ file = "config/armorsets/rhodochrosite_armor.json"
 hash = "cdfdb9c8aa7e82545025b7a9864f85d05ef6b759bae405f34950d2d92098f6ac"
 
 [[files]]
+file = "config/armorsets/ruby_armor.json"
+hash = "e2e81e0925954416564af57eb80e1c84bfa0763b91418f3c9c2c972c6cd4b78c"
+
+[[files]]
 file = "config/armorsets/ruby_weapon.json"
-hash = "0c8706d0d2b43113f359232791c89e41e84ba74d2ab899e9ea281790c9a6fcd5"
+hash = "ba86ba3e77b68a28d75f47e7a6b230900d6b279c152cb980480dfe7d0f56905d"
 
 [[files]]
 file = "config/armorsets/runite_armor.json"
 hash = "30282ce54b69ecb299f903b806022eb5f36f017892bca1db4d0f0d3d4ae3004f"
 
 [[files]]
-file = "config/armorsets/saphire_armor.json"
-hash = "a98aec1207fdaa1b40bf32a5ad4c635aec0dfb3500c8e724295bac3533d2c9d7"
-
-[[files]]
 file = "config/armorsets/sapphire_armor.json"
-hash = "72ba7e9a38c6a6b37a9b44662a20c7a7e192e37e4e5fcdac19bd6faed0e34e0a"
+hash = "4685a67305e22655878b5044d5992072ffe3f7f79c92a93daed714dfcea1d0db"
 
 [[files]]
 file = "config/armorsets/sapphire_weapon.json"
-hash = "6ee0711799d5d273f6fed417dca3133bbf57608da8028f8fda791bdb67d787b7"
+hash = "e6289a31154838adfaf17cc5b78fceff24029469b8ac80d2729ec81d1b3016fe"
 
 [[files]]
 file = "config/armorsets/star_platinum_armor.json"
@@ -210,11 +218,11 @@ hash = "62aa1c55ec441f1624a01ec8801e60f22f290e66341d0086bcd8b1f180f1a4a2"
 
 [[files]]
 file = "config/armorsets/topaz_armor.json"
-hash = "fb911aa8a3bba7f665b19c9458b4f18d8884baba7c4eb511389952eabf4b8879"
+hash = "61900bd099f14f70c9899cf52a081fd4d9bfe02aafed17a0194f1771f8650fff"
 
 [[files]]
 file = "config/armorsets/topaz_weapon.json"
-hash = "49e486111dbeddbc2e91c77854028d0102e50a7858d06a41acf0db00fca2b23d"
+hash = "19f2896c6b762247035953d83e74107963c62a23a3661128fbb9602596ae5d17"
 
 [[files]]
 file = "config/armorsets/warden_armor.json"
@@ -421,12 +429,16 @@ file = "config/graveyard/the-graveyard-3.0-config.json5"
 hash = "d3c4b80ecc098946480ef5186657c671520a2d0592d30ad4b49a4ec2ae40aada"
 
 [[files]]
+file = "config/grindenchantments.json"
+hash = "62f8601dc277c60c28cc13786ca332dcd767e2668a0b97613891c147ac7e7205"
+
+[[files]]
 file = "config/inventorysorter/blacklist.json5"
-hash = "e1bc956d7bcacd5f0c71ff8a38212a406df27aa9738ce33c9ede9ea710987322"
+hash = "7febb80573ac3fe7514ffec7bc8f899c1169fc2a5e48760276885f43e502d02a"
 
 [[files]]
 file = "config/inventorysorter/config.json5"
-hash = "467ffb6d8efe2bef54d326ef497de1c2ae864076b3da426c506e12348fc95256"
+hash = "ba41bf4440b1e3862c5de51684196b16b7a8e4ad58b5874b336f2f35c59c0670"
 
 [[files]]
 file = "config/jade/hide-blocks.json"
@@ -462,7 +474,7 @@ hash = "45f72d573115a83715ed993fc9502fabad886c412cd34f05812e86f5ff17cc47"
 
 [[files]]
 file = "config/l2hostility/common.json5"
-hash = "989685b64a2c136b98253e85a72efa8ba497dcfed906644af7da8bbe92c2ce4a"
+hash = "6165a40740ccfcfa1a71dd3b43c232ab599544fe6324b87ff9805dcff16a0f67"
 
 [[files]]
 file = "config/legendarytooltips-common.toml"
@@ -490,7 +502,7 @@ hash = "3b3699d6e69f9d9a86ebf800249352256f358b3254f820bb268b6fcdb6309363"
 
 [[files]]
 file = "config/loot-patcher/misc.json"
-hash = "3caf35372ac976d23b443f6b2c10128216bbb4968cfda4559d169eac0a97e7a9"
+hash = "77ded45e0fb515281db601f23126647f815e2626e7987b9b8fdc6393db63111a"
 
 [[files]]
 file = "config/lootr.json"
@@ -538,23 +550,23 @@ hash = "6802e69b215caf6d6ae4bf3814fb2ec779bf8dd45fc257dc47e1e67766c83be8"
 
 [[files]]
 file = "config/openloader/data/difficulty/data/spell-dimension/l2hostility_config/entity/zboss_0.json"
-hash = "d86e2d7ba3aa145af16fe3b74b1a681328d7a155016b0b0064f06bce209c4384"
+hash = "2d03a9998b0eec8c228a5189951df89fa6dd40403b99a5ad002e276f1df10667"
 
 [[files]]
 file = "config/openloader/data/difficulty/data/spell-dimension/l2hostility_config/entity/zboss_1.json"
-hash = "a2ac405ff06c63142ce47215fb0d1adfd702735de6d031f50d9c970c8dd64c05"
+hash = "011f12fe95127865229ff4876d52c050c344075f5ce5e7ffbf9148c5559c2734"
 
 [[files]]
 file = "config/openloader/data/difficulty/data/spell-dimension/l2hostility_config/entity/zboss_2.json"
-hash = "26ec971955b73121685f1a5df4f5baa406a53af44223773693587b10ed067a49"
+hash = "5da44e7eea7041beac037fdeab3cb572aa4f4b07333c5b49cc5a97839e3bdc0d"
 
 [[files]]
 file = "config/openloader/data/difficulty/data/spell-dimension/l2hostility_config/entity/zboss_3.json"
-hash = "3ff58ad7a132d42972b6788612ed029e570d4ba72f5a4884a4c5ed72ab6858de"
+hash = "1eecc1107b8a1dc8d6e8cb1036e89bfd8ce819af71cd9515c4105172e1d85e48"
 
 [[files]]
 file = "config/openloader/data/difficulty/data/spell-dimension/l2hostility_config/entity/zboss_4.json"
-hash = "9b22bde75c8a6094c394931b99418af9aa6bded0259865718e010ab60ebdbb71"
+hash = "45ae97d6dabf45096b656b39e6263eba0e7b4729dafc0fd97f34fabfa18c8066"
 
 [[files]]
 file = "config/openloader/data/difficulty/pack.mcmeta"
@@ -1170,7 +1182,7 @@ hash = "e4bff9ab2230146387d464e792e701bff99192461dfdd551b9facca2fe076a88"
 
 [[files]]
 file = "config/openloader/data/spell/data/paladins/spells/heal.json"
-hash = "9d602bf21fc775f020e30b39c0bc396941ccc9f64999ba04543c6ffb3471c70e"
+hash = "618755f66b4af63e1db7aacfca383a19ddc5fcf531ac84c8f765baaae1e089a1"
 
 [[files]]
 file = "config/openloader/data/spell/data/paladins/spells/holy_beam.json"
@@ -1191,6 +1203,10 @@ hash = "97560498ca12e81e84282bbaf89a35814d09dc4c25a20442eb9ca1e9f62f66b2"
 [[files]]
 file = "config/openloader/data/spell/data/spellbladenext/spell_pools/deathchill.json"
 hash = "82a4cf34abb4cba23a0777fd548d1e43ac67948677b2f3ad9980d034eae36a61"
+
+[[files]]
+file = "config/openloader/data/spell/data/spellbladenext/spell_pools/defiance.json"
+hash = "e0dd0a9605d19d9b42601821e20e933bdf3ccdf51747d3380968ede993c42e1a"
 
 [[files]]
 file = "config/openloader/data/spell/data/spellbladenext/spell_pools/fire_battlemage.json"
@@ -1490,7 +1506,7 @@ hash = "ed278efe847c372dd02fca10fa670a0ac1efb01d9f4a9ffd70dfc258c546a53b"
 
 [[files]]
 file = "config/openloader/resources/translations/assets/mythicupgrades/lang/zh_cn.json"
-hash = "1914099103f824d16e4795c5b57f48bf0bfec9ae87f51942cd2935f2f0125910"
+hash = "f574bf1d57f613e7d26e759564f60fcc9696da892b800828fd7bd6a026b8896f"
 
 [[files]]
 file = "config/openloader/resources/translations/assets/numismatic-overhaul/lang/zh_cn.json"
@@ -1498,7 +1514,7 @@ hash = "1c2fc31461a6e32753ba55b99fbb29c5091ece31d1abe7dd10b1076c3b329eb3"
 
 [[files]]
 file = "config/openloader/resources/translations/assets/paladins/lang/zh_cn.json"
-hash = "a9db366ceba1e19c7eec2e85ba78640601e3abf682a063fc4568eddb222d334c"
+hash = "5465f966991739a4d35ed2a132c56164e144be2abc3ef5dea3611fe532e52246"
 
 [[files]]
 file = "config/openloader/resources/translations/assets/perfectplushies/lang/zh_cn.json"
@@ -1549,12 +1565,16 @@ file = "config/openloader/resources/translations/assets/spellbladenext/lang/zh_c
 hash = "6a770fc873bb14ce861d054097546904ac39c912b75614e97ae93c37c552414a"
 
 [[files]]
+file = "config/openloader/resources/translations/assets/things/lang/en_us.json"
+hash = "934dbb7c62f620a0059048469d365fc47b86819f37d17711301a501a2d9f756c"
+
+[[files]]
 file = "config/openloader/resources/translations/assets/things/lang/zh_cn.json"
-hash = "f2ca0ef3808b6238c062c456988c5dad78269dcc5ea2dafcd48494090eb6574f"
+hash = "eb79d3d44a1da928f8805d977d571e530cc19b45ac90f98da9750394ebdf2839"
 
 [[files]]
 file = "config/openloader/resources/translations/assets/wizards/lang/zh_cn.json"
-hash = "701f5741c5728ae859cc30a8c650aeccc70dd27607a3e1eb2c85fdb9e6155a53"
+hash = "954f64c9ecbce30444219b3d46fef0a242ca365bbf6a80ef4f0d9078e7991abf"
 
 [[files]]
 file = "config/openloader/resources/translations/pack.mcmeta"
@@ -1566,7 +1586,11 @@ hash = "c641f2715809cba92b6fdd38845a095bcbe83a5f78355abb490b04beb57db963"
 
 [[files]]
 file = "config/paladins/items_v5.json"
-hash = "002ecd2dc6b155b1feafb62aac86fbee16d794e11f10bf92e59178286d67ac8f"
+hash = "315c6bbd8615454a22fb38fffd8b08c69d4abb29d460754d453d21c002b3ec6c"
+
+[[files]]
+file = "config/paladins/tweaks.json"
+hash = "f000fb79ee42fbe168c39d14436debf8759067cdcabe9cdc40e51475c840a02c"
 
 [[files]]
 file = "config/pickupnotifier/pickupnotifier-client.toml"
@@ -1723,16 +1747,6 @@ hash = "c923383681164fec4d9944cfa2046adb3495b63298e8fe7a1d1efcfd7220b755"
 [[files]]
 file = "mods/a-good-place.pw.toml"
 hash = "928d7bd8fa7ecd2932c415a9a8514786acf50707802e2e4c99d69c60582f51ee"
-metafile = true
-
-[[files]]
-file = "mods/accessories-tc-layer.pw.toml"
-hash = "d089bd1afa7fad1d3c8414b3f1765cdca030b20d974bdd1f8e232069286c26d0"
-metafile = true
-
-[[files]]
-file = "mods/accessories.pw.toml"
-hash = "cfd017dbaa63c60bee0546dd4c9b5405714a0b9a03965e091c34830edbcd69a2"
 metafile = true
 
 [[files]]
@@ -2167,7 +2181,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "734ba304c0220010427b5f9ed4446d438843b4fdacd4e0dd168e4bfb99987a6e"
+hash = "ee37d220e161bf87661d0047d00841005790e6feffb6f07e9eba3859fdfcdd8b"
 metafile = true
 
 [[files]]
@@ -2192,7 +2206,7 @@ metafile = true
 
 [[files]]
 file = "mods/l2-hostility-fabricated.pw.toml"
-hash = "8779adde449b1fcbe911c0cf424c794e7a73e0204d7f014698ae4c2d2eca6cd7"
+hash = "fcbe7c91d11b0d22bc4e3b092e708f383eec172f4596d10f8bed1a6cde260abe"
 metafile = true
 
 [[files]]
@@ -2252,7 +2266,7 @@ metafile = true
 
 [[files]]
 file = "mods/mariums-soulslike-weaponry.pw.toml"
-hash = "5cfb5cf44f5558f17f6db9f998de1c553a62ec233a386b4cdbf2aca8c6516416"
+hash = "35d0b0a43218cdd22f744bc1a54a42636cb0f729480aed9307b9a562ee8b3ff4"
 metafile = true
 
 [[files]]
@@ -2512,7 +2526,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "191d1848501fdb70f19f068732431367cb3b69d5d912bc33854dbc047c7a97e8"
+hash = "7031bfb56ac5108168b2e78753daff9bfc79852c8b04cc53d1a5381503424740"
 metafile = true
 
 [[files]]
@@ -2577,7 +2591,7 @@ metafile = true
 
 [[files]]
 file = "mods/spell-dimension-extra.pw.toml"
-hash = "889859613995459d423b1e3a87433881119b1a60a6ccf2fe68cfa2c50653edfc"
+hash = "5fd873ca042188588de1e09482701bdeec8f466e027f85547e88b1a238dd1719"
 metafile = true
 
 [[files]]
@@ -2653,6 +2667,11 @@ metafile = true
 [[files]]
 file = "mods/travelers-titles-fabric.pw.toml"
 hash = "31b45a23d9e7de7cdb4b34eca8d43d59277c002dee5ac6c6765cce4d8fa1c8fa"
+metafile = true
+
+[[files]]
+file = "mods/trinkets.pw.toml"
+hash = "d9bfec2cf36b6bae2d85a1136560e047ab8ce1b0e9798e7b6be5d0670f65fb55"
 metafile = true
 
 [[files]]

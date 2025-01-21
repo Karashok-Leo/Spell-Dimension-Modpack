@@ -2,21 +2,31 @@
   "list": [
     {
       "blacklist": [
-        "l2hostility:invisible"
+        "l2hostility:invisible",
+        "l2hostility:split",
+        "l2hostility:teleport"
       ],
       "difficulty": {
         "base": 50,
-        "min": 200,
+        "min": 320,
         "scale": 0.0,
         "variation": 0.0,
         "apply_chance": 1.0,
         "trait_chance": 1.0
       },
       "entities": [
-        "graveyard:lich"
+        "graveyard:lich",
+        "bosses_of_mass_destruction:lich",
+        "bosses_of_mass_destruction:void_blossom",
+        "bosses_of_mass_destruction:gauntlet"
       ],
       "items": [],
       "traits": [
+        {
+          "free": 2,
+          "min": 2,
+          "trait": "l2hostility:protection"
+        },
         {
           "free": 1,
           "min": 1,

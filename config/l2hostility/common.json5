@@ -6,6 +6,8 @@
 		"killsPerLevel": 10,
 		// Max player adaptive level
 		"maxPlayerLevel": 1000,
+		// Max mob level
+		"maxMobLevel": 3000,
 		// Mobs spawned within this range will use lowest player level in range instead of nearest player's level to determine mob level
 		"newPlayerProtectRange": 48,
 		// Decay in player difficulty on death
@@ -174,7 +176,7 @@
 		// Duration in ticks for enchantments to be disabled per level for Dispell
 		"dispellTime": 100,
 		// Duration in seconds to set target on fire by Fiery
-		"fieryTime": 2.5,
+		"fieryTime": 3,
 		// Duration in ticks for Weakness
 		"weakTime": 100,
 		// Duration in ticks for Slowness
@@ -294,9 +296,9 @@
 		   Only supports configuration in the config file.
 		*/
 		"auraRange": {
-			"arena": 24,
+			"moonwalk": 10,
 			"gravity": 10,
-			"moonwalk": 10
+			"arena": 24
 		}
 	},
 	"complements": {

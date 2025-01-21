@@ -2,22 +2,31 @@
   "list": [
     {
       "blacklist": [
-        "l2hostility:invisible"
+        "l2hostility:invisible",
+        "l2hostility:split",
+        "l2hostility:teleport"
       ],
       "difficulty": {
         "base": 50,
-        "min": 250,
+        "min": 560,
         "scale": 0.0,
         "variation": 0.0,
         "apply_chance": 1.0,
         "trait_chance": 1.0
       },
       "entities": [
+        "adventurez:the_eye",
+        "minecraft:ender_dragon",
         "soulsweapons:day_stalker",
         "soulsweapons:night_prowler"
       ],
       "items": [],
       "traits": [
+        {
+          "free": 3,
+          "min": 3,
+          "trait": "l2hostility:protection"
+        },
         {
           "free": 1,
           "min": 1,

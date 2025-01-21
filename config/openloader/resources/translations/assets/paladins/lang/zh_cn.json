@@ -13,6 +13,11 @@
   "item.paladins.crusader_armor_legs": "十字军护腿",
   "item.paladins.crusader_armor_feet": "十字军靴子",
 
+  "item.paladins.netherite_crusader_armor_head": "下界合金十字军头盔",
+  "item.paladins.netherite_crusader_armor_chest": "下界合金十字军胸甲",
+  "item.paladins.netherite_crusader_armor_legs": "下界合金十字军护腿",
+  "item.paladins.netherite_crusader_armor_feet": "下界合金十字军靴子",
+
   "item.paladins.stone_claymore": "石阔刃大剑",
   "item.paladins.iron_claymore": "铁阔刃大剑",
   "item.paladins.golden_claymore": "金阔刃大剑",
@@ -57,6 +62,11 @@
   "item.paladins.prior_robe_chest": "修院长法衣",
   "item.paladins.prior_robe_legs": "修院长长裤",
   "item.paladins.prior_robe_feet": "修院长靴子",
+  
+  "item.paladins.netherite_prior_robe_head": "下界合金修院长兜帽领",
+  "item.paladins.netherite_prior_robe_chest": "下界合金修院长法衣",
+  "item.paladins.netherite_prior_robe_legs": "下界合金修院长长裤",
+  "item.paladins.netherite_prior_robe_feet": "下界合金修院长靴子",
 
   "item.paladins.acolyte_wand": "辅祭魔杖",
   "item.paladins.holy_wand": "神圣魔杖",

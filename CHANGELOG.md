@@ -1,5 +1,49 @@
 # Change Log
 
+## 0.5.4 - 2025.1.20
+##### Added
+- Warning for Agglomeration
+- Some missing translations
+- Compat for OPAC
+##### Changed
+- Updated some mods
+- Required spell power of Spell Books 
+    - Primary: 33->100
+    - Intermediate: 66->200
+    - Advanced: 99->300
+- Allow using Gridstone to remove curse enchantments
+- Cast duration of Heal
+- Attributes bonuses of new armors of Paladins
+- Min level of bosses:
+    - T4: 100->80
+    - T3: 150->160/Protection 1
+    - T2: 200->320/Protection 2
+    - T1: 250->560/Protection 3
+    - T0: 300->880/Protection 4
+- Effects of some mob traits:
+    - Adaptive damage factor: 0.5->0.75
+    - Reflect damage factor: 0.3->0.25
+    - Dispell duration: 10->5 sec
+    - Fiery duration: 5->3 sec
+    - Weakener duration: 10->5 sec
+    - Slowness duration: 10->5 sec
+    - Poisonous duration: 10->5 sec
+    - Withering duration: 10->5 sec
+    - Blinding duration: 10->2.5 sec
+    - Confusion duration: 10->2.5 sec
+    - Freezing duration: 10->2.5 sec
+    - Curse duration: 10->5 sec
+##### Removed
+- Extra loot of Armor Stand
+- Defiance spell book
+- Accessories/Accessories Trinkets Compat Layer (Bug/Replace)
+##### Fixed
+- Disable button of Inventory Sorter
+- Bug with Phase after re-entering the world
+- Split mobs no longer drop loots
+- Some of bosses did not have the max health scaling
+- Transparent doesn't work with some armors
+
 ## 0.5.3 - 2025.1.19
 ##### Added
 - New Spells(all belong to Healing):

@@ -2,11 +2,13 @@
   "list": [
     {
       "blacklist": [
-        "l2hostility:invisible"
+        "l2hostility:invisible",
+        "l2hostility:split",
+        "l2hostility:teleport"
       ],
       "difficulty": {
         "base": 50,
-        "min": 100,
+        "min": 80,
         "scale": 0.0,
         "variation": 0.0,
         "apply_chance": 1.0,
