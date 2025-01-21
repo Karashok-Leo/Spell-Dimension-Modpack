@@ -1,6 +1,9 @@
 # Change Log
 
 ## 0.5.4 - 2025.1.21
+##### Warning
+- This is a destructive update, so please be sure to back up your game saves!
+- Due to the replacement of trinkets api, please remove all items from your trinket slots before updating!
 ##### Added
 - Warning for Agglomeration
 - Some missing translations
@@ -139,7 +142,7 @@
 ## 0.5.0 - 2025.1.6
 ##### Warning
 - This is a destructive update, so please be sure to back up your game saves!
-- Due to the replacement of trinkets and backpacks, please remove all items from your backpack and trinket slots before updating!
+- Due to the replacement of trinkets api and backpacks, please remove all items from your backpack and trinket slots before updating!
 - Due to the revised invasion event mechanism, all loaded Consciousness Cores will be removed!
 ##### Added
 - Recipe Remover
