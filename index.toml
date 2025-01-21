@@ -474,7 +474,7 @@ hash = "45f72d573115a83715ed993fc9502fabad886c412cd34f05812e86f5ff17cc47"
 
 [[files]]
 file = "config/l2hostility/common.json5"
-hash = "6165a40740ccfcfa1a71dd3b43c232ab599544fe6324b87ff9805dcff16a0f67"
+hash = "dc351775bf4f6c9f7d5c52d7a8f6a165c7eb45921a2d7b174857da314f6417a1"
 
 [[files]]
 file = "config/legendarytooltips-common.toml"
@@ -1545,8 +1545,12 @@ file = "config/openloader/resources/translations/assets/ringsofascension/lang/zh
 hash = "c516a350f7fb4afa4e16b6c3b7e64ae67ce98157ddd45b2acd1fc8e4313d0ccd"
 
 [[files]]
+file = "config/openloader/resources/translations/assets/spacecatasb/lang/en_us.json"
+hash = "977a96d263989adb2874e200db5f864af5db20ca3caeb0387904463c372005f3"
+
+[[files]]
 file = "config/openloader/resources/translations/assets/spacecatasb/lang/zh_cn.json"
-hash = "f5cc396ee32029e20b5d647b364dff41215c04e479c1ed52f6e6b0e7c494247e"
+hash = "12e45ca625e142598ac0830a5282afbf05d9f73a1c4930f32819bb51be8fd173"
 
 [[files]]
 file = "config/openloader/resources/translations/assets/spell_engine/lang/zh_cn.json"

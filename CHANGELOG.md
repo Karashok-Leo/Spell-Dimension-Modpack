@@ -1,6 +1,6 @@
 # Change Log
 
-## 0.5.4 - 2025.1.20
+## 0.5.4 - 2025.1.21
 ##### Added
 - Warning for Agglomeration
 - Some missing translations
