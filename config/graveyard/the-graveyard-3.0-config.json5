@@ -179,7 +179,9 @@
       "maxGroupSizeSummonedMobs": 5,
       "ghoulSpawnTimerInFight": 6000,
       "isBloodCollectableEntity": [
-        "entity.minecraft.villager"
+        "entity.minecraft.villager",
+        "entity.minecraft.zombie_villager",
+        "entity.minecraft.zombie"
       ],
       "isBossSummonableItem": [
         "item.minecraft.debug_stick"

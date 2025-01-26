@@ -1,0 +1,19 @@
+{
+  "type": "alloy_forgery:forging",
+  "inputs": [
+    {
+      "item": "minecraft:bone",
+      "count": 2
+    },
+    {
+      "item": "mutantmonsters:mutant_skeleton_pelvis",
+      "count": 1
+    }
+  ],
+  "output": {
+    "id": "graveyard:lower_bone_staff",
+    "count": 1
+  },
+  "min_forge_tier": 2,
+  "fuel_per_tick": 20
+}
