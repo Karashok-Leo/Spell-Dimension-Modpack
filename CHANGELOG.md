@@ -1,5 +1,27 @@
 # Change Log
 
+## 0.5.5 - 2025.1.27
+##### Added
+- New Spell:
+    - Black Hole
+- New Traits:
+    - Shift
+    - Airborne
+- Recipes for bone staff fragments
+##### Changed
+- Updated some mods
+- Spell power requirements in quests
+- Mechanics of Dispell and Spell Tearing
+- Reduced the cooldown of Essence: 40->10 ticks
+- Increased the drop chance of base essences: 15% -> 20
+- SpellPower enchantments no longer conflict with other enchantments.
+- Allowed to fill blood vials by killing zombies and zombie villagers.
+##### Fixed
+- Attempt to fix the entity check issue for invasion events
+- Attempt to fix lag when breaking a large number of blocks at the end of an invasion
+- Attempt to fix Trinkets crash issue
+- Capped the damage reduction of Flex Breastplate
+
 ## 0.5.4 - 2025.1.21
 ##### Warning
 - This is a destructive update, so please be sure to back up your game saves!

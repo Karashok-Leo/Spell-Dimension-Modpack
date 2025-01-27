@@ -4,7 +4,8 @@
       "blacklist": [
         "l2hostility:invisible",
         "l2hostility:split",
-        "l2hostility:teleport"
+        "l2hostility:teleport",
+        "spell-dimension:shift"
       ],
       "difficulty": {
         "base": 50,

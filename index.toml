@@ -426,7 +426,7 @@ hash = "2f7d669793e21271933218bc1167ceb79ce53f17ee8ee17dd19db3c8555d70cd"
 
 [[files]]
 file = "config/graveyard/the-graveyard-3.0-config.json5"
-hash = "d3c4b80ecc098946480ef5186657c671520a2d0592d30ad4b49a4ec2ae40aada"
+hash = "0819c75f6fd11c0ccf88c1f7ebb781a0887e257974ab8cf119c48c6bd0ac7f14"
 
 [[files]]
 file = "config/grindenchantments.json"
@@ -550,23 +550,23 @@ hash = "6802e69b215caf6d6ae4bf3814fb2ec779bf8dd45fc257dc47e1e67766c83be8"
 
 [[files]]
 file = "config/openloader/data/difficulty/data/spell-dimension/l2hostility_config/entity/zboss_0.json"
-hash = "2d03a9998b0eec8c228a5189951df89fa6dd40403b99a5ad002e276f1df10667"
+hash = "ccc0ec339fdfef14e015803c83c9167bbce7189fc5c881acf656bc5d762ffbf1"
 
 [[files]]
 file = "config/openloader/data/difficulty/data/spell-dimension/l2hostility_config/entity/zboss_1.json"
-hash = "011f12fe95127865229ff4876d52c050c344075f5ce5e7ffbf9148c5559c2734"
+hash = "c3802c0ea9ac6fe2f0a6917a09eb6d1901ca44d8f4272742cdad1459f1046500"
 
 [[files]]
 file = "config/openloader/data/difficulty/data/spell-dimension/l2hostility_config/entity/zboss_2.json"
-hash = "5da44e7eea7041beac037fdeab3cb572aa4f4b07333c5b49cc5a97839e3bdc0d"
+hash = "ac7a27670b8be1e410d88cdea39de96bcf74a8556debb34173071cd192404e18"
 
 [[files]]
 file = "config/openloader/data/difficulty/data/spell-dimension/l2hostility_config/entity/zboss_3.json"
-hash = "1eecc1107b8a1dc8d6e8cb1036e89bfd8ce819af71cd9515c4105172e1d85e48"
+hash = "c5181c1eec0eb8c678f44697544f7874252ba6972c180a8be3be94fd7ce05284"
 
 [[files]]
 file = "config/openloader/data/difficulty/data/spell-dimension/l2hostility_config/entity/zboss_4.json"
-hash = "45ae97d6dabf45096b656b39e6263eba0e7b4729dafc0fd97f34fabfa18c8066"
+hash = "d559d1708d3f14760f9c16bb8b13393903be4163b6e61abdb5d98f152b46bd7a"
 
 [[files]]
 file = "config/openloader/data/difficulty/pack.mcmeta"
@@ -1061,6 +1061,14 @@ file = "config/openloader/data/recipe/data/spell-dimension/recipes/misc/grass_bl
 hash = "4ca2c885e620a7d171afff004a416f834cb4ebb134383b9d4fdeaff2dc02d35f"
 
 [[files]]
+file = "config/openloader/data/recipe/data/spell-dimension/recipes/misc/lower_bone_staff.json"
+hash = "f62cf9a7397e1c119fab4f2e38a27afc1ce4a52ee1b7f54cc3434bd53b6e943e"
+
+[[files]]
+file = "config/openloader/data/recipe/data/spell-dimension/recipes/misc/middle_bone_staff.json"
+hash = "30f7fee3489c13cc68661440ae8a1c574545edb60ba27faf225845ae0ac5d4c8"
+
+[[files]]
 file = "config/openloader/data/recipe/data/spell-dimension/recipes/misc/obsidian.json"
 hash = "a1bf9f39051016c1129b00ec1ae5c13240bdfc606501d021b45a163aad767e25"
 
@@ -1075,6 +1083,10 @@ hash = "daeb6e173dadaf4907d7ce70e64042ab2040eab69c29953a0714bf4900f286f8"
 [[files]]
 file = "config/openloader/data/recipe/data/spell-dimension/recipes/misc/totem_of_undying.json"
 hash = "a59879fb7cc18e8e44763ceb3f08dba38806802a265ca7eb033fd487b6c91679"
+
+[[files]]
+file = "config/openloader/data/recipe/data/spell-dimension/recipes/misc/upper_bone_staff.json"
+hash = "168a74b20fa3df60f1b730b5b4a037dd8c4019fba7ac24c53785402b89b26bb4"
 
 [[files]]
 file = "config/openloader/data/recipe/data/spell-dimension/recipes/misc/wither_skeleton_skull.json"
@@ -1865,7 +1877,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me.pw.toml"
-hash = "9646a997e2bd775b930dce79d18d4c1f19e9662a728ed00ad323b4657aa863b1"
+hash = "8504cecd52067fda6ddd985bb9ebcc3a3ed0d57d83ba25775009cca8e246bbf1"
 metafile = true
 
 [[files]]
@@ -2100,7 +2112,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "9d1ff5fb558fa63ca7c2fe45959c00d871bc80d52c315b3c20164e7c26f5eff5"
+hash = "9de3e4c33439e73f683230d1696b8b9704dca23232f7cd2b468bfc81d92ecf40"
 metafile = true
 
 [[files]]
@@ -2150,7 +2162,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "66938e60b4bcff274186d4b1e38dc04e53ac40b56ceaff998a83c44acac35ad9"
+hash = "1a0b2fafdf1c7d2793388df9b5a5d58efdb72b9819758da641b3cb4480442045"
 metafile = true
 
 [[files]]
@@ -2270,7 +2282,7 @@ metafile = true
 
 [[files]]
 file = "mods/mariums-soulslike-weaponry.pw.toml"
-hash = "35d0b0a43218cdd22f744bc1a54a42636cb0f729480aed9307b9a562ee8b3ff4"
+hash = "560175e99efdc1945de7bc1a68bfcc3fa19129e7c5a34343c9c8c29f01958c19"
 metafile = true
 
 [[files]]
@@ -2315,7 +2327,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "ece1c73bdc292cc91416eda1c7b878dc1613e9fe7ee76b52a5994011225e2aaa"
+hash = "f4136c4b7f9dd0a7fb4fc36292cfc21bb45762ba757210275682d6051ca74b29"
 metafile = true
 
 [[files]]
@@ -2530,12 +2542,12 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "7031bfb56ac5108168b2e78753daff9bfc79852c8b04cc53d1a5381503424740"
+hash = "8f0b5d83543758a68e91d78ac4dde9ff7a275e8267ed67d0606f3f41b69e58b4"
 metafile = true
 
 [[files]]
 file = "mods/shoulder-surfing-reloaded.pw.toml"
-hash = "6497a62ccde568266e5b4dcb30ab8dec5983cc020a3bbd7885ce28c2cd10f07f"
+hash = "a85d11da38f11ac42cbc36d972cc8fe831fd4fac60aff55c4b7525910d63593c"
 metafile = true
 
 [[files]]
@@ -2595,7 +2607,7 @@ metafile = true
 
 [[files]]
 file = "mods/spell-dimension-extra.pw.toml"
-hash = "5fd873ca042188588de1e09482701bdeec8f466e027f85547e88b1a238dd1719"
+hash = "2f022fdbf0d9383cbe703a214da0fa984d6eac77f72828e265bc4048faeffc7b"
 metafile = true
 
 [[files]]
@@ -2635,7 +2647,7 @@ metafile = true
 
 [[files]]
 file = "mods/structure-essentials-forge-fabric.pw.toml"
-hash = "389018cbf6ef50e2b68f52253ed6167e9516ee218827bab87d197fec816f4ec5"
+hash = "b8decd821430765206e2d3929cb0169d550c137068fc87a47a26031950a3fff4"
 metafile = true
 
 [[files]]
@@ -2740,7 +2752,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "cd0073cfc7bd2fbc89ddf46fb021d469e93a059ef382d3fedca8f961af3081ee"
+hash = "54c66098a6b5d089302514f1dcff7c694896d1f60dca765f256878962919e88b"
 metafile = true
 
 [[files]]
