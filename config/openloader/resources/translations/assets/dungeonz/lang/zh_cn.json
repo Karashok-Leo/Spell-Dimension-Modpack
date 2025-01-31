@@ -1,0 +1,61 @@
+{
+    "block.dungeonz.dungeon_portal": "地牢传送门",
+    "block.dungeonz.dungeon_spawner": "地牢刷怪笼",
+    "block.dungeonz.dungeon_gate": "地牢之门",
+
+    "item.dungeonz.item_group": "DungeonZ",
+
+    "item.dungeonz.dungeon_compass": "地牢指南针",
+
+    "dungeonz.difficulty": "难度",
+    "dungeonz.difficulty.easy": "简单",
+    "dungeonz.difficulty.normal": "普通",
+    "dungeonz.difficulty.hard": "困难",
+    "dungeonz.difficulty.extreme": "极限",
+
+    "container.dungeon_portal": "地牢传送门",
+
+    "dungeon.task.join": "加入",
+    "dungeon.task.leave": "离开",
+    "dungeon.ruin_dungeon": "废墟地牢",
+    "dungeon.dark_dungeon": "暗黑地牢",
+
+    "text.dungeonz.possible": "可能掉落",
+    "text.dungeonz.required": "需要物品",
+    "text.dungeonz.missing": "缺少物品",
+    "text.dungeonz.effects": "正面效果",
+    "text.dungeonz.private": "私有团队",
+    "text.dungeonz.nothing_required": "-",
+    "text.dungeonz.dead_player": "禁止重新加入",
+    "text.dungeonz.empty_name": "-",
+    "text.dungeonz.player_list": "玩家 (%d/%d)",
+    "text.dungeonz.waiting_player_list": "最少玩家数: %d/%d",
+    "text.dungeonz.dungeon_full": "地牢已满员",
+    "text.dungeonz.dungeon_private": "地牢正处于私有模式",
+    "text.dungeonz.dungeon_cooldown": "地牢正在冷却",
+    "text.dungeonz.dungeon_cooldown_time": "地牢冷却时间: %dh %dm %ds",
+    "text.dungeonz.dungeon_missing": "地牢不存在！",
+    "text.dungeonz.dungeon_min_group_size": "需要更多(%s个)成员以加入地牢！",
+    "text.dungeonz.dungeon_autokick": "超时未通过地牢，你已被自动踢出！",
+
+    "hud.dungeonz.dungeon_countdown": "%s",
+
+    "dungeon.op_screen.dungeon_type": "地牢类型",
+    "dungeon.op_screen.default_difficulty": "默认难度",
+    "dungeon.op_screen.gate_block_id": "地牢门方块ID",
+    "dungeon.op_screen.gate_particle_id": "地牢门粒子ID",
+    "dungeon.op_screen.gate_unlock_item_id": "地牢门解锁物品ID",
+
+    "compass.compass_screen.title": "Dungeons",
+    "compass.compass_screen.calibrate": "Calibrate",
+    "compass.compass_screen.required": "Requires 3 amethyst shards",
+    "compass.compass_item.cartography": "§7Calibrate at cartography table",
+
+    "text.autoconfig.dungeonz.title": "DungeonZ Config",
+    "text.autoconfig.dungeonz.option.devMode": "Dev Mode",
+    "text.autoconfig.dungeonz.option.defaultDungeons": "Default Dungeons",
+    "text.autoconfig.dungeonz.option.defaultDungeonTeleportCountdown": "Default Dungeon Teleport Countdown",
+    "text.autoconfig.dungeonz.option.countdownX": "Countdown Hud X",
+    "text.autoconfig.dungeonz.option.countdownY": "Countdown Hud Y",
+    "text.autoconfig.dungeonz.option.countdownSize": "Countdown Hud Size"
+}

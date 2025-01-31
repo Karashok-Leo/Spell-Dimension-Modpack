@@ -1,13 +1,13 @@
 name = "Extra RPG Attributes"
-filename = "extraspellattributes-1.2.18.jar"
+filename = "extraspellattributes-1.2.20.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "a32fea910d6fbfcd079ba53c480fda25b41b00cd"
+hash = "f9f4e30776c09c81cd0bcbf1e7df264aecd752de"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6086867
+file-id = 6131604
 project-id = 941480

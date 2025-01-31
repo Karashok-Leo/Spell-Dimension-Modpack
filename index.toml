@@ -2047,7 +2047,7 @@ metafile = true
 
 [[files]]
 file = "mods/extra-spell-attributes.pw.toml"
-hash = "b2963e684e7dbcfae3e7302b8711dd9ffa6055900aea90d83f698288fec5c74a"
+hash = "637802eab3b04bcb66003ef8f8676ca32a88c84c7c01bf2165e5e7ff623cc0ba"
 metafile = true
 
 [[files]]
@@ -2057,7 +2057,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "070f3b65efd84e7d28e84d819e94f1d886ebb9df0d2c8e2e5acc168966a34f67"
+hash = "5b9d1e1ec60004c0bd38a134b7b8987583250200238abe84180b1f5bea839eae"
 metafile = true
 
 [[files]]
@@ -2542,12 +2542,12 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "8f0b5d83543758a68e91d78ac4dde9ff7a275e8267ed67d0606f3f41b69e58b4"
+hash = "e49724fb8a8c82ec9ecaf2380accbc6fea3f5735d21a829a563c43b7104762d8"
 metafile = true
 
 [[files]]
 file = "mods/shoulder-surfing-reloaded.pw.toml"
-hash = "a85d11da38f11ac42cbc36d972cc8fe831fd4fac60aff55c4b7525910d63593c"
+hash = "c2909250e08e949bc5133a374264c870bc8b3d3e1cc9a72cee750524a81d886f"
 metafile = true
 
 [[files]]
@@ -2647,7 +2647,7 @@ metafile = true
 
 [[files]]
 file = "mods/structure-essentials-forge-fabric.pw.toml"
-hash = "b8decd821430765206e2d3929cb0169d550c137068fc87a47a26031950a3fff4"
+hash = "bea618e237d4e1759e618788e03aace21bd16c94151ef123aac7ff0e51500b50"
 metafile = true
 
 [[files]]
