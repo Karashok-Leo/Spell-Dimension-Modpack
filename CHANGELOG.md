@@ -1,5 +1,11 @@
 # Change Log
 
+## 0.5.6.2 - 2025.2.2
+##### Warning
+- After updating to this version, it is recommended to use a empty quest scroll to retrieve all outstanding quests
+##### Fixed
+- Save migration issue caused by quest component serialization (inability to enter old save)
+
 ## 0.5.6.1 - 2025.2.2
 ##### Fixed
 - Crashes caused by item display in tooltips for quests that require items
