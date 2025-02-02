@@ -1,5 +1,64 @@
 # Change Log
 
+## 0.5.6.1 - 2025.2.2
+##### Fixed
+- Crashes caused by item display in tooltips for quests that require items
+
+## 0.5.6 - 2025.2.2
+##### Added
+- New Spell:
+    - Healing
+        - Blessing
+        - Misfortune
+        - Heavenly Justice
+- Supplemental Spells (These spells have always existed in the game, but there was no open access to them, and access is now provided for them):
+    - Arcane
+        - Arcane Beam
+        - Arcane Flourish
+        - Arcane Flicker
+        - Arcane Overdrive
+        - Echostorm
+        - Amethyst Splash
+    - Fire
+        - Wildfire
+        - Incinerating Round
+        - Dragon Slam
+        - Inferno
+        - Flame Overdrive
+        - Phoenix Strike
+        - Phoenix Curse
+        - Flaming Laceration
+    - Frost
+        - Frost Lotus
+        - Massacre
+		- Tempest
+        - Riptide
+        - Deathcill
+        - Mass Hypothermia
+        - Frost Overdrive
+        - Blade Flurry
+    - Healing
+        - Battle Banner
+- New Traits:
+    - Leech
+- New Enchantments:
+    - Spell Blade - Sunfire
+    - Spell Blade - Soulfrost
+    - Spell Blade - Energize
+    - Spell Blade - Haste
+- New Quests
+- Item display in tooltips for quests that require items
+- Chinese translations for some mods
+##### Changed
+- Updated some mods
+- Recipes for some spell scrolls
+- Recipes for Wither Protection Blocks
+- Adjusted the cooldown, weights, consumed level and minimum level of Shift trait
+##### Fixed
+- Crashing with some frost spells in the End
+- Incorrect cooldowns for Black Hole spell
+- Target finding issue with some spells
+
 ## 0.5.5 - 2025.1.27
 ##### Added
 - New Spell:

@@ -241,18 +241,6 @@ file = "config/bestylewither.toml"
 hash = "d0bd61ffac3500a94a61cd827b4d2d5973ec3ecf33b2c81ebb7c2401746b2e2d"
 
 [[files]]
-file = "config/bettercombat/client.json5"
-hash = "d15a19be18dce9939bbf5839b003fe33dffd7af16b68b1432f6f22098816ba55"
-
-[[files]]
-file = "config/bettercombat/fallback_compatibility.json"
-hash = "3569bdfa5257b3aa1677174e87b01445a4a29d85e55a25fadef9830ec50d4ab3"
-
-[[files]]
-file = "config/bettercombat/server.json5"
-hash = "8a3ca0cbeb543de63d478c7aaf065c0244a8b5d4face1c0a0124d1d3a1790c12"
-
-[[files]]
 file = "config/betterendisland-fabric-1_20.toml"
 hash = "24b38c3caa93e98ffaab6d3f7380e9d7469fa3a3576bdb8ff146b78bce636f71"
 
@@ -845,6 +833,14 @@ file = "config/openloader/data/recipe/data/graveyard/recipes/bone_dagger.json"
 hash = "553206c9c3d3159700482fdbe585411488656b9f13839516e94cd98fd0eecf12"
 
 [[files]]
+file = "config/openloader/data/recipe/data/kibe/recipes/wither_proof_block.json"
+hash = "8c370407800de092533380607232670d55b23e8e0a7374573ef3e8b49f78c36f"
+
+[[files]]
+file = "config/openloader/data/recipe/data/kibe/recipes/wither_proof_sand.json"
+hash = "509b55314cefe9a36b31f11766652e1ec2102b1dc02c4978a6dbc96a6a68bff8"
+
+[[files]]
 file = "config/openloader/data/recipe/data/l2hostility/recipes/trinket/loot/charm_of_looting_1.json"
 hash = "887f4f388074d1a5fbfb4d8b232ddfcd972652dad4bda7268aa5399fa03b092a"
 
@@ -1253,8 +1249,20 @@ file = "config/openloader/data/spell/data/spellbladenext/spells/flicker_strike.j
 hash = "7d53908d9e2652305d3f4723eb99dd8928ed3a2b4114b072d66cdd1af8d1c79c"
 
 [[files]]
+file = "config/openloader/data/spell/data/spellbladenext/spells/frostblink.json"
+hash = "c3858a503d6dacec7a08697c0ad18ec70a51aa66c6bef0fd238d246f03387977"
+
+[[files]]
 file = "config/openloader/data/spell/data/spellbladenext/spells/maelstrom.json"
-hash = "623d6f875af5b2636f20e6794bee07989b0ddc3956e8cfbec1d9700b0df2dd25"
+hash = "5a5e60dfca7e7c67339b5278c5531d7f29ac4ae716e1fd9bc2afa2fa92dd366a"
+
+[[files]]
+file = "config/openloader/data/spell/data/spellbladenext/spells/tempest.json"
+hash = "8a403314966c702ef9567e398da31f5dd38b480924703b74311ee854a9b0282b"
+
+[[files]]
+file = "config/openloader/data/spell/data/spellbladenext/spells/whirlingblades.json"
+hash = "94894dcc83bcc6317def88510f6b6357ca2beefed049671916c0ff3d5004c43d"
 
 [[files]]
 file = "config/openloader/data/spell/data/wizards/spell_pools/arcane.json"
@@ -1513,6 +1521,10 @@ file = "config/openloader/resources/translations/assets/crystals_overhauled/lang
 hash = "23d2455e724b5aadd953e283ee37e85311509996b0bc1beb54fc38e6f213560f"
 
 [[files]]
+file = "config/openloader/resources/translations/assets/dungeonz/lang/zh_cn.json"
+hash = "a837136e886dc9a0bc45f522a7bca519a692c1c3255a5ed8e9ea985d0da77edd"
+
+[[files]]
 file = "config/openloader/resources/translations/assets/extraspellattributes/lang/zh_cn.json"
 hash = "ed278efe847c372dd02fca10fa670a0ac1efb01d9f4a9ffd70dfc258c546a53b"
 
@@ -1578,7 +1590,7 @@ hash = "5845933cfd58f6a030eac8186fc09d41b71af81a22ab4fe35686dab5410b8031"
 
 [[files]]
 file = "config/openloader/resources/translations/assets/spellbladenext/lang/zh_cn.json"
-hash = "6a770fc873bb14ce861d054097546904ac39c912b75614e97ae93c37c552414a"
+hash = "55e2303c39198a8f1e42356d1eb37e3270f1666f43322fa9eb384443ecb8054a"
 
 [[files]]
 file = "config/openloader/resources/translations/assets/things/lang/en_us.json"
@@ -2542,7 +2554,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "e49724fb8a8c82ec9ecaf2380accbc6fea3f5735d21a829a563c43b7104762d8"
+hash = "18decac5c64e7f65f44f14ba6f65fe8421e7086262ff28b0da2b9dbf5b685422"
 metafile = true
 
 [[files]]
@@ -2607,7 +2619,7 @@ metafile = true
 
 [[files]]
 file = "mods/spell-dimension-extra.pw.toml"
-hash = "2f022fdbf0d9383cbe703a214da0fa984d6eac77f72828e265bc4048faeffc7b"
+hash = "051c66d01076c1c5207de1b0eaf90d5cb524342685439604890aeeb9d236cb7e"
 metafile = true
 
 [[files]]
@@ -2836,12 +2848,12 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
-hash = "59da31b1a0add66422b1e86676db55efe0864c91abc6706203282f213062269a"
+hash = "2f6fb4b59133dab816b704d1f3c69fb802957ba77e5975e931bb4faf1712fd08"
 metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-unbound.pw.toml"
-hash = "e49207fdf7601fbd5a5e79f3bfd5a150516a7af0b00cf8eb848451b5af719637"
+hash = "db468f148fd398ebc54ab6f1d5e16069dd58f90af49df62f247b40060fe51255"
 metafile = true
 
 [[files]]
