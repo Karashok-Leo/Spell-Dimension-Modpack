@@ -25,9 +25,9 @@
     {
       "type": "attribute",
       "name": "minecraft:generic.armor",
-      "value": 1.2,
+      "value": 0.2,
       "modifierUUID": "894d039e-cce6-4611-84ee-4a0f5f979400",
-      "attributeOperation": 2,
+      "attributeOperation": 1,
       "interactionType": "self"
     },
     {
@@ -59,9 +59,9 @@
     {
       "type": "attribute",
       "name": "spell_power:frost",
-      "value": 1.3,
+      "value": 0.3,
       "modifierUUID": "86dc5d9e-5070-4f96-9de1-4e26e5d85205",
-      "attributeOperation": 2,
+      "attributeOperation": 1,
       "interactionType": "self"
     }
   ]

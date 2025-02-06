@@ -171,6 +171,8 @@
 		"regen": 0.02,
 		// Damage factor for Adaptive. Higher means less reduction
 		"adaptFactor": 0.75,
+		// Trigger range for Reflect
+		"reflectRange": 3.0,
 		// Reflect factor per level for Reflect. 0.5 means +50% extra damage
 		"reflectFactor": 0.25,
 		// Duration in ticks for enchantments to be disabled per level for Dispell
@@ -296,9 +298,9 @@
 		   Only supports configuration in the config file.
 		*/
 		"auraRange": {
+			"arena": 24,
 			"moonwalk": 10,
-			"gravity": 10,
-			"arena": 24
+			"gravity": 10
 		}
 	},
 	"complements": {
@@ -315,6 +317,16 @@
 			// Requirement for space shard drop
 			"spaceDamage": 16384,
 			"enableSpaceShard": true
+		},
+		"fireCharge": {
+			// Soul Fire Charge Duration
+			"soulFireChargeDuration": 60,
+			// Black Fire Charge Duration
+			"blackFireChargeDuration": 100,
+			// Strong Fire Charge Power
+			"strongFireChargePower": 2,
+			// Strong Fire Charge Breaks Block
+			"strongFireChargeBreakBlock": true
 		},
 		"properties": {
 			// Wind Sweep enchantment increment to sweep hit box

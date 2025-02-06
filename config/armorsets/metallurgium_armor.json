@@ -25,25 +25,25 @@
     {
       "type": "attribute",
       "name": "minecraft:generic.armor",
-      "value": 1.2,
+      "value": 0.2,
       "modifierUUID": "e4002828-f19e-4499-94be-d428994f737a",
-      "attributeOperation": 2,
+      "attributeOperation": 1,
       "interactionType": "self"
     },
     {
       "type": "attribute",
       "name": "spell_power:frost",
-      "value": 1.3,
+      "value": 0.6,
       "modifierUUID": "d49c1857-81c3-42fd-86b0-2ea3b07a6a3f",
-      "attributeOperation": 2,
+      "attributeOperation": 1,
       "interactionType": "self"
     },
     {
       "type": "attribute",
       "name": "spell_power:soul",
-      "value": 1.3,
+      "value": 0.6,
       "modifierUUID": "06ba8b52-f9a9-4418-b831-b384a86d3b0b",
-      "attributeOperation": 2,
+      "attributeOperation": 1,
       "interactionType": "self"
     },
     {

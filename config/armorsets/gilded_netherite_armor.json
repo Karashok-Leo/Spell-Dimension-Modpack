@@ -25,15 +25,15 @@
       {
         "type": "attribute",
         "name": "spell_power:critical_chance",
-        "value": 1.2,
+        "value": 0.2,
         "modifierUUID": "018ade42-6e3f-45c8-afb6-02c962b95c4a",
-        "attributeOperation": 0,
+        "attributeOperation": 1,
         "interactionType": "self"
       },
       {
         "type": "attribute",
         "name": "spell_power:critical_damage",
-        "value": 1.1,
+        "value": 0.2,
         "modifierUUID": "bdd22d99-8702-4fe8-a311-4fa354bb1383",
         "attributeOperation": 1,
         "interactionType": "self"

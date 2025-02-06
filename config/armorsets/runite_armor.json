@@ -25,7 +25,7 @@
       {
         "type": "attribute",
         "name": "spell_power:critical_damage",
-        "value": 1.2,
+        "value": 0.2,
         "modifierUUID": "0603c5f3-9f94-4855-864a-43872c56d0c4",
         "attributeOperation": 1,
         "interactionType": "self"

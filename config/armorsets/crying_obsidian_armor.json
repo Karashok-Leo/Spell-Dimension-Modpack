@@ -25,7 +25,7 @@
       {
         "type": "attribute",
         "name": "spell_power:critical_chance",
-        "value": 10,
+        "value": 0.1,
         "modifierUUID": "9efbde80-e2de-4168-9aea-bb7f95768c01",
         "attributeOperation": 1,
         "interactionType": "self"

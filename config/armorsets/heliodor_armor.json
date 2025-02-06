@@ -17,7 +17,7 @@
       {
         "type": "attribute",
         "name": "spell_power:haste",
-        "value": 1.2,
+        "value": 0.2,
         "modifierUUID": "494b431d-f00a-4331-9d83-af4bd3784be9",
         "attributeOperation": 1,
         "interactionType": "self"
