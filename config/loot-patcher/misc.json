@@ -33,29 +33,58 @@
   {
     "target_tables": [
       "minecraft:entities/wither\\b",
-      "minecraft:entities/ender_dragon",
       "minecraft:entities/elder_guardian",
+      "minecraft:entities/warden",
       "illagerinvasion:entities/invoker",
-      "deeperdarker:entities/stalker",
-      "graveyard:entities/lich",
+      "soulsweapons:entities/draugr_boss",
+      "soulsweapons:entities/accursed_lord_boss"
+    ],
+    "extra_tables": [
+      "spell-dimension:pool/common/boss"
+    ]
+  },
+  {
+    "target_tables": [
       "aquamirae:entities/captain_cornelia",
       "adventurez:entities/blackstone_golem",
-      "adventurez:entities/the_eye",
-      "adventurez:entities/void_shadow",
-      "bosses_of_mass_destruction:entities/lich",
-      "bosses_of_mass_destruction:entities/void_blossom",
-      "bosses_of_mass_destruction:chests/gauntlet",
-      "bosses_of_mass_destruction:chests/obsidilith",
-      "soulsweapons:entities/day_stalker",
-      "soulsweapons:entities/night_prowler",
-      "soulsweapons:entities/draugr_boss",
-      "soulsweapons:entities/accursed_lord_boss",
+      "deeperdarker:entities/stalker",
       "soulsweapons:entities/chaos_monarch",
       "soulsweapons:entities/moonknight",
       "soulsweapons:entities/returning_knight"
     ],
     "extra_tables": [
-      "spell-dimension:pool/boss"
+      "spell-dimension:pool/uncommon/boss"
+    ]
+  },
+  {
+    "target_tables": [
+      "bosses_of_mass_destruction:entities/lich",
+      "bosses_of_mass_destruction:entities/void_blossom",
+      "bosses_of_mass_destruction:chests/gauntlet",
+      "graveyard:entities/lich"
+    ],
+    "extra_tables": [
+      "spell-dimension:pool/rare/boss"
+    ]
+  },
+  {
+    "target_tables": [
+      "soulsweapons:entities/day_stalker",
+      "soulsweapons:entities/night_prowler",
+      "adventurez:entities/the_eye",
+      "minecraft:entities/ender_dragon"
+    ],
+    "extra_tables": [
+      "spell-dimension:pool/epic/boss"
+    ]
+  },
+  {
+    "target_tables": [
+      "bosses_of_mass_destruction:chests/obsidilith",
+      "adventurez:entities/void_shadow"
+    ],
+    "extra_tables": [
+      "spell-dimension:pool/legendary/boss"
     ]
   }
 ]
