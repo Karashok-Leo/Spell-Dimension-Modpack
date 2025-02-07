@@ -1,13 +1,13 @@
-name = "ATi Structures - Mod"
-filename = "ati_structures(1.20)_v1.1.0_FABRIC.jar"
+name = "ATi Structures"
+filename = "ati_structures_1.3.0_fabric_1.20.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "67d940611f1bb112f788e8db41d9d2f66a2e0652"
+hash = "7ccf72d6e7a829665c679920184b932fb92d6ed7"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5526317
+file-id = 6155381
 project-id = 964608

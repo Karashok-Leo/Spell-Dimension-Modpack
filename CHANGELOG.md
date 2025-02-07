@@ -1,5 +1,33 @@
 # Change Log
 
+## 0.5.7 - 2025.2.7
+##### Added
+- New Trait: Black Hole
+    only belongs to Ender Dragon
+- Spell level 
+- Recipes for Looting Charms
+##### Changed
+- Updated some mods
+- Bosses now drop additional loot based on their difficulty
+- Further optimized the descriptions of the attribute bonuses of armor sets
+- Damage Reflection now can be canceled by Magic Immunity enchantment 
+- Disabled some spells in the DungeonZ dimension
+    - Spell Light
+    - Remote Manipulation
+    - Remote Destruction
+- Shift has been changed to active spell trait
+- Looting Charms are no longer obtained through quest rewards
+- Reduced the damage of Black Hole: 0.4->0.2
+##### Removed
+- Woodland Mansion variant generation
+- Savage Ender Dragon (bug)
+##### Fixed
+- Enchantment Infusion recipe of Projectile Protection conflicted with that of Quick Charge
+- Some incorrect description texts
+- Incorrect values for a large number of armor set bonuses
+- An issue where killing Day Stalker after killing Night Prowler will not drop Celestial Lunminary
+- Fake deaths of child monsters after killing split monsters with ranged damage spells
+
 ## 0.5.6.2 - 2025.2.2
 ##### Warning
 - After updating to this version, it is recommended to use a empty quest scroll to retrieve all outstanding quests
