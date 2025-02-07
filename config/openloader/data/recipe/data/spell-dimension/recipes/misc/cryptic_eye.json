@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "D": {
+      "item": "spell-dimension:celestial_debris"
+    },
+    "E": {
+      "item": "minecraft:ender_eye"
+    }
+  },
+  "pattern": [
+    " D ",
+    "DED",
+    " D "
+  ],
+  "result": {
+    "item": "endrem:cryptic_eye"
+  }
+}

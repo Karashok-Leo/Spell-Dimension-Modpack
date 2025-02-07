@@ -1,18 +1,21 @@
 {
-  "type": "minecraft:crafting_shapeless",
+  "type": "minecraft:crafting_shaped",
   "category": "misc",
-  "ingredients": [
-    {
+  "key": {
+    "A": {
+      "item": "minecraft:gold_ingot"
+    },
+    "D": {
       "item": "minecraft:emerald"
     },
-    [
-      {
-        "item": "things:agglomeration"
-      },
-      {
-        "item": "things:empty_agglomeration"
-      }
-    ]
+    "I": {
+      "item": "spell-dimension:accursed_blackstone"
+    }
+  },
+  "pattern": [
+    " A ",
+    "AID",
+    " D "
   ],
   "result": {
     "item": "l2hostility:charm_of_looting_1"

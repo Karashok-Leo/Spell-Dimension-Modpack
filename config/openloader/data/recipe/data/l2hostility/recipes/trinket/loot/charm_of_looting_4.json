@@ -1,18 +1,24 @@
 {
-  "type": "minecraft:crafting_shapeless",
+  "type": "minecraft:crafting_shaped",
   "category": "misc",
-  "ingredients": [
-    {
-      "item": "l2hostility:miracle_ingot"
+  "key": {
+    "A": {
+      "item": "dragonloot:dragon_scale"
     },
-    [
-      {
-        "item": "things:agglomeration"
-      },
-      {
-        "item": "things:empty_agglomeration"
-      }
-    ]
+    "F": {
+      "item": "l2hostility:force_field"
+    },
+    "D": {
+      "item": "spell-dimension:celestial_debris"
+    },
+    "I": {
+      "item": "l2hostility:miracle_ingot"
+    }
+  },
+  "pattern": [
+    "DAD",
+    "FIF",
+    "DAD"
   ],
   "result": {
     "item": "l2hostility:charm_of_looting_4"
