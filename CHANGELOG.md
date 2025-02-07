@@ -4,7 +4,7 @@
 ##### Added
 - New Trait: Black Hole
     only belongs to Ender Dragon
-- Spell level 
+- Restriction while putting spell scroll into spell book
 - Recipes for Looting Charms
 ##### Changed
 - Updated some mods
