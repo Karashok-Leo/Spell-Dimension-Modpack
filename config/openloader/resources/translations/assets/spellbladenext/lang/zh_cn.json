@@ -54,7 +54,7 @@
   "spell.spellbladenext.frostoverdrive.description": "在你周围的区域内造成 {damage} 寒冰法术伤害。主动施法或者造成伤害时触发。",
   "spell.spellbladenext.fireoverdrive.name": "火焰超载",
   "spell.spellbladenext.fireoverdrive.description": "在你周围的区域内造成 {damage} 火焰法术伤害。主动施法或者造成伤害时触发。",
-  "spell.spellbladenext.finalstrike.name": "音波攻击",
+  "spell.spellbladenext.finalstrike.name": "音速打击",
   "spell.spellbladenext.finalstrike.description": "对一条线上的所有敌人发起致命攻击，传送到最后一个敌人身后，造成 {damage_1} 物理伤害和额外的 {damage_2} 奥秘法术伤害。",
   "spell.spellbladenext.eviscerate.name": "霜之屠杀",
   "spell.spellbladenext.eviscerate.description": "变得无形，针对最近的敌人连续攻击5次，造成 {damage_1} 物理伤害和 {damage_2} 寒冰法术伤害。如果这击杀了敌人，则可以继续针对最近的敌人进行额外的1秒攻击。",

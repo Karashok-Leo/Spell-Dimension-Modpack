@@ -1,0 +1,53 @@
+{
+  "biomeMap": {},
+  "levelMap": {
+    "minecraft:the_nether": {
+      "apply_chance": 1.0,
+      "base": 20,
+      "min": 0,
+      "scale": 1.2,
+      "trait_chance": 1.0,
+      "variation": 9.0
+    },
+    "deeperdarker:otherside": {
+      "apply_chance": 1.0,
+      "base": 30,
+      "min": 0,
+      "scale": 1.5,
+      "trait_chance": 1.0,
+      "variation": 16.0
+    },
+    "minecraft:the_end": {
+      "apply_chance": 1.0,
+      "base": 40,
+      "min": 0,
+      "scale": 2.0,
+      "trait_chance": 1.0,
+      "variation": 25.0
+    },
+    "dungeonz:dungeon": {
+      "apply_chance": 1.0,
+      "base": 30,
+      "min": 0,
+      "scale": 1.5,
+      "trait_chance": 1.0,
+      "variation": 16.0
+    },
+    "spellbladenext:glassocean": {
+      "apply_chance": 1.0,
+      "base": 40,
+      "min": 0,
+      "scale": 2.0,
+      "trait_chance": 1.0,
+      "variation": 25.0
+    },
+    "voidz:void": {
+      "apply_chance": 1.0,
+      "base": 50,
+      "min": 0,
+      "scale": 3.0,
+      "trait_chance": 1.0,
+      "variation": 25.0
+    },
+  }
+}

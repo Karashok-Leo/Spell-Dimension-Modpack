@@ -62,7 +62,7 @@
 		// Allow level-related extra enchantment spawning
 		"allowExtraEnchantments": true,
 		// Default dimension base difficulty for mod dimensions
-		"defaultLevelBase": 10,
+		"defaultLevelBase": 30,
 		// Default dimension difficulty variation for mod dimensions
 		"defaultLevelVar": 16.0,
 		// Default dimension difficulty scale for mod dimensions
