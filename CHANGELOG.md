@@ -1,5 +1,48 @@
 # Change Log
 
+## 0.5.8 - 2025.2.14
+##### Warning
+- After updating to this version, you will need to use Celestial Luminary again to get the end stage
+- When migrating saves from versions prior to 0.5.6 to this new version, if you experience crashes, please try installing [Neruina](https://www.curseforge.com/minecraft/mc-mods/neruina), and if crashes still occur, please send logs and crash reports to [Github Issue Tracker](https://github.com/Karashok-Leo/Spell-Dimension-Modpack/issues)
+##### Added
+- Bottle of Nightmare: enter Hardcore mode after use, cannot be undone
+    - Hardcore Mode
+        - Player initial extra difficulty increased by 30
+        - Doubles the player's difficulty increment for inflicting kills
+        - Doubles the hostility damage bonus
+        - Restriction on spell scroll tier
+        - Enchanted Essence threshold from loot lowered.
+- Bottle of Soul Binding: player death does not drop items after use
+- An Easter egg
+##### Changed
+- Hostility damage bonus decreased: 0.02->0.01
+- Player kills required to raise difficulty increased: 10->20
+- Difficulty decay percentage reduced by player deaths: 0.3->0.5
+- Spells cast on monsters no longer drop base essence when they have the following traits
+    - Undying
+    - Dispell
+    - Adaptive
+- Adjusted spellbook requirement limit:
+    - Primary: 100->80
+    - Intermediate: 200->160
+    - Advanced: 300->320
+- Adjusted thrshold of Enchanted Essences crafted using Base Essences
+    - Primary: 10->33
+    - Intermediate: 20->66
+    - Advanced: 30->99
+- Structure spacing: 0.8->0.7
+- Some recipe adjustments
+- Tweaked Desert Trader(original named Imam)'s offers.
+- Allowed Wraiths to take damage from spells
+- Simplified the overly complex damage mechanics of some spells and noted the values in the description text
+- The amount of damage deflection (before it was mitigated) is now always less than target's max health
+- Fire of Retribution and Exorcism no longer work on bosses.
+- The sound played by using Quest Scrolls and Celestial Luminary is no longer the sound of using totem, but the sound of experience leveling up
+- No longer drops trinkets on death by default (to avoid a bug where trinkets with extra slots are lost when quickly retrieving them from gravestones)
+##### Fixed
+- Tried to fix a bug where the count of special drops of traits from high level monsters was multiplied by certain number
+- Some incorrectly translated text
+
 ## 0.5.7 - 2025.2.7
 ##### Added
 - New Trait: Black Hole

@@ -1,13 +1,13 @@
 name = "Zombie Horse Spawn"
-filename = "zombiehorsespawn-1.20.1-5.1.jar"
+filename = "zombiehorsespawn-1.20.1-5.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "b5c7f34c54f19ec477545b2444f871a19c218744"
+hash = "fefc3dc5501be8d2439f0da37788b7b5a74d3344"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5571531
+file-id = 6184693
 project-id = 345692

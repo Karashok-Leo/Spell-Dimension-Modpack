@@ -3,7 +3,7 @@
 	"enableEntitySpecificDatapack": true,
 	"difficulty": {
 		// Difficulty increment takes this many kills of same level mob
-		"killsPerLevel": 10,
+		"killsPerLevel": 20,
 		// Max player adaptive level
 		"maxPlayerLevel": 1000,
 		// Max mob level
@@ -11,7 +11,7 @@
 		// Mobs spawned within this range will use lowest player level in range instead of nearest player's level to determine mob level
 		"newPlayerProtectRange": 48,
 		// Decay in player difficulty on death
-		"playerDeathDecay": 0.3,
+		"playerDeathDecay": 0.5,
 		// Allow KeepInventory to keep difficulty as well
 		"keepInventoryRuleKeepDifficulty": false,
 		// On player death, clear dimension penalty
@@ -25,7 +25,7 @@
 		// Use exponential health
 		"exponentialHealth": false,
 		// Damage factor per level
-		"damageFactor": 0.02,
+		"damageFactor": 0.01,
 		// Use exponential damage
 		"exponentialDamage": false,
 		// Experience drop factor per level

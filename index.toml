@@ -462,7 +462,7 @@ hash = "45f72d573115a83715ed993fc9502fabad886c412cd34f05812e86f5ff17cc47"
 
 [[files]]
 file = "config/l2hostility/common.json5"
-hash = "16ff60fa9059d00f973be32b619e2395bc3dcf5199621a20de0a98c0f85e9f70"
+hash = "cfb81a0d9c11126b5afbbc478e210fc71107d2cd969b1843306389475dceeee3"
 
 [[files]]
 file = "config/legendarytooltips-common.toml"
@@ -521,16 +521,8 @@ file = "config/openloader/advanced_options.json"
 hash = "2ee7700b88371d21265000c50ef149c42863fd22e0ecbb5dc6af78fd7493fee8"
 
 [[files]]
-file = "config/openloader/data/difficulty/data/spell-dimension/l2hostility_config/difficulty/zend.json"
-hash = "bc4bffb69a830d30cf93b60e9e11ee70d6b780eb6e0516e1a055354f8265fd2e"
-
-[[files]]
-file = "config/openloader/data/difficulty/data/spell-dimension/l2hostility_config/difficulty/znether.json"
-hash = "f4f2ed21801ce442b7c599eb5d967eb3ce2ab69159ad651a3881aa80e645f980"
-
-[[files]]
-file = "config/openloader/data/difficulty/data/spell-dimension/l2hostility_config/difficulty/zotherside.json"
-hash = "0671f65baef16a23cd4f2dcf17c4cb6d1722931168a67f07d09f72dcada53be6"
+file = "config/openloader/data/difficulty/data/spell-dimension/l2hostility_config/difficulty/zotherworlds.json"
+hash = "1f59b605a3291201ad8ea4b648c29b8ff34134639545921df62205b23543605c"
 
 [[files]]
 file = "config/openloader/data/difficulty/data/spell-dimension/l2hostility_config/difficulty/zoverworld.json"
@@ -1521,6 +1513,10 @@ file = "config/openloader/data/trade/pack.mcmeta"
 hash = "4fc1642b2f29b9864506f7c5292ff7b55e52e5cac5e0c5170e88b674fd8ba202"
 
 [[files]]
+file = "config/openloader/data/worldgen/data/ati_structures/structures/mosque.nbt"
+hash = "1df6a377004e6940ccec3fc3e23b9d38dc6f5de557e22567dd8d2f57132409bd"
+
+[[files]]
 file = "config/openloader/data/worldgen/data/repurposed_structures/worldgen/structure_set/mansions_mangrove.json"
 hash = "9edad7bc16d41884516edd99840bc4df474ffc9d276af9026121655b13def216"
 
@@ -1550,7 +1546,7 @@ hash = "ed278efe847c372dd02fca10fa670a0ac1efb01d9f4a9ffd70dfc258c546a53b"
 
 [[files]]
 file = "config/openloader/resources/translations/assets/mythicupgrades/lang/zh_cn.json"
-hash = "f574bf1d57f613e7d26e759564f60fcc9696da892b800828fd7bd6a026b8896f"
+hash = "e105f5e7ba0b707ecaaf360140bd5e1acc3814b04a4ad83296af61689e9cd368"
 
 [[files]]
 file = "config/openloader/resources/translations/assets/numismatic-overhaul/lang/zh_cn.json"
@@ -1610,7 +1606,7 @@ hash = "5845933cfd58f6a030eac8186fc09d41b71af81a22ab4fe35686dab5410b8031"
 
 [[files]]
 file = "config/openloader/resources/translations/assets/spellbladenext/lang/zh_cn.json"
-hash = "8eb6e28a561d61ccae444fcdf9cf9c23d50d98bfa75f08bf9c411d6c090d005b"
+hash = "0a7ba1a5cdc96b335e66a195309bdab9b3ac9735cad610fb18be565a4ae226ad"
 
 [[files]]
 file = "config/openloader/resources/translations/assets/things/lang/en_us.json"
@@ -1690,7 +1686,7 @@ hash = "e718624c8330d0d9d49ead4e22da36e345612d4043979dd59f5d1448e10abe48"
 
 [[files]]
 file = "config/sparsestructures.json5"
-hash = "fa6bca9931ac5234247d671d7054c113ea1ed731c58334afe66efb488cbe7ef6"
+hash = "ab5188d44d64acd5287696b5f18e37b2e6055c8f974548dee6cfe279414b22b1"
 
 [[files]]
 file = "config/spell_engine/client.json5"
@@ -1884,7 +1880,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm-fabric.pw.toml"
-hash = "62769061e24d0762e4141b9f7a5f3e280dc27566707257aae41082fac46e614b"
+hash = "a81e36b608eb38c57cac5fa267df6f911ade4818e8caa38f0958f3c884d32322"
 metafile = true
 
 [[files]]
@@ -1909,7 +1905,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me.pw.toml"
-hash = "8504cecd52067fda6ddd985bb9ebcc3a3ed0d57d83ba25775009cca8e246bbf1"
+hash = "99bf8f34b6bff81c977ea6736c58b6df564a7e9ae684fe3ad25e3b5fc91a6c74"
 metafile = true
 
 [[files]]
@@ -1944,7 +1940,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "56ca5adf65660e95f1acd0a30e3fed0565e490bc545e7b32c628051a5926632c"
+hash = "3301e981bf6c7eb6689180ccfc7dbcb096e78b0d4d016480b99d1377e2910a38"
 metafile = true
 
 [[files]]
@@ -2104,7 +2100,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "8ab49738ebea6091cdeffd9da699c7b245d721aeec854e557daac16135fe88b2"
+hash = "3aae66df7fd1c60313e168a18476f36c9c5d0bc299803c6f7bcb88c4392260ec"
 metafile = true
 
 [[files]]
@@ -2254,7 +2250,7 @@ metafile = true
 
 [[files]]
 file = "mods/l2-hostility-fabricated.pw.toml"
-hash = "61f48f6d2e24c3acb9de8a801fc452ff62114a6e8dd202817c8ead12d233d734"
+hash = "8d9702636a9a08c1382fe8722ee8b4d219bdaa648bdab0f145945ee0e8fbc64a"
 metafile = true
 
 [[files]]
@@ -2279,7 +2275,7 @@ metafile = true
 
 [[files]]
 file = "mods/leos-loot-bag.pw.toml"
-hash = "9160889a3e9cf9a97729a85fca583d54b435115abd4cfa5ff96b59f785e29a38"
+hash = "bb43b64219175ad8b2718b6239a12ce0191b69c0b881a246f13e2e5ac64ec6fb"
 metafile = true
 
 [[files]]
@@ -2369,7 +2365,7 @@ metafile = true
 
 [[files]]
 file = "mods/modonomicon.pw.toml"
-hash = "cf8d420d5b56cea26ea813fe2bea57ce5eaf7d22ef964003d1e748292200fbdd"
+hash = "adc8fd3abb94de7a1b65ec610bd5a082308af1d9edcb03a1c7f46aecfdf44d84"
 metafile = true
 
 [[files]]
@@ -2459,7 +2455,7 @@ metafile = true
 
 [[files]]
 file = "mods/patchouli-fabric.pw.toml"
-hash = "bb0398103eccb3b7bb136776e68e7eda242c25d4d9864d4551d18beca58bc913"
+hash = "7bb9ff0451ffff61ea96e9989e5fbc872b68503d3c8650e44150dd89e77fc873"
 metafile = true
 
 [[files]]
@@ -2514,7 +2510,7 @@ metafile = true
 
 [[files]]
 file = "mods/random-mob-effects.pw.toml"
-hash = "c31043639ce1d6f35a7016fb7b933f074a7062953a44064a585ff5961dedc737"
+hash = "b011181d0c5d87ee0859ed1cde896e82f46313a8320ba1cac2771f31240af8b5"
 metafile = true
 
 [[files]]
@@ -2569,7 +2565,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "18decac5c64e7f65f44f14ba6f65fe8421e7086262ff28b0da2b9dbf5b685422"
+hash = "c3f297315355c64a3c5d807d2244f2bc4e9022c9c776e9f91446a7353a3b4011"
 metafile = true
 
 [[files]]
@@ -2594,7 +2590,7 @@ metafile = true
 
 [[files]]
 file = "mods/skeleton-horse-spawn.pw.toml"
-hash = "3d4af2dddc4435f20fdd27ebb198a570d4b5b6ba080445704f32fec0a58c77c7"
+hash = "f934b22876491f249d5103a24c3abe8a995609ecc94b013c091d009dad312b95"
 metafile = true
 
 [[files]]
@@ -2634,7 +2630,7 @@ metafile = true
 
 [[files]]
 file = "mods/spell-dimension-extra.pw.toml"
-hash = "e8021b587a7d6acf8e788aadd77e3eb64a0eb05384fc0abafcdee92332e056d3"
+hash = "0a794075b13d6d24166e8ca904b58d2335805bf3e23c32a7e6c0540ad280a5d6"
 metafile = true
 
 [[files]]
@@ -2779,7 +2775,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "54c66098a6b5d089302514f1dcff7c694896d1f60dca765f256878962919e88b"
+hash = "02d30c1e194780fd8e360fe0aaff7eaf0705aaa3478857aac32eccf40afa2972"
 metafile = true
 
 [[files]]
@@ -2824,7 +2820,7 @@ metafile = true
 
 [[files]]
 file = "mods/zombie-horse-spawn.pw.toml"
-hash = "2a9b0bdcae8a4cddab29f45cafeec1f20453cff195c5c653510d82e1f95f99a4"
+hash = "ed136578f0f28975c34788993550bfd356325f71d32055cec0ae140ef8f4edfc"
 metafile = true
 
 [[files]]
