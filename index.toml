@@ -49,16 +49,8 @@ file = "config/armorsets/carmot_armor.json"
 hash = "f9a8738d018a28ad9c2933e1ce132aefe4ab5fc04da320f682799e8ec5ff76da"
 
 [[files]]
-file = "config/armorsets/celestite_armor.json"
-hash = "eb83899156eddfcd8b95c402adc6b3c483d03741d37129a51bdebb93fb170d20"
-
-[[files]]
 file = "config/armorsets/celestium_armor.json"
 hash = "2316fa13de831213378fc3b38020311f320d732a5817443e4bea41ab9b9e5f15"
-
-[[files]]
-file = "config/armorsets/citrine_armor.json"
-hash = "adb79408152c64b145366e4ae5fdd72266219ffcb365a2077cc162eead5eb758"
 
 [[files]]
 file = "config/armorsets/crying_obsidian_armor.json"
@@ -105,10 +97,6 @@ file = "config/armorsets/hallowed_armor.json"
 hash = "7d9e783b0131d37529dabc24eccefd35fea62370b26321670a750966f0ba4534"
 
 [[files]]
-file = "config/armorsets/heliodor_armor.json"
-hash = "910f97d6339d0d3e7778a98e761325477502c66ccbfd77bc4321e6b48afe01ee"
-
-[[files]]
 file = "config/armorsets/jade_armor.json"
 hash = "b2c64c4ca9205a874b33caffbd403afcaa6b8c2448d1131b45c67b61c892a3e5"
 
@@ -123,10 +111,6 @@ hash = "cfe76cd6e50c40b3c23374e7313fdaeb635bdac3036f6e799146c0094ee3de60"
 [[files]]
 file = "config/armorsets/legendary_banglum_armor.json"
 hash = "ec3070372906bd038ce16bbd44def6b8baeb0d2ad65dbd63b5c4b65c222fbaf2"
-
-[[files]]
-file = "config/armorsets/malachite_armor.json"
-hash = "bc71e225fe1b6a81cdea3ebcc98450424a4412a326e3eccdc777f608f1f8737a"
 
 [[files]]
 file = "config/armorsets/marine_diamond_armor.json"
@@ -153,10 +137,6 @@ file = "config/armorsets/obsidian_armor.json"
 hash = "cc62674956b49605610c66d51836a52ea80a2e60d34649bf02b0c02c487f8e0a"
 
 [[files]]
-file = "config/armorsets/onyx_armor.json"
-hash = "b6c8bf201a2aea2c8f4263b38bb59f17758d9bb536b1ad7b0dbc90ff8f03fd78"
-
-[[files]]
 file = "config/armorsets/orichalcum_armor.json"
 hash = "d44f92d8e69d7109732bc94444779984219d94448cadbc8013111641390f2bb6"
 
@@ -175,10 +155,6 @@ hash = "a9cec64c51d9223297a7409b130b92aab57b4a1521cd77d5df8188d8e36d0414"
 [[files]]
 file = "config/armorsets/prometheum_armor.json"
 hash = "caf2544ad07368cad41a6811b9354b766b325b33145a1adb5ab0233c8de373cb"
-
-[[files]]
-file = "config/armorsets/rhodochrosite_armor.json"
-hash = "44c920a6e8e3c1722c6c733f01e3cc8756e3fa02f3dbdd342b4d66bc407411a3"
 
 [[files]]
 file = "config/armorsets/ruby_armor.json"
@@ -370,7 +346,7 @@ hash = "04bc233713cb1865a30943e5c26386ca3237d605287a51882feec6cc6ae8b0c1"
 
 [[files]]
 file = "config/fancymenu/customization/spell-dimension.txt"
-hash = "f6d4883b8d3e9a30ee0b8fabb0a0957c63696be5480a32d6b3bd35b23cabc635"
+hash = "92874d43c845d37d865d681497e9dee76bd0b398aaa8972b158b4bc708b9ad56"
 
 [[files]]
 file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
@@ -1450,7 +1426,7 @@ hash = "802d8e518b753e10b8c0b2e37379ab71f486b73350417e7fea16ea3922620cf5"
 
 [[files]]
 file = "config/openloader/data/tag/data/spell-dimension/tags/items/uncommon/armor.json"
-hash = "489304356b58c7dbf20a00d64119870cec8f2872576b9734f5751bf985992502"
+hash = "a134c33c3344a1ee5172d5addf925d3befaff3c4e348fda375af7b8a2e42925c"
 
 [[files]]
 file = "config/openloader/data/tag/data/spell-dimension/tags/items/uncommon/gear.json"
@@ -1458,11 +1434,11 @@ hash = "7558722d8f1a8e6f3d1c5b3f3d2f54f6be4cc866d3825dae5cd21ec781cedaf0"
 
 [[files]]
 file = "config/openloader/data/tag/data/spell-dimension/tags/items/uncommon/material.json"
-hash = "5c5697cf104bdc6a8055f7f89df62c5008356fd28e2bc6da06d64151ab51c358"
+hash = "6afbc4de2ac85b283e8f3b7d645c1336e5aa4e956b9d73a49bf7e859ced496a1"
 
 [[files]]
 file = "config/openloader/data/tag/data/spell-dimension/tags/items/uncommon/weapon.json"
-hash = "ed2b81060115cfbf3af8872b1e0d228d9a34f2d8f66de341fe44e07bc3a485ef"
+hash = "13036b8cc6fcee635dfeef8f9c43a6ee2e3864c5f8ebadbe46d9d0d6b9352253"
 
 [[files]]
 file = "config/openloader/data/tag/pack.mcmeta"
@@ -1531,10 +1507,6 @@ hash = "ccecd05c286ea4b8a2b36c1b1cf38638a4d9c0d597808300fb55b786937bb819"
 [[files]]
 file = "config/openloader/resources/translations/assets/adventurez/lang/zh_cn.json"
 hash = "fcfb4cdf09af7f22b4a08b4b80a700f2832fc5d0ce68416eb7c87743d66e19bb"
-
-[[files]]
-file = "config/openloader/resources/translations/assets/crystals_overhauled/lang/zh_cn.json"
-hash = "23d2455e724b5aadd953e283ee37e85311509996b0bc1beb54fc38e6f213560f"
 
 [[files]]
 file = "config/openloader/resources/translations/assets/dungeonz/lang/zh_cn.json"
@@ -1971,11 +1943,6 @@ metafile = true
 [[files]]
 file = "mods/creeper-firework.pw.toml"
 hash = "cd6bd048a1c1ec43b524c0891af0a0c94069910045c4988793fb9268606fe277"
-metafile = true
-
-[[files]]
-file = "mods/crystals-overhauled.pw.toml"
-hash = "1f341339477756ac0a684dd02a06b7afde63e0f2faa61ca4101033e281c588e0"
 metafile = true
 
 [[files]]
