@@ -1,5 +1,32 @@
 # Change Log
 
+## 0.5.9 - 2025.2.17
+##### Warning
+- This update removes Crystals Overhauled (which contains a series of crystal armor sets), so if you are using these items, please consider updating carefully
+##### Changed
+- Updated some mods
+- Only monsters killed by the player will drop essences
+- Physical damage no longer triggers Spell Leech, and Spell Leech cannot heal the target no longer
+- Spell Resistance cannot heal wearer no longer
+- Spell Leech, Spell Curse, and Spell Tearing can no longer be enchanted to armor
+- Dummy can no longer be used to add the progress of Atomic Breastplate
+- Reduced the drop rate of Broken Magic Mirror, Fusion Smithing Template, and Mending Essence
+- Only melee monsters now have Levitating
+- It is now impossible for Sculk mobs to have Dispell
+- Miracle Powder is no longer considered an Epic Material
+- Adjust some Recipes
+- Invasion event now flattens a layer of ground and applies Antibuild to players in range
+- No longer allows the use of Construction Wands and Legendary Banglum Pickaxe in the dungeon dimension
+##### Removed
+- Crystals Overhauled (broken numerical design)
+- Beehouse (imst:beehouse) spawning (to avoid a bug where bees were spawning without a cap)
+##### Fixed
+- Book of Omniscience not working
+- Particle display for Fire of Retribution
+- Fixed the issue where Cleanse spell could not be applied to oneself.
+- Flickering Flame and Flame Flourish recipe conflict.
+- Possible invalid loot bags in loot chests
+
 ## 0.5.8 - 2025.2.14
 ##### Warning
 - After updating to this version, you will need to use Celestial Luminary again to get the end stage
