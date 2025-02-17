@@ -346,7 +346,7 @@ hash = "04bc233713cb1865a30943e5c26386ca3237d605287a51882feec6cc6ae8b0c1"
 
 [[files]]
 file = "config/fancymenu/customization/spell-dimension.txt"
-hash = "92874d43c845d37d865d681497e9dee76bd0b398aaa8972b158b4bc708b9ad56"
+hash = "22263f92045cc8fa469709393229c18848d6b66a87a6da3454d8cbd79fad6ecb"
 
 [[files]]
 file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
@@ -1130,7 +1130,7 @@ hash = "a2ba0da81a919c9a50ddddfbac4a2e87964de4bb82f5d8a6b150da027825f4e1"
 
 [[files]]
 file = "config/openloader/data/recipe/data/things/recipes/hardening_catalyst.json"
-hash = "307f466b00c9ed3489d494f2778c9079e55aaed546fbe46885c55185ba72b12d"
+hash = "80953732e28506a15d7f6641c802b0a8cd16e2ca6e16c1740bcf27da92861e32"
 
 [[files]]
 file = "config/openloader/data/recipe/pack.mcmeta"
@@ -1374,7 +1374,7 @@ hash = "08adb9c3a6aa92a978fa4b48e49cd4ccb90bbb01b87453d573871e5c1af06bbf"
 
 [[files]]
 file = "config/openloader/data/tag/data/spell-dimension/tags/items/epic/material.json"
-hash = "146a2d1c9070a916245823a47bf6b2cdf4d55a355cafd406083e80b8f0bc59cc"
+hash = "1ba441637a5c9c6f0f775a2d7d64b9eda86ba7e843005538d488902b9d8fe361"
 
 [[files]]
 file = "config/openloader/data/tag/data/spell-dimension/tags/items/epic/weapon.json"
@@ -1491,6 +1491,10 @@ hash = "4fc1642b2f29b9864506f7c5292ff7b55e52e5cac5e0c5170e88b674fd8ba202"
 [[files]]
 file = "config/openloader/data/worldgen/data/ati_structures/structures/mosque.nbt"
 hash = "1df6a377004e6940ccec3fc3e23b9d38dc6f5de557e22567dd8d2f57132409bd"
+
+[[files]]
+file = "config/openloader/data/worldgen/data/imst/worldgen/structure_set/common.json"
+hash = "a0061937fd0579ddfc07d5d2857b59d1a617c39e7b0a222e5c3322564306b339"
 
 [[files]]
 file = "config/openloader/data/worldgen/data/repurposed_structures/worldgen/structure_set/mansions_mangrove.json"
@@ -1852,7 +1856,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm-fabric.pw.toml"
-hash = "a81e36b608eb38c57cac5fa267df6f911ade4818e8caa38f0958f3c884d32322"
+hash = "3e75adcb51fdb5fcb0c57e2a580d20aa6fb1463a413285e9ebb95b9395a9c5fb"
 metafile = true
 
 [[files]]
@@ -2152,7 +2156,7 @@ metafile = true
 
 [[files]]
 file = "mods/illager-invasion.pw.toml"
-hash = "8f7960180ecd68666aede57399911e2389f9202d213b2f8d4ce7833933a5362e"
+hash = "a6fe37c27bbb0d3a907728c0163ae554175debdd4b149259f4813da91ed28ed4"
 metafile = true
 
 [[files]]
@@ -2217,7 +2221,7 @@ metafile = true
 
 [[files]]
 file = "mods/l2-hostility-fabricated.pw.toml"
-hash = "8d9702636a9a08c1382fe8722ee8b4d219bdaa648bdab0f145945ee0e8fbc64a"
+hash = "580e92f6dffe6a2077919b4186e4f11c29dcf7d0ea2d95456430e5e9604ed196"
 metafile = true
 
 [[files]]
@@ -2422,7 +2426,7 @@ metafile = true
 
 [[files]]
 file = "mods/patchouli-fabric.pw.toml"
-hash = "7bb9ff0451ffff61ea96e9989e5fbc872b68503d3c8650e44150dd89e77fc873"
+hash = "12216fa20f72f411ba04636f58a712e925f0ed8c219e140a977a1a95d7fd6ccf"
 metafile = true
 
 [[files]]
@@ -2447,7 +2451,7 @@ metafile = true
 
 [[files]]
 file = "mods/plushables.pw.toml"
-hash = "d90fb6838a0c40891284afecfcafca00435595d4f1ef8862560028644d8219d3"
+hash = "eede1e1f90f52c05e3a5508e8a7fbe465f8f4d0bc2567919c9a1a8c62b3ad249"
 metafile = true
 
 [[files]]
@@ -2532,7 +2536,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "c3f297315355c64a3c5d807d2244f2bc4e9022c9c776e9f91446a7353a3b4011"
+hash = "e8d14ca3f064019b3da11e5e9dd6d941b836c9c2dfb584bc53aaae166ba08433"
 metafile = true
 
 [[files]]
@@ -2597,7 +2601,7 @@ metafile = true
 
 [[files]]
 file = "mods/spell-dimension-extra.pw.toml"
-hash = "0a794075b13d6d24166e8ca904b58d2335805bf3e23c32a7e6c0540ad280a5d6"
+hash = "a753cd7c78ce165b9faa925ac29dcacb866a0ff3420e49864ba2ea6038d6332d"
 metafile = true
 
 [[files]]
