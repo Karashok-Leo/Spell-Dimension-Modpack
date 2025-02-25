@@ -7,7 +7,7 @@
         }
     ],
     "output": {
-        "id": "spell-dimension:random_epic_gear",
+        "id": "spell-dimension:random_epic_material",
         "count": 1
     },
     "min_forge_tier": 2,

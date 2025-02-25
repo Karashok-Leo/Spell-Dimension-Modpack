@@ -9,8 +9,8 @@
                 "count": 1
             },
             "payment_item": {
-                "item": "numismatic-overhaul:gold_coin",
-                "count": 1
+                "item": "minecraft:netherite_ingot",
+                "count": 4
             },
             "max_trades": 1
         },
@@ -22,8 +22,8 @@
                 "count": 1
             },
             "payment_item": {
-                "item": "numismatic-overhaul:gold_coin",
-                "count": 1
+                "item": "minecraft:netherite_ingot",
+                "count": 4
             },
             "max_trades": 1
         },
@@ -35,8 +35,8 @@
                 "count": 1
             },
             "payment_item": {
-                "item": "numismatic-overhaul:gold_coin",
-                "count": 1
+                "item": "minecraft:netherite_ingot",
+                "count": 4
             },
             "max_trades": 1
         }

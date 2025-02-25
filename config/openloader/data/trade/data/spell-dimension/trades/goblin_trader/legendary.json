@@ -9,8 +9,8 @@
                 "count": 1
             },
             "payment_item": {
-                "item": "numismatic-overhaul:gold_coin",
-                "count": 64
+                "item": "l2hostility:miracle_ingot",
+                "count": 1
             },
             "max_trades": 1
         },
@@ -22,8 +22,8 @@
                 "count": 1
             },
             "payment_item": {
-                "item": "numismatic-overhaul:gold_coin",
-                "count": 64
+                "item": "l2hostility:miracle_ingot",
+                "count": 1
             },
             "max_trades": 1
         },
@@ -35,8 +35,8 @@
                 "count": 1
             },
             "payment_item": {
-                "item": "numismatic-overhaul:gold_coin",
-                "count": 64
+                "item": "l2hostility:miracle_ingot",
+                "count": 1
             },
             "max_trades": 1
         }

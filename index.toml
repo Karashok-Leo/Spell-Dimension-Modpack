@@ -386,7 +386,7 @@ hash = "45666f8485ccf6172db5aae6e40e1585c606d4344ca21b0974034edf9315166f"
 
 [[files]]
 file = "config/goblintraders-entities.toml"
-hash = "2f7d669793e21271933218bc1167ceb79ce53f17ee8ee17dd19db3c8555d70cd"
+hash = "950d42cc0c8e432621954a5c2f4858776187e4ee5a571139607e70cc3bafe522"
 
 [[files]]
 file = "config/graveyard/the-graveyard-3.0-config.json5"
@@ -458,7 +458,7 @@ hash = "164a5d8b55330ebd6518cd2abd07245883395526a8d30a69247e420d8b9fb092"
 
 [[files]]
 file = "config/loot-patcher/dungeonz.json"
-hash = "c45a56e13f9cd7165a15ab7492b3333cbeea832c995d23a5d85c71c2bba41a75"
+hash = "50ab8650e026d34c562f8b9d759867ec011d937946051dbeabd63282a013320e"
 
 [[files]]
 file = "config/loot-patcher/entities.json"
@@ -487,10 +487,6 @@ hash = "53f7819766546576c0e7dfc84910660f85f4889cd09eb46bc2fd741b62828560"
 [[files]]
 file = "config/mythicupgrades-config.json5"
 hash = "476414f4048939bfec4c54d1e3b041f7ec9c591166883523afd0979876089f1a"
-
-[[files]]
-file = "config/numismatic-overhaul.json5"
-hash = "63a97e371c9b42afc5a5ac7cff0acf0b869d5066615bf1040c32bf710f344f7a"
 
 [[files]]
 file = "config/openloader/advanced_options.json"
@@ -745,6 +741,10 @@ file = "config/openloader/data/loot/data/mutantmonsters/loot_tables/entities/mut
 hash = "bbc8d20233ab91541fb3d548ffe0ce6d1aa9226421f3874ebcdb0fb4e8969c08"
 
 [[files]]
+file = "config/openloader/data/loot/data/plushables/loot_tables/grant_plushables_codex.json"
+hash = "ef2f3867401e23bc91e385f62b1540140878043974cd97abfdf15501622ce5b2"
+
+[[files]]
 file = "config/openloader/data/loot/data/simplyswords/loot_tables/grant_book_on_first_join.json"
 hash = "23d7e8032600b65e2becca8631c005d2eace87b58af063c407365612cbf5ac09"
 
@@ -831,6 +831,18 @@ hash = "24f54a9bec3a8f61aaf0b53ccdd560d68950b3dffa0ab8fcd731f98430edff1d"
 [[files]]
 file = "config/openloader/data/recipe/data/mythicmetals/recipes/adamantite_forge.json"
 hash = "c4278fa0526c104a0b668855261fd7b0474a6352d68e0325f763de4b613d6881"
+
+[[files]]
+file = "config/openloader/data/recipe/data/mythicmetals/recipes/alloy_forge/alloy_hallowed_from_ingots.json"
+hash = "f3130628363a7966d91b70fa36140087a2870e1641e8ac8b406f5ecc450d6e5a"
+
+[[files]]
+file = "config/openloader/data/recipe/data/mythicmetals/recipes/alloy_forge/alloy_hallowed_from_ores.json"
+hash = "75bc026f59c1df84787712b7b46c357b374405240086ea2fd66ae4b34b012294"
+
+[[files]]
+file = "config/openloader/data/recipe/data/mythicmetals/recipes/alloy_forge/alloy_hallowed_from_raw_ores.json"
+hash = "08e4093a31a219bf7c2340709886e510256ce41b58c1d025279075d939f94563"
 
 [[files]]
 file = "config/openloader/data/recipe/data/soulsweapons/recipes/chaos_orb.json"
@@ -1086,23 +1098,23 @@ hash = "35f543f11102a37ebd1229e4f4c6f7b20e30a0edb0e5109308b87bb5fc95693b"
 
 [[files]]
 file = "config/openloader/data/recipe/data/spell-dimension/recipes/random/gear/common.json"
-hash = "23f1ed5305a29df205c240e66262d28ad6f0aa60cfd8764873403c85ca297524"
+hash = "e4d319380f8ed6aa46f969173d2a7c266afd68e2084030328832047def3f685c"
 
 [[files]]
 file = "config/openloader/data/recipe/data/spell-dimension/recipes/random/gear/epic.json"
-hash = "bcbac8682f6df32be4a2c1d16afb3c4f6ac644e14ca52e79e9451ef2915af944"
+hash = "072a56d73ee1d37495d56b6a3ba73e3956bbf636241730e60673b5625b79f9f1"
 
 [[files]]
 file = "config/openloader/data/recipe/data/spell-dimension/recipes/random/gear/legendary.json"
-hash = "2e376f93ca86f8aeeaa78770961c05b6c4be3f3f7338847c5c2ea1e68d8426d3"
+hash = "e62c0a9df691fe5f142f6a315139abe47123bc9d927a0c303b98ad98bc23495e"
 
 [[files]]
 file = "config/openloader/data/recipe/data/spell-dimension/recipes/random/gear/rare.json"
-hash = "c01b7887fabc71e5046368cdf73984f59e1e66276a596f57fe355699a3c1b167"
+hash = "d3cc7eab2b1230061faefdf0d920748a26c224707d128adaa32bf945ec75c67a"
 
 [[files]]
 file = "config/openloader/data/recipe/data/spell-dimension/recipes/random/gear/uncommon.json"
-hash = "82a3b5fbbfa607fda7b672952a9fa1986bdd8e5cff89836583f221946ba34c69"
+hash = "9bb53f476a7210d68d0d9678b7ed66db9a5aa159c87c91b44967abb8fb523f2b"
 
 [[files]]
 file = "config/openloader/data/recipe/data/spell-dimension/recipes/random/material/common.json"
@@ -1337,10 +1349,6 @@ file = "config/openloader/data/tag/data/minecraft/tags/damage_type/witch_resista
 hash = "a193bf62e98190d70d774a15f6efb3130643f4114a02321abaab92fdc51786f9"
 
 [[files]]
-file = "config/openloader/data/tag/data/numismatic-overhaul/tags/entity_types/the_bourgeoisie.json"
-hash = "fad9d1371aab405274314a4bce3f6cc1ef782f69c7d22f58312e98fa6ef0e9d4"
-
-[[files]]
 file = "config/openloader/data/tag/data/spell-dimension/tags/items/a_ring.json"
 hash = "1507d8fe8a0416c2d245aa53ecab4c3f8d69505762405c4ccf78785dbdabaaec"
 
@@ -1446,43 +1454,43 @@ hash = "59da675dc3cfec388d919a6b2ddc6ab91d440710723f3e34166e22430f8cd068"
 
 [[files]]
 file = "config/openloader/data/trade/data/spell-dimension/trades/goblin_trader/common.json"
-hash = "08a11806b306a4f8a87b1bc542cfba982490d5e9c08f8cc48999adc220bd92af"
+hash = "82daf57df6e1186089cc3a2842a1398703add54a975d331961550301595e418e"
 
 [[files]]
 file = "config/openloader/data/trade/data/spell-dimension/trades/goblin_trader/epic.json"
-hash = "090fc4998fc24cafb2b0f53bb879d2bd239883f623645409ea79e8658ada8dce"
+hash = "1af6039c143b279f6b0ba9bb518b65cd5772ae615db237d2e290f051f337210e"
 
 [[files]]
 file = "config/openloader/data/trade/data/spell-dimension/trades/goblin_trader/legendary.json"
-hash = "45228936c10561e70a740955ec97dbc2da13fceba08d273355e605f38685b583"
+hash = "72591527590f31832c7c49157e96e2aa953bb19d16067a15260f79dfaff20b6a"
 
 [[files]]
 file = "config/openloader/data/trade/data/spell-dimension/trades/goblin_trader/rare.json"
-hash = "f74094f7337f8ce064b1260f6ab220ec2158d48b3f8898c7c236a21f1563ef64"
+hash = "ce94a4b8c02290a4c88b36adcda9fff6becad501f48775c9bee1709e90858908"
 
 [[files]]
 file = "config/openloader/data/trade/data/spell-dimension/trades/goblin_trader/uncommon.json"
-hash = "654c834b50ace0d5442030b4890c94d0e2f13d1d1ae516b7e71f86c4b70b68d1"
+hash = "d1851f56254b3ba2152f77bf2294c684e173263954d93a4dc932209d0998387f"
 
 [[files]]
 file = "config/openloader/data/trade/data/spell-dimension/trades/vein_goblin_trader/common.json"
-hash = "08a11806b306a4f8a87b1bc542cfba982490d5e9c08f8cc48999adc220bd92af"
+hash = "82daf57df6e1186089cc3a2842a1398703add54a975d331961550301595e418e"
 
 [[files]]
 file = "config/openloader/data/trade/data/spell-dimension/trades/vein_goblin_trader/epic.json"
-hash = "6c5e57c67139e295fc74312c06a7dd4dc9e744a3b2fc8d0fa41d93d6d461e0e6"
+hash = "0aecfa301c9a15ee465b34ca1ce2b7f02dca1f506cb260b69a9ae0753f133fa4"
 
 [[files]]
 file = "config/openloader/data/trade/data/spell-dimension/trades/vein_goblin_trader/legendary.json"
-hash = "58dae0264c5ce79c3b5c451907c7db479705a63b2fc9c1d8404185e2091b0b14"
+hash = "afa92752f115daa29f07854f3ef1f2b45d5011295f47f20e15f09a91faf68c59"
 
 [[files]]
 file = "config/openloader/data/trade/data/spell-dimension/trades/vein_goblin_trader/rare.json"
-hash = "f74094f7337f8ce064b1260f6ab220ec2158d48b3f8898c7c236a21f1563ef64"
+hash = "ce94a4b8c02290a4c88b36adcda9fff6becad501f48775c9bee1709e90858908"
 
 [[files]]
 file = "config/openloader/data/trade/data/spell-dimension/trades/vein_goblin_trader/uncommon.json"
-hash = "654c834b50ace0d5442030b4890c94d0e2f13d1d1ae516b7e71f86c4b70b68d1"
+hash = "d1851f56254b3ba2152f77bf2294c684e173263954d93a4dc932209d0998387f"
 
 [[files]]
 file = "config/openloader/data/trade/pack.mcmeta"
@@ -1523,10 +1531,6 @@ hash = "ed278efe847c372dd02fca10fa670a0ac1efb01d9f4a9ffd70dfc258c546a53b"
 [[files]]
 file = "config/openloader/resources/translations/assets/mythicupgrades/lang/zh_cn.json"
 hash = "e105f5e7ba0b707ecaaf360140bd5e1acc3814b04a4ad83296af61689e9cd368"
-
-[[files]]
-file = "config/openloader/resources/translations/assets/numismatic-overhaul/lang/zh_cn.json"
-hash = "1c2fc31461a6e32753ba55b99fbb29c5091ece31d1abe7dd10b1076c3b329eb3"
 
 [[files]]
 file = "config/openloader/resources/translations/assets/paladins/lang/zh_cn.json"
@@ -1630,7 +1634,7 @@ hash = "d518a1ed11db7384ca31ec7254e6089bde8bdea7a91055b7880a6b9573014159"
 
 [[files]]
 file = "config/randommobeffects/blacklist.txt"
-hash = "881075f4341fd799b562f3b303087d979e7f826fee8aa410fea7f2db529c4db9"
+hash = "ebdb218afe7d167118a06a06c6d00fbd3bc0714f78160c653aaba920ab246858"
 
 [[files]]
 file = "config/reciperemover.json"
@@ -2382,11 +2386,6 @@ metafile = true
 [[files]]
 file = "mods/noisium.pw.toml"
 hash = "4bef2974b0ccbf63265a7c430fa37d57c11f4dc0c38c4764b7b7a5336b4f9434"
-metafile = true
-
-[[files]]
-file = "mods/numismatic-overhaul.pw.toml"
-hash = "946d1aa13a7ac2fc04d2b348a32f8a8f3106805a9caba6d6d3427446bfc55cf0"
 metafile = true
 
 [[files]]

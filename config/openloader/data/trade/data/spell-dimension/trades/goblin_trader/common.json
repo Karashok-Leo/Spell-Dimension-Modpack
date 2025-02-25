@@ -9,8 +9,8 @@
                 "count": 1
             },
             "payment_item": {
-                "item": "numismatic-overhaul:silver_coin",
-                "count": 8
+                "item": "minecraft:gold_ingot",
+                "count": 12
             },
             "max_trades": 1
         },
@@ -22,8 +22,8 @@
                 "count": 1
             },
             "payment_item": {
-                "item": "numismatic-overhaul:silver_coin",
-                "count": 8
+                "item": "minecraft:gold_ingot",
+                "count": 12
             },
             "max_trades": 1
         },
@@ -35,8 +35,8 @@
                 "count": 1
             },
             "payment_item": {
-                "item": "numismatic-overhaul:silver_coin",
-                "count": 8
+                "item": "minecraft:gold_ingot",
+                "count": 12
             },
             "max_trades": 1
         },
@@ -48,8 +48,8 @@
                 "count": 1
             },
             "payment_item": {
-                "item": "numismatic-overhaul:bronze_coin",
-                "count": 32
+                "item": "minecraft:gold_ingot",
+                "count": 1
             },
             "max_trades": 4
         }

@@ -1,0 +1,23 @@
+{
+  "type": "alloy_forgery:forging",
+  "inputs": [
+    {
+      "tag": "c:adamantite_ingots"
+    },
+    {
+      "tag": "c:mythril_ingots"
+    },
+    {
+      "tag": "c:orichalcum_ingots"
+    },
+    {
+      "item": "l2hostility:totemic_gold_ingot"
+    }
+  ],
+  "output": {
+    "id": "mythicmetals:hallowed_ingot",
+    "count": 1
+  },
+  "min_forge_tier": 2,
+  "fuel_per_tick": 15
+}

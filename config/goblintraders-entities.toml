@@ -13,7 +13,7 @@ preventDespawnIfNamed = true
 	#The amount of ticks to wait before trying to spawn a trader again if the spawn failed
 	spawnInterval = 12000
 	#The amount of ticks before the trader will replenish it's trades. Set to -1 to disable restocking
-	restockDelay = 24000
+	restockDelay = 240000
 	#The amount of ticks before the trader will start spawning in a new world
 	traderSpawnDelay = 24000
 	#The chance out of one hundred that the trader will spawn in the over world
@@ -65,11 +65,11 @@ preventDespawnIfNamed = true
 	#If true, the goblin will try to hit back a player or mob that hit them
 	canAttackBack = true
 	#The amount of ticks to wait before trying to spawn a trader again if the spawn failed
-	spawnInterval = 24000
+	spawnInterval = 12000
 	#The amount of ticks before the trader will despawn
 	traderDespawnDelay = 24000
 	#The amount of ticks before the trader will replenish it's trades. Set to -1 to disable restocking
-	restockDelay = 24000
+	restockDelay = 240000
 	#The amount of ticks before the trader will start spawning in a new world
 	traderSpawnDelay = 24000
 	#The chance out of one hundred that the trader will spawn in the over world
