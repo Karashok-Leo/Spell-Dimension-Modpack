@@ -1,14 +1,13 @@
 name = "Wakes"
-filename = "wakes-0.2.4+1.20.1.jar"
+filename = "wakes-0.4.0+1.20.1.jar"
 side = "client"
-pin = true
 
 [download]
 hash-format = "sha1"
-hash = "32f620bd5a4a5e0bc99c73766d8985e1c455747a"
+hash = "c7683a2cfe6e874d01c68da9a596e31615f29536"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5261684
+file-id = 6134970
 project-id = 884267

@@ -438,7 +438,7 @@ hash = "45f72d573115a83715ed993fc9502fabad886c412cd34f05812e86f5ff17cc47"
 
 [[files]]
 file = "config/l2hostility/common.json5"
-hash = "cfb81a0d9c11126b5afbbc478e210fc71107d2cd969b1843306389475dceeee3"
+hash = "f7fbf20459b84206b3f16f67a094bd980be06b3070097c2f874c89d57c96aadd"
 
 [[files]]
 file = "config/legendarytooltips-common.toml"
@@ -834,15 +834,15 @@ hash = "c4278fa0526c104a0b668855261fd7b0474a6352d68e0325f763de4b613d6881"
 
 [[files]]
 file = "config/openloader/data/recipe/data/mythicmetals/recipes/alloy_forge/alloy_hallowed_from_ingots.json"
-hash = "f3130628363a7966d91b70fa36140087a2870e1641e8ac8b406f5ecc450d6e5a"
+hash = "43bfd473ea3f8d555cfb6155a2621b2535e77d87f2fac046b8a828e60a70f97b"
 
 [[files]]
 file = "config/openloader/data/recipe/data/mythicmetals/recipes/alloy_forge/alloy_hallowed_from_ores.json"
-hash = "75bc026f59c1df84787712b7b46c357b374405240086ea2fd66ae4b34b012294"
+hash = "6d731dcd0cc8cc1e751eff8ac08f88b7bf2b54ab669de4925156eb8865227ecb"
 
 [[files]]
 file = "config/openloader/data/recipe/data/mythicmetals/recipes/alloy_forge/alloy_hallowed_from_raw_ores.json"
-hash = "08e4093a31a219bf7c2340709886e510256ce41b58c1d025279075d939f94563"
+hash = "5226ea82bfc9935da3cba0e3f569569440381c9a82d176baa6831341191dbe18"
 
 [[files]]
 file = "config/openloader/data/recipe/data/soulsweapons/recipes/chaos_orb.json"
@@ -854,39 +854,39 @@ hash = "c183a902a83a373b9a4aabe530ee954ddc97989f6e0d2f17289974cb0466a254"
 
 [[files]]
 file = "config/openloader/data/recipe/data/spell-dimension/recipes/arcane/0.json"
-hash = "b5c76b555b800f1094f36be7b84d83ad966b2a9ae2f695f937ae8a79452e51a7"
+hash = "7548fa1bfcca0113afe6cefb1e851b128032a2dd5316d2763c177867da71cecf"
 
 [[files]]
 file = "config/openloader/data/recipe/data/spell-dimension/recipes/arcane/1.json"
-hash = "d6678e6277b2b7226364a26849aac58c63060f5ec4f83d859f0369ed5d5ff39a"
+hash = "080bcc16f9cf7f9e1c09b35fc59a20cb296c71a38c6b5c60e3cff442840ee1ba"
 
 [[files]]
 file = "config/openloader/data/recipe/data/spell-dimension/recipes/arcane/2.json"
-hash = "c37939b36df898950911901f5489dbd461a9180cf583bc17ecb377fd495cb658"
+hash = "6322ec6eb708278a479ac9adb68b374e20dfe014763d5acf0b012cb2fc06e7e5"
 
 [[files]]
 file = "config/openloader/data/recipe/data/spell-dimension/recipes/fire/0.json"
-hash = "56c129fb6f64e0e7088c989dc93ee3f0120a21f4cffe970248007e104af9a7ff"
+hash = "6d1ae6e1708bdb372e41b20d9c08b8e4cfc6da4cd4f61d09f2863534ff3db032"
 
 [[files]]
 file = "config/openloader/data/recipe/data/spell-dimension/recipes/fire/1.json"
-hash = "820703fa518b42f1a696b139c7a678e2ba752362ca4ab251f11f0581913e5927"
+hash = "1e936ff8a9ae39555f0821d2ecb45e2a130c2a3b2b0131d56aa5a79d9cc35eab"
 
 [[files]]
 file = "config/openloader/data/recipe/data/spell-dimension/recipes/fire/2.json"
-hash = "004dd5379eac96ed25305d28670ba714e3af90d341b6f50e14ca759aa781f6a6"
+hash = "20d547f7db5afc34d7f554f75827ba935befd319f205da044ecf0158e8cf3464"
 
 [[files]]
 file = "config/openloader/data/recipe/data/spell-dimension/recipes/frost/0.json"
-hash = "fe0b7af0a8287289d222efbe1e8271359acaa419b7e9334571939d1fdd9366fd"
+hash = "7b59498820ae754cfc9123a77fc2905e423f039eef99087db4d9187091c1bc6e"
 
 [[files]]
 file = "config/openloader/data/recipe/data/spell-dimension/recipes/frost/1.json"
-hash = "df4d81cf74f3af1be28ec702009461e5443e9f6fabd9e323d70304940830bf08"
+hash = "438476321e82cbceab9b164b543a7670af61ab5bcaf8856483f1cbd3675b5b10"
 
 [[files]]
 file = "config/openloader/data/recipe/data/spell-dimension/recipes/frost/2.json"
-hash = "cf590783412571406b40457fbdc900e1955404f8a602ded3264ce91d8dfb5a70"
+hash = "2ea25ffe3d947e8ea673661d92ba5214988b12f58aeb605f18a76bc6319e05b4"
 
 [[files]]
 file = "config/openloader/data/recipe/data/spell-dimension/recipes/fusion-smithing/axes.json"
@@ -958,19 +958,15 @@ hash = "30608c9cd11b278447dd404c81c6f62b54ecb2096e2daa5872882f24b9b6d2f6"
 
 [[files]]
 file = "config/openloader/data/recipe/data/spell-dimension/recipes/healing/0.json"
-hash = "4404c05be1d0cf289b2652cd6ff623d82e47c900292614a1279e938b2fcd642c"
-
-[[files]]
-file = "config/openloader/data/recipe/data/spell-dimension/recipes/healing/0_priest.json"
-hash = "cfac10d5aac4e5ac4a23cfefc29709201a1e4af2313ff30036617cb4d4a8f534"
+hash = "517d34328fbfad2d2e299bd64597ad20134a58916256845a6c1026063ac45900"
 
 [[files]]
 file = "config/openloader/data/recipe/data/spell-dimension/recipes/healing/1.json"
-hash = "ed5ced976f9c58686701460cdc47fcfaabaca55cd9a67e322ed2bfe7f807ebee"
+hash = "40c2eadefd60fced7f5b29f903229e7f9154fbecfa0e7310f6f668aa265496ad"
 
 [[files]]
 file = "config/openloader/data/recipe/data/spell-dimension/recipes/healing/2.json"
-hash = "48770a3c31fc8c6f37b35dfd3b196464bc3175e57b1cd81fc933a9018110d504"
+hash = "1724891198ec1d613c8e320ed5fced5227eb6885eebb949e99e6b00454114dd8"
 
 [[files]]
 file = "config/openloader/data/recipe/data/spell-dimension/recipes/misc/adamantite_ingot.json"
@@ -1860,7 +1856,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm-fabric.pw.toml"
-hash = "3e75adcb51fdb5fcb0c57e2a580d20aa6fb1463a413285e9ebb95b9395a9c5fb"
+hash = "b119f4da2d9f554860a8c8146a68123c4b0d191c73e7a1f62b3ec94f326ab5eb"
 metafile = true
 
 [[files]]
@@ -1920,7 +1916,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "3301e981bf6c7eb6689180ccfc7dbcb096e78b0d4d016480b99d1377e2910a38"
+hash = "4701717d9153e470a0306e06b8435fcd2cb00902ca3843da41286359c3367f48"
 metafile = true
 
 [[files]]
@@ -2010,7 +2006,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "b7a71d29f63b2e8fe36064b2471b6aad3e6f148510040dad2107d333d3ea778d"
+hash = "5b37989d32ad1ff9f26c6983e0e834c6b1bc68456680ac0e63541579ac4914d7"
 metafile = true
 
 [[files]]
@@ -2020,7 +2016,7 @@ metafile = true
 
 [[files]]
 file = "mods/enchantment-infusion.pw.toml"
-hash = "df75941fa99a425d90c7c51660d94e875b2f95b6df379ee5e212d5afce092569"
+hash = "3ebfe21dc9d6d85b78e0f02b6ee706e05b96f3fb4c4911688c672cec8955f9c8"
 metafile = true
 
 [[files]]
@@ -2035,7 +2031,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "0feec1e2f9e4792552a7c2c9388da011763122b1fb2100321a7e9d9585d7237e"
+hash = "7888fafcdb02347e807cc5851cf5da6650ea7d60e6ef507c89a65810ffa1e774"
 metafile = true
 
 [[files]]
@@ -2075,7 +2071,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "3aae66df7fd1c60313e168a18476f36c9c5d0bc299803c6f7bcb88c4392260ec"
+hash = "8bc654b98c2c8347c443bd4f966797b97907f436c8771891482a603e16f7e058"
 metafile = true
 
 [[files]]
@@ -2165,7 +2161,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "1a0b2fafdf1c7d2793388df9b5a5d58efdb72b9819758da641b3cb4480442045"
+hash = "819f7823d9c190dc992b68d98c9a2484f9b32320c5d90bad109bfd1a9d8c24bb"
 metafile = true
 
 [[files]]
@@ -2225,7 +2221,7 @@ metafile = true
 
 [[files]]
 file = "mods/l2-hostility-fabricated.pw.toml"
-hash = "580e92f6dffe6a2077919b4186e4f11c29dcf7d0ea2d95456430e5e9604ed196"
+hash = "f7e34bb42c7a6f7880c65f6c4e03b0f67421080ac549bee1ad3616ff1f46a670"
 metafile = true
 
 [[files]]
@@ -2315,7 +2311,7 @@ metafile = true
 
 [[files]]
 file = "mods/mmmmmmmmmmmm.pw.toml"
-hash = "71bc1c232475811d65319cab286df9cb701c37f06243bb1a180e0e82cedcbe9b"
+hash = "e920635b586d1f7c9cc4680789e449fd0e8f4a955e1842f8275d3cef095896f7"
 metafile = true
 
 [[files]]
@@ -2405,7 +2401,7 @@ metafile = true
 
 [[files]]
 file = "mods/open-parties-and-claims.pw.toml"
-hash = "4b43c9335a67a4ba3eb76cc11f02c6c2347d4bc1d28e4a6f5522c513068b1007"
+hash = "b1b51f44b4e6bb7d9b80d61b17ab0b43ee16f57b65a06adaf0342bc69f096458"
 metafile = true
 
 [[files]]
@@ -2520,7 +2516,7 @@ metafile = true
 
 [[files]]
 file = "mods/ruins.pw.toml"
-hash = "a58506a9be4b52690d2fc9c9a3597331161336c072612da6f53c253d07579242"
+hash = "29af677d64bbb81ea46ba270e41cd0bec166c6bc59c8ad82ebc0e4729adf0ba9"
 metafile = true
 
 [[files]]
@@ -2535,12 +2531,12 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "e8d14ca3f064019b3da11e5e9dd6d941b836c9c2dfb584bc53aaae166ba08433"
+hash = "c2ee4ddc3acf31e94269f9831360c4177e5d87a78a760bc2d42a00a8882aa26f"
 metafile = true
 
 [[files]]
 file = "mods/shoulder-surfing-reloaded.pw.toml"
-hash = "c2909250e08e949bc5133a374264c870bc8b3d3e1cc9a72cee750524a81d886f"
+hash = "65e06bdf4ee6dc644a1b45b748dff8c56e2bb9a68367b9d8f2ed70b93b85783a"
 metafile = true
 
 [[files]]
@@ -2600,7 +2596,7 @@ metafile = true
 
 [[files]]
 file = "mods/spell-dimension-extra.pw.toml"
-hash = "a753cd7c78ce165b9faa925ac29dcacb866a0ff3420e49864ba2ea6038d6332d"
+hash = "e5f61b452b50a749bb2e4ba06aa9eb40c882a55f48f3ac2f20628929df4fcac5"
 metafile = true
 
 [[files]]
@@ -2640,7 +2636,7 @@ metafile = true
 
 [[files]]
 file = "mods/structure-essentials-forge-fabric.pw.toml"
-hash = "bea618e237d4e1759e618788e03aace21bd16c94151ef123aac7ff0e51500b50"
+hash = "a9c2ed18700b25d937a3abc52b8d2745f52a904d4f07373d09b167891bfed91e"
 metafile = true
 
 [[files]]
@@ -2715,7 +2711,7 @@ metafile = true
 
 [[files]]
 file = "mods/wakes.pw.toml"
-hash = "57802190b0461842d32d8d177f5ab164b54becbe72a947df08d46b52175abd9d"
+hash = "ef997a4e5c8c6bd5700921e16e055f4c9d2a272fc35664aa6bbb0ed62a955ac8"
 metafile = true
 
 [[files]]
@@ -2750,12 +2746,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "3947c93fa3c6794af5983d10946e70b516e9fbbae21b0eaf93eefce3e01993a9"
+hash = "a8b5d81dfac9233ffb23f426a8b044e1812059de128a5209cf81c2d31055deaa"
 metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "2e28fc50951becf6f57c56d2d4f98f11f27adc6feec072540e585fe6f1cc3c4b"
+hash = "51c527327a8c3bab00d892bffb942458c8be2402be36c85893dfd48dbe34ffd7"
 metafile = true
 
 [[files]]

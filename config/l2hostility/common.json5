@@ -144,6 +144,10 @@
 		"nidhoggurExtraLevel": 100,
 		// All loot drop factor when using Greed of Nidhoggur
 		"nidhoggurDropFactor": 0.01,
+		// Cap drop at item max stack size
+		"nidhoggurCapAtItemMaxStack": true,
+		// When using book of reprint to copy books, drop extra on player and does not allow overstacking
+		"bookOfReprintSpread": false,
 		// Insulator Enchantment factor for reducing pushing
 		"insulatorFactor": 0.8
 	},
@@ -173,6 +177,8 @@
 		"adaptFactor": 0.75,
 		// Trigger range for Reflect
 		"reflectRange": 3.0,
+		// Allow Reflect to reflect magic damage
+		"reflectMagic": true,
 		// Reflect factor per level for Reflect. 0.5 means +50% extra damage
 		"reflectFactor": 0.25,
 		// Duration in ticks for enchantments to be disabled per level for Dispell
@@ -299,8 +305,8 @@
 		*/
 		"auraRange": {
 			"arena": 24,
-			"moonwalk": 10,
-			"gravity": 10
+			"gravity": 10,
+			"moonwalk": 10
 		}
 	},
 	"complements": {

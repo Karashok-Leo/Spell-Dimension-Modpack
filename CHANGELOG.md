@@ -1,5 +1,53 @@
 # Change Log
 
+## 0.5.10 - 2025.3.1
+##### Warning
+- Due to the removal of Numismatic Overhaul, please dispose of your coins properly before migrating your saves!
+##### Added
+- New Difficulty Tier [Nightmare]: increase 0.5 extra difficulty for every 1 point of Spell Power you have
+- New Items:
+    - Spell Prism
+- New Mechanics
+    - Bosses will now fully heal when they kill the player.
+- New Command `/spell_dimension fix_fake_death` for manually fixing fake deaths
+##### Changed
+- Updated some mods
+- Optimized the operation of Quest Scrolls
+- Optimized EMI and REI compat layer (recipes for Spell Locate, Spell Summon and Spell Scrolls)
+- Blackstone Golem must drop Blackstone Heart
+- Smelting gears of the same rarity now outputs random materials of the same tier
+- Damage Deflection no longer randomly occurs on monsters
+- Ring of Divine is now immune to Damage Deflection
+- Reduced the amount of loot in Dark Dungeons
+- Phase Recipe: Echo Shard -> Reinforced Echo Shard
+- Recipe for Hallow Ingot
+- Optimized the sound effects and recipe ingredient display for Enchantment Infusion
+- Spell Infusion recipes are now part of Enchantment Infusion
+- Spell Locate, Spell Summon recipes rewritten to be data-driven
+- Allowed the merging of Enchanted Essences only at normal difficulty tier
+- Rolled back the threshold for Enchanted Essences crafted from Base Essences:
+    - Primary: 33->10
+    - Intermediate: 66->20
+    - Advanced: 99->30
+- Adjusted the minimum hostility level for various loot bag drops:
+    - T4: 40->80
+    - T3: 80->160
+    - T2: 120->320
+    - T1: 160->560
+    - T0: 200->880
+- Optimized the combat with Void Shadow
+##### Removed
+- Numismatic Overhaul
+- Spell Infusion Pedestal(Replace)
+##### Fixed
+- Fake deaths for unknown reasons
+- Bug that prevented black holes from rendering when they were too large
+- Converge, Black Hole now triggers spell related enchantments
+- Fixed a bug where Frost Aura would not cast properly
+- Bug where some enchantments can not attach to the staff
+- Bug where Adaptive and Counter Strike did not work
+- Reflection trait a latent bug that could cause a crash
+
 ## 0.5.9 - 2025.2.17
 ##### Warning
 - This update removes Crystals Overhauled (which contains a series of crystal armor sets), so if you are using these items, please consider updating carefully

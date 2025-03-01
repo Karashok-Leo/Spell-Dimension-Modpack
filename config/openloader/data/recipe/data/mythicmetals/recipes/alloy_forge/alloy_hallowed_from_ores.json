@@ -12,6 +12,9 @@
     },
     {
       "item": "minecraft:totem_of_undying"
+    },
+    {
+      "item": "l2hostility:miracle_powder"
     }
   ],
   "output": {

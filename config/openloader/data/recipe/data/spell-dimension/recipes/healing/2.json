@@ -1,33 +1,36 @@
 {
-    "type": "minecraft:crafting_shaped",
-    "category": "misc",
-    "key": {
-      "#": {
-        "item": "spell-dimension:essence_healing_2"
-      },
-      "*": {
-        "item": "spell-dimension:spell_book_healing_1"
-      },
-      "A": {
-        "item": "l2hostility:divinity_light"
-      },
-      "B": {
-        "item": "mythicmetals:hallowed_sword"
-      },
-      "C": {
-        "item": "mutantmonsters:hulk_hammer"
-      },
-      "D": {
-        "item": "mythicmetals:metallurgium_sword"
-      }
+  "type": "enchantment_infusion:simple_infusion",
+  "input": {
+    "item": "spell-dimension:spell_book_healing_1"
+  },
+  "ingredients": [
+    {
+      "item": "spell-dimension:essence_healing_2"
     },
-    "pattern": [
-      "#A#",
-      "D*B",
-      "#C#"
-    ],
-    "result": {
-      "item": "spell-dimension:spell_book_healing_2"
+    {
+      "item": "l2hostility:divinity_light"
     },
-    "show_notification": true
+    {
+      "item": "spell-dimension:essence_healing_2"
+    },
+    {
+      "item": "mythicmetals:hallowed_sword"
+    },
+    {
+      "item": "spell-dimension:essence_healing_2"
+    },
+    {
+      "item": "mutantmonsters:hulk_hammer"
+    },
+    {
+      "item": "spell-dimension:essence_healing_2"
+    },
+    {
+      "item": "mythicmetals:metallurgium_sword"
+    }
+  ],
+  "output": {
+    "id": "spell-dimension:spell_book_healing_2",
+    "Count": 1
   }
+}

@@ -1,30 +1,36 @@
 {
-    "type": "minecraft:crafting_shaped",
-    "category": "misc",
-    "key": {
-      "#": {
-        "item": "spell-dimension:essence_fire_0"
-      },
-      "*": {
-        "item": "wizards:fire_spell_book"
-      },
-      "A": {
-        "item": "minecraft:blaze_powder"
-      },
-      "B": {
-        "item": "spellbladenext:runeblaze_ingot"
-      },
-      "C": {
-        "item": "minecraft:fire_charge"
-      }
+  "type": "enchantment_infusion:simple_infusion",
+  "input": {
+    "item": "wizards:fire_spell_book"
+  },
+  "ingredients": [
+    {
+      "item": "spell-dimension:essence_fire_0"
     },
-    "pattern": [
-      "#A#",
-      "B*B",
-      "#C#"
-    ],
-    "result": {
-      "item": "spell-dimension:spell_book_fire_0"
+    {
+      "item": "minecraft:blaze_powder"
     },
-    "show_notification": true
+    {
+      "item": "spell-dimension:essence_fire_0"
+    },
+    {
+      "item": "spellbladenext:runeblaze_ingot"
+    },
+    {
+      "item": "spell-dimension:essence_fire_0"
+    },
+    {
+      "item": "minecraft:fire_charge"
+    },
+    {
+      "item": "spell-dimension:essence_fire_0"
+    },
+    {
+      "item": "spellbladenext:runeblaze_ingot"
+    }
+  ],
+  "output": {
+    "id": "spell-dimension:spell_book_fire_0",
+    "Count": 1
   }
+}

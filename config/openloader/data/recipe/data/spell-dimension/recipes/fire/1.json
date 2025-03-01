@@ -1,33 +1,36 @@
 {
-    "type": "minecraft:crafting_shaped",
-    "category": "misc",
-    "key": {
-      "#": {
-        "item": "spell-dimension:essence_fire_1"
-      },
-      "*": {
-        "item": "spell-dimension:spell_book_fire_0"
-      },
-      "A": {
-        "item": "soulsweapons:demon_heart"
-      },
-      "B": {
-        "item": "minecraft:twisting_vines"
-      },
-      "C": {
-        "tag": "soulsweapons:lord_soul"
-      },
-      "D": {
-        "item": "minecraft:weeping_vines"
-      }
+  "type": "enchantment_infusion:simple_infusion",
+  "input": {
+    "item": "spell-dimension:spell_book_fire_0"
+  },
+  "ingredients": [
+    {
+      "item": "spell-dimension:essence_fire_1"
     },
-    "pattern": [
-      "#A#",
-      "D*B",
-      "#C#"
-    ],
-    "result": {
-      "item": "spell-dimension:spell_book_fire_1"
+    {
+      "item": "soulsweapons:demon_heart"
     },
-    "show_notification": true
+    {
+      "item": "spell-dimension:essence_fire_1"
+    },
+    {
+      "item": "minecraft:twisting_vines"
+    },
+    {
+      "item": "spell-dimension:essence_fire_1"
+    },
+    {
+      "tag": "soulsweapons:lord_soul"
+    },
+    {
+      "item": "spell-dimension:essence_fire_1"
+    },
+    {
+      "item": "minecraft:weeping_vines"
+    }
+  ],
+  "output": {
+    "id": "spell-dimension:spell_book_fire_1",
+    "Count": 1
   }
+}

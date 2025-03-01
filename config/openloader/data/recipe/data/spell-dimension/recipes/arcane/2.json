@@ -1,33 +1,36 @@
 {
-    "type": "minecraft:crafting_shaped",
-    "category": "misc",
-    "key": {
-      "#": {
-        "item": "spell-dimension:essence_arcane_2"
-      },
-      "*": {
-        "item": "spell-dimension:spell_book_arcane_1"
-      },
-      "A": {
-        "item": "bosses_of_mass_destruction:obsidian_heart"
-      },
-      "B": {
-        "item": "aquamirae:divider"
-      },
-      "C": {
-        "item": "minecraft:elytra"
-      },
-      "D": {
-        "item": "simplyswords:empowered_remnant"
-      }
+  "type": "enchantment_infusion:simple_infusion",
+  "input": {
+    "item": "spell-dimension:spell_book_arcane_1"
+  },
+  "ingredients": [
+    {
+      "item": "spell-dimension:essence_arcane_2"
     },
-    "pattern": [
-      "#A#",
-      "D*B",
-      "#C#"
-    ],
-    "result": {
-      "item": "spell-dimension:spell_book_arcane_2"
+    {
+      "item": "bosses_of_mass_destruction:obsidian_heart"
     },
-    "show_notification": true
+    {
+      "item": "spell-dimension:essence_arcane_2"
+    },
+    {
+      "item": "aquamirae:divider"
+    },
+    {
+      "item": "spell-dimension:essence_arcane_2"
+    },
+    {
+      "item": "minecraft:elytra"
+    },
+    {
+      "item": "spell-dimension:essence_arcane_2"
+    },
+    {
+      "item": "simplyswords:empowered_remnant"
+    }
+  ],
+  "output": {
+    "id": "spell-dimension:spell_book_arcane_2",
+    "Count": 1
   }
+}

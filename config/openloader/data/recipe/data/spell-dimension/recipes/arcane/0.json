@@ -1,27 +1,36 @@
 {
-    "type": "minecraft:crafting_shaped",
-    "category": "misc",
-    "key": {
-      "#": {
-        "item": "spell-dimension:essence_arcane_0"
-      },
-      "*": {
-        "item": "wizards:arcane_spell_book"
-      },
-      "A": {
-        "item": "plentyofarmors:amethyst_gem"
-      },
-      "B": {
-        "item": "spellbladenext:runegleam_ingot"
-      }
+  "type": "enchantment_infusion:simple_infusion",
+  "input": {
+    "item": "wizards:arcane_spell_book"
+  },
+  "ingredients": [
+    {
+      "item": "spell-dimension:essence_arcane_0"
     },
-    "pattern": [
-      "#A#",
-      "B*B",
-      "#A#"
-    ],
-    "result": {
-      "item": "spell-dimension:spell_book_arcane_0"
+    {
+      "item": "plentyofarmors:amethyst_gem"
     },
-    "show_notification": true
+    {
+      "item": "spell-dimension:essence_arcane_0"
+    },
+    {
+      "item": "spellbladenext:runegleam_ingot"
+    },
+    {
+      "item": "spell-dimension:essence_arcane_0"
+    },
+    {
+      "item": "plentyofarmors:amethyst_gem"
+    },
+    {
+      "item": "spell-dimension:essence_arcane_0"
+    },
+    {
+      "item": "spellbladenext:runegleam_ingot"
+    }
+  ],
+  "output": {
+    "id": "spell-dimension:spell_book_arcane_0",
+    "Count": 1
   }
+}

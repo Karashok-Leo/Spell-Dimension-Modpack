@@ -1,33 +1,36 @@
 {
-    "type": "minecraft:crafting_shaped",
-    "category": "misc",
-    "key": {
-      "#": {
-        "item": "spell-dimension:essence_frost_2"
-      },
-      "*": {
-        "item": "spell-dimension:spell_book_frost_1"
-      },
-      "A": {
-        "item": "aquamirae:abyssal_tiara"
-      },
-      "B": {
-        "item": "jewelry:unique_frost_ring"
-      },
-      "C": {
-        "item": "endrem:cold_eye"
-      },
-      "D": {
-        "item": "l2hostility:ring_of_ocean"
-      }
+  "type": "enchantment_infusion:simple_infusion",
+  "input": {
+    "item": "spell-dimension:spell_book_frost_1"
+  },
+  "ingredients": [
+    {
+      "item": "spell-dimension:essence_frost_2"
     },
-    "pattern": [
-      "#A#",
-      "D*B",
-      "#C#"
-    ],
-    "result": {
-      "item": "spell-dimension:spell_book_frost_2"
+    {
+      "item": "aquamirae:abyssal_tiara"
     },
-    "show_notification": true
+    {
+      "item": "spell-dimension:essence_frost_2"
+    },
+    {
+      "item": "jewelry:unique_frost_ring"
+    },
+    {
+      "item": "spell-dimension:essence_frost_2"
+    },
+    {
+      "item": "endrem:cold_eye"
+    },
+    {
+      "item": "spell-dimension:essence_frost_2"
+    },
+    {
+      "item": "l2hostility:ring_of_ocean"
+    }
+  ],
+  "output": {
+    "id": "spell-dimension:spell_book_frost_2",
+    "Count": 1
   }
+}
