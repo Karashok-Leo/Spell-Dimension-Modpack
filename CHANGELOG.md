@@ -1,5 +1,9 @@
 # Change Log
 
+## 0.5.10.1 - 2025.3.1
+##### Fixed
+- Quest Scrolls causing crashes on the server side
+
 ## 0.5.10 - 2025.3.1
 ##### Warning
 - Due to the removal of Numismatic Overhaul, please dispose of your coins properly before migrating your saves!
