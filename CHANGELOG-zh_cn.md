@@ -9,7 +9,11 @@
     - 法术棱镜
 - 新机制：
     - 现在，当Boss杀死玩家时将回复至满血
-- 指令`/spell_dimension fix_fake_death`，用于手动修复假死
+- 新指令`/spell_dimension fix_fake_death`，用于手动修复假死
+- 新游戏规则：`notifySpellTraitCasting`
+    - 我注意到玩家在游玩时可能被`Somebody 正在施法 [移形换影]`的消息刷屏
+    - 现在你可以输入指令`/gamerule notifySpellTraitCasting false`以关闭法术词条施法时的提示
+    - [移形换影]是一个尝试性的词条，用来测试让怪物施法的可行性，后续我将会加入更多法术词条
 ##### 修改
 - 更新了一些模组
 - 优化了任务卷轴的操作方法

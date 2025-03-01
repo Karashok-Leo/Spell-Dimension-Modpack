@@ -10,6 +10,10 @@
 - New Mechanics
     - Bosses will now fully heal when they kill the player.
 - New Command `/spell_dimension fix_fake_death` for manually fixing fake deaths
+- New Game Rule `notifySpellTraitCasting`
+    - I've noticed that players can be overwhelmed by the `Somebody is casting spell [Shift]` message while playing.
+    - You can now enter the command `/gamerule notifySpellTraitCasting false` to turn off the notification when someone is casting spell.
+    - [Shift] is an experimental trait to test the feasibility of letting monsters cast spells, and I'll be adding more spell traits in the future!
 ##### Changed
 - Updated some mods
 - Optimized the operation of Quest Scrolls
