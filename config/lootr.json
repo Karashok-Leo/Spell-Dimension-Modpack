@@ -1,6 +1,6 @@
 {
   "debug": {
-    "report_invalid_tables": true
+    "report_invalid_tables": false
   },
   "seed": {
     "randomize_seed": true
