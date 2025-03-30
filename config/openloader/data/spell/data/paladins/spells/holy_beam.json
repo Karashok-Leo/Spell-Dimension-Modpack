@@ -1,6 +1,6 @@
 {
   "school": "HEALING",
-  "range": 32,
+  "range": 48,
   "learn": {
     "tier": 2
   },
@@ -104,7 +104,7 @@
         "type": "DAMAGE",
         "damage": {
           "knockback": 0.5,
-          "spell_power_coefficient": 0.8
+          "spell_power_coefficient": 0.6
         }
       },
       "particles": [

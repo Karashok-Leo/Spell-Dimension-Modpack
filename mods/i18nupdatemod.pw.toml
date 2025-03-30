@@ -1,13 +1,13 @@
 name = "I18nUpdateMod"
-filename = "I18nUpdateMod-3.6.0-all.jar"
+filename = "I18nUpdateMod-3.6.2-all.jar"
 side = "client"
 
 [download]
 hash-format = "sha1"
-hash = "a738aaeb711278b763599bf8d09ff2ed87d763ae"
+hash = "60c831f5f137e5591dd56d81f21f500339f69d2a"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5841609
+file-id = 6351071
 project-id = 297404

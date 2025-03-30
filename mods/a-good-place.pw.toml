@@ -1,13 +1,13 @@
 name = "A Good Place"
-filename = "a_good_place-1.20-1.2.5-fabric.jar"
+filename = "a_good_place-1.20-1.2.7-fabric.jar"
 side = "client"
 
 [download]
 hash-format = "sha1"
-hash = "e049760db2f208366a756ebea06b31febd3079f2"
+hash = "2742681264a0106a687da7b5283671e9d3c0154c"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5974393
+file-id = 6288109
 project-id = 1020455

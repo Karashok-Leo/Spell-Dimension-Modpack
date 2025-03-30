@@ -13,17 +13,17 @@
             "attributes": [
                 {
                     "id": "spell_power:fire",
-                    "value": 0.24,
+                    "value": 0.15,
                     "operation": "MULTIPLY_BASE"
                 },
                 {
                     "id": "spell_power:critical_chance",
-                    "value": 0.09,
+                    "value": 0.05,
                     "operation": "MULTIPLY_BASE"
                 },
                 {
                     "id": "spell_power:critical_damage",
-                    "value": 0.3,
+                    "value": 0.15,
                     "operation": "MULTIPLY_BASE"
                 }
             ]
@@ -32,12 +32,12 @@
             "attributes": [
                 {
                     "id": "spell_power:arcane",
-                    "value": 0.12,
+                    "value": 0.05,
                     "operation": "MULTIPLY_BASE"
                 },
                 {
                     "id": "spell_power:fire",
-                    "value": 0.12,
+                    "value": 0.05,
                     "operation": "MULTIPLY_BASE"
                 }
             ]
@@ -46,7 +46,7 @@
             "attributes": [
                 {
                     "id": "generic.attack_damage",
-                    "value": 0.24,
+                    "value": 0.15,
                     "operation": "MULTIPLY_BASE"
                 }
             ]
@@ -55,12 +55,12 @@
             "attributes": [
                 {
                     "id": "generic.attack_damage",
-                    "value": 0.36,
+                    "value": 0.20,
                     "operation": "MULTIPLY_BASE"
                 },
                 {
                     "id": "generic.knockback_resistance",
-                    "value": 0.3,
+                    "value": 0.20,
                     "operation": "MULTIPLY_BASE"
                 }
             ]
@@ -69,12 +69,12 @@
             "attributes": [
                 {
                     "id": "spell_power:healing",
-                    "value": 0.24,
+                    "value": 0.15,
                     "operation": "MULTIPLY_BASE"
                 },
                 {
                     "id": "spell_power:haste",
-                    "value": 0.18,
+                    "value": 0.10,
                     "operation": "MULTIPLY_BASE"
                 }
             ]
@@ -83,7 +83,7 @@
             "attributes": [
                 {
                     "id": "generic.max_health",
-                    "value": 6.0,
+                    "value": 8.0,
                     "operation": "ADDITION"
                 }
             ]
@@ -92,7 +92,7 @@
             "attributes": [
                 {
                     "id": "generic.attack_damage",
-                    "value": 0.24,
+                    "value": 0.15,
                     "operation": "MULTIPLY_BASE"
                 }
             ]
@@ -101,12 +101,12 @@
             "attributes": [
                 {
                     "id": "spell_power:frost",
-                    "value": 0.24,
+                    "value": 0.15,
                     "operation": "MULTIPLY_BASE"
                 },
                 {
                     "id": "spell_power:soul",
-                    "value": 0.24,
+                    "value": 0.15,
                     "operation": "MULTIPLY_BASE"
                 }
             ]
@@ -115,7 +115,7 @@
             "attributes": [
                 {
                     "id": "generic.armor",
-                    "value": 3.0,
+                    "value": 4.0,
                     "operation": "ADDITION"
                 }
             ]
@@ -124,7 +124,7 @@
             "attributes": [
                 {
                     "id": "ranged_weapon:damage",
-                    "value": 0.12,
+                    "value": 0.05,
                     "operation": "MULTIPLY_BASE"
                 }
             ]
@@ -133,17 +133,17 @@
             "attributes": [
                 {
                     "id": "ranged_weapon:damage",
-                    "value": 0.24,
+                    "value": 0.15,
                     "operation": "MULTIPLY_BASE"
                 },
                 {
                     "id": "combatroll:recharge",
-                    "value": 0.3,
+                    "value": 0.15,
                     "operation": "MULTIPLY_BASE"
                 },
                 {
                     "id": "ranged_weapon:haste",
-                    "value": 0.12,
+                    "value": 0.05,
                     "operation": "MULTIPLY_BASE"
                 }
             ]
@@ -152,7 +152,7 @@
             "attributes": [
                 {
                     "id": "ranged_weapon:damage",
-                    "value": 0.12,
+                    "value": 0.05,
                     "operation": "MULTIPLY_BASE"
                 }
             ]
@@ -161,12 +161,12 @@
             "attributes": [
                 {
                     "id": "generic.max_health",
-                    "value": 18.0,
+                    "value": 16.0,
                     "operation": "ADDITION"
                 },
                 {
                     "id": "generic.armor_toughness",
-                    "value": 3.0,
+                    "value": 4.0,
                     "operation": "ADDITION"
                 }
             ]
@@ -175,7 +175,7 @@
             "attributes": [
                 {
                     "id": "generic.armor",
-                    "value": 1.5,
+                    "value": 2.0,
                     "operation": "ADDITION"
                 }
             ]
@@ -184,12 +184,12 @@
             "attributes": [
                 {
                     "id": "generic.attack_damage",
-                    "value": 0.36,
+                    "value": 0.15,
                     "operation": "MULTIPLY_BASE"
                 },
                 {
                     "id": "generic.knockback_resistance",
-                    "value": 0.3,
+                    "value": 0.20,
                     "operation": "MULTIPLY_BASE"
                 }
             ]
@@ -198,7 +198,7 @@
             "attributes": [
                 {
                     "id": "ranged_weapon:damage",
-                    "value": 0.24,
+                    "value": 0.15,
                     "operation": "MULTIPLY_BASE"
                 }
             ]
@@ -207,12 +207,12 @@
             "attributes": [
                 {
                     "id": "spell_power:frost",
-                    "value": 0.24,
+                    "value": 0.15,
                     "operation": "MULTIPLY_BASE"
                 },
                 {
                     "id": "spell_power:soul",
-                    "value": 0.24,
+                    "value": 0.15,
                     "operation": "MULTIPLY_BASE"
                 }
             ]
@@ -221,17 +221,17 @@
             "attributes": [
                 {
                     "id": "generic.attack_speed",
-                    "value": 0.18,
+                    "value": 0.15,
                     "operation": "MULTIPLY_BASE"
                 },
                 {
                     "id": "generic.attack_damage",
-                    "value": 0.18,
+                    "value": 0.15,
                     "operation": "MULTIPLY_BASE"
                 },
                 {
                     "id": "combatroll:recharge",
-                    "value": 0.3,
+                    "value": 0.15,
                     "operation": "MULTIPLY_BASE"
                 }
             ]
@@ -240,7 +240,7 @@
             "attributes": [
                 {
                     "id": "generic.attack_damage",
-                    "value": 0.12,
+                    "value": 0.05,
                     "operation": "MULTIPLY_BASE"
                 }
             ]
@@ -249,29 +249,35 @@
             "attributes": [
                 {
                     "id": "spell_power:frost",
-                    "value": 0.24,
+                    "value": 0.15,
                     "operation": "MULTIPLY_BASE"
                 },
                 {
                     "id": "spell_power:haste",
-                    "value": 0.09,
+                    "value": 0.05,
                     "operation": "MULTIPLY_BASE"
                 },
                 {
                     "id": "spell_power:critical_damage",
-                    "value": 0.3,
+                    "value": 0.15,
                     "operation": "MULTIPLY_BASE"
                 }
             ]
         },
         "jewelry:gold_ring": {
-            "attributes": []
+            "attributes": [
+                {
+                    "id": "generic.max_health",
+                    "value": 4.0,
+                    "operation": "ADDITION"
+                }
+            ]
         },
         "jewelry:netherite_sapphire_necklace": {
             "attributes": [
                 {
                     "id": "generic.max_health",
-                    "value": 12.0,
+                    "value": 10.0,
                     "operation": "ADDITION"
                 }
             ]
@@ -280,12 +286,12 @@
             "attributes": [
                 {
                     "id": "spell_power:arcane",
-                    "value": 0.24,
+                    "value": 0.15,
                     "operation": "MULTIPLY_BASE"
                 },
                 {
                     "id": "spell_power:fire",
-                    "value": 0.24,
+                    "value": 0.15,
                     "operation": "MULTIPLY_BASE"
                 }
             ]
@@ -294,12 +300,12 @@
             "attributes": [
                 {
                     "id": "generic.max_health",
-                    "value": 18.0,
+                    "value": 16.0,
                     "operation": "ADDITION"
                 },
                 {
                     "id": "generic.armor_toughness",
-                    "value": 3.0,
+                    "value": 4.0,
                     "operation": "ADDITION"
                 }
             ]
@@ -308,12 +314,12 @@
             "attributes": [
                 {
                     "id": "spell_power:healing",
-                    "value": 0.12,
+                    "value": 0.05,
                     "operation": "MULTIPLY_BASE"
                 },
                 {
                     "id": "spell_power:lightning",
-                    "value": 0.12,
+                    "value": 0.05,
                     "operation": "MULTIPLY_BASE"
                 }
             ]
@@ -322,12 +328,12 @@
             "attributes": [
                 {
                     "id": "spell_power:frost",
-                    "value": 0.12,
+                    "value": 0.05,
                     "operation": "MULTIPLY_BASE"
                 },
                 {
                     "id": "spell_power:soul",
-                    "value": 0.12,
+                    "value": 0.05,
                     "operation": "MULTIPLY_BASE"
                 }
             ]
@@ -336,12 +342,12 @@
             "attributes": [
                 {
                     "id": "spell_power:healing",
-                    "value": 0.12,
+                    "value": 0.05,
                     "operation": "MULTIPLY_BASE"
                 },
                 {
                     "id": "spell_power:lightning",
-                    "value": 0.12,
+                    "value": 0.05,
                     "operation": "MULTIPLY_BASE"
                 }
             ]
@@ -350,17 +356,17 @@
             "attributes": [
                 {
                     "id": "spell_power:arcane",
-                    "value": 0.24,
+                    "value": 0.15,
                     "operation": "MULTIPLY_BASE"
                 },
                 {
                     "id": "spell_power:critical_chance",
-                    "value": 0.09,
+                    "value": 0.05,
                     "operation": "MULTIPLY_BASE"
                 },
                 {
                     "id": "spell_power:haste",
-                    "value": 0.09,
+                    "value": 0.05,
                     "operation": "MULTIPLY_BASE"
                 }
             ]
@@ -369,7 +375,7 @@
             "attributes": [
                 {
                     "id": "generic.movement_speed",
-                    "value": 0.3,
+                    "value": 0.20,
                     "operation": "MULTIPLY_BASE"
                 }
             ]
@@ -378,12 +384,12 @@
             "attributes": [
                 {
                     "id": "spell_power:frost",
-                    "value": 0.12,
+                    "value": 0.05,
                     "operation": "MULTIPLY_BASE"
                 },
                 {
                     "id": "spell_power:soul",
-                    "value": 0.12,
+                    "value": 0.05,
                     "operation": "MULTIPLY_BASE"
                 }
             ]
@@ -392,7 +398,7 @@
             "attributes": [
                 {
                     "id": "ranged_weapon:damage",
-                    "value": 0.24,
+                    "value": 0.15,
                     "operation": "MULTIPLY_BASE"
                 }
             ]
@@ -401,7 +407,7 @@
             "attributes": [
                 {
                     "id": "generic.max_health",
-                    "value": 12.0,
+                    "value": 8.0,
                     "operation": "ADDITION"
                 }
             ]
@@ -410,17 +416,17 @@
             "attributes": [
                 {
                     "id": "spell_power:arcane",
-                    "value": 0.24,
+                    "value": 0.15,
                     "operation": "MULTIPLY_BASE"
                 },
                 {
                     "id": "spell_power:critical_chance",
-                    "value": 0.09,
+                    "value": 0.05,
                     "operation": "MULTIPLY_BASE"
                 },
                 {
                     "id": "spell_power:haste",
-                    "value": 0.09,
+                    "value": 0.05,
                     "operation": "MULTIPLY_BASE"
                 }
             ]
@@ -429,17 +435,17 @@
             "attributes": [
                 {
                     "id": "spell_power:frost",
-                    "value": 0.24,
+                    "value": 0.15,
                     "operation": "MULTIPLY_BASE"
                 },
                 {
                     "id": "spell_power:haste",
-                    "value": 0.09,
+                    "value": 0.05,
                     "operation": "MULTIPLY_BASE"
                 },
                 {
                     "id": "spell_power:critical_damage",
-                    "value": 0.3,
+                    "value": 0.15,
                     "operation": "MULTIPLY_BASE"
                 }
             ]
@@ -448,17 +454,17 @@
             "attributes": [
                 {
                     "id": "spell_power:fire",
-                    "value": 0.24,
+                    "value": 0.15,
                     "operation": "MULTIPLY_BASE"
                 },
                 {
                     "id": "spell_power:critical_chance",
-                    "value": 0.09,
+                    "value": 0.05,
                     "operation": "MULTIPLY_BASE"
                 },
                 {
                     "id": "spell_power:critical_damage",
-                    "value": 0.3,
+                    "value": 0.15,
                     "operation": "MULTIPLY_BASE"
                 }
             ]
@@ -467,12 +473,12 @@
             "attributes": [
                 {
                     "id": "spell_power:healing",
-                    "value": 0.24,
+                    "value": 0.15,
                     "operation": "MULTIPLY_BASE"
                 },
                 {
                     "id": "spell_power:lightning",
-                    "value": 0.24,
+                    "value": 0.15,
                     "operation": "MULTIPLY_BASE"
                 }
             ]
@@ -481,7 +487,7 @@
             "attributes": [
                 {
                     "id": "generic.attack_damage",
-                    "value": 0.12,
+                    "value": 0.05,
                     "operation": "MULTIPLY_BASE"
                 }
             ]
@@ -490,12 +496,12 @@
             "attributes": [
                 {
                     "id": "spell_power:healing",
-                    "value": 0.24,
+                    "value": 0.15,
                     "operation": "MULTIPLY_BASE"
                 },
                 {
                     "id": "spell_power:lightning",
-                    "value": 0.24,
+                    "value": 0.15,
                     "operation": "MULTIPLY_BASE"
                 }
             ]
@@ -504,17 +510,17 @@
             "attributes": [
                 {
                     "id": "ranged_weapon:damage",
-                    "value": 0.24,
+                    "value": 0.15,
                     "operation": "MULTIPLY_BASE"
                 },
                 {
                     "id": "combatroll:count",
-                    "value": 3.0,
+                    "value": 2.0,
                     "operation": "ADDITION"
                 },
                 {
                     "id": "ranged_weapon:haste",
-                    "value": 0.12,
+                    "value": 0.05,
                     "operation": "MULTIPLY_BASE"
                 }
             ]
@@ -523,12 +529,12 @@
             "attributes": [
                 {
                     "id": "spell_power:arcane",
-                    "value": 0.24,
+                    "value": 0.15,
                     "operation": "MULTIPLY_BASE"
                 },
                 {
                     "id": "spell_power:fire",
-                    "value": 0.24,
+                    "value": 0.15,
                     "operation": "MULTIPLY_BASE"
                 }
             ]
@@ -537,12 +543,12 @@
             "attributes": [
                 {
                     "id": "spell_power:healing",
-                    "value": 0.24,
+                    "value": 0.15,
                     "operation": "MULTIPLY_BASE"
                 },
                 {
                     "id": "spell_power:haste",
-                    "value": 0.18,
+                    "value": 0.05,
                     "operation": "MULTIPLY_BASE"
                 }
             ]
@@ -551,12 +557,12 @@
             "attributes": [
                 {
                     "id": "spell_power:arcane",
-                    "value": 0.12,
+                    "value": 0.05,
                     "operation": "MULTIPLY_BASE"
                 },
                 {
                     "id": "spell_power:fire",
-                    "value": 0.12,
+                    "value": 0.05,
                     "operation": "MULTIPLY_BASE"
                 }
             ]
@@ -565,17 +571,17 @@
             "attributes": [
                 {
                     "id": "generic.attack_speed",
-                    "value": 0.18,
+                    "value": 0.10,
                     "operation": "MULTIPLY_BASE"
                 },
                 {
                     "id": "generic.attack_damage",
-                    "value": 0.18,
+                    "value": 0.15,
                     "operation": "MULTIPLY_BASE"
                 },
                 {
                     "id": "combatroll:count",
-                    "value": 3.0,
+                    "value": 2.0,
                     "operation": "ADDITION"
                 }
             ]
@@ -584,7 +590,7 @@
             "attributes": [
                 {
                     "id": "generic.luck",
-                    "value": 3.0,
+                    "value": 4.0,
                     "operation": "ADDITION"
                 }
             ]
