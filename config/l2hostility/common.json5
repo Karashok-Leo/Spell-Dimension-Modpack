@@ -67,6 +67,8 @@
 		"defaultLevelVar": 16.0,
 		// Default dimension difficulty scale for mod dimensions
 		"defaultLevelScale": 1.5,
+		// Default max number of traits. 0 means no limit
+		"defaultTraitCountCap": 5,
 		/* Mobs at Lv.N will have N x k% chance to have trait
 		   Default k% = 0.01, so Lv.N mobs with have N% chance to have trait
 		   Mobs with entity config and trait chance of 1 will not be affected
@@ -174,17 +176,35 @@
 		// Regen rate for Regeneration trait per second per level
 		"regen": 0.02,
 		// Damage factor for Adaptive. Higher means less reduction
-		"adaptFactor": 0.75,
+		"adaptFactor": 0.7,
+		// Min damage factor for Adaptive
+		"adaptMinFactor": 0.05,
 		// Trigger range for Reflect
 		"reflectRange": 3.0,
 		// Allow Reflect to reflect magic damage
 		"reflectMagic": true,
 		// Reflect factor per level for Reflect. 0.5 means +50% extra damage
-		"reflectFactor": 0.25,
+		"reflectFactor": 0.3,
+		// Reflect damage will not exceed target's max health * reflectLimit. reflectLimit = 0 means no limit
+		"reflectLimit": 1.0,
+		// Immune factor for Dementor. 1.0 means 100% immunity
+		"dementorImmuneFactor": 0.9,
+		// Cooldown in ticks for Dementor to bypass armor and shield
+		"dementorBypassCooldown": 100,
+		// Immune factor for Dispell. 1.0 means 100% immunity
+		"dispellImmuneFactor": 0.9,
+		// Cooldown in ticks for Dispell to bypass magic protection
+		"dispellBypassCooldown": 100,
+		/* Cooldown in ticks for enchantments to be disabled for Dispell
+		   It defaults to 200 in the original mod, but I've reduced it based on my personal preference.
+		*/
+		"dispellDisableCooldown": 100,
+		// Max count of enchantments to be disabled per level for Dispell
+		"dispellCount": 1,
 		// Duration in ticks for enchantments to be disabled per level for Dispell
 		"dispellTime": 100,
 		// Duration in seconds to set target on fire by Fiery
-		"fieryTime": 3,
+		"fieryTime": 2,
 		// Duration in ticks for Weakness
 		"weakTime": 100,
 		// Duration in ticks for Slowness
@@ -223,8 +243,14 @@
 		"erosionDurability": 0.1,
 		// Damage bonus when nothing to erode
 		"erosionDamage": 0.25,
+		// Number of revivals per level for Undying
+		"undyingTimes": 1,
+		// Cooldown in ticks for Ragnarok
+		"ragnarokCooldown": 100,
 		// Seal time per level for Ragnarok
 		"ragnarokTime": 20,
+		// Max seal count per level for Ragnarok
+		"ragnarokCount": 1,
 		// Allow Ragnarok to seal items with Backpack in its id
 		"ragnarokSealBackpack": false,
 		// Allow Ragnarok to seal trinket items that adds trinket slot
@@ -253,10 +279,10 @@
 		"pullingRange": 10,
 		// Pulling force strength, default is 0.2
 		"pullingStrength": 0.2,
-		// Reprint damage factor per enchantment point
+		// Reprint damage factor per enchantment level
 		"reprintDamage": 0.02,
-		// Reprint will gain Void Touch 20 (NYI) and Vanishing Curse when it hits a mob with max Enchantment level of X or higher
-		"reprintBypass": 10,
+		// Reprint will gain Vanishing Curse when total level of enchantments of each item is higher than this threshold
+		"reprintVanishThreshold": 20,
 		/* Trait toggle
 		   Only supports configuration in the config file.
 		*/
@@ -304,9 +330,9 @@
 		   Only supports configuration in the config file.
 		*/
 		"auraRange": {
+			"moonwalk": 10,
 			"arena": 24,
-			"gravity": 10,
-			"moonwalk": 10
+			"gravity": 10
 		}
 	},
 	"complements": {
@@ -356,7 +382,9 @@
 			// Void Touch chance for true damage if bypass armor or magic
 			"voidTouchChanceBonus": 0.5,
 			// Damage factor for lifeSync (damage to user per durability cost)
-			"lifeSyncFactor": 1.0
+			"lifeSyncFactor": 1.0,
+			// Healing reduction factor per level for curse effect
+			"curseFactor": 0.2
 		}
 	}
 }
