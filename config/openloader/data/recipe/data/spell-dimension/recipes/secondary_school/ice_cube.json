@@ -1,0 +1,25 @@
+{
+  "type": "enchantment_infusion:simple_infusion",
+  "copy_nbt": false,
+  "ingredients": [
+    {
+      "item": "spell-dimension:celestial_debris"
+    },
+    {
+      "item": "aquamirae:ship_graveyard_echo"
+    },
+    {
+      "item": "aquamirae:rune_of_the_storm"
+    },
+    {
+      "item": "l2hostility:poseidite_ingot"
+    }
+  ],
+  "input": {
+    "item": "l2hostility:hard_ice"
+  },
+  "output": {
+    "Count": 1,
+    "id": "spell-dimension:ice_cube"
+  }
+}

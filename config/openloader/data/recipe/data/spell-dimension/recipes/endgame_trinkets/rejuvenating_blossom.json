@@ -1,0 +1,31 @@
+{
+  "type": "enchantment_infusion:simple_infusion",
+  "copy_nbt": false,
+  "ingredients": [
+    {
+      "item": "spell-dimension:essence_healing_2"
+    },
+    {
+      "item": "spell-dimension:celestial_debris"
+    },
+    {
+      "item": "bosses_of_mass_destruction:crystal_fruit"
+    },
+    {
+      "item": "l2hostility:heirophant_green"
+    },
+    {
+      "item": "minecraft:enchanted_golden_apple"
+    },
+    {
+      "item": "midashunger:enchanted_golden_carrot"
+    }
+  ],
+  "input": {
+    "item": "bosses_of_mass_destruction:void_thorn"
+  },
+  "output": {
+    "Count": 1,
+    "id": "spell-dimension:rejuvenating_blossom"
+  }
+}

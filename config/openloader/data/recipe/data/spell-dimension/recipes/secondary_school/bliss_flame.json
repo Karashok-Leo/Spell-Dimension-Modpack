@@ -1,0 +1,25 @@
+{
+  "type": "enchantment_infusion:simple_infusion",
+  "copy_nbt": false,
+  "ingredients": [
+    {
+      "item": "spell-dimension:celestial_debris"
+    },
+    {
+      "item": "regions_unexplored:prismaglass"
+    },
+    {
+      "item": "bosses_of_mass_destruction:blazing_eye"
+    },
+    {
+      "item": "l2hostility:sun_membrane"
+    }
+  ],
+  "input": {
+    "item": "l2hostility:soul_flame"
+  },
+  "output": {
+    "Count": 1,
+    "id": "spell-dimension:bliss_flame"
+  }
+}

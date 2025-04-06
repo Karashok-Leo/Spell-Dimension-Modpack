@@ -1,0 +1,27 @@
+{
+  "type": "enchantment_infusion:simple_infusion",
+  "copy_nbt": false,
+  "ingredients": [
+    {
+      "item": "spell-dimension:celestial_debris"
+    },
+    {
+      "fabric:type": "enchantment_infusion:enchantment",
+      "enchantment": "spell_power:spell_power",
+      "min_level": 5
+    },
+    {
+      "item": "things:displacement_tome"
+    },
+    {
+      "item": "l2hostility:force_field"
+    }
+  ],
+  "input": {
+    "item": "l2hostility:book_of_omniscience"
+  },
+  "output": {
+    "Count": 1,
+    "id": "spell-dimension:riddle_book"
+  }
+}

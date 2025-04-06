@@ -1,0 +1,31 @@
+{
+  "type": "enchantment_infusion:simple_infusion",
+  "copy_nbt": false,
+  "ingredients": [
+    {
+      "item": "spell-dimension:essence_healing_2"
+    },
+    {
+      "item": "spell-dimension:celestial_debris"
+    },
+    {
+      "item": "deeperdarker:heart_of_the_deep"
+    },
+    {
+      "item": "adventurez:blackstone_golem_heart"
+    },
+    {
+      "item": "soulsweapons:withered_demon_heart"
+    },
+    {
+      "item": "plushables:heart_of_gold"
+    }
+  ],
+  "input": {
+    "item": "artifacts:crystal_heart"
+  },
+  "output": {
+    "Count": 1,
+    "id": "spell-dimension:heart_spell_steel"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "item": "l2hostility:ragnarok"
+    },
+    "B": {
+      "item": "l2hostility:miracle_ingot"
+    },
+    "C": {
+      "item": "l2hostility:arena"
+    },
+    "D": {
+      "item": "adventurez:prime_eye"
+    },
+    "E": {
+      "item": "l2hostility:void_eye"
+    },
+    "F": {
+      "item": "l2hostility:repelling"
+    },
+    "G": {
+      "item": "l2hostility:eternium_ingot"
+    },
+    "H": {
+      "item": "l2hostility:pulling"
+    },
+    "O": {
+      "item": "l2hostility:ring_of_reflection"
+    }
+  },
+  "pattern": [
+    "ABC",
+    "DOE",
+    "FGH"
+  ],
+  "result": {
+    "item": "l2hostility:abrahadabra"
+  },
+  "show_notification": true
+}

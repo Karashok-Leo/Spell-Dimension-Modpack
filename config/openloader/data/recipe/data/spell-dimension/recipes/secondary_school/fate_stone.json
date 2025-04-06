@@ -1,0 +1,25 @@
+{
+  "type": "enchantment_infusion:simple_infusion",
+  "copy_nbt": false,
+  "ingredients": [
+    {
+      "item": "spell-dimension:celestial_debris"
+    },
+    {
+      "item": "extraspellattributes:nonbelieversamulet"
+    },
+    {
+      "item": "l2hostility:ring_of_life"
+    },
+    {
+      "item": "mythicmetals:midas_gold_block"
+    }
+  ],
+  "input": {
+    "item": "l2hostility:totemic_gold_block"
+  },
+  "output": {
+    "Count": 1,
+    "id": "spell-dimension:fate_stone"
+  }
+}

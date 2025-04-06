@@ -7,6 +7,7 @@
       "min": 0,
       "scale": 1.2,
       "trait_chance": 1.0,
+      "trait_count_cap": 6,
       "variation": 9.0
     },
     "deeperdarker:otherside": {
@@ -15,6 +16,7 @@
       "min": 0,
       "scale": 1.5,
       "trait_chance": 1.0,
+      "trait_count_cap": 7,
       "variation": 16.0
     },
     "minecraft:the_end": {
@@ -23,6 +25,7 @@
       "min": 0,
       "scale": 2.0,
       "trait_chance": 1.0,
+      "trait_count_cap": 8,
       "variation": 25.0
     },
     "dungeonz:dungeon": {
@@ -31,6 +34,7 @@
       "min": 0,
       "scale": 1.5,
       "trait_chance": 1.0,
+      "trait_count_cap": 7,
       "variation": 16.0
     },
     "spellbladenext:glassocean": {
@@ -39,6 +43,7 @@
       "min": 0,
       "scale": 2.0,
       "trait_chance": 1.0,
+      "trait_count_cap": 8,
       "variation": 25.0
     },
     "voidz:void": {
@@ -47,7 +52,17 @@
       "min": 0,
       "scale": 3.0,
       "trait_chance": 1.0,
+      "trait_count_cap": 9,
       "variation": 25.0
     },
+    "spell-dimension:ocean_of_consciousness": {
+      "apply_chance": 1.0,
+      "base": 50,
+      "min": 0,
+      "scale": 3.0,
+      "trait_chance": 1.0,
+      "trait_count_cap": 0,
+      "variation": 25.0
+    }
   }
 }

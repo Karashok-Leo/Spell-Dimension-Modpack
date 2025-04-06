@@ -1,0 +1,25 @@
+{
+  "type": "enchantment_infusion:simple_infusion",
+  "copy_nbt": false,
+  "ingredients": [
+    {
+      "item": "spell-dimension:essence_arcane_2"
+    },
+    {
+      "item": "spell-dimension:celestial_debris"
+    },
+    {
+      "item": "deeperdarker:reinforced_echo_shard"
+    },
+    {
+      "item": "l2hostility:resonant_feather"
+    }
+  ],
+  "input": {
+    "item": "l2hostility:abyssal_thorn"
+  },
+  "output": {
+    "Count": 1,
+    "id": "spell-dimension:arcane_throne"
+  }
+}

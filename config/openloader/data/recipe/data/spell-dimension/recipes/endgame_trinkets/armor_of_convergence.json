@@ -1,0 +1,25 @@
+{
+  "type": "enchantment_infusion:simple_infusion",
+  "copy_nbt": false,
+  "ingredients": [
+    {
+      "item": "spell-dimension:essence_arcane_2"
+    },
+    {
+      "item": "spell-dimension:celestial_debris"
+    },
+    {
+      "item": "spell-dimension:abyss_guard"
+    },
+    {
+      "item": "illagerinvasion:primal_essence"
+    }
+  ],
+  "input": {
+    "item": "plentyofarmors:ender_chestplate"
+  },
+  "output": {
+    "Count": 1,
+    "id": "spell-dimension:armor_of_convergence"
+  }
+}

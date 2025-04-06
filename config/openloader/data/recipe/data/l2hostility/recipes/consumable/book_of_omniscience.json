@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "l2hostility:book_of_reprint"
+    },
+    {
+      "item": "l2hostility:reprint"
+    },
+    {
+      "item": "l2hostility:split"
+    },
+    {
+      "item": "minecraft:nether_star"
+    },
+    {
+      "item": "l2hostility:eternium_ingot"
+    },
+    {
+      "item": "l2hostility:miracle_ingot"
+    },
+    {
+      "item": "l2hostility:force_field"
+    },
+    {
+      "item": "spell-dimension:celestial_debris"
+    },
+    {
+      "item": "l2hostility:hostility_essence"
+    }
+  ],
+  "result": {
+    "item": "l2hostility:book_of_omniscience"
+  }
+}

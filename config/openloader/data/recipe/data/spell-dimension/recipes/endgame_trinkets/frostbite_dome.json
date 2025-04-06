@@ -1,0 +1,28 @@
+{
+  "type": "enchantment_infusion:simple_infusion",
+  "copy_nbt": false,
+  "ingredients": [
+    {
+      "item": "spell-dimension:essence_frost_2"
+    },
+    {
+      "item": "spell-dimension:celestial_debris"
+    },
+    {
+      "item": "l2hostility:hard_ice"
+    },
+    {
+      "item": "l2hostility:blackstone_core"
+    },
+    {
+      "item": "aquamirae:rune_of_the_storm"
+    }
+  ],
+  "input": {
+    "item": "l2hostility:ring_of_incarceration"
+  },
+  "output": {
+    "Count": 1,
+    "id": "spell-dimension:frostbite_dome"
+  }
+}

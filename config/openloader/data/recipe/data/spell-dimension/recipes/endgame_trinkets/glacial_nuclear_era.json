@@ -1,0 +1,31 @@
+{
+  "type": "enchantment_infusion:simple_infusion",
+  "copy_nbt": false,
+  "ingredients": [
+    {
+      "item": "spell-dimension:essence_arcane_2"
+    },
+    {
+      "item": "spell-dimension:celestial_debris"
+    },
+    {
+      "item": "mythicmetals:aquarium_block"
+    },
+    {
+      "item": "l2hostility:hard_ice"
+    },
+    {
+      "item": "aquamirae:ship_graveyard_echo"
+    },
+    {
+      "item": "bosses_of_mass_destruction:obsidian_heart"
+    }
+  ],
+  "input": {
+    "item": "spell-dimension:abyss_guard"
+  },
+  "output": {
+    "Count": 1,
+    "id": "spell-dimension:glacial_nuclear_era"
+  }
+}
