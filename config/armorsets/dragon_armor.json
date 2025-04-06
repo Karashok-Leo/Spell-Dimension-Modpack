@@ -28,7 +28,7 @@
         {
             "type": "attribute",
             "name": "minecraft:generic.armor",
-            "value": 0.2,
+            "value": 0.1,
             "modifierUUID": "d31e6be1-d91a-4f95-8ee4-34991662f111",
             "attributeOperation": 1,
             "interactionType": "self"
@@ -36,7 +36,7 @@
         {
             "type": "attribute",
             "name": "spell_power:arcane",
-            "value": 0.5,
+            "value": 0.2,
             "modifierUUID": "164062a9-931a-4f7a-b632-8b92ec8a53a1",
             "attributeOperation": 1,
             "interactionType": "self"

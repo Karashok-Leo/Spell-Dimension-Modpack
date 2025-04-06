@@ -33,7 +33,7 @@
     {
       "type": "attribute",
       "name": "spell_power:healing",
-      "value": 0.6,
+      "value": 0.3,
       "modifierUUID": "27ae8409-a90f-4cc8-9e9b-d9618c6553f6",
       "attributeOperation": 1,
       "interactionType": "self"
@@ -41,7 +41,7 @@
     {
       "type": "attribute",
       "name": "spell_power:lightning",
-      "value": 0.6,
+      "value": 0.3,
       "modifierUUID": "0f32bfd2-2224-49fe-9aee-61774214f27d",
       "attributeOperation": 1,
       "interactionType": "self"
