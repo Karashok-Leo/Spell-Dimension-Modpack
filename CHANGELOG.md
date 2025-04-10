@@ -1,5 +1,179 @@
 # Change Log
 
+## 0.6.0 - 2025.4.10
+##### Added
+- New Spells:
+    - Divine Curse Blast
+    - Tempest
+- New Items
+    - Mirage Reflector
+    - Cursed Apple
+    - Secondary School Items
+        - Riddle Book
+        - Bliss Flame
+        - Ice Cube
+        - Fate Stone
+    - Endgame Trinkets
+        - Armor Of Convergence
+        - Arcane Throne
+        - Nirvana Starfall
+        - Soulfire Mask
+        - Glacial Nuclear Era
+        - Frostbite Dome
+        - Heart Spell Steel
+        - Rejuvenating Blossom
+- New Traits (All are spell traits, a monster can only carry a maximum of one spell trait)
+    - Converge
+    - Arcane Missile
+    - Arcane Blast
+    - Arcane Blink
+    - Amethyst Slash
+    - Arcane Beam
+    - Maelstrom
+    - Echo Storm
+    - Fireball
+    - Fire Wall
+    - Fire Meteor
+    - Flame Slash
+    - Inferno
+    - Frost Nova
+    - Frost Shield
+    - Icicle
+    - Frost Blizzard
+    - Icy Nucleus
+    - Frost Aura
+    - Frost Blink
+    - Frost Slash
+    - Tempest
+    - Divine Protection
+    - Holy Beam
+    - Blessing
+    - Misfortune
+    - Heavenly Justice
+    - Incarcerate
+- New mechanic: Armor becomes a `Broken Item' when broken, and can be repaired to the original item with a certain amount of Mending Essence.
+- New Quests
+    - Craft Mirage Reflector
+    - Crafe Endgame Trinkets
+- 45 Locating recipes covering almost all WDA structures
+- Narrator after completing the quests (@那个谁谁谁)
+- Spell Prisms now enhance the effects of certain generic spells
+- EMI Trait Generation page
+- FilterPick
+- Debug feature
+    - Game Rule
+        - enableDamageTracker: whether or not to enable the Damage Tracker
+        - notifyDamageTracker: whether or not to send an in-game message to the hit player
+        - immuneTrackedDamage: immunity to Monitored Damage
+        - damageTrackerThreshold: thresholds for monitoring injuries
+    - Damage Tracker: When [damage taken by player > player's max health * damageTrackerThreshold%], details of this damage will be printed in the log, and if notifyDamageTracker is true, this information will also be sent directly in-game to the player who took the hit, and if immuneTrackedDamage is If immuneTrackedDamage is true, the damage will be immunized.
+- Pages from Magic Guidebook
+##### Changed
+- Updated some mods
+- Remodeled the models and textures for the Enchantment Infusion Table and Infusion Pedestal (@D30)
+- Remade the textures of Consciousness Core and Consciousness Base (@D30)
+- Added missing subtitle text from Magic Guidebook
+- Trait mechanism adjustment:
+    - Max number of monster traits
+        - Overworld: 5
+        - The Nether: 6
+        - Otherside: 7
+        - The End: 8
+        - Dungeon Dimension: 7
+        - Glass Ocean: 8
+        - The Void: 9
+        - Ocean of Consciousness: no limit
+    - Potion effect traits (e.g. Poisonous, Withering, Curse, etc.): only work if the target has less than 3 existing debuffs
+    - Tank: Bosses do not carry this trait
+    - Curse: Levels 1~3 apply 3~5 curse effects
+    - Adaptating: adapt factor changed to 0.7 and limited to dealing a minimum of 5% damage
+    - Reprint: reprint damage bonus are now based on enchantment level instead of enchantment points, and vanishing curse will be added to reprinted enchantments if their total level exceeds 20
+    - Reflect: Limit reflected damage to no more than the target's max health
+    - Dementor: full immunity modified to 90% physical damage immunity, with a cooldown on damage penetration
+    - Dispell: full immunity modified to 90% magic damage immunity, with a cooldown on damage penetration. Number of enchantments sealed is random, max number equals to trait level
+    - Undying: limited number of resurrections, number of times equals to trait level
+    - Ragrak: seals items with a cooldown, and the number of items sealed is random, with the maximum number equals to the trait level
+- Curse effect adjusted:
+    - 100% Healing Reduction -> 20% Healing Reduction per level 
+    - Curse Blade levels 1~3 apply 3~5 Curse effects 
+    - Spell Curse levels 1~5 apply 1~5 Curse effects 
+    - Curse Blade I can be crafted into Spell Curse III 
+    - Curse Trait drops a normal level 4 potion
+- Spells adjusted:
+    - Holy Beam: 0.5->0.6 mana bonus, range 32->48
+    - Divine Aura: range expands as spell power increases, lower limit 3, upper limit 10 
+    - Force Landing: cooldown 4s->60s 
+    - Ignite: damage storage limit depends on spell power
+- Breastplate mechanism adjustments:
+    - Enchanted Breastplate: for every 1 point of spell power possessed, no max health increase (0.2->0), armor increase (0.4->0.2), and armor toughness increase (0.1->0.05)
+    - Flex Breastplate: max damage reduction percentage 0.5->0.6
+    - Oblivion Breastplate: max oblivion value (0.8x of max health->0.5x of spell power)
+- Armor Sets bonuses adjusted:
+    - Blinding Abyss Armor set
+        - +20% Armor -> +10% Armor
+        - +30% Frost spell power -> +10% Frost spell power
+    - Dragon Armor set
+        - +20% Armor -> +10% Armor
+        - +50% Arcane spell power -> +10% Arcane spell power
+    - Warden Armor set
+        - +20% Armor -> +10% Armor
+        - +40% Soul spell power -> +20% Soul spell power
+    - Celestium Armor set
+        - +20% Armor -> +10% Armor
+        - +60% Arcane spell power -> +30% Arcane spell power
+        - +60% Fire spell power -> +30% Fire spell power
+    - Metallurgium Armor set
+        - +20% Armor -> +10% Armor
+        - +60% Frost spell power -> +30% Frost spell power
+        - +60% Soul spell power -> +30% Soul spell power
+    - Hallowed Armor set
+        - +20% Armor -> +10% Armor
+        - +60% Healing spell power -> +30% Healing spell power
+        - +60% Lightning spell power -> +30% Lightning spell power
+- Spell book bonus adjusted:
+    - Primary: +20% spell power -> +10% spell power
+    - Intermediate: +40% spell power -> +20% spell power
+    - Advanced: +60% spell power -> +30% spell power
+- Jewelry bonus adjusted:
+    - +5% spell power -> +8 spell power
+    - +15% spell power -> +16 spell power (ring)
+    - +15% spell power -> +5% spell power (necklace)
+- Spell power amplified enchantments:
+    - Spell Power: +3% spell power -> +1% spell power per level
+    - Sunfire/Soulfrost/Energized: +5% spell power -> +3% spell power per level
+    - Amplify Spell: +5% spell critical damage -> +2% spell critical damage per level
+- Curse of Wraith adjusted: increase damage dealt and damage received by 5% per difficulty level difference
+- Bosses adjusted:
+    - Elder Guardian: Base max health 80->300 (272->1020 with lv.80)
+    - Night Shade: Base max health 100->60 (340->204 with lv.80), damage factor 1.0->0.6
+    - Magus: T0/lv.880
+    - Others: Base max health ->400
+- Sunfire/Soulfrost/Energized can now be applied to wands
+- Some recipe change
+- Blinding Abyss Armor set is now epic tier
+- Add Forlorn to Shulker blacklist
+- Add skeleton-like mobs to Repelling whitelist
+- Reduction in the time required for starting quest to 10 minutes
+- Max damage dealt to the boss by killing a Void Shadow Servant: 1%->5%
+- Reduced the number of particles generated when a large Slime lands (completely solved the lag when a large Slime jumps)
+- Disabled warnings for empty loot tables
+##### Removed
+- Shulker now no longer drop Shulker Boxes
+- Recipe for Void Totem
+- Recipe for Dungeon Compass
+- EnchantedTooltips misleading tip texts
+- Mechanical Nest (dungeons_arise:mechanical_nest) generation (to avoid lag from unknown sources)
+- Make Up Ultra Fast Shader
+- Infinite Music (bug)
+##### Fixed
+- Bug that Spell Prism, Imagine Breaker, or Void Touch cannot penetrate Adapting  
+- Bug that some crafted spell scrolls showed no method of obtaining them 
+- Bug that consumed an entire group of items when upgrading Atomic Breastplate
+- Bug that Enchanted Essence could be merged into an entire stack in the Backpack 
+- Bug that the number of spells that could be held remained unchanged when crafting a spellbook through Enchantment Infusion Table 
+- Merge condition for the Enlightning Essence modifier (greatly sped up reading player data) 
+- Sorting of the creative tabs
+
 ## 0.5.10.1 - 2025.3.1
 ##### Fixed
 - Quest Scrolls causing crashes on the server side

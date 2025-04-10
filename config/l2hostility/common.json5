@@ -205,6 +205,8 @@
 		"dispellTime": 100,
 		// Duration in seconds to set target on fire by Fiery
 		"fieryTime": 2,
+		// When the target has more negative effects than this, the potion traits won't work. 0 means no limit
+		"potionTraitMaxEffect": 3,
 		// Duration in ticks for Weakness
 		"weakTime": 100,
 		// Duration in ticks for Slowness
@@ -330,9 +332,9 @@
 		   Only supports configuration in the config file.
 		*/
 		"auraRange": {
-			"moonwalk": 10,
 			"arena": 24,
-			"gravity": 10
+			"gravity": 10,
+			"moonwalk": 10
 		}
 	},
 	"complements": {

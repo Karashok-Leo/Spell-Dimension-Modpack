@@ -1,0 +1,13 @@
+name = "FiltPick"
+filename = "FiltPick-fabric-mc1.20.1-1.2.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "97396e946a865369d6d5bab6c95ebe7d517cc1a1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5098336
+project-id = 700141

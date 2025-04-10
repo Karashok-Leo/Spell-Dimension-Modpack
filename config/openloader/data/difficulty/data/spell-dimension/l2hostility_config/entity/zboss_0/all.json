@@ -17,7 +17,8 @@
       },
       "entities": [
         "adventurez:void_shadow",
-        "bosses_of_mass_destruction:obsidilith"
+        "bosses_of_mass_destruction:obsidilith",
+        "spellbladenext:magus"
       ],
       "items": [],
       "traits": [

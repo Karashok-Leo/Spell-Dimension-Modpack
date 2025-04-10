@@ -1,0 +1,14 @@
+{
+	"type": "crafting_shapeless",
+	"ingredients": [
+		{
+			"item": "spell-dimension:consciousness_base"
+		},
+		{
+			"item": "l2hostility:void_eye"
+		}
+	],
+	"result": {
+		"item": "dungeonz:dungeon_portal"
+	}
+}

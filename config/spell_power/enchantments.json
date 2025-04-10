@@ -6,7 +6,7 @@
     "max_level": 5,
     "min_cost": 10,
     "step_cost": 9,
-    "bonus_per_level": 0.03
+    "bonus_per_level": 0.01
   },
   "soulfrost": {
     "requires_related_attributes": true,
@@ -14,7 +14,7 @@
     "max_level": 5,
     "min_cost": 10,
     "step_cost": 9,
-    "bonus_per_level": 0.05
+    "bonus_per_level": 0.03
   },
   "sunfire": {
     "requires_related_attributes": true,
@@ -22,7 +22,7 @@
     "max_level": 5,
     "min_cost": 10,
     "step_cost": 9,
-    "bonus_per_level": 0.05
+    "bonus_per_level": 0.03
   },
   "energize": {
     "requires_related_attributes": true,
@@ -30,7 +30,7 @@
     "max_level": 5,
     "min_cost": 10,
     "step_cost": 9,
-    "bonus_per_level": 0.05
+    "bonus_per_level": 0.03
   },
   "critical_chance": {
     "enabled": true,
@@ -44,7 +44,7 @@
     "max_level": 5,
     "min_cost": 10,
     "step_cost": 12,
-    "bonus_per_level": 0.05
+    "bonus_per_level": 0.02
   },
   "haste": {
     "enabled": true,

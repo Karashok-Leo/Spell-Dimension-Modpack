@@ -13,7 +13,7 @@
             "attributes": [
                 {
                     "id": "spell_power:fire",
-                    "value": 0.15,
+                    "value": 0.05,
                     "operation": "MULTIPLY_BASE"
                 },
                 {
@@ -32,13 +32,13 @@
             "attributes": [
                 {
                     "id": "spell_power:arcane",
-                    "value": 0.05,
-                    "operation": "MULTIPLY_BASE"
+                    "value": 8,
+                    "operation": "ADDITION"
                 },
                 {
                     "id": "spell_power:fire",
-                    "value": 0.05,
-                    "operation": "MULTIPLY_BASE"
+                    "value": 8,
+                    "operation": "ADDITION"
                 }
             ]
         },
@@ -69,12 +69,12 @@
             "attributes": [
                 {
                     "id": "spell_power:healing",
-                    "value": 0.15,
+                    "value": 0.05,
                     "operation": "MULTIPLY_BASE"
                 },
                 {
                     "id": "spell_power:haste",
-                    "value": 0.10,
+                    "value": 0.05,
                     "operation": "MULTIPLY_BASE"
                 }
             ]
@@ -101,13 +101,13 @@
             "attributes": [
                 {
                     "id": "spell_power:frost",
-                    "value": 0.15,
-                    "operation": "MULTIPLY_BASE"
+                    "value": 16,
+                    "operation": "ADDITION"
                 },
                 {
                     "id": "spell_power:soul",
-                    "value": 0.15,
-                    "operation": "MULTIPLY_BASE"
+                    "value": 16,
+                    "operation": "ADDITION"
                 }
             ]
         },
@@ -207,13 +207,13 @@
             "attributes": [
                 {
                     "id": "spell_power:frost",
-                    "value": 0.15,
-                    "operation": "MULTIPLY_BASE"
+                    "value": 16,
+                    "operation": "ADDITION"
                 },
                 {
                     "id": "spell_power:soul",
-                    "value": 0.15,
-                    "operation": "MULTIPLY_BASE"
+                    "value": 16,
+                    "operation": "ADDITION"
                 }
             ]
         },
@@ -249,8 +249,8 @@
             "attributes": [
                 {
                     "id": "spell_power:frost",
-                    "value": 0.15,
-                    "operation": "MULTIPLY_BASE"
+                    "value": 16,
+                    "operation": "ADDITION"
                 },
                 {
                     "id": "spell_power:haste",
@@ -286,13 +286,13 @@
             "attributes": [
                 {
                     "id": "spell_power:arcane",
-                    "value": 0.15,
-                    "operation": "MULTIPLY_BASE"
+                    "value": 16,
+                    "operation": "ADDITION"
                 },
                 {
                     "id": "spell_power:fire",
-                    "value": 0.15,
-                    "operation": "MULTIPLY_BASE"
+                    "value": 16,
+                    "operation": "ADDITION"
                 }
             ]
         },
@@ -314,13 +314,13 @@
             "attributes": [
                 {
                     "id": "spell_power:healing",
-                    "value": 0.05,
-                    "operation": "MULTIPLY_BASE"
+                    "value": 8,
+                    "operation": "ADDITION"
                 },
                 {
                     "id": "spell_power:lightning",
-                    "value": 0.05,
-                    "operation": "MULTIPLY_BASE"
+                    "value": 8,
+                    "operation": "ADDITION"
                 }
             ]
         },
@@ -328,13 +328,13 @@
             "attributes": [
                 {
                     "id": "spell_power:frost",
-                    "value": 0.05,
-                    "operation": "MULTIPLY_BASE"
+                    "value": 8,
+                    "operation": "ADDITION"
                 },
                 {
                     "id": "spell_power:soul",
-                    "value": 0.05,
-                    "operation": "MULTIPLY_BASE"
+                    "value": 8,
+                    "operation": "ADDITION"
                 }
             ]
         },
@@ -342,13 +342,13 @@
             "attributes": [
                 {
                     "id": "spell_power:healing",
-                    "value": 0.05,
-                    "operation": "MULTIPLY_BASE"
+                    "value": 8,
+                    "operation": "ADDITION"
                 },
                 {
                     "id": "spell_power:lightning",
-                    "value": 0.05,
-                    "operation": "MULTIPLY_BASE"
+                    "value": 8,
+                    "operation": "ADDITION"
                 }
             ]
         },
@@ -356,7 +356,7 @@
             "attributes": [
                 {
                     "id": "spell_power:arcane",
-                    "value": 0.15,
+                    "value": 0.05,
                     "operation": "MULTIPLY_BASE"
                 },
                 {
@@ -384,13 +384,13 @@
             "attributes": [
                 {
                     "id": "spell_power:frost",
-                    "value": 0.05,
-                    "operation": "MULTIPLY_BASE"
+                    "value": 8,
+                    "operation": "ADDITION"
                 },
                 {
                     "id": "spell_power:soul",
-                    "value": 0.05,
-                    "operation": "MULTIPLY_BASE"
+                    "value": 8,
+                    "operation": "ADDITION"
                 }
             ]
         },
@@ -416,8 +416,8 @@
             "attributes": [
                 {
                     "id": "spell_power:arcane",
-                    "value": 0.15,
-                    "operation": "MULTIPLY_BASE"
+                    "value": 16,
+                    "operation": "ADDITION"
                 },
                 {
                     "id": "spell_power:critical_chance",
@@ -435,7 +435,7 @@
             "attributes": [
                 {
                     "id": "spell_power:frost",
-                    "value": 0.15,
+                    "value": 0.05,
                     "operation": "MULTIPLY_BASE"
                 },
                 {
@@ -454,8 +454,8 @@
             "attributes": [
                 {
                     "id": "spell_power:fire",
-                    "value": 0.15,
-                    "operation": "MULTIPLY_BASE"
+                    "value": 16,
+                    "operation": "ADDITION"
                 },
                 {
                     "id": "spell_power:critical_chance",
@@ -473,13 +473,13 @@
             "attributes": [
                 {
                     "id": "spell_power:healing",
-                    "value": 0.15,
-                    "operation": "MULTIPLY_BASE"
+                    "value": 16,
+                    "operation": "ADDITION"
                 },
                 {
                     "id": "spell_power:lightning",
-                    "value": 0.15,
-                    "operation": "MULTIPLY_BASE"
+                    "value": 16,
+                    "operation": "ADDITION"
                 }
             ]
         },
@@ -496,13 +496,13 @@
             "attributes": [
                 {
                     "id": "spell_power:healing",
-                    "value": 0.15,
-                    "operation": "MULTIPLY_BASE"
+                    "value": 16,
+                    "operation": "ADDITION"
                 },
                 {
                     "id": "spell_power:lightning",
-                    "value": 0.15,
-                    "operation": "MULTIPLY_BASE"
+                    "value": 16,
+                    "operation": "ADDITION"
                 }
             ]
         },
@@ -529,13 +529,13 @@
             "attributes": [
                 {
                     "id": "spell_power:arcane",
-                    "value": 0.15,
-                    "operation": "MULTIPLY_BASE"
+                    "value": 16,
+                    "operation": "ADDITION"
                 },
                 {
                     "id": "spell_power:fire",
-                    "value": 0.15,
-                    "operation": "MULTIPLY_BASE"
+                    "value": 16,
+                    "operation": "ADDITION"
                 }
             ]
         },
@@ -543,8 +543,8 @@
             "attributes": [
                 {
                     "id": "spell_power:healing",
-                    "value": 0.15,
-                    "operation": "MULTIPLY_BASE"
+                    "value": 16,
+                    "operation": "ADDITION"
                 },
                 {
                     "id": "spell_power:haste",
@@ -557,13 +557,13 @@
             "attributes": [
                 {
                     "id": "spell_power:arcane",
-                    "value": 0.05,
-                    "operation": "MULTIPLY_BASE"
+                    "value": 8,
+                    "operation": "ADDITION"
                 },
                 {
                     "id": "spell_power:fire",
-                    "value": 0.05,
-                    "operation": "MULTIPLY_BASE"
+                    "value": 8,
+                    "operation": "ADDITION"
                 }
             ]
         },

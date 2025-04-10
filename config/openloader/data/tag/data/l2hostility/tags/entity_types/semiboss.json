@@ -60,6 +60,10 @@
     {
       "id": "deeperdarker:stalker",
       "required": false
+    },
+    {
+      "id": "spellbladenext:magus",
+      "required": false
     }
   ]
 }
