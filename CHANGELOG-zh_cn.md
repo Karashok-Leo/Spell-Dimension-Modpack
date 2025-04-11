@@ -1,5 +1,14 @@
 # 更新日志
 
+## 0.6.1 - 2025.4.11
+##### 注意
+- 由于移除了Expanded Storage（扩展存储），请在迁移存档前妥善处理好你箱子里的物品
+##### 新增
+- 部分不可重生Boss的魔力召唤配方
+- Sophisticated Storage
+##### 移除
+- Expanded Storage (unmaintained/replace)
+
 ## 0.6.0 - 2025.4.10
 ##### 新增
 - 新法术：

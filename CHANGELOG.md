@@ -1,5 +1,14 @@
 # Change Log
 
+## 0.6.1 - 2025.4.11
+##### Warning
+- Due to the removal of Expanded Storage, please dispose of the contents of your chests properly before migrating your saves!
+##### Added
+- Spell Summon recipes for some unreproducible bosses
+- Sophisticated Storage
+##### Removed
+- Expanded Storage (unmaintained/replace)
+
 ## 0.6.0 - 2025.4.10
 ##### Added
 - New Spells:

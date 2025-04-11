@@ -2200,11 +2200,6 @@ hash = "e3772710a6033c60a920d0834963cd2dd6c1a2f1ad91e29f06e9c3ec1aff2c50"
 metafile = true
 
 [[files]]
-file = "mods/expanded-storage.pw.toml"
-hash = "fe9d4f1ebf3e6b6b34ff34d7f17fd722ec6269afdddac8d8bb47d76d8ca89f0d"
-metafile = true
-
-[[files]]
 file = "mods/extra-spell-attributes.pw.toml"
 hash = "f0a11a3116e79a50775116cf02443933e5c42b98681b46ec55097e801350c196"
 metafile = true
@@ -2750,13 +2745,18 @@ hash = "97fc6020504bf1eb7c0a7d50ab071b6bc6cdab02c11ac55ac7947ae62918f553"
 metafile = true
 
 [[files]]
+file = "mods/sophisticated-storage-unofficial-fabric-port.pw.toml"
+hash = "333fc1f4a615c45472b4fc4cff4beb66c21b04e6ca1ef75bcc9ef0422e3bbf2d"
+metafile = true
+
+[[files]]
 file = "mods/sparse-structures.pw.toml"
 hash = "7c872adce752a4a6efe3d220fac7cdc1d429a0e8b47f42b19557f4d15d0893ca"
 metafile = true
 
 [[files]]
 file = "mods/spell-dimension-extra.pw.toml"
-hash = "34288ff06a3b6d28f78bb2aaa7ade99274cd9ca297013d2531fd5da56a77a338"
+hash = "bb561983461896ac2bd61f5f970c2a3d3751951fc0d5619aa6630c5a4aa35cca"
 metafile = true
 
 [[files]]
