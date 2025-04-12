@@ -890,7 +890,7 @@ hash = "6322ec6eb708278a479ac9adb68b374e20dfe014763d5acf0b012cb2fc06e7e5"
 
 [[files]]
 file = "config/openloader/data/recipe/data/spell-dimension/recipes/endgame_trinkets/arcane_throne.json"
-hash = "6aab68fcb80591a5457498098f64ddb5bfd91a54f6925231358ef1167180df62"
+hash = "072f0827e21521d0ac08301984b09a0cd6dc2432ef6f455deed40b5b821aa033"
 
 [[files]]
 file = "config/openloader/data/recipe/data/spell-dimension/recipes/endgame_trinkets/armor_of_convergence.json"
@@ -2066,7 +2066,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "7d2a10bd8f8a01c64b2e61aa1b03cc7ea23b1bf47f0eef2edefd22275b802a58"
+hash = "9ef2a232d40ec33fe44e589d8958b41539d27aab5a7ee819a3f89dc65bc351a3"
 metafile = true
 
 [[files]]
@@ -2626,7 +2626,7 @@ metafile = true
 
 [[files]]
 file = "mods/ruins.pw.toml"
-hash = "c67ceddd28ba80ecc104986f84359c838473c0960121470ca89474bebd51be03"
+hash = "d1962079e6f96ca6eafa022695f14472c472b0a49069e432a57af7d9cd83726e"
 metafile = true
 
 [[files]]
@@ -2706,7 +2706,7 @@ metafile = true
 
 [[files]]
 file = "mods/spell-dimension-extra.pw.toml"
-hash = "bb561983461896ac2bd61f5f970c2a3d3751951fc0d5619aa6630c5a4aa35cca"
+hash = "f85a68631091fbfd6053a900d89d69a5f1fa659829cea057224cc3f86f33f5bd"
 metafile = true
 
 [[files]]
