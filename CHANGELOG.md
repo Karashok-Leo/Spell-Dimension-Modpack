@@ -1,5 +1,17 @@
 # Change Log
 
+## 0.6.2 - 2025.4.12 
+##### Changed 
+- Updated textures for all Primary/Intermediate/Advanced Spell Books (@D30) 
+- Spell Leech damage reduction increased to 5x of its original value 
+- Divine Curse Blast: casting duration 2s -> 1.5s 
+- Outdated description text in the guidebook 
+##### Fixed
+- Crash caused by Quest Scrolls in server 
+- Recipe for the Arcane Throne 
+- Bug with Healing Mages not getting base essence when healing themselves 
+- Issue with high probability of being stuck for a long time on startup (resolved by rolling back Collective to 7.93)
+
 ## 0.6.1 - 2025.4.11
 ##### Warning
 - Due to the removal of Expanded Storage, please dispose of the contents of your chests properly before migrating your saves!
