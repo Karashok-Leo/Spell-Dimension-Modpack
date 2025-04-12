@@ -1925,11 +1925,6 @@ file = "keybindings.txt"
 hash = "c923383681164fec4d9944cfa2046adb3495b63298e8fe7a1d1efcfd7220b755"
 
 [[files]]
-file = "mods/a-good-place.pw.toml"
-hash = "d40bbac1877c4e37fb0f8a26180e13ebca56fed64ac2f49de9bb243d7b38c696"
-metafile = true
-
-[[files]]
 file = "mods/achievements-optimizer.pw.toml"
 hash = "a8f1efb050382052dec631c2d5d79c0251fdeca001d4304c87000736929adf86"
 metafile = true
@@ -2060,11 +2055,6 @@ hash = "41cbd529d0a8373a536f9b4550f96e5574c94d66029567b31d60cec32bf2604e"
 metafile = true
 
 [[files]]
-file = "mods/chunks-fade-in.pw.toml"
-hash = "ac9678deff0e253dc0836d9671d8420883fe502f55df46c103d6e7f2b1e5f081"
-metafile = true
-
-[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "ae11fe7c63207b7257ecb782d421655c6f56adb551b78ad430066edc94bee3b1"
 metafile = true
@@ -2095,11 +2085,6 @@ hash = "695173250662483f476c90011b99feaf1e0df0ce83fd20b8358c4e8d667afa04"
 metafile = true
 
 [[files]]
-file = "mods/continuity.pw.toml"
-hash = "4f52704b55ce44cf3b8cb088db90d776b51ac8d444e83ebadc39ebb152f624c9"
-metafile = true
-
-[[files]]
 file = "mods/controlling.pw.toml"
 hash = "639aee7e72ceaf8b649c473ab94282a20152f1438b599f4328ac5726c6a0ecfe"
 metafile = true
@@ -2112,11 +2097,6 @@ metafile = true
 [[files]]
 file = "mods/cupboard.pw.toml"
 hash = "4463005ad6ae41db2bf707952d6945297f48601a42ec8b6cac8aef09d653ffd2"
-metafile = true
-
-[[files]]
-file = "mods/custom-totem-particles.pw.toml"
-hash = "43599c7bc3c420a7d148c71b9938aab3687b1392b402f59a94458bc4d670d9e0"
 metafile = true
 
 [[files]]
@@ -2240,11 +2220,6 @@ hash = "3c42a829336457bcc9ad7e103c49c985e54867f16d1c9d7b659e0bfc11afa6f9"
 metafile = true
 
 [[files]]
-file = "mods/fbp-renewed.pw.toml"
-hash = "7167923e6e5b1976d092aeca3f1e5f27ac4426c36ec1d94cea2900908f05cec0"
-metafile = true
-
-[[files]]
 file = "mods/ferritecore-fabric.pw.toml"
 hash = "28f53f38c111e3d6aa7f6854fa976a1456f4094dc504a929a6d4bf1f9f8cc30a"
 metafile = true
@@ -2345,11 +2320,6 @@ hash = "a9746213fb92f4d48fdc1a4266f5446bef39b713922b1441ec13e15ef18dc15d"
 metafile = true
 
 [[files]]
-file = "mods/item-borders-fabric.pw.toml"
-hash = "0c01f5b5e616cf20109acb2439977574e87addd6936dc4e8fa30afca47da4f8a"
-metafile = true
-
-[[files]]
 file = "mods/jade.pw.toml"
 hash = "910fa36384741dbc199805f0afde8f5ef06940d1a74d1d737b7bc1048c58916f"
 metafile = true
@@ -2395,11 +2365,6 @@ hash = "0e0878b16c8cd2f112597e47e6e2411287e8ef4e9b6bbec44a433f008b512d65"
 metafile = true
 
 [[files]]
-file = "mods/legendary-tooltips-fabric.pw.toml"
-hash = "c60ef9a042ed9891745d7797917215bd00144156a2761018f3ccee6741092303"
-metafile = true
-
-[[files]]
 file = "mods/leos-loot-bag.pw.toml"
 hash = "bb43b64219175ad8b2718b6239a12ce0191b69c0b881a246f13e2e5ac64ec6fb"
 metafile = true
@@ -2427,11 +2392,6 @@ metafile = true
 [[files]]
 file = "mods/lootr-fabric.pw.toml"
 hash = "e7f748c45bab5a2d9c6c34d99703b9c8aa09e0c5e8069938cad9de693a9965e1"
-metafile = true
-
-[[files]]
-file = "mods/make-bubbles-pop.pw.toml"
-hash = "8cc4a6b45d640818dbd694b7e51949a623a24eacf41ba91345e9ce06172e00ce"
 metafile = true
 
 [[files]]
@@ -2585,11 +2545,6 @@ hash = "6caa4ca57c7abff3c7b2afc401b7b86a34a8fc50eb154e9a9c1e58b222d4f8b5"
 metafile = true
 
 [[files]]
-file = "mods/pick-up-notifier.pw.toml"
-hash = "253ac68d348467a85dd18a800b99ca8c0518418c319725e9d14c9ef9e3ca3a60"
-metafile = true
-
-[[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "ba530a2e04476bef87448769a8d3609a9225065dfaed24a54c401c3035a79ed3"
 metafile = true
@@ -2720,11 +2675,6 @@ hash = "f2459547dbd2ca2869ed3799cb5b1be4cb98cffbfc016339768ae9990d38d2ef"
 metafile = true
 
 [[files]]
-file = "mods/smooth-swapping.pw.toml"
-hash = "ee6579014fc56a87d60cb5ed383a58e233ffb53ad6a57a813b930891aba07c45"
-metafile = true
-
-[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "7f38205cdbb972fc8fa84b1185d29c99a28d71dae42c8b8de2619f6eb4166e98"
 metafile = true
@@ -2830,11 +2780,6 @@ hash = "0b4eb8815e83c6bfeb1534c025bdfc6c35c3ece39503fcb0f11a2598c8afe29d"
 metafile = true
 
 [[files]]
-file = "mods/travelers-titles-fabric.pw.toml"
-hash = "31b45a23d9e7de7cdb4b34eca8d43d59277c002dee5ac6c6765cce4d8fa1c8fa"
-metafile = true
-
-[[files]]
 file = "mods/trinkets.pw.toml"
 hash = "d9bfec2cf36b6bae2d85a1136560e047ab8ce1b0e9798e7b6be5d0670f65fb55"
 metafile = true
@@ -2860,18 +2805,8 @@ hash = "26abe43f2212a3fd943798d445db6bf9f8ecba76c4e8f7fe45ed703ff8d77645"
 metafile = true
 
 [[files]]
-file = "mods/visuality.pw.toml"
-hash = "a8ed5a7548de373a19838501e549b6cc8c9c0bfe2d3bda94d84dadf7a03a55bf"
-metafile = true
-
-[[files]]
 file = "mods/voidz.pw.toml"
 hash = "3dfddee172c38204109beba9265296ffe62bc271c0c5afe598eeedc30ed358d0"
-metafile = true
-
-[[files]]
-file = "mods/wakes.pw.toml"
-hash = "ef997a4e5c8c6bd5700921e16e055f4c9d2a272fc35664aa6bbb0ed62a955ac8"
 metafile = true
 
 [[files]]
