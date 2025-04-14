@@ -1,15 +1,28 @@
 # Change Log
 
-## 0.6.2 - 2025.4.12 
-##### Changed 
-- Updated textures for all Primary/Intermediate/Advanced Spell Books (@D30) 
-- Spell Leech damage reduction increased to 5x of its original value 
-- Divine Curse Blast: casting duration 2s -> 1.5s 
-- Outdated description text in the guidebook 
+## 0.6.3 - 2025.4.14
+##### Changed
+- Updated some mods
+- Mutant monsters base health changed to 200
+- The formula for calculating the damage reduction of Flex Breastplate
+##### Removed
+- I18nUpdateMod(bug)
 ##### Fixed
-- Crash caused by Quest Scrolls in server 
-- Recipe for the Arcane Throne 
-- Bug with Healing Mages not getting base essence when healing themselves 
+- Crash caused by Spell Traits in server
+- Bug with Remote Destruction
+- Bug that mobs with Undying have no loot drop while being cursed
+- Issue with high probability of being stuck for a long time on startup (resolved by removing I18nUpdateMod)
+
+## 0.6.2 - 2025.4.12
+##### Changed
+- Updated textures for all Primary/Intermediate/Advanced Spell Books (@D30)
+- Spell Leech damage reduction increased to 5x of its original value
+- Divine Curse Blast: casting duration 2s -> 1.5s
+- Outdated description text in the guidebook
+##### Fixed
+- Crash caused by Quest Scrolls in server
+- Recipe for the Arcane Throne
+- Bug with Healing Mages not getting base essence when healing themselves
 - Issue with high probability of being stuck for a long time on startup (resolved by rolling back Collective to 7.93)
 
 ## 0.6.1 - 2025.4.11
