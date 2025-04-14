@@ -1,13 +1,13 @@
 name = "Spell Dimension Extra"
-filename = "spell_dimension-0.6.2.jar"
+filename = "spell_dimension-0.6.3.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "eb367ee9f5fd0e7676e12a0fb44d49bd635d29a9"
+hash = "1992231e81e5c88f6bb12476aa182d2c982f56b3"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6414641
+file-id = 6420671
 project-id = 1163781
