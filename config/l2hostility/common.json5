@@ -58,7 +58,7 @@
 		// Allow chunk section to accumulate difficulty
 		"allowSectionDifficulty": true,
 		// Allow difficulty clearing bypass mob minimum level
-		"allowBypassMinimum": true,
+		"allowBypassMinimum": false,
 		// Allow level-related extra enchantment spawning
 		"allowExtraEnchantments": true,
 		// Default dimension base difficulty for mod dimensions
@@ -272,7 +272,7 @@
 		// Duration boost for negative effects
 		"drainDuration": 0.5,
 		// Max duration boost for negative effects
-		"drainDurationMax": 1200,
+		"drainDurationMax": 200,
 		// Max duration boost for negative effects
 		"counterStrikeDuration": 100,
 		// Max duration boost for negative effects

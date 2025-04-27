@@ -442,7 +442,7 @@ hash = "45f72d573115a83715ed993fc9502fabad886c412cd34f05812e86f5ff17cc47"
 
 [[files]]
 file = "config/l2hostility/common.json5"
-hash = "356aacf987fbd675063fe093e1e2ddb086c15a32cc90d765a7e9ef5cc8533d86"
+hash = "e5e3ea13bafb29214627ec0d03c0356d4c8a5cb592b881cfdf7c5f744a8adcaf"
 
 [[files]]
 file = "config/legendarytooltips-common.toml"
@@ -757,10 +757,6 @@ file = "config/openloader/data/loot/data/plushables/loot_tables/grant_plushables
 hash = "ef2f3867401e23bc91e385f62b1540140878043974cd97abfdf15501622ce5b2"
 
 [[files]]
-file = "config/openloader/data/loot/data/simplyswords/loot_tables/grant_book_on_first_join.json"
-hash = "23d7e8032600b65e2becca8631c005d2eace87b58af063c407365612cbf5ac09"
-
-[[files]]
 file = "config/openloader/data/loot/pack.mcmeta"
 hash = "f15ec1c3ac797fdf53a445f5bfde765a41ef7466eb5fee49edb325cbd4cbfd78"
 
@@ -886,7 +882,7 @@ hash = "080bcc16f9cf7f9e1c09b35fc59a20cb296c71a38c6b5c60e3cff442840ee1ba"
 
 [[files]]
 file = "config/openloader/data/recipe/data/spell-dimension/recipes/arcane/2.json"
-hash = "6322ec6eb708278a479ac9adb68b374e20dfe014763d5acf0b012cb2fc06e7e5"
+hash = "ea0adda5cc9495a68ca6eed6b1f67073137d54a94ee60cffb17e40d6d79c478e"
 
 [[files]]
 file = "config/openloader/data/recipe/data/spell-dimension/recipes/endgame_trinkets/arcane_throne.json"
@@ -1477,10 +1473,6 @@ file = "config/openloader/data/tag/data/spell-dimension/tags/items/a_ring.json"
 hash = "1507d8fe8a0416c2d245aa53ecab4c3f8d69505762405c4ccf78785dbdabaaec"
 
 [[files]]
-file = "config/openloader/data/tag/data/spell-dimension/tags/items/bossloots.json"
-hash = "4ee8d650ff9e8a42bba3b10d1c1f680dc3fc6fba905427c10eb275bc762f6014"
-
-[[files]]
 file = "config/openloader/data/tag/data/spell-dimension/tags/items/common/armor.json"
 hash = "08989bdb0f076eb5268717194c776ed9fd2ad870521c03a0326f38e85daf1942"
 
@@ -1494,7 +1486,7 @@ hash = "1a58426efd4e48b687b4739ceeef8ec79d763e5f04e6d0d1c86395014d9397bf"
 
 [[files]]
 file = "config/openloader/data/tag/data/spell-dimension/tags/items/common/weapon.json"
-hash = "7535642d353872fbadd96669d82362918f3d7ecf52cfbaeb056684bc0efea1e4"
+hash = "c8c97d779d20bf727b4e5f24c047f1f20d38abbc202cc8d0d246d9ec1c9b1dab"
 
 [[files]]
 file = "config/openloader/data/tag/data/spell-dimension/tags/items/epic/armor.json"
@@ -1510,7 +1502,7 @@ hash = "1ba441637a5c9c6f0f775a2d7d64b9eda86ba7e843005538d488902b9d8fe361"
 
 [[files]]
 file = "config/openloader/data/tag/data/spell-dimension/tags/items/epic/weapon.json"
-hash = "26daa7665e171f89a9add38187c8870aacfd33acd7bc68a21206696c0147b2c0"
+hash = "f0db033f66fd6c550e7f1f636141c547712edd15ec6466d8c4957c8799df6474"
 
 [[files]]
 file = "config/openloader/data/tag/data/spell-dimension/tags/items/legendary/armor.json"
@@ -1526,7 +1518,7 @@ hash = "23113c7dd85d1cef26b6f9baba4ded8ebfe954f4cde520f064ceb7893a577a73"
 
 [[files]]
 file = "config/openloader/data/tag/data/spell-dimension/tags/items/legendary/weapon.json"
-hash = "51ed530f036fc458d53266283330c2fc11ddbad0a40d0fad5022ee548c313bf2"
+hash = "88da83991a3b3f226c550ea3e3c3610c4a25c6095451043df87194cec9929d5e"
 
 [[files]]
 file = "config/openloader/data/tag/data/spell-dimension/tags/items/midas.json"
@@ -1546,11 +1538,11 @@ hash = "7ae29524b744dc0d45578e7849cac6f8dba5d06796d81e4d571550e59c03085a"
 
 [[files]]
 file = "config/openloader/data/tag/data/spell-dimension/tags/items/rare/weapon.json"
-hash = "aa4192b83fad3b70446e5b48b9619da37b63799e11e7f7003099c3649838823e"
+hash = "6f0225740aff5339934eccdf865a2b3c183d7b2dd65569d8e59ada875848e7e6"
 
 [[files]]
 file = "config/openloader/data/tag/data/spell-dimension/tags/items/soulsweapons.json"
-hash = "11173b5f8e117ae0391d76a46f7991cd252d7508dddf401d5c64b4224c00e23e"
+hash = "6468216a3bb051a5cb2f4c12e4a192d24dcafcd0bc52bc696b0770baff180e56"
 
 [[files]]
 file = "config/openloader/data/tag/data/spell-dimension/tags/items/spellblades.json"
@@ -1570,7 +1562,7 @@ hash = "6afbc4de2ac85b283e8f3b7d645c1336e5aa4e956b9d73a49bf7e859ced496a1"
 
 [[files]]
 file = "config/openloader/data/tag/data/spell-dimension/tags/items/uncommon/weapon.json"
-hash = "13036b8cc6fcee635dfeef8f9c43a6ee2e3864c5f8ebadbe46d9d0d6b9352253"
+hash = "f0a4dd89ca3f5df99a56b8d263942a33c753f65a91abc7cb61e0290fa34ba82e"
 
 [[files]]
 file = "config/openloader/data/tag/pack.mcmeta"
@@ -1659,6 +1651,14 @@ hash = "013c56aa9cab3655927d4f3b583657c58aa6d7f1caccbf539374d824aa772bff"
 [[files]]
 file = "config/openloader/resources/translations/assets/adventurez/lang/zh_cn.json"
 hash = "fcfb4cdf09af7f22b4a08b4b80a700f2832fc5d0ce68416eb7c87743d66e19bb"
+
+[[files]]
+file = "config/openloader/resources/translations/assets/aquamirae/lang/en_us.json"
+hash = "5d3df2cf6cdb7ce5a5f856ce4080e04f56d37a6d4577ae4700dfe29ef31647c6"
+
+[[files]]
+file = "config/openloader/resources/translations/assets/aquamirae/lang/zh_cn.json"
+hash = "5babd55f63cdf23f3e7860c590424147ed38afa335bfe98b00bd0d09585c9a9d"
 
 [[files]]
 file = "config/openloader/resources/translations/assets/dungeonz/lang/zh_cn.json"
@@ -2696,11 +2696,6 @@ metafile = true
 [[files]]
 file = "mods/simply-houses.pw.toml"
 hash = "39d681b21ffe6fd85183d5795817dc24bfab87db935a7a9ef4c0c1bc49ccdede"
-metafile = true
-
-[[files]]
-file = "mods/simply-swords.pw.toml"
-hash = "2462ed00a731c1d65304279366a2fb5fd84c035f7fb6cc20e0a5639689b66d7d"
 metafile = true
 
 [[files]]

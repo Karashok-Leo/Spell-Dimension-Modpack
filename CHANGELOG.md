@@ -1,5 +1,27 @@
 # Change Log
 
+## 0.6.4 - 2025.4.14
+##### Added
+##### Changed
+- Updated some mods
+- Enchanted Essences can only be merged in Nightmare tier
+- Add Nirvana and Phase effect to Cleanse whitelist
+- boss base health
+- boss traits
+- desert dungeon
+- aquamirae
+- spell traits usage
+- spell trait notify earlier
+- magic protection/magic immunity/ring of divinity
+- material rarity
+- material recycle
+- enchantment recycle
+- cursed dirt
+##### Removed
+- simply swords
+##### Fixed
+- Fix crash caused by Cleanse effect
+
 ## 0.6.3 - 2025.4.14
 ##### Changed
 - Updated some mods
