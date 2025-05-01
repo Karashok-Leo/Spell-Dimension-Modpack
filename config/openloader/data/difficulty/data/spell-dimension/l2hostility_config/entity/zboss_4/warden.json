@@ -1,0 +1,36 @@
+{
+    "list": [
+      {
+        "blacklist": [
+          "l2hostility:invisible",
+          "l2hostility:split",
+          "l2hostility:teleport",
+          "spell-dimension:shift"
+        ],
+        "difficulty": {
+          "base": 50,
+          "min": 80,
+          "scale": 0.0,
+          "variation": 0.0,
+          "apply_chance": 1.0,
+          "trait_chance": 1.0
+        },
+        "entities": [
+          "minecraft:warden"
+        ],
+        "items": [],
+        "traits": [
+          {
+            "free": 1,
+            "min": 1,
+            "trait": "l2hostility:arena"
+          },
+          {
+            "free": 1,
+            "min": 1,
+            "trait": "l2hostility:counter_strike"
+          }
+        ]
+      }
+    ]
+  }

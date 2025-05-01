@@ -1,0 +1,51 @@
+{
+    "list": [
+      {
+        "blacklist": [
+          "l2hostility:invisible",
+          "l2hostility:split",
+          "l2hostility:teleport",
+          "spell-dimension:shift"
+        ],
+        "difficulty": {
+          "base": 50,
+          "min": 160,
+          "scale": 0.0,
+          "variation": 0.0,
+          "apply_chance": 1.0,
+          "trait_chance": 1.0
+        },
+        "entities": [
+          "aquamirae:captain_cornelia"
+        ],
+        "items": [],
+        "traits": [
+          {
+            "free": 1,
+            "min": 1,
+            "trait": "l2hostility:protection"
+          },
+          {
+            "free": 1,
+            "min": 1,
+            "trait": "l2hostility:arena"
+          },
+          {
+            "free": 3,
+            "min": 3,
+            "trait": "l2hostility:freezing"
+          },
+          {
+            "free": 1,
+            "min": 1,
+            "trait": "l2hostility:pulling"
+          },
+          {
+            "free": 3,
+            "min": 3,
+            "trait": "spell-dimension:frost_aura"
+          }
+        ]
+      }
+    ]
+  }

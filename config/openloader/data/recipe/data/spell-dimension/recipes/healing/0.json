@@ -1,13 +1,8 @@
 {
   "type": "enchantment_infusion:simple_infusion",
-  "input": [
-    {
-      "item": "paladins:paladin_spell_book"
-    },
-    {
-      "item": "paladins:priest_spell_book"
-    }
-  ],
+  "input": {
+    "item": "paladins:priest_spell_book"
+  },
   "ingredients": [
     {
       "item": "spell-dimension:essence_healing_0"

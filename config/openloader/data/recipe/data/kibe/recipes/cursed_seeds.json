@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "#O#",
+      "OnO",
+      "#O#"
+    ],
+    "key": {
+      "#": {
+        "tag": "spell-dimension:legendary/material"
+      },
+      "O": {
+        "item": "kibe:cursed_droplets"
+      },
+      "n": {
+        "item": "minecraft:wheat_seeds"
+      }
+    },
+    "result": {
+      "item": "kibe:cursed_seeds",
+      "count": 1
+    }
+  }

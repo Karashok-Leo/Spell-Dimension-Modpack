@@ -1,0 +1,61 @@
+{
+    "list": [
+      {
+        "blacklist": [
+          "l2hostility:invisible",
+          "l2hostility:split",
+          "l2hostility:teleport",
+          "spell-dimension:shift"
+        ],
+        "difficulty": {
+          "base": 50,
+          "min": 880,
+          "scale": 0.0,
+          "variation": 0.0,
+          "apply_chance": 1.0,
+          "trait_chance": 1.0
+        },
+        "entities": [
+          "bosses_of_mass_destruction:obsidilith"
+        ],
+        "items": [],
+        "traits": [
+          {
+            "free": 4,
+            "min": 4,
+            "trait": "l2hostility:protection"
+          },
+          {
+            "free": 1,
+            "min": 1,
+            "trait": "l2hostility:arena"
+          },
+          {
+            "free": 3,
+            "min": 3,
+            "trait": "l2hostility:ragnarok"
+          },
+          {
+            "free": 3,
+            "min": 3,
+            "trait": "l2hostility:killer_aura"
+          },
+          {
+            "free": 3,
+            "min": 3,
+            "trait": "l2hostility:dispell"
+          },
+          {
+            "free": 3,
+            "min": 3,
+            "trait": "l2hostility:gravity"
+          },
+          {
+            "free": 3,
+            "min": 3,
+            "trait": "spell-dimension:converge"
+          }
+        ]
+      }
+    ]
+  }

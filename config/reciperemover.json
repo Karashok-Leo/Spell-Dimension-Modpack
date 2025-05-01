@@ -7,6 +7,7 @@
   "removeAllAdvancements": false,
   "recipeList": [
     "l2hostility:enchantment/immune/invincible/1",
+    "l2hostility:consumable/book_of_omniscience",
     "kibe:cursed_lasso",
     "kibe:diamond_lasso",
     "dungeonz:dungeon_compass",

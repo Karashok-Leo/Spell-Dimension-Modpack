@@ -1,0 +1,36 @@
+{
+    "type": "enchantment_infusion:enchantment_infusion",
+    "enchantment": "l2hostility:magic_reject",
+    "force": false,
+    "ingredients": [
+      {
+        "fabric:type": "enchantment_infusion:enchantment",
+        "enchantment": "minecraft:protection",
+        "min_level": 4
+      },
+      {
+        "fabric:type": "enchantment_infusion:enchantment",
+        "enchantment": "spell_power:magic_protection",
+        "min_level": 4
+      },
+      {
+        "item": "l2hostility:heirophant_green"
+      },
+      {
+        "item": "l2hostility:void_eye"
+      },
+      {
+        "item": "l2hostility:force_field"
+      },
+      {
+        "item": "l2hostility:force_field"
+      },
+      {
+        "item": "l2hostility:resonant_feather"
+      },
+      {
+        "item": "bosses_of_mass_destruction:mob_ward"
+      }
+    ],
+    "level": 1
+  }

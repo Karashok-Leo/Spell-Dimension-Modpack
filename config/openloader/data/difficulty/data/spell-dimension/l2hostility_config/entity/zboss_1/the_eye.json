@@ -1,0 +1,56 @@
+{
+    "list": [
+      {
+        "blacklist": [
+          "l2hostility:invisible",
+          "l2hostility:split",
+          "l2hostility:teleport",
+          "spell-dimension:shift"
+        ],
+        "difficulty": {
+          "base": 50,
+          "min": 560,
+          "scale": 0.0,
+          "variation": 0.0,
+          "apply_chance": 1.0,
+          "trait_chance": 1.0
+        },
+        "entities": [
+          "adventurez:the_eye"
+        ],
+        "items": [],
+        "traits": [
+          {
+            "free": 3,
+            "min": 3,
+            "trait": "l2hostility:protection"
+          },
+          {
+            "free": 1,
+            "min": 1,
+            "trait": "l2hostility:arena"
+          },
+          {
+            "free": 3,
+            "min": 3,
+            "trait": "l2hostility:corrosion"
+          },
+          {
+            "free": 3,
+            "min": 3,
+            "trait": "l2hostility:erosion"
+          },
+          {
+            "free": 1,
+            "min": 1,
+            "trait": "l2hostility:dispell"
+          },
+          {
+            "free": 3,
+            "min": 3,
+            "trait": "spell-dimension:arcane_blast"
+          }
+        ]
+      }
+    ]
+  }

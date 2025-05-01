@@ -1,26 +1,51 @@
 # Change Log
 
-## 0.6.4 - 2025.4.14
+## 0.6.4 - 2025.5.1
+##### Warning
+- Due to the removal of Simply Swords, please handle the items belonging to this mod properly before migrating your saves
 ##### Added
+- New Items:
+    - Illusion Container: Attempt to void items and their enchantments, transforming them into materials of the same rarity and the Book of Omniscience
+    - Illusion Upgrade: Attempt to pick up and void convertible items and their enchantments, converting them into materials of the same rarity and the Book of Omniscience
+- Completed the localization of Xaero series mods in Chinese
+- Spell Traits casting advance notice
+- Difficulty tier restriction: Cursed Seeds can only be used at Nightmare difficulty tier now
+- Ender Dragon can launch more fireballs at once
+- Loots in the desert dungeon
 ##### Changed
 - Updated some mods
-- Enchanted Essences can only be merged in Nightmare tier
-- Add Nirvana and Phase effect to Cleanse whitelist
-- boss base health
-- boss traits
-- desert dungeon
-- aquamirae
-- spell traits usage
-- spell trait notify earlier
-- magic protection/magic immunity/ring of divinity
-- material rarity
-- material recycle
-- enchantment recycle
-- cursed dirt
+- Add Frost Aura, Phase, Divine Aura, and Nirvana to the Cleanse blacklist
+- Enchanted Essences can only be merged under nightmare difficulty tier
+- Sound effect of Enlightening Essences
+- Spell Prism cannot be enchanted on an anvil
+- Adjustment of special weapon mechanism:
+    - Fin Cutter: Damage increases by 15% ->1% for every heart lost, with a maximum of 150% ->30%
+    - Remnants Saber: Damage bonus in water: 100% ->30%
+    - Divider: Max health reduction: 5% ->2% per level
+- Enderman will surely drop the Ender Pearl now
+- Oblivion Breastplate is now crafted using Brimstone Nectar
+- The Advanced Arcane Spell Book is now crafted using Chaos Robes
+- Hostility maximum health level bonus: 0.03->0.05
+- Hostility damage level bonus: 0.01->0.005
+- Monster maximum level: 3000->1000
+- Death difficulty decay: 0.5->0.8
+- Reprint damage bonus: 0.02->0.01
+- The weight of essence loot was adjusted, and the weight of Enlightening Essence was lowered
+- Boss maximum health base value adjustment: T4~T0 are 400/500/600/700/800
+- Boss traits adjustment
+- Now you can use Empty Agglomeration to craft Cursed Apple
+- Optimized the texture of Nirvana Starfall
+- Heavenly Justice now with a cooldown time of 24 seconds
+- Reduced the use duration of Enlightening Essence: 32->16 ticks
+- Recipe for magical immunity
+- The mechanism of the Ring Of Divinity: obtains sustained Cleanse effect, halves the magic damage received, and does not exceed 80% of your maximum health
+- Reprint trait no longer reprint Eternal and Immune enchantments
 ##### Removed
-- simply swords
+- Simply Swords
+- Recipe for the Book of Omniscience, which can only be obtained through illusion now
 ##### Fixed
-- Fix crash caused by Cleanse effect
+- Possible crash caused by Cleanse effect
+- Wrong descriptions of Spell Locate: Lodestone break probability 10% ->30%
 
 ## 0.6.3 - 2025.4.14
 ##### Changed

@@ -7,11 +7,11 @@
 		// Max player adaptive level
 		"maxPlayerLevel": 1000,
 		// Max mob level
-		"maxMobLevel": 3000,
+		"maxMobLevel": 1000,
 		// Mobs spawned within this range will use lowest player level in range instead of nearest player's level to determine mob level
 		"newPlayerProtectRange": 48,
 		// Decay in player difficulty on death
-		"playerDeathDecay": 0.5,
+		"playerDeathDecay": 0.8,
 		// Allow KeepInventory to keep difficulty as well
 		"keepInventoryRuleKeepDifficulty": false,
 		// On player death, clear dimension penalty
@@ -21,11 +21,11 @@
 	},
 	"scaling": {
 		// Health factor per level
-		"healthFactor": 0.03,
+		"healthFactor": 0.05,
 		// Use exponential health
 		"exponentialHealth": false,
 		// Damage factor per level
-		"damageFactor": 0.01,
+		"damageFactor": 0.005,
 		// Use exponential damage
 		"exponentialDamage": false,
 		// Experience drop factor per level
@@ -282,7 +282,7 @@
 		// Pulling force strength, default is 0.2
 		"pullingStrength": 0.2,
 		// Reprint damage factor per enchantment level
-		"reprintDamage": 0.02,
+		"reprintDamage": 0.01,
 		// Reprint will gain Vanishing Curse when total level of enchantments of each item is higher than this threshold
 		"reprintVanishThreshold": 20,
 		/* Trait toggle

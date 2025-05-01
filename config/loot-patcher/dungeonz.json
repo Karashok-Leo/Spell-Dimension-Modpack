@@ -18,5 +18,35 @@
       "spell-dimension:pool/uncommon/eces",
       "spell-dimension:pool/uncommon/eles"
     ]
+  },
+  {
+    "target_tables": [
+      "dungeonz:chests/desert_dungeon_low_tier_chest_loot",
+      "dungeonz:chests/desert_dungeon_mid_tier_chest_loot"
+    ],
+    "extra_tables": [
+      "spell-dimension:pool/common/gear",
+      "spell-dimension:pool/uncommon/gear",
+      "spell-dimension:pool/rare/gear"
+    ]
+  },
+  {
+    "target_tables": [
+      "dungeonz:chests/desert_dungeon_high_tier_chest_loot",
+      "dungeonz:chests/desert_dungeon_end_tier_chest_loot"
+    ],
+    "extra_tables": [
+      "spell-dimension:pool/rare/gear",
+      "spell-dimension:pool/epic/gear"
+    ]
+  },
+  {
+    "target_tables": [
+      "dungeonz:chests/desert_dungeon_end_tier_chest_loot"
+    ],
+    "extra_tables": [
+      "spell-dimension:pool/epic/gear",
+      "spell-dimension:pool/legendary/gear"
+    ]
   }
 ]
