@@ -42,6 +42,7 @@
 - Reprint trait no longer reprint Eternal and Immune enchantments
 ##### Removed
 - Simply Swords
+- Fancy Block Particles
 - Recipe for the Book of Omniscience, which can only be obtained through illusion now
 ##### Fixed
 - Possible crash caused by Cleanse effect

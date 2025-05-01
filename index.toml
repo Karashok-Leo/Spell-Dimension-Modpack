@@ -2336,11 +2336,6 @@ hash = "3c42a829336457bcc9ad7e103c49c985e54867f16d1c9d7b659e0bfc11afa6f9"
 metafile = true
 
 [[files]]
-file = "mods/fbp-renewed.pw.toml"
-hash = "7167923e6e5b1976d092aeca3f1e5f27ac4426c36ec1d94cea2900908f05cec0"
-metafile = true
-
-[[files]]
 file = "mods/ferritecore-fabric.pw.toml"
 hash = "28f53f38c111e3d6aa7f6854fa976a1456f4094dc504a929a6d4bf1f9f8cc30a"
 metafile = true
