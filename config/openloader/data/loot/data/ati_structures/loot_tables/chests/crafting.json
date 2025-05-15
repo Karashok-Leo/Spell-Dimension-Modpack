@@ -1,0 +1,342 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": {
+        "min": 3,
+        "max": 4
+      },
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:bundle",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 0,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:clock",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:compass",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:flint_and_steel",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:golden_pickaxe",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": {
+                "min": 2,
+                "max": 50
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:stone_pickaxe",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": {
+                "min": 2,
+                "max": 50
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:iron_hoe",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": {
+                "min": 2,
+                "max": 50
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:shears",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "minecraft:enchant_randomly"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_horse_armor",
+          "weight": 5
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:golden_horse_armor",
+          "weight": 5
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:iron_horse_armor",
+          "weight": 5
+        }
+      ]
+    },
+    {
+      "rolls": {
+        "min": 1,
+        "max": 3
+      },
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:crafting_table",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 4
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:bone_meal",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 6,
+                "max": 15
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:name_tag",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 6
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:brown_glazed_terracotta",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 10,
+                "max": 32
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:gray_glazed_terracotta",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 10,
+                "max": 32
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:cyan_glazed_terracotta",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 10,
+                "max": 32
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:sea_lantern",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 4,
+                "max": 12
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:lapis_block",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 2,
+                "max": 6
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:potion",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomPotionColor:10329495,CustomPotionEffects:[{Id:8,Duration:1200,Amplifier:20},{Id:28,Duration:1200}],display:{Name:'[\"\",{\"text\":\"Bambik Potion\",\"italic\":false,\"color\":\"gray\"}]',Lore:['[\"\",{\"text\":\"A very skibidi potion\",\"italic\":false,\"color\":\"#ccffff\"}]']}}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:chainmail_helmet",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{Trim:{pattern:dune,material:iron},display:{Name:'[\"\",{\"text\":\"Tinfoil Hat\",\"italic\":false,\"bold\":true,\"color\":\"white\"}]',Lore:['[\"\",{\"text\":\"Protects you from\",\"italic\":false,\"color\":\"white\"}]','[\"\",{\"text\":\"mind control \",\"italic\":false,\"color\":\"white\"}]','[\"\",{\"text\":\"and negative ions\",\"italic\":false,\"color\":\"white\"}]','[\"\",{\"text\":\" \",\"italic\":false}]']},Enchantments:[{lvl:5,id:blast_protection},{lvl:1,id:infinity}]}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:potion",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomPotionColor:10329495,CustomPotionEffects:[{Id:2,Duration:2400},{Id:17,Duration:2400,Amplifier:2},{Id:21,Duration:2400,Amplifier:4}],display:{Name:'[\"\",{\"text\":\"The Hood Potion\",\"italic\":false,\"color\":\"#ff9999\"}]',Lore:['[\"\",{\"text\":\"A potion from\",\"italic\":false,\"color\":\"#cccccc\"}]','[\"\",{\"text\":\"O Block\",\"italic\":false,\"color\":\"#cccccc\"}]']},Enchantments:[{lvl:10,id:unbreaking}]}"
+            }
+          ]
+        }
+      ],
+      "conditions": [
+        {
+          "condition": "minecraft:random_chance",
+          "chance": 0.2
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:potion",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomPotionColor:15961002,CustomPotionEffects:[{Id:9,Duration:400},{Id:27,Duration:3600},{Id:22,Duration:3600},{Id:18,Duration:3600}],display:{Name:'[\"\",{\"text\":\"Lobotomy \",\"italic\":false,\"color\":\"dark_purple\"},{\"text\":\"Potion\",\"italic\":false,\"color\":\"light_purple\"}]',Lore:['[\"\",{\"text\":\"WoW thats a lot\",\"italic\":false,\"color\":\"#ffccff\"}]','[\"\",{\"text\":\"of power sir\",\"italic\":false,\"color\":\"#ffccff\"}]']},Enchantments:[{lvl:10,id:unbreaking}]}"
+            }
+          ]
+        }
+      ],
+      "conditions": [
+        {
+          "condition": "minecraft:random_chance",
+          "chance": 0.2
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:wooden_pickaxe",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'[\"\",{\"text\":\"Gnome \",\"italic\":false,\"color\":\"green\"},{\"text\":\"Pickaxe\",\"italic\":false,\"color\":\"dark_green\"}]',Lore:['[\"\",{\"text\":\"World\\'s Strongest pickaxe\",\"italic\":false,\"color\":\"#ccffff\"}]']},Enchantments:[{lvl:7,id:fortune},{lvl:1,id:mending},{lvl:7,id:sharpness},{lvl:10,id:unbreaking}]}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:golden_pickaxe",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'[\"\",{\"text\":\"Yakubs \",\"italic\":false,\"color\":\"yellow\"},{\"text\":\"Pickaxe\",\"italic\":false,\"color\":\"gold\"}]',Lore:['[\"\",{\"text\":\"A pickaxe from\",\"italic\":false,\"color\":\"#ffffcc\"}]','[\"\",{\"text\":\"Yakub himself\",\"italic\":false,\"color\":\"#ffffcc\"}]']},Enchantments:[{lvl:10,id:efficiency},{lvl:30,id:unbreaking}]}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:diamond_hoe",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'[\"\",{\"text\":\"Gordon Freemans crowbar\",\"italic\":false,\"color\":\"gold\"}]',Lore:['[\"\",{\"text\":\"The one and only\",\"italic\":false,\"color\":\"#ffffcc\"}]']},Enchantments:[{lvl:5,id:knockback},{lvl:5,id:unbreaking}]}"
+            }
+          ]
+        }
+      ],
+      "conditions": [
+        {
+          "condition": "minecraft:random_chance",
+          "chance": 0.2
+        }
+      ]
+    }
+  ]
+}

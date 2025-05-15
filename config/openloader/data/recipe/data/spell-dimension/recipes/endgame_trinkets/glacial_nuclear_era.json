@@ -3,7 +3,7 @@
   "copy_nbt": false,
   "ingredients": [
     {
-      "item": "spell-dimension:essence_arcane_2"
+      "item": "spell-dimension:essence_frost_2"
     },
     {
       "item": "spell-dimension:celestial_debris"
