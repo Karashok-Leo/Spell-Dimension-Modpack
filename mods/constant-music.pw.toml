@@ -1,0 +1,13 @@
+name = "Constant Music"
+filename = "constantmusic-fabric-1.20.1-1.0.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "61341bc16e1f78c1f4e849410eea9099a3dd82d1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5748139
+project-id = 949032

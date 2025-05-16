@@ -2186,6 +2186,11 @@ hash = "df5f2b8c3894cbfa6b21b2eb4ee9fd0320776a8c4ce1de6b57433db3b50ee6d0"
 metafile = true
 
 [[files]]
+file = "mods/constant-music.pw.toml"
+hash = "fe7d9e0b2e21d7267294deead7450a098ac210ed370631ddc38b4ec75cdce46f"
+metafile = true
+
+[[files]]
 file = "mods/construction-wand-fabric.pw.toml"
 hash = "695173250662483f476c90011b99feaf1e0df0ce83fd20b8358c4e8d667afa04"
 metafile = true
