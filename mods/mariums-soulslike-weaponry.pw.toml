@@ -1,13 +1,13 @@
 name = "Marium's Soulslike Weaponry"
-filename = "soulslike-weaponry-1.2.3-1.20.1-fabric.jar"
+filename = "soulslike-weaponry-1.2.4-1.20.1-fabric.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "3446fe1199d11ed11b9a8dc6799d1bd4277495a2"
+hash = "a4e7f8c9cf77b1a15f3441b3da979983632f40e6"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6416263
+file-id = 6503033
 project-id = 632066
