@@ -14,7 +14,7 @@
       "item": "spell-dimension:essence_fire_1"
     },
     {
-      "item": "minecraft:twisting_vines"
+      "item": "things:infernal_scepter"
     },
     {
       "item": "spell-dimension:essence_fire_1"
@@ -26,7 +26,7 @@
       "item": "spell-dimension:essence_fire_1"
     },
     {
-      "item": "minecraft:weeping_vines"
+      "item": "artifacts:fire_gauntlet"
     }
   ],
   "output": {

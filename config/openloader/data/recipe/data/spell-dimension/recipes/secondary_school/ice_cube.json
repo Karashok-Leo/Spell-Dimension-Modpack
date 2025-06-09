@@ -9,7 +9,9 @@
       "item": "aquamirae:ship_graveyard_echo"
     },
     {
-      "item": "aquamirae:rune_of_the_storm"
+      "fabric:type": "enchantment_infusion:enchantment",
+      "enchantment": "l2hostility:ice_blade",
+      "min_level": 3
     },
     {
       "item": "l2hostility:poseidite_ingot"

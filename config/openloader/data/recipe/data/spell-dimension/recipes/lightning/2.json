@@ -1,0 +1,36 @@
+{
+  "type": "enchantment_infusion:simple_infusion",
+  "input": {
+    "item": "spell-dimension:spell_book_lightning_1"
+  },
+  "ingredients": [
+    {
+      "item": "spell-dimension:essence_lightning_2"
+    },
+    {
+      "item": "soulsweapons:moonstone_block"
+    },
+    {
+      "item": "spell-dimension:essence_lightning_2"
+    },
+    {
+      "item": "soulsweapons:galeforce"
+    },
+    {
+      "item": "spell-dimension:essence_lightning_2"
+    },
+    {
+      "item": "mythicmetals:metallurgium_block"
+    },
+    {
+      "item": "spell-dimension:essence_lightning_2"
+    },
+    {
+      "item": "soulsweapons:freyr_sword"
+    }
+  ],
+  "output": {
+    "id": "spell-dimension:spell_book_lightning_2",
+    "Count": 1
+  }
+}

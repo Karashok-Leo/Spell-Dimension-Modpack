@@ -1,0 +1,31 @@
+{
+  "type": "enchantment_infusion:simple_infusion",
+  "copy_nbt": false,
+  "ingredients": [
+    {
+      "item": "spell-dimension:essence_lightning_2"
+    },
+    {
+      "item": "spell-dimension:celestial_debris"
+    },
+    {
+      "item": "l2hostility:storm_core"
+    },
+    {
+      "item": "l2hostility:force_field"
+    },
+    {
+      "item": "mythicmetals:star_platinum_block"
+    },
+    {
+      "item": "mythicmetals:durasteel_engine"
+    }
+  ],
+  "input": {
+    "item": "mythicmetals:metallurgium_ingot"
+  },
+  "output": {
+    "Count": 1,
+    "id": "spell-dimension:superconductor"
+  }
+}

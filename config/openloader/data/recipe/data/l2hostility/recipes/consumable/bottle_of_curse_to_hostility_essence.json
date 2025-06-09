@@ -1,0 +1,11 @@
+{
+  "type": "l2hostility:burnt",
+  "chance": 64,
+  "ingredient": {
+    "item": "l2hostility:bottle_of_curse"
+  },
+  "result": {
+    "Count": 1,
+    "id": "l2hostility:hostility_essence"
+  }
+}

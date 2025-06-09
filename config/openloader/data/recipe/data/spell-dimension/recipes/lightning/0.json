@@ -1,0 +1,36 @@
+{
+  "type": "enchantment_infusion:simple_infusion",
+  "input": {
+    "item": "minecraft:enchanted_book"
+  },
+  "ingredients": [
+    {
+      "item": "spell-dimension:essence_lightning_0"
+    },
+    {
+      "item": "minecraft:lightning_rod"
+    },
+    {
+      "item": "spell-dimension:essence_lightning_0"
+    },
+    {
+      "item": "soulsweapons:moonstone"
+    },
+    {
+      "item": "spell-dimension:essence_lightning_0"
+    },
+    {
+      "item": "minecraft:lightning_rod"
+    },
+    {
+      "item": "spell-dimension:essence_lightning_0"
+    },
+    {
+      "item": "soulsweapons:moonstone"
+    }
+  ],
+  "output": {
+    "id": "spell-dimension:spell_book_lightning_0",
+    "Count": 1
+  }
+}

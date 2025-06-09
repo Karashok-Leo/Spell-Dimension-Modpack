@@ -1,0 +1,31 @@
+{
+  "type": "enchantment_infusion:simple_infusion",
+  "copy_nbt": false,
+  "ingredients": [
+    {
+      "item": "spell-dimension:essence_lightning_2"
+    },
+    {
+      "item": "spell-dimension:celestial_debris"
+    },
+    {
+      "item": "minecraft:nether_star"
+    },
+    {
+      "item": "l2hostility:void_eye"
+    },
+    {
+      "item": "mythicmetals:unobtainium"
+    },
+    {
+      "item": "bosses_of_mass_destruction:monolith_block"
+    }
+  ],
+  "input": {
+    "item": "l2hostility:force_field"
+  },
+  "output": {
+    "Count": 1,
+    "id": "spell-dimension:macro_electron"
+  }
+}

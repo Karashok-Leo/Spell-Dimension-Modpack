@@ -1,0 +1,25 @@
+{
+  "type": "enchantment_infusion:simple_infusion",
+  "copy_nbt": false,
+  "ingredients": [
+    {
+      "item": "spell-dimension:celestial_debris"
+    },
+    {
+      "item": "aquamirae:rune_of_the_storm"
+    },
+    {
+      "item": "dragonloot:dragon_trident"
+    },
+    {
+      "item": "l2hostility:guardian_eye"
+    }
+  ],
+  "input": {
+    "item": "l2hostility:storm_core"
+  },
+  "output": {
+    "Count": 1,
+    "id": "spell-dimension:electric_spark"
+  }
+}

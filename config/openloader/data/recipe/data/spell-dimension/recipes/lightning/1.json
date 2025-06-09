@@ -1,0 +1,36 @@
+{
+  "type": "enchantment_infusion:simple_infusion",
+  "input": {
+    "item": "spell-dimension:spell_book_lightning_0"
+  },
+  "ingredients": [
+    {
+      "item": "spell-dimension:essence_lightning_1"
+    },
+    {
+      "item": "things:item_magnet"
+    },
+    {
+      "item": "spell-dimension:essence_lightning_1"
+    },
+    {
+      "item": "plentyofarmors:stardusite_ingot"
+    },
+    {
+      "item": "spell-dimension:essence_lightning_1"
+    },
+    {
+      "item": "artifacts:shock_pendant"
+    },
+    {
+      "item": "spell-dimension:essence_lightning_1"
+    },
+    {
+      "item": "l2hostility:guardian_eye"
+    }
+  ],
+  "output": {
+    "id": "spell-dimension:spell_book_lightning_1",
+    "Count": 1
+  }
+}
