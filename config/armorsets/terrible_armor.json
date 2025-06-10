@@ -1,32 +1,32 @@
 {
-  "armorSetName": "kyber_armor",
+  "armorSetName": "terrible_armor",
   "performanceMode": true,
   "head": {
-    "itemKey": "mythicmetals:kyber_helmet"
+    "itemKey": "aquamirae:terrible_helmet"
   },
   "chest": {
-    "itemKey": "mythicmetals:kyber_chestplate"
+    "itemKey": "aquamirae:terrible_chestplate"
   },
   "legs": {
-    "itemKey": "mythicmetals:kyber_leggings"
+    "itemKey": "aquamirae:terrible_leggings"
   },
   "boots": {
-    "itemKey": "mythicmetals:kyber_boots"
+    "itemKey": "aquamirae:terrible_boots"
   },
   "fullSetBonuses": [
     {
       "type": "attribute",
       "name": "minecraft:generic.armor",
-      "value": 6.0,
-      "modifierUUID": "0a834814-b540-45e8-ba8e-44aeafe47fb7",
+      "value": 4.0,
+      "modifierUUID": "2ded3eba-404d-46a8-af73-9e78b1a4119f",
       "attributeOperation": 0,
       "interactionType": "self"
     },
     {
       "type": "attribute",
       "name": "spell_power:lightning",
-      "value": 12.0,
-      "modifierUUID": "3e74ca7c-3913-4642-908a-c9927adca1c0",
+      "value": 8.0,
+      "modifierUUID": "c7e34b62-06eb-4077-9d63-ecc1516c8956",
       "attributeOperation": 0,
       "interactionType": "self"
     }

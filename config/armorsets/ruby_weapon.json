@@ -13,18 +13,11 @@
   "fullSetBonuses": [
     {
       "type": "attribute",
-      "name": "spell_power:fire",
+      "name": "spell_power:soul",
       "value": 3.0,
       "modifierUUID": "1eed662a-9ecf-40ce-8598-d0eddffad5bc",
       "attributeOperation": 0,
       "interactionType": "self"
-    },
-    {
-      "type": "effect",
-      "name": "minecraft:mining_fatigue",
-      "value": 0.0,
-      "interactionType": "attack",
-      "interactionDuration": 20
     }
   ]
 }

@@ -1,0 +1,42 @@
+{
+    "armorSetName": "tidesinger_armor",
+    "performanceMode": true,
+    "head": {
+        "itemKey": "mythicmetals:tidesinger_helmet"
+    },
+    "chest": {
+        "itemKey": "mythicmetals:tidesinger_chestplate"
+    },
+    "legs": {
+        "itemKey": "mythicmetals:tidesinger_leggings"
+    },
+    "boots": {
+        "itemKey": "mythicmetals:tidesinger_boots"
+    },
+    "fullSetBonuses": [
+        {
+            "type": "attribute",
+            "name": "additionalentityattributes:generic.water_speed",
+            "value": 0.3,
+            "modifierUUID": "fe7f29b6-df61-4eb0-91c1-6f6fcb14d359",
+            "attributeOperation": 0,
+            "interactionType": "self"
+        },
+        {
+            "type": "attribute",
+            "name": "additionalentityattributes:player.water_visibility",
+            "value": 50.0,
+            "modifierUUID": "10208854-3ed9-482f-afa5-331bcf762dc0",
+            "attributeOperation": 0,
+            "interactionType": "self"
+        },
+        {
+            "type": "attribute",
+            "name": "spell_power:frost",
+            "value": 0.25,
+            "modifierUUID": "a042b0e5-453f-4135-8945-daed478fbd74",
+            "attributeOperation": 2,
+            "interactionType": "self"
+        }
+    ]
+}

@@ -1,32 +1,32 @@
 {
-  "armorSetName": "bronze_armor",
+  "armorSetName": "three_bolt_armor",
   "performanceMode": true,
   "head": {
-    "itemKey": "mythicmetals:bronze_helmet"
+    "itemKey": "aquamirae:three_bolt_helmet"
   },
   "chest": {
-    "itemKey": "mythicmetals:bronze_chestplate"
+    "itemKey": "aquamirae:three_bolt_suit"
   },
   "legs": {
-    "itemKey": "mythicmetals:bronze_leggings"
+    "itemKey": "aquamirae:three_bolt_leggings"
   },
   "boots": {
-    "itemKey": "mythicmetals:bronze_boots"
+    "itemKey": "aquamirae:three_bolt_boots"
   },
   "fullSetBonuses": [
     {
       "type": "attribute",
-      "name": "minecraft:generic.max_health",
-      "value": 6.0,
-      "modifierUUID": "748571f7-f38e-4f47-98e4-f45fdd24deef",
+      "name": "minecraft:generic.armor",
+      "value": 4.0,
+      "modifierUUID": "16727896-d44e-47e7-808b-6c63ddd951fb",
       "attributeOperation": 0,
       "interactionType": "self"
     },
     {
       "type": "attribute",
       "name": "spell_power:lightning",
-      "value": 4.0,
-      "modifierUUID": "a6c49db4-509d-4a2e-99eb-33729834604f",
+      "value": 10.0,
+      "modifierUUID": "21f2d0d3-6855-4e51-8d56-c479c53d4faa",
       "attributeOperation": 0,
       "interactionType": "self"
     },
@@ -34,7 +34,7 @@
       "type": "attribute",
       "name": "minecraft:generic.armor_toughness",
       "value": 2.0,
-      "modifierUUID": "a5d10c99-8c0f-4f33-b44a-98cc8572fa69",
+      "modifierUUID": "3949deae-ebea-4e2d-b65f-bb84d90e271c",
       "attributeOperation": 0,
       "interactionType": "self"
     }

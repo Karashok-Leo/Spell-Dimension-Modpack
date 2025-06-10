@@ -24,6 +24,14 @@
     },
     {
       "type": "attribute",
+      "name": "spell_power:lightning",
+      "value": 10.0,
+      "modifierUUID": "05d07b0f-d983-4ea9-a4a5-b300374bb7f5",
+      "attributeOperation": 0,
+      "interactionType": "self"
+    },
+    {
+      "type": "attribute",
       "name": "minecraft:generic.armor_toughness",
       "value": 4.0,
       "modifierUUID": "63738153-f14c-47ba-9f89-e4d204bfb7e8",

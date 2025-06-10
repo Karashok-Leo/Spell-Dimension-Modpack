@@ -1,0 +1,17 @@
+{
+  "armorSetName": "chaos_helmet",
+  "performanceMode": true,
+  "head": {
+    "itemKey": "soulsweapons:chaos_helmet"
+  },
+  "fullSetBonuses": [
+    {
+      "type": "attribute",
+      "name": "spell_power:soul",
+      "value": 0.2,
+      "modifierUUID": "db1ce7d3-a0c4-483d-a6f5-b9206696593a",
+      "attributeOperation": 1,
+      "interactionType": "self"
+    }
+  ]
+}

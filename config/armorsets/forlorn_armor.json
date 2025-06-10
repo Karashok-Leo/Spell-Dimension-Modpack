@@ -1,0 +1,26 @@
+{
+    "armorSetName": "forlorn_armor",
+    "performanceMode": true,
+    "head": {
+      "itemKey": "soulsweapons:forlorn_helmet"
+    },
+    "chest": {
+      "itemKey": "soulsweapons:forlorn_chestplate"
+    },
+    "legs": {
+      "itemKey": "soulsweapons:forlorn_leggings"
+    },
+    "boots": {
+      "itemKey": "soulsweapons:forlorn_boots"
+    },
+    "fullSetBonuses": [
+      {
+        "type": "attribute",
+        "name": "spell_power:soul",
+        "value": 6.0,
+        "modifierUUID": "9e229a3f-c428-459a-9677-dd6915127924",
+        "attributeOperation": 0,
+        "interactionType": "self"
+      }
+    ]
+  }

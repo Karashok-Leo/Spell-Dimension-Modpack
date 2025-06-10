@@ -1,0 +1,26 @@
+{
+  "armorSetName": "copper_armor",
+  "performanceMode": true,
+  "head": {
+    "itemKey": "plentyofarmors:copper_helmet"
+  },
+  "chest": {
+    "itemKey": "plentyofarmors:copper_chestplate"
+  },
+  "legs": {
+    "itemKey": "plentyofarmors:copper_leggings"
+  },
+  "boots": {
+    "itemKey": "plentyofarmors:copper_boots"
+  },
+  "fullSetBonuses": [
+    {
+      "type": "attribute",
+      "name": "spell_power:lightning",
+      "value": 4.0,
+      "modifierUUID": "a23bec17-a3f6-4a7b-a356-0fce524ff7cd",
+      "attributeOperation": 0,
+      "interactionType": "self"
+    }
+  ]
+}

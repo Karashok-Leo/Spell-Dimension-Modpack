@@ -1,0 +1,22 @@
+{
+  "armorSetName": "scythe",
+  "performanceMode": true,
+  "mainHand": {
+    "itemKey": "soulsweapons:forlorn_scythe",
+    "mixAndMatch": [
+      "soulsweapons:darkin_scythe_pre",
+      "soulsweapons:darkin_scythe",
+      "soulsweapons:shadow_assassin_scythe"
+    ]
+  },
+  "fullSetBonuses": [
+    {
+      "type": "attribute",
+      "name": "spell_power:soul",
+      "value": 6.0,
+      "modifierUUID": "ef6c7c69-ef71-48c0-a1b7-d41fc68a25d7",
+      "attributeOperation": 0,
+      "interactionType": "self"
+    }
+  ]
+}

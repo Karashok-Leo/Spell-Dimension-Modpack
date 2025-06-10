@@ -23,6 +23,14 @@
       "interactionType": "self"
     },
     {
+      "type": "attribute",
+      "name": "spell_power:lightning",
+      "value": 8.0,
+      "modifierUUID": "2979fe05-fdba-4a17-8698-61187a088fb2",
+      "attributeOperation": 0,
+      "interactionType": "self"
+    },
+    {
       "type": "effect",
       "name": "minecraft:saturation",
       "value": 2.0,

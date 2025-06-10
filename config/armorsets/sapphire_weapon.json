@@ -13,7 +13,7 @@
   "fullSetBonuses": [
     {
       "type": "attribute",
-      "name": "spell_power:frost",
+      "name": "spell_power:lightning",
       "value": 3.0,
       "modifierUUID": "373d4e70-834a-4966-97e4-bfd626098946",
       "attributeOperation": 0,

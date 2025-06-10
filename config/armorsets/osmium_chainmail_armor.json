@@ -1,0 +1,26 @@
+{
+  "armorSetName": "osmium_chainmail_armor",
+  "performanceMode": true,
+  "head": {
+    "itemKey": "mythicmetals:osmium_chainmail_helmet"
+  },
+  "chest": {
+    "itemKey": "mythicmetals:osmium_chainmail_chestplate"
+  },
+  "legs": {
+    "itemKey": "mythicmetals:osmium_chainmail_leggings"
+  },
+  "boots": {
+    "itemKey": "mythicmetals:osmium_chainmail_boots"
+  },
+  "fullSetBonuses": [
+    {
+      "type": "attribute",
+      "name": "spell_power:soul",
+      "value": 4.0,
+      "modifierUUID": "48a6883e-bc5f-4ac9-b0a3-c7d2e8756008",
+      "attributeOperation": 0,
+      "interactionType": "self"
+    }
+  ]
+}

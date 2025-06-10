@@ -1,32 +1,32 @@
 {
-    "armorSetName": "runite_armor",
+    "armorSetName": "soul_ingot_armor",
     "performanceMode": true,
     "head": {
-      "itemKey": "mythicmetals:runite_helmet"
+      "itemKey": "soulsweapons:soul_ingot_helmet"
     },
     "chest": {
-      "itemKey": "mythicmetals:runite_chestplate"
+      "itemKey": "soulsweapons:soul_ingot_chestplate"
     },
     "legs": {
-      "itemKey": "mythicmetals:runite_leggings"
+      "itemKey": "soulsweapons:soul_ingot_leggings"
     },
     "boots": {
-      "itemKey": "mythicmetals:runite_boots"
+      "itemKey": "soulsweapons:soul_ingot_boots"
     },
     "fullSetBonuses": [
       {
         "type": "attribute",
         "name": "spell_power:soul",
         "value": 6.0,
-        "modifierUUID": "7e1451ed-8970-40b2-832b-f2252c104f29",
+        "modifierUUID": "cf7463f3-fb83-4e7a-985e-688664720a79",
         "attributeOperation": 0,
         "interactionType": "self"
       },
       {
         "type": "attribute",
-        "name": "spell_power:critical_damage",
-        "value": 0.2,
-        "modifierUUID": "0603c5f3-9f94-4855-864a-43872c56d0c4",
+        "name": "spell_power:haste",
+        "value": 0.1,
+        "modifierUUID": "a8070de6-b775-4930-bd15-776be9993b18",
         "attributeOperation": 1,
         "interactionType": "self"
       }

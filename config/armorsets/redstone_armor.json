@@ -1,0 +1,26 @@
+{
+  "armorSetName": "redstone_armor",
+  "performanceMode": true,
+  "head": {
+    "itemKey": "plentyofarmors:redstone_helmet"
+  },
+  "chest": {
+    "itemKey": "plentyofarmors:redstone_chestplate"
+  },
+  "legs": {
+    "itemKey": "plentyofarmors:redstone_leggings"
+  },
+  "boots": {
+    "itemKey": "plentyofarmors:redstone_boots"
+  },
+  "fullSetBonuses": [
+    {
+      "type": "attribute",
+      "name": "spell_power:lightning",
+      "value": 5.0,
+      "modifierUUID": "4ebe7474-b587-4c29-9245-e3c4a773ab86",
+      "attributeOperation": 0,
+      "interactionType": "self"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "armorSetName": "hardened_ice_armor",
+  "performanceMode": true,
+  "head": {
+    "itemKey": "plentyofarmors:hardened_ice_helmet"
+  },
+  "chest": {
+    "itemKey": "plentyofarmors:hardened_ice_chestplate"
+  },
+  "legs": {
+    "itemKey": "plentyofarmors:hardened_ice_leggings"
+  },
+  "boots": {
+    "itemKey": "plentyofarmors:hardened_ice_boots"
+  },
+  "fullSetBonuses": [
+    {
+      "type": "attribute",
+      "name": "spell_power:frost",
+      "value": 5.0,
+      "modifierUUID": "5badf4f2-2e3d-49cc-b953-279d48bb05ad",
+      "attributeOperation": 0,
+      "interactionType": "self"
+    }
+  ]
+}

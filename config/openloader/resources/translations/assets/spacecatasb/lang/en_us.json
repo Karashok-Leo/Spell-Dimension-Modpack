@@ -59,5 +59,17 @@
 	"tooltip.translation.spacecatasb.settitle.topaz_armor": "Topaz Armor",
 	"tooltip.translation.spacecatasb.settitle.topaz_weapon": "Topaz Weapon",
 	"tooltip.translation.spacecatasb.settitle.warden_armor": "Warden Armor",
-	"tooltip.translation.spacecatasb.settitle.warden_weapon": "Warden Weapon"
+	"tooltip.translation.spacecatasb.settitle.warden_weapon": "Warden Weapon",
+	"tooltip.translation.spacecatasb.settitle.chaos_helmet": "Chaos Helmet",
+	"tooltip.translation.spacecatasb.settitle.copper_armor": "Copper Armor",
+	"tooltip.translation.spacecatasb.settitle.forlorn_armor": "Forlorn Armor",
+	"tooltip.translation.spacecatasb.settitle.hardened_ice": "Hardened Ice Armor",
+	"tooltip.translation.spacecatasb.settitle.osmium_chainmail_armor": "Osmium Chainmail Armor",
+	"tooltip.translation.spacecatasb.settitle.phantom_armor": "Phantom Armor",
+	"tooltip.translation.spacecatasb.settitle.redstone_armor": "Redstone Armor",
+	"tooltip.translation.spacecatasb.settitle.scythe": "Scythe",
+	"tooltip.translation.spacecatasb.settitle.soul_ingot_armor": "Soul Ingot Armor",
+	"tooltip.translation.spacecatasb.settitle.terrible_armor": "Terrible Armor",
+	"tooltip.translation.spacecatasb.settitle.three_bolt_armor": "Three-Bolt Armor",
+	"tooltip.translation.spacecatasb.settitle.tidesinger_armor": "Tidesinger Armor"
 }
