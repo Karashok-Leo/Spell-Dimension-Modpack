@@ -1,13 +1,13 @@
 name = "ATi Structures"
-filename = "ati_structures_1.3.0_fabric_1.20.jar"
+filename = "ATi Structures V1.4.0 (1.20+).jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "7ccf72d6e7a829665c679920184b932fb92d6ed7"
+hash = "41dc7d34e0a23ce46995501b26f4e0fe549c478d"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6155381
+file-id = 6660912
 project-id = 964608

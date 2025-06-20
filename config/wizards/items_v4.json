@@ -178,11 +178,6 @@
             "operation": "ADDITION"
           },
           {
-            "id": "spell_power:arcane",
-            "value": 0.25,
-            "operation": "MULTIPLY_BASE"
-          },
-          {
             "id": "spell_power:haste",
             "value": 0.05,
             "operation": "MULTIPLY_BASE"
@@ -196,11 +191,6 @@
             "id": "spell_power:arcane",
             "value": 3.0,
             "operation": "ADDITION"
-          },
-          {
-            "id": "spell_power:arcane",
-            "value": 0.25,
-            "operation": "MULTIPLY_BASE"
           },
           {
             "id": "spell_power:haste",
@@ -218,11 +208,6 @@
             "operation": "ADDITION"
           },
           {
-            "id": "spell_power:arcane",
-            "value": 0.25,
-            "operation": "MULTIPLY_BASE"
-          },
-          {
             "id": "spell_power:haste",
             "value": 0.05,
             "operation": "MULTIPLY_BASE"
@@ -236,11 +221,6 @@
             "id": "spell_power:arcane",
             "value": 3.0,
             "operation": "ADDITION"
-          },
-          {
-            "id": "spell_power:arcane",
-            "value": 0.25,
-            "operation": "MULTIPLY_BASE"
           },
           {
             "id": "spell_power:haste",
@@ -262,11 +242,6 @@
             "operation": "ADDITION"
           },
           {
-            "id": "spell_power:fire",
-            "value": 0.25,
-            "operation": "MULTIPLY_BASE"
-          },
-          {
             "id": "spell_power:haste",
             "value": 0.05,
             "operation": "MULTIPLY_BASE"
@@ -280,11 +255,6 @@
             "id": "spell_power:fire",
             "value": 3.0,
             "operation": "ADDITION"
-          },
-          {
-            "id": "spell_power:fire",
-            "value": 0.25,
-            "operation": "MULTIPLY_BASE"
           },
           {
             "id": "spell_power:haste",
@@ -302,11 +272,6 @@
             "operation": "ADDITION"
           },
           {
-            "id": "spell_power:fire",
-            "value": 0.25,
-            "operation": "MULTIPLY_BASE"
-          },
-          {
             "id": "spell_power:haste",
             "value": 0.05,
             "operation": "MULTIPLY_BASE"
@@ -320,11 +285,6 @@
             "id": "spell_power:fire",
             "value": 3.0,
             "operation": "ADDITION"
-          },
-          {
-            "id": "spell_power:fire",
-            "value": 0.25,
-            "operation": "MULTIPLY_BASE"
           },
           {
             "id": "spell_power:haste",
@@ -346,11 +306,6 @@
             "operation": "ADDITION"
           },
           {
-            "id": "spell_power:frost",
-            "value": 0.25,
-            "operation": "MULTIPLY_BASE"
-          },
-          {
             "id": "spell_power:haste",
             "value": 0.05,
             "operation": "MULTIPLY_BASE"
@@ -364,11 +319,6 @@
             "id": "spell_power:frost",
             "value": 3.0,
             "operation": "ADDITION"
-          },
-          {
-            "id": "spell_power:frost",
-            "value": 0.25,
-            "operation": "MULTIPLY_BASE"
           },
           {
             "id": "spell_power:haste",
@@ -386,11 +336,6 @@
             "operation": "ADDITION"
           },
           {
-            "id": "spell_power:frost",
-            "value": 0.25,
-            "operation": "MULTIPLY_BASE"
-          },
-          {
             "id": "spell_power:haste",
             "value": 0.05,
             "operation": "MULTIPLY_BASE"
@@ -404,11 +349,6 @@
             "id": "spell_power:frost",
             "value": 3.0,
             "operation": "ADDITION"
-          },
-          {
-            "id": "spell_power:frost",
-            "value": 0.25,
-            "operation": "MULTIPLY_BASE"
           },
           {
             "id": "spell_power:haste",
@@ -566,61 +506,61 @@
       "armor_toughness": 0.0,
       "knockback_resistance": 0.0,
       "head": {
-        "armor": 1,
+        "armor": 3,
         "attributes": [
           {
             "id": "spell_power:arcane",
-            "value": 0.03,
-            "operation": "MULTIPLY_BASE"
+            "value": 5,
+            "operation": "ADDITION"
           },
           {
             "id": "spell_power:haste",
-            "value": 0.03,
+            "value": 0.05,
             "operation": "MULTIPLY_BASE"
           }
         ]
       },
       "chest": {
-        "armor": 3,
+        "armor": 8,
         "attributes": [
           {
             "id": "spell_power:arcane",
-            "value": 0.03,
-            "operation": "MULTIPLY_BASE"
+            "value": 5,
+            "operation": "ADDITION"
           },
           {
             "id": "spell_power:haste",
-            "value": 0.03,
+            "value": 0.05,
             "operation": "MULTIPLY_BASE"
           }
         ]
       },
       "legs": {
-        "armor": 2,
+        "armor": 6,
         "attributes": [
           {
             "id": "spell_power:arcane",
-            "value": 0.03,
-            "operation": "MULTIPLY_BASE"
+            "value": 5,
+            "operation": "ADDITION"
           },
           {
             "id": "spell_power:haste",
-            "value": 0.03,
+            "value": 0.05,
             "operation": "MULTIPLY_BASE"
           }
         ]
       },
       "feet": {
-        "armor": 1,
+        "armor": 3,
         "attributes": [
           {
             "id": "spell_power:arcane",
-            "value": 0.03,
-            "operation": "MULTIPLY_BASE"
+            "value": 5,
+            "operation": "ADDITION"
           },
           {
             "id": "spell_power:haste",
-            "value": 0.03,
+            "value": 0.05,
             "operation": "MULTIPLY_BASE"
           }
         ]
@@ -630,61 +570,61 @@
       "armor_toughness": 0.0,
       "knockback_resistance": 0.0,
       "head": {
-        "armor": 1,
+        "armor": 3,
         "attributes": [
           {
             "id": "spell_power:fire",
-            "value": 0.03,
-            "operation": "MULTIPLY_BASE"
+            "value": 5,
+            "operation": "ADDITION"
           },
           {
-            "id": "spell_power:critical_chance",
-            "value": 0.02,
+            "id": "spell_power:haste",
+            "value": 0.05,
             "operation": "MULTIPLY_BASE"
           }
         ]
       },
       "chest": {
-        "armor": 3,
+        "armor": 8,
         "attributes": [
           {
             "id": "spell_power:fire",
-            "value": 0.03,
-            "operation": "MULTIPLY_BASE"
+            "value": 5,
+            "operation": "ADDITION"
           },
           {
-            "id": "spell_power:critical_chance",
-            "value": 0.02,
+            "id": "spell_power:haste",
+            "value": 0.05,
             "operation": "MULTIPLY_BASE"
           }
         ]
       },
       "legs": {
-        "armor": 2,
+        "armor": 6,
         "attributes": [
           {
             "id": "spell_power:fire",
-            "value": 0.03,
-            "operation": "MULTIPLY_BASE"
+            "value": 5,
+            "operation": "ADDITION"
           },
           {
-            "id": "spell_power:critical_chance",
-            "value": 0.02,
+            "id": "spell_power:haste",
+            "value": 0.05,
             "operation": "MULTIPLY_BASE"
           }
         ]
       },
       "feet": {
-        "armor": 1,
+        "armor": 3,
         "attributes": [
           {
             "id": "spell_power:fire",
-            "value": 0.03,
-            "operation": "MULTIPLY_BASE"
+            "value": 5,
+            "operation": "ADDITION"
           },
           {
-            "id": "spell_power:critical_chance",
-            "value": 0.02,
+            "id": "spell_power:haste",
+            "value": 0.05,
             "operation": "MULTIPLY_BASE"
           }
         ]
@@ -694,61 +634,61 @@
       "armor_toughness": 0.0,
       "knockback_resistance": 0.0,
       "head": {
-        "armor": 1,
+        "armor": 3,
         "attributes": [
           {
             "id": "spell_power:frost",
-            "value": 0.03,
-            "operation": "MULTIPLY_BASE"
+            "value": 5,
+            "operation": "ADDITION"
           },
           {
-            "id": "spell_power:critical_damage",
-            "value": 0.1,
+            "id": "spell_power:haste",
+            "value": 0.05,
             "operation": "MULTIPLY_BASE"
           }
         ]
       },
       "chest": {
-        "armor": 3,
+        "armor": 8,
         "attributes": [
           {
             "id": "spell_power:frost",
-            "value": 0.03,
-            "operation": "MULTIPLY_BASE"
+            "value": 5,
+            "operation": "ADDITION"
           },
           {
-            "id": "spell_power:critical_damage",
-            "value": 0.1,
+            "id": "spell_power:haste",
+            "value": 0.05,
             "operation": "MULTIPLY_BASE"
           }
         ]
       },
       "legs": {
-        "armor": 2,
+        "armor": 6,
         "attributes": [
           {
             "id": "spell_power:frost",
-            "value": 0.03,
-            "operation": "MULTIPLY_BASE"
+            "value": 5,
+            "operation": "ADDITION"
           },
           {
-            "id": "spell_power:critical_damage",
-            "value": 0.1,
+            "id": "spell_power:haste",
+            "value": 0.05,
             "operation": "MULTIPLY_BASE"
           }
         ]
       },
       "feet": {
-        "armor": 1,
+        "armor": 3,
         "attributes": [
           {
             "id": "spell_power:frost",
-            "value": 0.03,
-            "operation": "MULTIPLY_BASE"
+            "value": 5,
+            "operation": "ADDITION"
           },
           {
-            "id": "spell_power:critical_damage",
-            "value": 0.1,
+            "id": "spell_power:haste",
+            "value": 0.05,
             "operation": "MULTIPLY_BASE"
           }
         ]

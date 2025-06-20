@@ -98,6 +98,8 @@
 		"hostilitySpawnLevelFactor": 2
 	},
 	"items": {
+		// Allow Bottle of Sanity to clear dimension difficulty
+		"bottleOfSanityClearDimensions": false,
 		// Number of level to add when using bottle of curse
 		"bottleOfCurseLevel": 50,
 		// Minimum duration for witch charge to be effective, in ticks
@@ -128,7 +130,7 @@
 			// Hostility loot drop factor when using Curse of Greed
 			"greedDropFactor": 2.0,
 			// Trait item drop rate per rank when using Curse of Envy
-			"envyDropRate": 0.02,
+			"envyDropRate": 0.1,
 			// Bottle of Curse drop rate per level when using Curse of Gluttony
 			"gluttonyBottleDropRate": 0.02,
 			// Damage bonus per level difference when using Curse of Wrath

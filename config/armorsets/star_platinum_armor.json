@@ -24,8 +24,8 @@
     },
     {
       "type": "attribute",
-      "name": "minecraft:generic.armor",
-      "value": 10.0,
+      "name": "spell_power:lightning",
+      "value": 12.0,
       "modifierUUID": "633af2f4-94eb-4d9e-bbcd-3c5fa657872b",
       "attributeOperation": 0,
       "interactionType": "self"

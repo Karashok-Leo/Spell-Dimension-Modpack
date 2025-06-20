@@ -34,10 +34,12 @@
 		"cooldown_ticks_from_waystone": 0
 	},
 	"disable_teleportation_from_dimensions": [
-		"spell-dimension:ocean_of_consciousness"
+		"spell-dimension:ocean_of_consciousness",
+		"dungeonz:dungeon"
 	],
 	"disable_teleportation_to_dimensions": [
-		"spell-dimension:ocean_of_consciousness"
+		"spell-dimension:ocean_of_consciousness",
+		"dungeonz:dungeon"
 	],
 	"ignore_dimension_blacklists_if_same_dimension": true,
 	"add_waystone_structure_piece": {

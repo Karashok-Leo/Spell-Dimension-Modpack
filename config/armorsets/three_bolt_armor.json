@@ -16,9 +16,9 @@
   "fullSetBonuses": [
     {
       "type": "attribute",
-      "name": "minecraft:generic.armor",
-      "value": 4.0,
-      "modifierUUID": "16727896-d44e-47e7-808b-6c63ddd951fb",
+      "name": "spell_power:frost",
+      "value": 10.0,
+      "modifierUUID": "21f2d0d3-6855-4e51-8d56-c479c53d4faa",
       "attributeOperation": 0,
       "interactionType": "self"
     },
@@ -26,7 +26,7 @@
       "type": "attribute",
       "name": "spell_power:lightning",
       "value": 10.0,
-      "modifierUUID": "21f2d0d3-6855-4e51-8d56-c479c53d4faa",
+      "modifierUUID": "1b25257d-bcf6-4cc0-9fb9-4fc1aad09c63",
       "attributeOperation": 0,
       "interactionType": "self"
     },

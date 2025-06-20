@@ -3,7 +3,7 @@
   "pattern": [
   	"PCP",
     "cDc",
-    "PEP"
+    "PCP"
   ],
   "key": {
   	"P": {
@@ -17,9 +17,6 @@
     },
     "C": {
       "item": "minecraft:redstone"
-    },
-    "E": {
-      "item": "minecraft:ender_pearl"
     }
   },
   "result": {

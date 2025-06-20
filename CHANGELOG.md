@@ -1,5 +1,93 @@
 # Change Log
 
+## 0.7.0 - 2025.6.20
+##### Warning
+- Due to the change in the storage format of Enchanted Essence modifiers, Enchanted modified items of the old saves will be invalidated. When holding invalidated items in your mainhand, you can migrate the old format to the new version by typing the command `/spell_dimension convert_modifiers`.
+##### Added
+- New Spell School: Lightning
+- New Spells:
+    - Chain Lightning
+    - Surge
+    - Arclight
+    - Steady Current
+    - Constant Current
+    - Fission
+    - Resonance
+    - Breakdown
+    - Thunderbolt
+    - Quantum Field
+    - Ball Lightning
+    - Closed Loop
+    - Railgun
+- New Items
+    - Spell Container: Attempt to void spell traits, converting them to damage reduction amount for the corresponding spell school.
+    - Superconductor
+    - Macro Electron
+    - Electric Spark
+    - Lightning Wand
+    - Netherite Lightning Wand
+    - Lightning Staff
+    - Netherite Lightning Staff
+    - Lightning Robe
+    - Netherite Lightning Robe
+- New Enchantments
+    - Dash Resistance
+    - Anti-Adaption
+- New recipes: Vanishing Curse, Shock Pendant
+- New compat layer: now you can search for the names of the possible targets of Spell Locate target in EMI/REI to look up the recipes.
+- New health mechanic: gain max health by getting advancements
+- Skippable quests
+    - Spell Binding
+    - Tier 1 Alloy Forge
+    - Kill Mutant Monsters
+- 12 new sets of armor set bonuses
+- Constant Music
+- More Mob Variants Fix
+##### Changed
+- Updated some mods
+- Modified some recipes
+    - Bottle of Curse->Hostility Essence: chance 1/512->1/64
+    - Advanced Frost Spell Book：Permafrost Stone->Imagine Breaker
+    - Storage Connector: Ender Pearl->Redstone
+    - Spell Prism, Spell Tearing, Void Touch
+    - and so on...
+- Spell Tearing now can be obtained from loot
+- Significantly increase the drop chance of Enchanted Essence, Enlightening Essence and Mending Essence
+- Drop chance of traits wearing Envy Curse: 2%->10%
+- Reworked mechanics of Flicker Breastplate:
+    - Initially gains 80% dodge chance, reduced by 1% for every 1 level of enchantment on your equipments, down to 10% minimum
+    - Can be upgraded after only 100 rolls
+    - Upgrade with Captured Shulker Bullet
+- Optimized the query of Enchanted Essence in EMI/REI
+- Reduced the spell power bonus of spell traits, no longer positively correlates with hostility level, only with trait level
+- Ring of Divinity: damage took no more than 80%->40% of your max health, reduce 50%->60% damage, and can't be penetrated by Dispell
+- Netherite Robe armor->3/8/6/3
+- No longer allowed to use waystone to enter and exit dungeon dimension
+- The number of Ocean of Consciousness invasion event rewards is now positively correlated with the difficulty factor
+- The Eye now drop Prime Eye again if you kill it again
+- Dispell can't seal Eternal and Immune enchantments
+- T3/T4 Bosses will not have trait Regenerate
+- T0/T1/T2/T3 Boss base health: 800/700/600/500->600/550/500/450
+- Ravager base health: 200
+- 9 sets of armor set bonuses
+- Bottle of Sanity can no longer clear the dimensional difficulty bonus
+- Resourcepacks applied by default
+- The range of the black hole cast by Ender Dragon changed to 6, and it will not spawn repeatedly in the same location
+- Tool items and Shields (including Swords and Wands) become "Broken Item" like armor when broken.
+##### Removed
+- Nuke Spawn Egg in ATI Structures
+##### Fixed
+- Slot restriction of Enchanted Essence Modifier
+- Recipe of Glacial Nuclear Era
+- Bug that difficulty tier limited items could not be placed as ingredients on the infusion pedestals
+- Extreme lagging that can be caused by Reflect trait
+- Bug that Pocket of Restoration can't automatically put the trinkets back to its original position
+- Missing textures for wolves in certain biomes (purple and black wolves)
+- Missing tags of some equipments
+- Bug that some spells could not target Ender Dragon
+- Bug with Fire of Retribution not burning traits
+- Use animation of Medal
+
 ## 0.6.4 - 2025.5.1
 ##### Warning
 - Due to the removal of Simply Swords, please handle the items belonging to this mod properly before migrating your saves

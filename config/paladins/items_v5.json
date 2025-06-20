@@ -158,7 +158,7 @@
       "armor_toughness": 0.0,
       "knockback_resistance": 0.0,
       "head": {
-        "armor": 3,
+        "armor": 2,
         "attributes": [
           {
             "id": "spell_power:healing",
@@ -168,7 +168,7 @@
         ]
       },
       "chest": {
-        "armor": 8,
+        "armor": 4,
         "attributes": [
           {
             "id": "spell_power:healing",
@@ -178,7 +178,7 @@
         ]
       },
       "legs": {
-        "armor": 6,
+        "armor": 3,
         "attributes": [
           {
             "id": "spell_power:healing",
@@ -188,7 +188,7 @@
         ]
       },
       "feet": {
-        "armor": 3,
+        "armor": 2,
         "attributes": [
           {
             "id": "spell_power:healing",
@@ -202,17 +202,12 @@
       "armor_toughness": 0.0,
       "knockback_resistance": 0.0,
       "head": {
-        "armor": 1,
+        "armor": 2,
         "attributes": [
           {
             "id": "spell_power:healing",
             "value": 3.0,
             "operation": "ADDITION"
-          },
-          {
-            "id": "spell_power:healing",
-            "value": 0.3,
-            "operation": "MULTIPLY_BASE"
           },
           {
             "id": "spell_power:haste",
@@ -222,17 +217,12 @@
         ]
       },
       "chest": {
-        "armor": 3,
+        "armor": 4,
         "attributes": [
           {
             "id": "spell_power:healing",
             "value": 3.0,
             "operation": "ADDITION"
-          },
-          {
-            "id": "spell_power:healing",
-            "value": 0.3,
-            "operation": "MULTIPLY_BASE"
           },
           {
             "id": "spell_power:haste",
@@ -242,17 +232,12 @@
         ]
       },
       "legs": {
-        "armor": 2,
+        "armor": 3,
         "attributes": [
           {
             "id": "spell_power:healing",
             "value": 3.0,
             "operation": "ADDITION"
-          },
-          {
-            "id": "spell_power:healing",
-            "value": 0.3,
-            "operation": "MULTIPLY_BASE"
           },
           {
             "id": "spell_power:haste",
@@ -262,17 +247,12 @@
         ]
       },
       "feet": {
-        "armor": 1,
+        "armor": 2,
         "attributes": [
           {
             "id": "spell_power:healing",
             "value": 3.0,
             "operation": "ADDITION"
-          },
-          {
-            "id": "spell_power:healing",
-            "value": 0.3,
-            "operation": "MULTIPLY_BASE"
           },
           {
             "id": "spell_power:haste",
@@ -294,11 +274,6 @@
             "operation": "ADDITION"
           },
           {
-            "id": "spell_power:healing",
-            "value": 0.25,
-            "operation": "MULTIPLY_BASE"
-          },
-          {
             "id": "spell_power:haste",
             "value": 0.05,
             "operation": "MULTIPLY_BASE"
@@ -312,11 +287,6 @@
             "id": "spell_power:healing",
             "value": 3.0,
             "operation": "ADDITION"
-          },
-          {
-            "id": "spell_power:healing",
-            "value": 0.25,
-            "operation": "MULTIPLY_BASE"
           },
           {
             "id": "spell_power:haste",
@@ -370,17 +340,12 @@
       "armor_toughness": 0.0,
       "knockback_resistance": 0.0,
       "head": {
-        "armor": 2,
+        "armor": 1,
         "attributes": [
           {
             "id": "spell_power:healing",
             "value": 3.0,
             "operation": "ADDITION"
-          },
-          {
-            "id": "spell_power:healing",
-            "value": 0.25,
-            "operation": "MULTIPLY_BASE"
           },
           {
             "id": "spell_power:haste",
@@ -390,17 +355,12 @@
         ]
       },
       "chest": {
-        "armor": 6,
+        "armor": 3,
         "attributes": [
           {
             "id": "spell_power:healing",
             "value": 3.0,
             "operation": "ADDITION"
-          },
-          {
-            "id": "spell_power:healing",
-            "value": 0.25,
-            "operation": "MULTIPLY_BASE"
           },
           {
             "id": "spell_power:haste",
@@ -410,17 +370,12 @@
         ]
       },
       "legs": {
-        "armor": 5,
+        "armor": 2,
         "attributes": [
           {
             "id": "spell_power:healing",
             "value": 3.0,
             "operation": "ADDITION"
-          },
-          {
-            "id": "spell_power:healing",
-            "value": 0.25,
-            "operation": "MULTIPLY_BASE"
           },
           {
             "id": "spell_power:haste",
@@ -430,17 +385,12 @@
         ]
       },
       "feet": {
-        "armor": 2,
+        "armor": 1,
         "attributes": [
           {
             "id": "spell_power:healing",
             "value": 3.0,
             "operation": "ADDITION"
-          },
-          {
-            "id": "spell_power:healing",
-            "value": 0.25,
-            "operation": "MULTIPLY_BASE"
           },
           {
             "id": "spell_power:haste",
@@ -458,13 +408,13 @@
         "attributes": [
           {
             "id": "spell_power:healing",
-            "value": 0.03,
-            "operation": "MULTIPLY_BASE"
+            "value": 5,
+            "operation": "ADDITION"
           },
           {
-            "id": "minecraft:generic.armor_toughness",
-            "value": 2.0,
-            "operation": "ADDITION"
+            "id": "spell_power:haste",
+            "value": 0.05,
+            "operation": "MULTIPLY_BASE"
           }
         ]
       },
@@ -473,13 +423,13 @@
         "attributes": [
           {
             "id": "spell_power:healing",
-            "value": 0.03,
-            "operation": "MULTIPLY_BASE"
+            "value": 5,
+            "operation": "ADDITION"
           },
           {
-            "id": "minecraft:generic.armor_toughness",
-            "value": 2.0,
-            "operation": "ADDITION"
+            "id": "spell_power:haste",
+            "value": 0.05,
+            "operation": "MULTIPLY_BASE"
           }
         ]
       },
@@ -488,13 +438,13 @@
         "attributes": [
           {
             "id": "spell_power:healing",
-            "value": 0.03,
-            "operation": "MULTIPLY_BASE"
+            "value": 5,
+            "operation": "ADDITION"
           },
           {
-            "id": "minecraft:generic.armor_toughness",
-            "value": 2.0,
-            "operation": "ADDITION"
+            "id": "spell_power:haste",
+            "value": 0.05,
+            "operation": "MULTIPLY_BASE"
           }
         ]
       },
@@ -503,13 +453,13 @@
         "attributes": [
           {
             "id": "spell_power:healing",
-            "value": 0.03,
-            "operation": "MULTIPLY_BASE"
+            "value": 5,
+            "operation": "ADDITION"
           },
           {
-            "id": "minecraft:generic.armor_toughness",
-            "value": 2.0,
-            "operation": "ADDITION"
+            "id": "spell_power:haste",
+            "value": 0.05,
+            "operation": "MULTIPLY_BASE"
           }
         ]
       }
@@ -518,12 +468,12 @@
       "armor_toughness": 0.0,
       "knockback_resistance": 0.0,
       "head": {
-        "armor": 1,
+        "armor": 3,
         "attributes": [
           {
             "id": "spell_power:healing",
-            "value": 0.03,
-            "operation": "MULTIPLY_BASE"
+            "value": 5,
+            "operation": "ADDITION"
           },
           {
             "id": "spell_power:haste",
@@ -533,12 +483,12 @@
         ]
       },
       "chest": {
-        "armor": 3,
+        "armor": 8,
         "attributes": [
           {
             "id": "spell_power:healing",
-            "value": 0.03,
-            "operation": "MULTIPLY_BASE"
+            "value": 5,
+            "operation": "ADDITION"
           },
           {
             "id": "spell_power:haste",
@@ -548,12 +498,12 @@
         ]
       },
       "legs": {
-        "armor": 2,
+        "armor": 6,
         "attributes": [
           {
             "id": "spell_power:healing",
-            "value": 0.03,
-            "operation": "MULTIPLY_BASE"
+            "value": 5,
+            "operation": "ADDITION"
           },
           {
             "id": "spell_power:haste",
@@ -563,12 +513,12 @@
         ]
       },
       "feet": {
-        "armor": 1,
+        "armor": 3,
         "attributes": [
           {
             "id": "spell_power:healing",
-            "value": 0.03,
-            "operation": "MULTIPLY_BASE"
+            "value": 5,
+            "operation": "ADDITION"
           },
           {
             "id": "spell_power:haste",

@@ -1,0 +1,36 @@
+{
+  "type": "enchantment_infusion:enchantment_infusion",
+  "enchantment": "l2hostility:void_touch",
+  "force": false,
+  "ingredients": [
+    {
+      "item": "l2hostility:void_eye"
+    },
+    {
+      "item": "l2hostility:void_eye"
+    },
+    {
+      "item": "l2hostility:sun_membrane"
+    },
+    {
+      "item": "l2hostility:sun_membrane"
+    },
+    {
+      "item": "l2hostility:resonant_feather"
+    },
+    {
+      "item": "l2hostility:resonant_feather"
+    },
+    {
+      "item": "l2hostility:miracle_ingot"
+    },
+    {
+      "item": "l2hostility:eternium_ingot"
+    }
+  ],
+  "input": {
+    "enchantment": "l2hostility:void_touch",
+    "min_level": 0
+  },
+  "level": 1
+}

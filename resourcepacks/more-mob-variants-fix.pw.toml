@@ -1,0 +1,13 @@
+name = "More Mob Variants - FIX"
+filename = "MoreMobVariants_FIX.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4e8619396c80b7e30902912650e4bcb1dff42255"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6171206
+project-id = 1159637

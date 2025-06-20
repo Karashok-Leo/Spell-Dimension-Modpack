@@ -1,6 +1,7 @@
 name = "Zoomify"
 filename = "Zoomify-2.14.2+1.20.1.jar"
 side = "client"
+pin = true
 
 [download]
 hash-format = "sha1"

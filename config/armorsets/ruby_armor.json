@@ -16,7 +16,7 @@
   "fullSetBonuses": [
     {
       "type": "attribute",
-      "name": "spell_power:fire",
+      "name": "spell_power:soul",
       "value": 8.0,
       "modifierUUID": "6c0cf945-f21b-44ed-b032-2db5cd7729f0",
       "attributeOperation": 0,
@@ -24,7 +24,7 @@
     },
     {
       "type": "effect",
-      "name": "minecraft:fire_resistance",
+      "name": "minecraft:invisibility",
       "value": 0.0,
       "interactionType": "self",
       "interactionDuration": 300

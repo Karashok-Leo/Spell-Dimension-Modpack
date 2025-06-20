@@ -42,15 +42,23 @@ hash = "5454a753594270d8710584122805919e0c392ff669f8ea8de7f6f60025d48ee4"
 
 [[files]]
 file = "config/armorsets/bronze_armor.json"
-hash = "43d93cf2ccb7916f1a06d76e1afb3e0c2b30035e9dbcc3975b56ed47133948ea"
+hash = "54bc22561304d109c08e1b0c29b13a5275010f0dec57ef8c2f0bdac584d5ebc9"
 
 [[files]]
 file = "config/armorsets/carmot_armor.json"
-hash = "f9a8738d018a28ad9c2933e1ce132aefe4ab5fc04da320f682799e8ec5ff76da"
+hash = "96b4a45c0d76f3173bd0a182e7562bc35925f962f3ecde8810a146e8aefc1551"
 
 [[files]]
 file = "config/armorsets/celestium_armor.json"
 hash = "6e247b2f79420c95e5f325b960543dcb580eab21ed69d4992665b282ec755c98"
+
+[[files]]
+file = "config/armorsets/chaos_helmet.json"
+hash = "f465502f9aacd9c41e7f0229722fcb85a040483db7e25082777e845f28e2f7e5"
+
+[[files]]
+file = "config/armorsets/copper_armor.json"
+hash = "3b4cc43fdc28053d39dfb591dae8f677434b9b1f3c4020cfdc0607d3afef0c30"
 
 [[files]]
 file = "config/armorsets/crying_obsidian_armor.json"
@@ -85,6 +93,10 @@ file = "config/armorsets/ender_netherite_armor.json"
 hash = "82cb0c66928ca6762c96725dbe92a111d1a2dca77060745fa0010348242da558"
 
 [[files]]
+file = "config/armorsets/forlorn_armor.json"
+hash = "0928f9d7d646b840c493acc51644c48a1112d9a3d21fea056b4b4b90c0d5eb60"
+
+[[files]]
 file = "config/armorsets/frozen_diamond_armor.json"
 hash = "2519466bf1b3cad8346aa37dc23ee7c44ac9d98d2dc008b006900259c4d8a96c"
 
@@ -97,6 +109,10 @@ file = "config/armorsets/hallowed_armor.json"
 hash = "cea82c3c53729c3f9986f2068e6e65c35993804e029ce18e08c4ed2355dfcf3e"
 
 [[files]]
+file = "config/armorsets/hardened_ice_armor.json"
+hash = "965a0dba940c45c9bd53cacd136b9c390487554d48136594a917a6d7329ce7c7"
+
+[[files]]
 file = "config/armorsets/jade_armor.json"
 hash = "b2c64c4ca9205a874b33caffbd403afcaa6b8c2448d1131b45c67b61c892a3e5"
 
@@ -106,7 +122,7 @@ hash = "2d3be2cafce014d54c6c409da1f1f1c787077f695926817c74d364b879d3a99f"
 
 [[files]]
 file = "config/armorsets/kyber_armor.json"
-hash = "cfe76cd6e50c40b3c23374e7313fdaeb635bdac3036f6e799146c0094ee3de60"
+hash = "0c9c993c7c9022ab32e39d4f466fd2fe17d6c3b14f6fc6c6ca5399221230fd1d"
 
 [[files]]
 file = "config/armorsets/legendary_banglum_armor.json"
@@ -141,6 +157,10 @@ file = "config/armorsets/orichalcum_armor.json"
 hash = "d44f92d8e69d7109732bc94444779984219d94448cadbc8013111641390f2bb6"
 
 [[files]]
+file = "config/armorsets/osmium_chainmail_armor.json"
+hash = "b0b5fcc869f96168a68050c13bd5f85d95d115b12f55b3ef6760c5d279d16a13"
+
+[[files]]
 file = "config/armorsets/palladium_armor.json"
 hash = "f5da717c0d55e5e21d77624dee280e125861d8df7f47db2af7f38005bc75f498"
 
@@ -153,32 +173,48 @@ file = "config/armorsets/peridot_weapon.json"
 hash = "a9cec64c51d9223297a7409b130b92aab57b4a1521cd77d5df8188d8e36d0414"
 
 [[files]]
+file = "config/armorsets/phantom_armor.json"
+hash = "a26ee5599dc11e8842d49d902626b3b2ab71366fac25f9cb1213b794bd62fd61"
+
+[[files]]
 file = "config/armorsets/prometheum_armor.json"
 hash = "caf2544ad07368cad41a6811b9354b766b325b33145a1adb5ab0233c8de373cb"
 
 [[files]]
+file = "config/armorsets/redstone_armor.json"
+hash = "7c1e662e76fcbb4c1a4b4b662e3c99dca6e2945ae5be42fba591ecd9c038a0d5"
+
+[[files]]
 file = "config/armorsets/ruby_armor.json"
-hash = "e2e81e0925954416564af57eb80e1c84bfa0763b91418f3c9c2c972c6cd4b78c"
+hash = "7ee29e8326f5a7b8aaa1bb5b84d3e441bbf079eeeef68d168978b3e0aa2d83f6"
 
 [[files]]
 file = "config/armorsets/ruby_weapon.json"
-hash = "856436c23556a112ee8b17c9df25d9fc435800968d4b308d3989067f1a3e3955"
+hash = "1e10088a77f9a8b750bdee3a084affd9f586707c5bf37812148bc01d021facb9"
 
 [[files]]
 file = "config/armorsets/runite_armor.json"
-hash = "58223ec9fda9915039b1de0b9ef01c13b149ca48fff834653b71a7c786e9c2ac"
+hash = "4d2d9ae5371fa6ce08b85f0f00092c73bbb29a08bd3ef55e00aa2d7ca31dbbc8"
 
 [[files]]
 file = "config/armorsets/sapphire_armor.json"
-hash = "4685a67305e22655878b5044d5992072ffe3f7f79c92a93daed714dfcea1d0db"
+hash = "25e837cc9f21ea9d3cdd618f5f5afb94acfb1b7751ba7e89b77fbef7565758d0"
 
 [[files]]
 file = "config/armorsets/sapphire_weapon.json"
-hash = "e6289a31154838adfaf17cc5b78fceff24029469b8ac80d2729ec81d1b3016fe"
+hash = "1ba0b4a055ee205fe309b6da6d24cd6ea53679dcf2b5016756c0064b5c330fce"
+
+[[files]]
+file = "config/armorsets/scythe.json"
+hash = "26bf27099c9b6f74989f3eabf1c07a93a2dd5e6c99a325d026afbeb8beda1b5b"
+
+[[files]]
+file = "config/armorsets/soul_ingot_armor.json"
+hash = "26a1db580a9074dac1a599060ef27ceb13f3ca54c4eca67c49e0ac6831a254f3"
 
 [[files]]
 file = "config/armorsets/star_platinum_armor.json"
-hash = "36e3938238f4fee96cc0f5bd012d228bf1d610dc33cee69acb1a9ca18232dada"
+hash = "fc1a8222bd9a5c2260b90ff987e5cb9faf5352c1d67e8a83721bc18fc8cca49b"
 
 [[files]]
 file = "config/armorsets/stardusite_armor.json"
@@ -190,7 +226,19 @@ hash = "f7226a22c34bc09caa452f6d5126f3d35f28b46870402082d1ff985f9b60431b"
 
 [[files]]
 file = "config/armorsets/stormyx_armor.json"
-hash = "62aa1c55ec441f1624a01ec8801e60f22f290e66341d0086bcd8b1f180f1a4a2"
+hash = "ae2763724c7e1c199f352ff01fecc4f9a9a1fef9cabe53e3482168344e1e78e8"
+
+[[files]]
+file = "config/armorsets/terrible_armor.json"
+hash = "5c7f25df8d34d464a577ca89fa3be9bf13a6120c2f2090c12e78cac2ca953aa6"
+
+[[files]]
+file = "config/armorsets/three_bolt_armor.json"
+hash = "ba7b2bae10bf1e31e81795a335d85d91c98ffcdf8fbed46416e2c62d6a123dd9"
+
+[[files]]
+file = "config/armorsets/tidesinger_armor.json"
+hash = "c289a9f0f1f69658aa7b675ff24f2be359e3d4a99496a408f0ba228a65039858"
 
 [[files]]
 file = "config/armorsets/topaz_armor.json"
@@ -438,11 +486,11 @@ hash = "ae5b307b58263b43a2ad7d68019bd128949a1d671b534b9071392e57b2168d9c"
 
 [[files]]
 file = "config/l2hostility/client.json5"
-hash = "45f72d573115a83715ed993fc9502fabad886c412cd34f05812e86f5ff17cc47"
+hash = "16140d688abbe2f8bcd5de56afd9b2d14d40f1a0edf2f89690df94a1b0c032a0"
 
 [[files]]
 file = "config/l2hostility/common.json5"
-hash = "bc215a0bb3b878d0c2e090817d7be868b5090ed82ed3c27741ba28f3fb166b46"
+hash = "f7ad0987c20c665b417ae9549a2dde0092550da4f4a173f9f568d6dfe82662e9"
 
 [[files]]
 file = "config/legendarytooltips-common.toml"
@@ -550,55 +598,55 @@ hash = "821c24727f744befe6fe0562975528579bcab3e3d1f3a2e77e95eb51216c4787"
 
 [[files]]
 file = "config/openloader/data/difficulty/data/spell-dimension/l2hostility_config/entity/zboss_3/blackstone_golem.json"
-hash = "41e5df4b7c181e31c3af3cf277af8d864c54f6447962a9d780d75e4272d8d59a"
+hash = "25970681925a93467fee8d1c0b10634f91abbc8081f437487662421b0791680d"
 
 [[files]]
 file = "config/openloader/data/difficulty/data/spell-dimension/l2hostility_config/entity/zboss_3/captain_cornelia.json"
-hash = "7b0a1d71bccb7520d8e7ac2bd921b091a67a58ed2009cff398fc32bf7854a12a"
+hash = "cf722367d15acedd9c4f8dd653926262d5cfd6c62b96f671c6d12dc5bca4f2eb"
 
 [[files]]
 file = "config/openloader/data/difficulty/data/spell-dimension/l2hostility_config/entity/zboss_3/chaos_monarch.json"
-hash = "035501ed03f19bce91f4066d0a5aacbb97b3bee450bb0b0b84a2799739f19746"
+hash = "6516b8d982fd245d7fe53c93649acb649ebae60bccdd60bba27247d234c6469f"
 
 [[files]]
 file = "config/openloader/data/difficulty/data/spell-dimension/l2hostility_config/entity/zboss_3/moonknight.json"
-hash = "7b8cfd831756012c0a4de9824b25cc0abc295d58e05c34d7172ea4779f1d6f42"
+hash = "cedc1ecf4700605c5c45b563c14ca41a5b2630b772c4ca4141aa20ce332ab195"
 
 [[files]]
 file = "config/openloader/data/difficulty/data/spell-dimension/l2hostility_config/entity/zboss_3/returning_knight.json"
-hash = "7056eb7de2f67653bd67cecd3df5f4ceadddcf9e6585f221c028a6551110367c"
+hash = "abba212f5a91ef2e184f1d8d2b081a8afaef59fb443034b0e41a48095e57c128"
 
 [[files]]
 file = "config/openloader/data/difficulty/data/spell-dimension/l2hostility_config/entity/zboss_3/stalker.json"
-hash = "1d578dc0ce4a188c587cae759a4c18283e94dffe9f8f9c5f84afe3951e94f0e8"
+hash = "53c21bd37f1cecec8f85a1e61430620632369dac876b6afb6ea18f4b94c68b5c"
 
 [[files]]
 file = "config/openloader/data/difficulty/data/spell-dimension/l2hostility_config/entity/zboss_4/accursed_lord_boss.json"
-hash = "9391af90c16664bc243398e20c338aed21120b1a7d647a580744725e13c0f393"
+hash = "48f42b4f5f9f195e12224800efe0ecb57ac9c38774c8306e7fc99163b1d4781d"
 
 [[files]]
 file = "config/openloader/data/difficulty/data/spell-dimension/l2hostility_config/entity/zboss_4/draugr_boss.json"
-hash = "4106a71e778c09b19ac981ef08fe209b3adcdbb2a678ef8be3022c457c63d98b"
+hash = "e47655ddd4e481b8074a48fb1e8851e15177c021eb2c10d969052ddda4bdcc67"
 
 [[files]]
 file = "config/openloader/data/difficulty/data/spell-dimension/l2hostility_config/entity/zboss_4/elder_guardian.json"
-hash = "7319222344f6a8cc9d7a9de7f94771a9e26c6b71a9aa7e16737ac449aeaedbab"
+hash = "3a0f3ebc22e0907a2e38299886d1a5b823ca8d28188a2e3c85535b84a1d590c9"
 
 [[files]]
 file = "config/openloader/data/difficulty/data/spell-dimension/l2hostility_config/entity/zboss_4/invoker.json"
-hash = "c6dd45f1d5ff62abac24e8d872560732d657852f428ae44302b5a80fb3728892"
+hash = "c6c750965409d372cd6d9e4c89d856421464912d0c61f36a75b471c64beb21f7"
 
 [[files]]
 file = "config/openloader/data/difficulty/data/spell-dimension/l2hostility_config/entity/zboss_4/night_shade.json"
-hash = "744b863578a8352849488259152a0dde5985d3b23f05621a034b11db3f3959bb"
+hash = "e4605bf8dd7e87ef3e878747fcfe1e1edcbf6e7ff5594507f35733d4682c8c92"
 
 [[files]]
 file = "config/openloader/data/difficulty/data/spell-dimension/l2hostility_config/entity/zboss_4/warden.json"
-hash = "ae7732120de7a1315cdcf590678735aecbc4384f54a2731c0115dc556d09eb97"
+hash = "3c52ce531292eaaacdbc023c61e94f9674365f105465978542d3d1e16adfc525"
 
 [[files]]
 file = "config/openloader/data/difficulty/data/spell-dimension/l2hostility_config/entity/zboss_4/wither.json"
-hash = "9b6742e93b25784ebe83690680c6282f6b3377af0921d4af07bbb32063a45188"
+hash = "33c48329a65adf2598d08b33495174f5fa5fc467c3abdc4fe998af8d06efd405"
 
 [[files]]
 file = "config/openloader/data/difficulty/pack.mcmeta"
@@ -751,10 +799,6 @@ hash = "013c56aa9cab3655927d4f3b583657c58aa6d7f1caccbf539374d824aa772bff"
 [[files]]
 file = "config/openloader/data/ichphilipp-s-endcity-vanilla-v1-1-1-18-1-e640.zip"
 hash = "e8842082a1ef6190060702d9a59622d9be4c06c1ba0356cf6a8589a5956e8800"
-
-[[files]]
-file = "config/openloader/data/loot/data/adventurez/advancements/the_eye_advancement.json"
-hash = "2a57d7ac2edba13eb0b6aee6306a57756f903ea93432491ece4ceef4136539e8"
 
 [[files]]
 file = "config/openloader/data/loot/data/ati_structures/loot_tables/chests/crafting.json"
@@ -913,8 +957,16 @@ file = "config/openloader/data/recipe/data/l2hostility/recipes/consumable/book_o
 hash = "ad120cbf34e18885d6ef5a706bf8e1279cd9e77da5dd93ac77929912ab54bacf"
 
 [[files]]
+file = "config/openloader/data/recipe/data/l2hostility/recipes/consumable/bottle_of_curse_to_hostility_essence.json"
+hash = "5505afc94d0fdec7ed0cfd643891b94f040f7a9f8981f4ba686e908c7fa4aac8"
+
+[[files]]
 file = "config/openloader/data/recipe/data/l2hostility/recipes/enchantment/immune/magic_reject/1.json"
 hash = "517f081172e46b4f5941cdc4e017ecc8596bec74c115cba9a0a0f7b2a9e2adc5"
+
+[[files]]
+file = "config/openloader/data/recipe/data/l2hostility/recipes/enchantment/void_touch/1.json"
+hash = "d12fffc54e4b6fd8b8b5937580e0a9b66972ef4e318e41ece78515040715994b"
 
 [[files]]
 file = "config/openloader/data/recipe/data/l2hostility/recipes/trinket/loot/charm_of_looting_1.json"
@@ -993,6 +1045,10 @@ file = "config/openloader/data/recipe/data/spell-dimension/recipes/endgame_trink
 hash = "904f6afe915d6e889ddebcad95110f8445dddad9485792db316a2a0076daae8a"
 
 [[files]]
+file = "config/openloader/data/recipe/data/spell-dimension/recipes/endgame_trinkets/macro_electron.json"
+hash = "f57f6243ceec566557e3ce3b52e251c1e5eec738581be3c27bd3615e30e61d05"
+
+[[files]]
 file = "config/openloader/data/recipe/data/spell-dimension/recipes/endgame_trinkets/nirvana_starfall.json"
 hash = "52487087e989e16b9868ff665c26712f6b7f71dcc48297cab5ce73297ddcc1a6"
 
@@ -1005,16 +1061,20 @@ file = "config/openloader/data/recipe/data/spell-dimension/recipes/endgame_trink
 hash = "0ea292d5501e34aed12f8215085bfb01dde397b3371fd7e85fe3f14d27f96d24"
 
 [[files]]
+file = "config/openloader/data/recipe/data/spell-dimension/recipes/endgame_trinkets/superconductor.json"
+hash = "29d9fe23a66e3f597988e3363f5049144d8a9f7c092f0808c1aac1b5ce3b0467"
+
+[[files]]
 file = "config/openloader/data/recipe/data/spell-dimension/recipes/fire/0.json"
 hash = "6d1ae6e1708bdb372e41b20d9c08b8e4cfc6da4cd4f61d09f2863534ff3db032"
 
 [[files]]
 file = "config/openloader/data/recipe/data/spell-dimension/recipes/fire/1.json"
-hash = "1e936ff8a9ae39555f0821d2ecb45e2a130c2a3b2b0131d56aa5a79d9cc35eab"
+hash = "18cbefab492a483d9bd5baffded0923f774322697083d819f1ee4b7b29954140"
 
 [[files]]
 file = "config/openloader/data/recipe/data/spell-dimension/recipes/fire/2.json"
-hash = "20d547f7db5afc34d7f554f75827ba935befd319f205da044ecf0158e8cf3464"
+hash = "0524077633a0d859d171bcb0b8abbaa50d5c724de4d657d6f8e20904bedee2b3"
 
 [[files]]
 file = "config/openloader/data/recipe/data/spell-dimension/recipes/frost/0.json"
@@ -1026,7 +1086,7 @@ hash = "438476321e82cbceab9b164b543a7670af61ab5bcaf8856483f1cbd3675b5b10"
 
 [[files]]
 file = "config/openloader/data/recipe/data/spell-dimension/recipes/frost/2.json"
-hash = "2ea25ffe3d947e8ea673661d92ba5214988b12f58aeb605f18a76bc6319e05b4"
+hash = "28952b42ffb5e49cbab67b76da1780b4e4b02d93f4c63c01725b342338599f97"
 
 [[files]]
 file = "config/openloader/data/recipe/data/spell-dimension/recipes/fusion-smithing/axes.json"
@@ -1107,6 +1167,18 @@ hash = "40c2eadefd60fced7f5b29f903229e7f9154fbecfa0e7310f6f668aa265496ad"
 [[files]]
 file = "config/openloader/data/recipe/data/spell-dimension/recipes/healing/2.json"
 hash = "1724891198ec1d613c8e320ed5fced5227eb6885eebb949e99e6b00454114dd8"
+
+[[files]]
+file = "config/openloader/data/recipe/data/spell-dimension/recipes/lightning/0.json"
+hash = "f359c79e03537ad102e69389c333b5ce6796de82002d58b71e96f78d789a979a"
+
+[[files]]
+file = "config/openloader/data/recipe/data/spell-dimension/recipes/lightning/1.json"
+hash = "bc9e2a35bdc3e114a54c2b27228297539acf32d56a4920beb82c01c19872051f"
+
+[[files]]
+file = "config/openloader/data/recipe/data/spell-dimension/recipes/lightning/2.json"
+hash = "0954e0fb4a7946aa60fd55403dab9340a6a66c90e7e3dab6bd5b5b95e54da958"
 
 [[files]]
 file = "config/openloader/data/recipe/data/spell-dimension/recipes/misc/adamantite_ingot.json"
@@ -1281,12 +1353,16 @@ file = "config/openloader/data/recipe/data/spell-dimension/recipes/secondary_sch
 hash = "d23491934796fd60c54f0739cbea6f69458bfd950fc932a23355f85f5313e2e9"
 
 [[files]]
+file = "config/openloader/data/recipe/data/spell-dimension/recipes/secondary_school/electric_spark.json"
+hash = "6c9ebea8ec34d9bfb4f20a6b96436b8462db186fb4ea972ec5bc6000a380c696"
+
+[[files]]
 file = "config/openloader/data/recipe/data/spell-dimension/recipes/secondary_school/fate_stone.json"
 hash = "68dec5c26c6c1583b83f6503b6124cff743f481d14ee11d2715364ac6a89ed62"
 
 [[files]]
 file = "config/openloader/data/recipe/data/spell-dimension/recipes/secondary_school/ice_cube.json"
-hash = "7b6ce6227c9b2adf4f6d85e0194423814008ce80c899487a0d1b1816abe7fcb7"
+hash = "ffc6eaee1ca9c45a6b516a8ad88b79d086f94487211b9e739e497222c9c4e4e3"
 
 [[files]]
 file = "config/openloader/data/recipe/data/spell-dimension/recipes/secondary_school/riddle_book.json"
@@ -1306,7 +1382,7 @@ hash = "80953732e28506a15d7f6641c802b0a8cd16e2ca6e16c1740bcf27da92861e32"
 
 [[files]]
 file = "config/openloader/data/recipe/data/toms_storage/recipes/inventory_connector.json"
-hash = "18441bd34d9e005ed4e8514e75b18f5106d01d88340ca705c12ca1adcf847b26"
+hash = "ca6210ac53633157b483c3a948d3982ec62c6d52c5ede2359e5b6e497db3ab33"
 
 [[files]]
 file = "config/openloader/data/recipe/data/toms_storage/recipes/storage_terminal.json"
@@ -1562,7 +1638,7 @@ hash = "1507d8fe8a0416c2d245aa53ecab4c3f8d69505762405c4ccf78785dbdabaaec"
 
 [[files]]
 file = "config/openloader/data/tag/data/spell-dimension/tags/items/common/armor.json"
-hash = "08989bdb0f076eb5268717194c776ed9fd2ad870521c03a0326f38e85daf1942"
+hash = "3436e0692a2c1260eb8e7d0518469e27851a32fef83f3d46a55699f22101b023"
 
 [[files]]
 file = "config/openloader/data/tag/data/spell-dimension/tags/items/common/gear.json"
@@ -1574,7 +1650,7 @@ hash = "1a58426efd4e48b687b4739ceeef8ec79d763e5f04e6d0d1c86395014d9397bf"
 
 [[files]]
 file = "config/openloader/data/tag/data/spell-dimension/tags/items/common/weapon.json"
-hash = "c8c97d779d20bf727b4e5f24c047f1f20d38abbc202cc8d0d246d9ec1c9b1dab"
+hash = "bea6c27ef3b46a0d20795cd01622b83109fbc8513afab2f066ec96e511d9a32c"
 
 [[files]]
 file = "config/openloader/data/tag/data/spell-dimension/tags/items/epic/armor.json"
@@ -1614,7 +1690,7 @@ hash = "d8b3cd87dd07d90754c7ea9c100577a1bfc9f6fd4990298946ec0dd2c9742dd7"
 
 [[files]]
 file = "config/openloader/data/tag/data/spell-dimension/tags/items/rare/armor.json"
-hash = "fdcf2ab5625c1b4a4ad3badf3ef763ff16f3855775a080b5326642d16e281c82"
+hash = "61568aa9aaaede8691fe999e3ca7d43879a4fe377b9cf2216c2f2505e3c20653"
 
 [[files]]
 file = "config/openloader/data/tag/data/spell-dimension/tags/items/rare/gear.json"
@@ -1626,7 +1702,7 @@ hash = "7ae29524b744dc0d45578e7849cac6f8dba5d06796d81e4d571550e59c03085a"
 
 [[files]]
 file = "config/openloader/data/tag/data/spell-dimension/tags/items/rare/weapon.json"
-hash = "6f0225740aff5339934eccdf865a2b3c183d7b2dd65569d8e59ada875848e7e6"
+hash = "e8670fe2c12f5ab2d400184305f90d2e1a2f84ba3739b56c99bc4e9dd5835545"
 
 [[files]]
 file = "config/openloader/data/tag/data/spell-dimension/tags/items/soulsweapons.json"
@@ -1638,7 +1714,7 @@ hash = "802d8e518b753e10b8c0b2e37379ab71f486b73350417e7fea16ea3922620cf5"
 
 [[files]]
 file = "config/openloader/data/tag/data/spell-dimension/tags/items/uncommon/armor.json"
-hash = "a134c33c3344a1ee5172d5addf925d3befaff3c4e348fda375af7b8a2e42925c"
+hash = "509884f89d249a8ab11c08ae0b69639de9159c4866346ddeeadddae6550aa207"
 
 [[files]]
 file = "config/openloader/data/tag/data/spell-dimension/tags/items/uncommon/gear.json"
@@ -1650,7 +1726,7 @@ hash = "6afbc4de2ac85b283e8f3b7d645c1336e5aa4e956b9d73a49bf7e859ced496a1"
 
 [[files]]
 file = "config/openloader/data/tag/data/spell-dimension/tags/items/uncommon/weapon.json"
-hash = "f0a4dd89ca3f5df99a56b8d263942a33c753f65a91abc7cb61e0290fa34ba82e"
+hash = "3d19010602f7ac3393279cebd409aea1032abd3b767773f480e2abe108cc3fab"
 
 [[files]]
 file = "config/openloader/data/tag/pack.mcmeta"
@@ -1749,6 +1825,10 @@ file = "config/openloader/resources/translations/assets/aquamirae/lang/zh_cn.jso
 hash = "5babd55f63cdf23f3e7860c590424147ed38afa335bfe98b00bd0d09585c9a9d"
 
 [[files]]
+file = "config/openloader/resources/translations/assets/deeperdarker/lang/zh_cn.json"
+hash = "9bf2834b20282d7028a36db18951e70ac0176aea26a55d13d5795b868ae455d0"
+
+[[files]]
 file = "config/openloader/resources/translations/assets/dungeonz/lang/zh_cn.json"
 hash = "a837136e886dc9a0bc45f522a7bca519a692c1c3255a5ed8e9ea985d0da77edd"
 
@@ -1802,11 +1882,11 @@ hash = "c516a350f7fb4afa4e16b6c3b7e64ae67ce98157ddd45b2acd1fc8e4313d0ccd"
 
 [[files]]
 file = "config/openloader/resources/translations/assets/spacecatasb/lang/en_us.json"
-hash = "8d92529a30a365a1114fa3d01ee2105d6893952ea67eb0d1940c1e5cfc5796d8"
+hash = "5c0c89723a63ac729a86afaa24f642a637f26eb4d4a2c87b61c30c38876329a6"
 
 [[files]]
 file = "config/openloader/resources/translations/assets/spacecatasb/lang/zh_cn.json"
-hash = "6659728ab7345c1ba194f5274c1114ed3c0253d7333bf05a2cd0ccbfd290b8ab"
+hash = "1b18cc95aad73e1b4d944ab867b9e7b7ee3dff745b635669de51c62754cb8d08"
 
 [[files]]
 file = "config/openloader/resources/translations/assets/spell_engine/lang/zh_cn.json"
@@ -1870,7 +1950,7 @@ hash = "c641f2715809cba92b6fdd38845a095bcbe83a5f78355abb490b04beb57db963"
 
 [[files]]
 file = "config/paladins/items_v5.json"
-hash = "6b6dd0c5e2badf7fd2ad4b41100c6865ec1a8205ec8245f4aabb86536b1419bc"
+hash = "e8009022ff338926059f88648fe5f5a8b74f82d3533970646d2dcbc04f519beb"
 
 [[files]]
 file = "config/paladins/tweaks.json"
@@ -2002,7 +2082,7 @@ hash = "bd57c0dec00015978e15d660cacaba957364e826046a465649c1957ee5a5c94a"
 
 [[files]]
 file = "config/wizards/items_v4.json"
-hash = "d020b776d38eb6664b402f9b942476be687f6de34f585d72b8ffb28ce3b7944f"
+hash = "a41fdd5d2f0883297164cf8ff5828e4050c25b7c56fcaffbe425806dde7d96d9"
 
 [[files]]
 file = "config/wizards/tweaks.json"
@@ -2090,7 +2170,7 @@ metafile = true
 
 [[files]]
 file = "mods/ati-structures.pw.toml"
-hash = "f900f849d07ac6dd799a86cae76587334e76c0801d685f45a4fa3d0049464bd4"
+hash = "3fa7f81d2c11d0d1c20ad129388b9c67aff62936adae06bf6c16d2979fb610c2"
 metafile = true
 
 [[files]]
@@ -2110,7 +2190,7 @@ metafile = true
 
 [[files]]
 file = "mods/azurelib.pw.toml"
-hash = "8f5890cd05c587f66893eabf82fe6e6f3060f25766f4caf49cc12eade849fbae"
+hash = "1c06bb7ae3739b983d3cfbe96975ab182cda8ff1eb7af6f17fd491216d2ce788"
 metafile = true
 
 [[files]]
@@ -2200,7 +2280,7 @@ metafile = true
 
 [[files]]
 file = "mods/construction-wand-fabric.pw.toml"
-hash = "695173250662483f476c90011b99feaf1e0df0ce83fd20b8358c4e8d667afa04"
+hash = "b8ada1fe61477375d5f7f5144dc9376f27ce259de49162cfc7947013d113779d"
 metafile = true
 
 [[files]]
@@ -2385,12 +2465,12 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "c2a53f27a2ae3575f4960afd76571cb376d4263b438190b1f6c083ad628a82de"
+hash = "8b80331cf0dbbf03325e8287c3150b49f34a55a665e16a3d9aeec93738ae3d28"
 metafile = true
 
 [[files]]
 file = "mods/geophilic.pw.toml"
-hash = "a1cd6717a88d46c89946347bfa7c6b705de5f70e8b3d00732a6719d2f622e4e8"
+hash = "eed66cb6cda1b41031cf42b4fd1d5907a136eb54de48bbcbbbbb8c28dc648aed"
 metafile = true
 
 [[files]]
@@ -2480,7 +2560,7 @@ metafile = true
 
 [[files]]
 file = "mods/language-reload.pw.toml"
-hash = "2bde5357aab29b6dd20766d8c1bc4bc6eb41a731750efed7f90ce07fff5d600f"
+hash = "759b9eb2df5b5f423cd35945faeb1667e5a213dfda9321218a0ffce63db9bce6"
 metafile = true
 
 [[files]]
@@ -2600,7 +2680,7 @@ metafile = true
 
 [[files]]
 file = "mods/moogs-voyager-structures.pw.toml"
-hash = "ad5c0d2e9bbf37e76d28467f50974c359dfc3a485d117e74b4ba925a9cca6139"
+hash = "997f767b63ea6fc780580febf2ef79903227821f5de69696ceeb2fa80813556e"
 metafile = true
 
 [[files]]
@@ -2680,7 +2760,7 @@ metafile = true
 
 [[files]]
 file = "mods/perfect-plushies.pw.toml"
-hash = "6caa4ca57c7abff3c7b2afc401b7b86a34a8fc50eb154e9a9c1e58b222d4f8b5"
+hash = "01ad9834fbe071c5cfd113b432e4c6d063fddce9aae44b87c77b7cf8a453fd5f"
 metafile = true
 
 [[files]]
@@ -2785,12 +2865,12 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "48bac8cd9538d1a540bd84f54647a6417a09394897dd1bb1be697bf3ac247827"
+hash = "d81f7d21f8c68fff5cd5662abeedda56b23547abfd7533d5d8c5d5df1a9fed92"
 metafile = true
 
 [[files]]
 file = "mods/shoulder-surfing-reloaded.pw.toml"
-hash = "5f0d1377103f89d9141e056f80035f16e106030835f51801a9e21daa83996600"
+hash = "a7773573e694eaed24484ad533a6bdcf9a12174068b297fb056c6cc0668e6667"
 metafile = true
 
 [[files]]
@@ -2850,7 +2930,7 @@ metafile = true
 
 [[files]]
 file = "mods/spell-dimension-extra.pw.toml"
-hash = "7a5aef42c0c50d4f4f92018aeaba9b5fe4272c50c1e7c116ddaa969e141be3e5"
+hash = "0fd4c21bdb06973ced692dc8f1635c5974ee79a0d8e2066d20fbe61e0a98fe9b"
 metafile = true
 
 [[files]]
@@ -3045,12 +3125,12 @@ metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "c80eb931ec304452e4f3a79c9e40255e5358994f00355e2b7e2759c3812bf4a5"
+hash = "d8a91129a6ef8578f4743970c4d15d9e54240b92c5af5223e81adc3232af075f"
 metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "edb81787db0307e0c9eded685c6d6ca9187133cb68a37d016dea86e507069a30"
+hash = "7317e8d83d6b18b18f11741096a0e4d9e0a1985138595999282ea0a679450a2d"
 
 [[files]]
 file = "resourcepacks/blinking-ender-eyes.pw.toml"
@@ -3070,6 +3150,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/enhanced-boss-bars.pw.toml"
 hash = "7b9fe491d938f1ccf2c815fa83c36a9c694c8ff4d136fa23d00a8c4f35b13c7c"
+metafile = true
+
+[[files]]
+file = "resourcepacks/more-mob-variants-fix.pw.toml"
+hash = "0beb4307690a7f19852a840b1c47dee59bd8c1e3d608f59da3715cce156bdf7f"
 metafile = true
 
 [[files]]

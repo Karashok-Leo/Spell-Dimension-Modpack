@@ -11,7 +11,7 @@
 	"overHeadRenderFullBright": true,
 	// Overhead level color in decimal form, converted from hex form
 	"overHeadLevelColor": 11184810,
-	// Overhead level color for mobs affected by abyssal thorn
+	// Overhead level color for mobs affected by abyssal throne
 	"overHeadLevelColorAbyss": 16733525,
 	// Show nameplate style trait and name only when hovered
 	"showOnlyWhenHovered": false,

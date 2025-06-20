@@ -5,6 +5,7 @@
           "l2hostility:invisible",
           "l2hostility:split",
           "l2hostility:teleport",
+          "l2hostility:regenerate",
           "spell-dimension:shift"
         ],
         "difficulty": {
