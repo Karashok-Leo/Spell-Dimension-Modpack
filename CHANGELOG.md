@@ -1,5 +1,11 @@
 # Change Log
 
+## 0.7.1 - 2025.6.21
+##### Changed
+- Updated some mods
+##### Fixed
+- PerfectPlushies crash bug on server side
+
 ## 0.7.0 - 2025.6.20
 ##### Warning
 - Due to the change in the storage format of Enchanted Essence modifiers, Enchanted modified items of the old saves will be invalidated. When holding invalidated items in your mainhand, you can migrate the old format to the new version by typing the command `/spell_dimension convert_modifiers`.

@@ -1,6 +1,8 @@
 name = "Sparse Structures"
 filename = "sparsestructures-fabric-1.20.1-3.0.jar"
-side = "both"
+
+# The reason for setting this mod to the client side is that in a multiplayer server, intensive structure generation can cause lag when chunks are loaded
+side = "client"
 
 [download]
 hash-format = "sha1"

@@ -1,5 +1,5 @@
 # Exclude README
 /*.md
 /*.xmind
-/disabled/
+/serverpack-template/
 /*.lnk

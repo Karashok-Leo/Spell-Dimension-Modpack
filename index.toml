@@ -2195,7 +2195,7 @@ metafile = true
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "a72ffec00ea6c611997fee1be894d10ac78d2bed4e3149ba8949da4e0c5c28d1"
+hash = "bf96372d5eff6b59e9a30cb4674e620083dddef05a3e68c1299cf5d55798ed57"
 metafile = true
 
 [[files]]
@@ -2275,12 +2275,12 @@ metafile = true
 
 [[files]]
 file = "mods/constant-music.pw.toml"
-hash = "fe7d9e0b2e21d7267294deead7450a098ac210ed370631ddc38b4ec75cdce46f"
+hash = "9fbeb1d4559e299cf37e521752e15b1523958d75f04db51e5d77bf417bd1457e"
 metafile = true
 
 [[files]]
 file = "mods/construction-wand-fabric.pw.toml"
-hash = "b8ada1fe61477375d5f7f5144dc9376f27ce259de49162cfc7947013d113779d"
+hash = "be724a919a77c63d5184367cb4fe669b4ecf812e1faf71513751c6facae4f4ce"
 metafile = true
 
 [[files]]
@@ -2380,7 +2380,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "868c6c00aa3bd5ead878f1f5e472f2e6258c316fe58690d6dc3918cd9c747e54"
+hash = "e68930fdc538d49b47903f48b25330123b64970c7a36dfaf054cf1c1c351e913"
 metafile = true
 
 [[files]]
@@ -2625,7 +2625,7 @@ metafile = true
 
 [[files]]
 file = "mods/medieval-buildings.pw.toml"
-hash = "6f5a94e8a4a0e3344429451474ebdb0f12a8763f5c43c827b1b02b762f8910d6"
+hash = "abae6833d291fe2d03dc0a096fcb3c4eb4c4319819eb4a82b3c4a1f4301c5fbe"
 metafile = true
 
 [[files]]
@@ -2760,7 +2760,7 @@ metafile = true
 
 [[files]]
 file = "mods/perfect-plushies.pw.toml"
-hash = "01ad9834fbe071c5cfd113b432e4c6d063fddce9aae44b87c77b7cf8a453fd5f"
+hash = "cd050be690b2634679b27db3d3792555f0a8878429760db78272837d5487d821"
 metafile = true
 
 [[files]]
@@ -2925,7 +2925,7 @@ metafile = true
 
 [[files]]
 file = "mods/sparse-structures.pw.toml"
-hash = "0bec1a2983404d43f32753cd193a620585457e85e624cabf2467afa0796cec0b"
+hash = "2808997e16326fd43103bd63a1547b7f16bcbf59fc5d93a1dbf156ea3964c079"
 metafile = true
 
 [[files]]
