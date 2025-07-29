@@ -48,7 +48,7 @@
           {
             "free": 3,
             "min": 3,
-            "trait": "spell-dimension:arcane_blast"
+            "trait": "spell-dimension:converge"
           }
         ]
       }

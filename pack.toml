@@ -1,12 +1,12 @@
 name = "Spell Dimension"
 author = "Karashok Leo"
-version = "0.7.1"
+version = "0.7.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "6c15c0af0406dbbea92422f4d42c48e8b4f31ca6968fe1eb230e2bbce6594af5"
+hash = "395ad308da37fc9a363b892ec7732895d06ff0d7ae5d5b56a055698a8800caf6"
 
 [versions]
 fabric = "0.16.14"

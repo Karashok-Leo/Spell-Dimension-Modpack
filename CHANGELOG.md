@@ -1,5 +1,39 @@
 # Change Log
 
+## 0.7.2 - 2025.7.29
+##### Added
+- New spells:
+    - Electrocution
+    - Electric Bondage
+    - Stormflash
+- New traits (All are spell traits):
+    - Chain Lightning
+    - Ball Lightning
+    - Thunderbolt
+    - Quantum Field
+##### Changed
+- Updated some mods
+- Changed some recipes
+- Curse of Pride and Curse of Wrath now are Nightmare difficulty tier limited trinkets
+- Reworked Curse of Pride: All school spell power are increased by 2% per difficulty level
+- Reworked Superconductor:
+    - When dealing lightning spell damage ([Chain Lightning] damage excluded), cast [Chain Lightning], increasing the duration by 0.05 seconds per 500 spell power
+    - Damage caused by [Chain Lightning] bypass damage cooldown
+- Reworked Disenchanted Essence: allow to transfer Enchanted modifiers
+- Damage dealt by Oblivion Breastplate cannot be augmented by Curse of Wrath
+- Disallow Refill Upgrade to refill totems
+- Spell power bonus of Arcane Blast: +40/60/80->+20/30/40
+- Illusion Upgrade now will not convert equipment with Enchanted modifiers
+- Getting Space Shard now requires dealing 65536 projectile damage
+- Boss spell traits:
+    - The Eye: Arcane Blast->Converge
+    - Obsidilith: Converge->Chain Lightning
+##### Fixed
+- Recipes for Energize
+- Tracked range of mobs from Deeper Darker: 10 blocks->10 chunks
+- Wrong descriptions about merging Enchanted Essences
+- Bug where passive spells can be cast
+
 ## 0.7.1 - 2025.6.21
 ##### Changed
 - Updated some mods
@@ -10,8 +44,8 @@
 ##### Warning
 - Due to the change in the storage format of Enchanted Essence modifiers, Enchanted modified items of the old saves will be invalidated. When holding invalidated items in your mainhand, you can migrate the old format to the new version by typing the command `/spell_dimension convert_modifiers`.
 ##### Added
-- New Spell School: Lightning
-- New Spells:
+- New spell school: Lightning
+- New spells:
     - Chain Lightning
     - Surge
     - Arclight
@@ -25,7 +59,7 @@
     - Ball Lightning
     - Closed Loop
     - Railgun
-- New Items
+- New items:
     - Spell Container: Attempt to void spell traits, converting them to damage reduction amount for the corresponding spell school.
     - Superconductor
     - Macro Electron
@@ -36,7 +70,7 @@
     - Netherite Lightning Staff
     - Lightning Robe
     - Netherite Lightning Robe
-- New Enchantments
+- New enchantments:
     - Dash Resistance
     - Anti-Adaption
 - New recipes: Vanishing Curse, Shock Pendant
@@ -61,7 +95,7 @@
 - Significantly increase the drop chance of Enchanted Essence, Enlightening Essence and Mending Essence
 - Drop chance of traits wearing Envy Curse: 2%->10%
 - Reworked mechanics of Flicker Breastplate:
-    - Initially gains 80% dodge chance, reduced by 1% for every 1 level of enchantment on your equipments, down to 10% minimum
+    - Initially gains 80% dodge chance, reduced by 1% for every 1 level of enchantment on your equipment, down to 10% minimum
     - Can be upgraded after only 100 rolls
     - Upgrade with Captured Shulker Bullet
 - Optimized the query of Enchanted Essence in EMI/REI
@@ -89,7 +123,7 @@
 - Extreme lagging that can be caused by Reflect trait
 - Bug that Pocket of Restoration can't automatically put the trinkets back to its original position
 - Missing textures for wolves in certain biomes (purple and black wolves)
-- Missing tags of some equipments
+- Missing tags of some equipment
 - Bug that some spells could not target Ender Dragon
 - Bug with Fire of Retribution not burning traits
 - Use animation of Medal
@@ -98,7 +132,7 @@
 ##### Warning
 - Due to the removal of Simply Swords, please handle the items belonging to this mod properly before migrating your saves
 ##### Added
-- New Items:
+- New items:
     - Illusion Container: Attempt to void items and their enchantments, transforming them into materials of the same rarity and the Book of Omniscience
     - Illusion Upgrade: Attempt to pick up and void convertible items and their enchantments, converting them into materials of the same rarity and the Book of Omniscience
 - Completed the localization of Xaero series mods in Chinese
@@ -178,10 +212,10 @@
 
 ## 0.6.0 - 2025.4.10
 ##### Added
-- New Spells:
+- New spells:
     - Divine Curse Blast
     - Tempest
-- New Items
+- New items:
     - Mirage Reflector
     - Cursed Apple
     - Secondary School Items
@@ -198,7 +232,7 @@
         - Frostbite Dome
         - Heart Spell Steel
         - Rejuvenating Blossom
-- New Traits (All are spell traits, a monster can only carry a maximum of one spell trait)
+- New traits (All are spell traits, a monster can only carry a maximum of one spell trait):
     - Converge
     - Arcane Missile
     - Arcane Blast
@@ -228,7 +262,7 @@
     - Heavenly Justice
     - Incarcerate
 - New mechanic: Armor becomes a `Broken Item' when broken, and can be repaired to the original item with a certain amount of Mending Essence.
-- New Quests
+- New quests:
     - Craft Mirage Reflector
     - Crafe Endgame Trinkets
 - 45 Locating recipes covering almost all WDA structures
@@ -358,13 +392,13 @@
 ##### Warning
 - Due to the removal of Numismatic Overhaul, please dispose of your coins properly before migrating your saves!
 ##### Added
-- New Difficulty Tier [Nightmare]: increase 0.5 extra difficulty for every 1 point of Spell Power you have
-- New Items:
+- New difficulty Tier [Nightmare]: increase 0.5 extra difficulty for every 1 point of Spell Power you have
+- New items:
     - Spell Prism
-- New Mechanics
+- New mechanics:
     - Bosses will now fully heal when they kill the player.
-- New Command `/spell_dimension fix_fake_death` for manually fixing fake deaths
-- New Game Rule `notifySpellTraitCasting`
+- New command: `/spell_dimension fix_fake_death` for manually fixing fake deaths
+- New game rule: `notifySpellTraitCasting`
     - I've noticed that players can be overwhelmed by the `Somebody is casting spell [Shift]` message while playing.
     - You can now enter the command `/gamerule notifySpellTraitCasting false` to turn off the notification when someone is casting spell.
     - [Shift] is an experimental trait to test the feasibility of letting monsters cast spells, and I'll be adding more spell traits in the future!
@@ -478,7 +512,7 @@
 
 ## 0.5.7 - 2025.2.7
 ##### Added
-- New Trait: Black Hole
+- New trait: Black Hole
     only belongs to Ender Dragon
 - Restriction while putting spell scroll into spell book
 - Recipes for Looting Charms
@@ -516,12 +550,12 @@
 
 ## 0.5.6 - 2025.2.2
 ##### Added
-- New Spell:
+- New spell:
     - Healing
         - Blessing
         - Misfortune
         - Heavenly Justice
-- Supplemental Spells (These spells have always existed in the game, but there was no open access to them, and access is now provided for them):
+- Supplemental spells (These spells have always existed in the game, but there was no open access to them, and access is now provided for them):
     - Arcane
         - Arcane Beam
         - Arcane Flourish
@@ -549,14 +583,14 @@
         - Blade Flurry
     - Healing
         - Battle Banner
-- New Traits:
+- New traits:
     - Leech
-- New Enchantments:
+- New enchantments:
     - Spell Blade - Sunfire
     - Spell Blade - Soulfrost
     - Spell Blade - Energize
     - Spell Blade - Haste
-- New Quests
+- New quests:
 - Item display in tooltips for quests that require items
 - Chinese translations for some mods
 ##### Changed
@@ -571,9 +605,9 @@
 
 ## 0.5.5 - 2025.1.27
 ##### Added
-- New Spell:
+- New spell:
     - Black Hole
-- New Traits:
+- New traits:
     - Shift
     - Airborne
 - Recipes for bone staff fragments
@@ -640,7 +674,7 @@
 
 ## 0.5.3 - 2025.1.19
 ##### Added
-- New Spells(all belong to Healing):
+- New spells(all belong to Healing):
     - Divine Aura
     - Spell Volatility
     - Advanced Resist
@@ -868,7 +902,7 @@
 
 ## 0.4.4 - 2024.11.20
 ##### Added
-- New Enchantment - Spell Mending
+- New enchantment: Spell Mending
 - Enchantment Recipes for Mending and Spell Mending
 - Recipe for Netherite Upgrade Template
 ##### Changed
@@ -970,7 +1004,7 @@
 	- Can be used in Summon Spell recipes
 	- Can be used for lv1 reforging
 - Heart Spell Steel
-- New Spells
+- New spells:
 	- Light
 	- Moon Swim
 	- Shift
@@ -999,11 +1033,11 @@
 - Reacharound
 - A Good Place
 - Empty Quest Scroll & Recipe
-- New Spells
+- New spells:
 	- Summon
 	- Locate
 	- Place
-- New Enchantments
+- New enchantments:
 	- Spell Leech
 	- Spell Resistance
 - Artifacts Recipes
@@ -1159,7 +1193,7 @@
 - Mobs drop basic ores
 - Exordium config - fix some issues related to shortcut bar
 - Starter loot bag
-- New tag - rarity/rarity_weapon, rarity/rarity_armor
+- New tag: rarity/rarity_weapon, rarity/rarity_armor
 - New armor set bonuses
 - Equipment Standard and its datapack
 - Bag of Holding

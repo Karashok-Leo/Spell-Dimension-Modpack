@@ -1,0 +1,42 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "1": {
+      "item": "mythicmetals:celestium_block"
+    },
+    "2": {
+      "item": "mythicmetals:metallurgium_block"
+    },
+    "3": {
+      "item": "mythicmetals:hallowed_block"
+    },
+    "4": {
+      "item": "l2hostility:eternium_block"
+    },
+    "A": {
+      "item": "l2hostility:life_essence"
+    },
+    "B": {
+      "item": "l2hostility:cursed_droplet"
+    },
+    "C": {
+      "item": "l2hostility:hostility_essence"
+    },
+    "D": {
+      "item": "l2hostility:miracle_powder"
+    },
+    "I": {
+      "item": "l2hostility:heirophant_green"
+    }
+  },
+  "pattern": [
+    "A1B",
+    "2I3",
+    "C4D"
+  ],
+  "result": {
+    "item": "l2hostility:curse_of_pride"
+  },
+  "show_notification": true
+}
