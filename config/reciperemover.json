@@ -11,7 +11,12 @@
     "kibe:cursed_lasso",
     "kibe:diamond_lasso",
     "dungeonz:dungeon_compass",
-    "fwaystones:void_totem"
+    "fwaystones:void_totem",
+    "spellbladenext:ashes",
+    "spellbladenext:omni",
+    "spellbladenext:avatar",
+    "spellbladenext:purpose",
+    "spellbladenext:offering"
   ],
   "advancementList": [],
   "itemList": []
