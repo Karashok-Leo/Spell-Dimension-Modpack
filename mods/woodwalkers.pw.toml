@@ -1,0 +1,13 @@
+name = "Woodwalkers"
+filename = "walkers-5.8.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f94c3814c3f6b7fe177fc4a882843860cccf63de"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7417424
+project-id = 868922

@@ -1,13 +1,13 @@
 name = "Sophisticated Storage (Unofficial Fabric port)"
-filename = "sophisticatedstorage-1.20.1-1.3.5.4.126.jar"
+filename = "sophisticatedstorage-1.20.1-1.3.5.9.136.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "e0a12fc0e441254c5e65040f0a607190740ed674"
+hash = "477aa86fae63bc8f2e5a38557b2c2cc1b48c0acb"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6627548
+file-id = 7125851
 project-id = 979326

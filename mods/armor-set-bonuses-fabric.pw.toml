@@ -1,13 +1,13 @@
 name = "Armor Set Bonuses (Fabric)"
-filename = "spacecatasb-fabric-20.13.1.jar"
+filename = "spacecatasb-fabric-20.14.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "a1b47c61c94485a780b548a9c043c1c9ea713dde"
+hash = "85f6d704a53bec12d9516eedff0eaf7a307e2ef5"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5192429
+file-id = 6843250
 project-id = 700707
