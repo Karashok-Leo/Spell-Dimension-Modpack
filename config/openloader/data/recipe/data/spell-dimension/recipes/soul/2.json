@@ -1,0 +1,36 @@
+{
+  "type": "enchantment_infusion:simple_infusion",
+  "input": {
+    "item": "spell-dimension:spell_book_soul_1"
+  },
+  "ingredients": [
+    {
+      "item": "spell-dimension:essence_soul_2"
+    },
+    {
+      "item": "bosses_of_mass_destruction:ancient_anima"
+    },
+    {
+      "item": "spell-dimension:essence_soul_2"
+    },
+    {
+      "item": "soulsweapons:excalibur"
+    },
+    {
+      "item": "spell-dimension:essence_soul_2"
+    },
+    {
+      "item": "deeperdarker:soul_elytra"
+    },
+    {
+      "item": "spell-dimension:essence_soul_2"
+    },
+    {
+      "item": "soulsweapons:nights_edge_item"
+    }
+  ],
+  "output": {
+    "id": "spell-dimension:spell_book_soul_2",
+    "Count": 1
+  }
+}

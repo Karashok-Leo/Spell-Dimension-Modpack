@@ -1,0 +1,31 @@
+{
+  "type": "enchantment_infusion:simple_infusion",
+  "copy_nbt": false,
+  "ingredients": [
+    {
+      "item": "spell-dimension:essence_soul_2"
+    },
+    {
+      "item": "spell-dimension:celestial_debris"
+    },
+    {
+      "item": "l2hostility:totemic_gold_ingot"
+    },
+    {
+      "item": "l2hostility:sculkium_ingot"
+    },
+    {
+      "item": "l2hostility:eternium_ingot"
+    },
+    {
+      "item": "bosses_of_mass_destruction:brimstone_nectar"
+    }
+  ],
+  "input": {
+    "item": "mythicmetals:runite_ingot"
+  },
+  "output": {
+    "Count": 1,
+    "id": "spell-dimension:rebirth_sigil"
+  }
+}

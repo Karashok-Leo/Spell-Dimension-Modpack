@@ -1,0 +1,25 @@
+{
+  "type": "enchantment_infusion:simple_infusion",
+  "copy_nbt": false,
+  "ingredients": [
+    {
+      "item": "spell-dimension:celestial_debris"
+    },
+    {
+      "item": "bosses_of_mass_destruction:soul_star"
+    },
+    {
+      "item": "artifacts:chorus_totem"
+    },
+    {
+      "item": "deeperdarker:soul_dust"
+    }
+  ],
+  "input": {
+    "item": "minecraft:wither_rose"
+  },
+  "output": {
+    "Count": 1,
+    "id": "spell-dimension:equinox_flower"
+  }
+}

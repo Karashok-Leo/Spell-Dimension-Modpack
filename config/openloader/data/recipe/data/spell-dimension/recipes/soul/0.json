@@ -1,0 +1,36 @@
+{
+  "type": "enchantment_infusion:simple_infusion",
+  "input": {
+    "item": "minecraft:enchanted_book"
+  },
+  "ingredients": [
+    {
+      "item": "spell-dimension:essence_soul_0"
+    },
+    {
+      "item": "minecraft:ghast_tear"
+    },
+    {
+      "item": "spell-dimension:essence_soul_0"
+    },
+    {
+      "item": "spell-dimension:spawner_soul"
+    },
+    {
+      "item": "spell-dimension:essence_soul_0"
+    },
+    {
+      "item": "minecraft:ghast_tear"
+    },
+    {
+      "item": "spell-dimension:essence_soul_0"
+    },
+    {
+      "item": "spell-dimension:spawner_soul"
+    }
+  ],
+  "output": {
+    "id": "spell-dimension:spell_book_soul_0",
+    "Count": 1
+  }
+}

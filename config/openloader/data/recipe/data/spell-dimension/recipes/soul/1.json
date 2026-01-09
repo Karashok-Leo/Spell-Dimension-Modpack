@@ -1,0 +1,36 @@
+{
+  "type": "enchantment_infusion:simple_infusion",
+  "input": {
+    "item": "spell-dimension:spell_book_soul_0"
+  },
+  "ingredients": [
+    {
+      "item": "spell-dimension:essence_soul_1"
+    },
+    {
+      "item": "deeperdarker:reinforced_echo_shard"
+    },
+    {
+      "item": "spell-dimension:essence_soul_1"
+    },
+    {
+      "item": "soulsweapons:soul_ingot"
+    },
+    {
+      "item": "spell-dimension:essence_soul_1"
+    },
+    {
+      "item": "minecraft:totem_of_undying"
+    },
+    {
+      "item": "spell-dimension:essence_soul_1"
+    },
+    {
+      "item": "graveyard:dark_iron_ingot"
+    }
+  ],
+  "output": {
+    "id": "spell-dimension:spell_book_soul_1",
+    "Count": 1
+  }
+}

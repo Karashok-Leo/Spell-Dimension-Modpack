@@ -1,6 +1,8 @@
 {
 	// Allow entity specific difficulty configs to load
 	"enableEntitySpecificDatapack": true,
+	// Allow structure specific difficulty configs to load
+	"enableStructureSpecificDatapack": true,
 	"difficulty": {
 		// Difficulty increment takes this many kills of same level mob
 		"killsPerLevel": 20,
@@ -82,20 +84,6 @@
 		"allowPlayerAllies": false,
 		// Keep traits on mobs tamed by player
 		"allowTraitOnOwnable": false
-	},
-	"orbAndSpawner": {
-		// Allow to use hostility orb
-		"allowHostilityOrb": true,
-		/* Radius for Hostility Orb to take effect.
-		   0 means 1x1x1 section, 1 means 3x3x3 sections, 2 means 5x5x5 sections
-		*/
-		"orbRadius": 2,
-		// [NYI] Allow to use hostility spawner
-		"allowHostilitySpawner": true,
-		// [NYI] Number of mobs to spawn in Hostility Spawner
-		"hostilitySpawnCount": 16,
-		// [NYI] Level bonus factor for mobs to spawn in Hostility Spawner
-		"hostilitySpawnLevelFactor": 2
 	},
 	"items": {
 		// Allow Bottle of Sanity to clear dimension difficulty
@@ -334,9 +322,9 @@
 		   Only supports configuration in the config file.
 		*/
 		"auraRange": {
+			"moonwalk": 10,
 			"arena": 24,
-			"gravity": 10,
-			"moonwalk": 10
+			"gravity": 10
 		}
 	},
 	"complements": {
@@ -390,5 +378,21 @@
 			// Healing reduction factor per level for curse effect
 			"curseFactor": 0.2
 		}
+	},
+	"misc": {
+		// Show killer title (lv and traits) in death message
+		"deathMessageShowKillerTitle": true,
+		// Allow to use hostility orb
+		"allowHostilityOrb": true,
+		/* Radius for Hostility Orb to take effect.
+		   0 means 1x1x1 section, 1 means 3x3x3 sections, 2 means 5x5x5 sections
+		*/
+		"orbRadius": 2,
+		// [NYI] Allow to use hostility spawner
+		"allowHostilitySpawner": true,
+		// [NYI] Number of mobs to spawn in Hostility Spawner
+		"hostilitySpawnCount": 16,
+		// [NYI] Level bonus factor for mobs to spawn in Hostility Spawner
+		"hostilitySpawnLevelFactor": 2
 	}
 }
