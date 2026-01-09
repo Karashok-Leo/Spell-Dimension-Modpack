@@ -167,6 +167,10 @@
         "spell-dimension:lightning_robe_head",
         "spell-dimension:lightning_robe_chest",
         "spell-dimension:lightning_robe_legs",
-        "spell-dimension:lightning_robe_feet"
+        "spell-dimension:lightning_robe_feet",
+        "spell-dimension:soul_robe_head",
+        "spell-dimension:soul_robe_chest",
+        "spell-dimension:soul_robe_legs",
+        "spell-dimension:soul_robe_feet"
     ]
 }

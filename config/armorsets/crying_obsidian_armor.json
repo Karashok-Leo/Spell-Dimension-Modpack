@@ -16,7 +16,7 @@
     "fullSetBonuses": [
       {
         "type": "attribute",
-        "name": "spell_power:arcane",
+        "name": "spell_power:soul",
         "value": 4.0,
         "modifierUUID": "f0f0084b-c306-4eb4-acb1-8561980d48c6",
         "attributeOperation": 0,

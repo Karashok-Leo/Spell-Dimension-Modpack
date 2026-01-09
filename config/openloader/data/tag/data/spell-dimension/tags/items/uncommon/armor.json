@@ -59,6 +59,10 @@
         "spell-dimension:netherite_lightning_robe_head",
         "spell-dimension:netherite_lightning_robe_chest",
         "spell-dimension:netherite_lightning_robe_legs",
-        "spell-dimension:netherite_lightning_robe_feet"
+        "spell-dimension:netherite_lightning_robe_feet",
+        "spell-dimension:netherite_soul_robe_head",
+        "spell-dimension:netherite_soul_robe_chest",
+        "spell-dimension:netherite_soul_robe_legs",
+        "spell-dimension:netherite_soul_robe_feet"
     ]
 }

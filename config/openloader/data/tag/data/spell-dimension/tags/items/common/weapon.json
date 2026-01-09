@@ -47,6 +47,8 @@
         "paladins:holy_wand",
         "paladins:holy_staff",
         "spell-dimension:lightning_wand",
-        "spell-dimension:lightning_staff"
+        "spell-dimension:lightning_staff",
+        "spell-dimension:soul_wand",
+        "spell-dimension:soul_staff"
     ]
 }
