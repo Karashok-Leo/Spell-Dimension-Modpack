@@ -17,7 +17,7 @@
     {
       "type": "attribute",
       "name": "spell_power:frost",
-      "value": 10.0,
+      "value": 16.0,
       "modifierUUID": "21f2d0d3-6855-4e51-8d56-c479c53d4faa",
       "attributeOperation": 0,
       "interactionType": "self"
@@ -25,15 +25,31 @@
     {
       "type": "attribute",
       "name": "spell_power:lightning",
-      "value": 10.0,
+      "value": 16.0,
       "modifierUUID": "1b25257d-bcf6-4cc0-9fb9-4fc1aad09c63",
       "attributeOperation": 0,
       "interactionType": "self"
     },
     {
       "type": "attribute",
+      "name": "additionalentityattributes:generic.water_speed",
+      "value": 0.7,
+      "modifierUUID": "4b7fbfcb-541f-47cd-be53-53d544e7d014",
+      "attributeOperation": 0,
+      "interactionType": "self"
+    },
+    {
+      "type": "attribute",
+      "name": "additionalentityattributes:player.water_visibility",
+      "value": 100.0,
+      "modifierUUID": "58d6ccbf-bb99-4e50-bc26-60f18a85dc0a",
+      "attributeOperation": 0,
+      "interactionType": "self"
+    },
+    {
+      "type": "attribute",
       "name": "minecraft:generic.armor_toughness",
-      "value": 2.0,
+      "value": 8.0,
       "modifierUUID": "3949deae-ebea-4e2d-b65f-bb84d90e271c",
       "attributeOperation": 0,
       "interactionType": "self"

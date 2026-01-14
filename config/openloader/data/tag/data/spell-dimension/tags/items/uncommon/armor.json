@@ -63,6 +63,18 @@
         "spell-dimension:netherite_soul_robe_head",
         "spell-dimension:netherite_soul_robe_chest",
         "spell-dimension:netherite_soul_robe_legs",
-        "spell-dimension:netherite_soul_robe_feet"
+        "spell-dimension:netherite_soul_robe_feet",
+        "aquamirae:terrible_helmet",
+        "aquamirae:terrible_chestplate",
+        "aquamirae:terrible_leggings",
+        "aquamirae:terrible_boots",
+        "soulsweapons:soul_ingot_helmet",
+        "soulsweapons:soul_ingot_chestplate",
+        "soulsweapons:soul_ingot_leggings",
+        "soulsweapons:soul_ingot_boots",
+        "soulsweapons:forlorn_helmet",
+        "soulsweapons:forlorn_chestplate",
+        "soulsweapons:forlorn_leggings",
+        "soulsweapons:forlorn_boots"
     ]
 }

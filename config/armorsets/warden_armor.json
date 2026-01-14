@@ -17,9 +17,9 @@
     {
       "type": "attribute",
       "name": "minecraft:generic.max_health",
-      "value": 10.0,
+      "value": 0.1,
       "modifierUUID": "71b4cd08-7694-49b3-a5c5-5290ea68e3f5",
-      "attributeOperation": 0,
+      "attributeOperation": 1,
       "interactionType": "self"
     },
     {
@@ -32,18 +32,18 @@
     },
     {
       "type": "attribute",
-      "name": "minecraft:generic.knockback_resistance",
-      "value": 1.0,
-      "modifierUUID": "cfccce71-118d-4cdf-a6d4-2b3107766350",
-      "attributeOperation": 0,
+      "name": "spell_power:soul",
+      "value": 0.25,
+      "modifierUUID": "17116c13-4b1d-4734-8d5c-5996487bb6a2",
+      "attributeOperation": 1,
       "interactionType": "self"
     },
     {
       "type": "attribute",
-      "name": "spell_power:soul",
-      "value": 0.2,
-      "modifierUUID": "17116c13-4b1d-4734-8d5c-5996487bb6a2",
-      "attributeOperation": 1,
+      "name": "minecraft:generic.knockback_resistance",
+      "value": 1.0,
+      "modifierUUID": "cfccce71-118d-4cdf-a6d4-2b3107766350",
+      "attributeOperation": 0,
       "interactionType": "self"
     },
     {

@@ -17,7 +17,7 @@
     {
       "type": "attribute",
       "name": "minecraft:generic.max_health",
-      "value": 6.0,
+      "value": 2.0,
       "modifierUUID": "748571f7-f38e-4f47-98e4-f45fdd24deef",
       "attributeOperation": 0,
       "interactionType": "self"
@@ -25,7 +25,7 @@
     {
       "type": "attribute",
       "name": "spell_power:lightning",
-      "value": 4.0,
+      "value": 10.0,
       "modifierUUID": "a6c49db4-509d-4a2e-99eb-33729834604f",
       "attributeOperation": 0,
       "interactionType": "self"

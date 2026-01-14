@@ -17,7 +17,7 @@
     {
       "type": "attribute",
       "name": "spell_power:fire",
-      "value": 8.0,
+      "value": 24.0,
       "modifierUUID": "32b0cf4f-15c3-4896-b9e5-e6d3ef288174",
       "attributeOperation": 0,
       "interactionType": "self"

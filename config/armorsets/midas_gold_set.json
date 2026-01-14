@@ -28,6 +28,14 @@
       "value": 4.0,
       "interactionType": "self",
       "interactionDuration": 300
+    },
+    {
+      "type": "attribute",
+      "name": "spell_power:healing",
+      "value": 20.0,
+      "modifierUUID": "5badf4f2-2e3d-49cc-b953-279d48bb05ad",
+      "attributeOperation": 0,
+      "interactionType": "self"
     }
   ]
 }

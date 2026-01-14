@@ -17,7 +17,7 @@
       {
         "type": "attribute",
         "name": "spell_power:soul",
-        "value": 4.0,
+        "value": 16.0,
         "modifierUUID": "f0f0084b-c306-4eb4-acb1-8561980d48c6",
         "attributeOperation": 0,
         "interactionType": "self"
@@ -25,7 +25,7 @@
       {
         "type": "attribute",
         "name": "spell_power:critical_chance",
-        "value": 0.1,
+        "value": 0.2,
         "modifierUUID": "9efbde80-e2de-4168-9aea-bb7f95768c01",
         "attributeOperation": 1,
         "interactionType": "self"

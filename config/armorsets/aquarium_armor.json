@@ -33,9 +33,9 @@
         {
             "type": "attribute",
             "name": "spell_power:frost",
-            "value": 0.2,
+            "value": 0.15,
             "modifierUUID": "3283b04e-2fbb-4441-b0e1-0363d92088a6",
-            "attributeOperation": 2,
+            "attributeOperation": 1,
             "interactionType": "self"
         }
     ]

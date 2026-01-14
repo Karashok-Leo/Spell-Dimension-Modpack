@@ -17,7 +17,7 @@
     {
       "type": "attribute",
       "name": "spell_power:lightning",
-      "value": 4.0,
+      "value": 10.0,
       "modifierUUID": "a23bec17-a3f6-4a7b-a356-0fce524ff7cd",
       "attributeOperation": 0,
       "interactionType": "self"

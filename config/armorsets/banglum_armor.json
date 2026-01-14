@@ -17,7 +17,7 @@
       {
         "type": "attribute",
         "name": "spell_power:fire",
-        "value": 4.0,
+        "value": 16.0,
         "modifierUUID": "48c05599-df2c-4eca-856d-fc467d149265",
         "attributeOperation": 0,
         "interactionType": "self"
@@ -25,7 +25,7 @@
       {
         "type": "attribute",
         "name": "spell_power:critical_damage",
-        "value": 0.1,
+        "value": 0.2,
         "modifierUUID": "9e8fcace-a9f6-458d-9b3e-e0d9ae956c72",
         "attributeOperation": 1,
         "interactionType": "self"

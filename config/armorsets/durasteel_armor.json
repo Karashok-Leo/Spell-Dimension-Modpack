@@ -17,7 +17,7 @@
         {
           "type": "attribute",
           "name": "minecraft:generic.armor",
-          "value": 6.0,
+          "value": 10.0,
           "modifierUUID": "af4fb957-941f-49d9-b527-f022ee006f0f",
           "attributeOperation": 0,
           "interactionType": "self"

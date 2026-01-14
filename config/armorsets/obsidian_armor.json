@@ -17,7 +17,7 @@
       {
         "type": "attribute",
         "name": "minecraft:generic.armor",
-        "value": 4.0,
+        "value": 10.0,
         "modifierUUID": "34779b4a-2ef0-4ac5-806f-34d51fb78db5",
         "attributeOperation": 0,
         "interactionType": "self"
@@ -25,7 +25,7 @@
       {
         "type": "attribute",
         "name": "minecraft:generic.knockback_resistance",
-        "value": 1,
+        "value": 5,
         "modifierUUID": "3f836d5c-078c-4c41-878c-106d116b8157",
         "attributeOperation": 0,
         "interactionType": "self"

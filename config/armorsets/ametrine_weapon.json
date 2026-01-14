@@ -14,7 +14,7 @@
     {
       "type": "attribute",
       "name": "spell_power:arcane",
-      "value": 3.0,
+      "value": 10.0,
       "modifierUUID": "f03352e7-9c95-450c-9447-a5e2e05946a6",
       "attributeOperation": 0,
       "interactionType": "self"

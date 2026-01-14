@@ -17,7 +17,7 @@
     {
       "type": "attribute",
       "name": "minecraft:generic.max_health",
-      "value": 8.0,
+      "value": 10.0,
       "modifierUUID": "18ebd31b-60bd-47a2-8f7a-dc6e9b01c19a",
       "attributeOperation": 0,
       "interactionType": "self"
@@ -25,9 +25,9 @@
     {
       "type": "attribute",
       "name": "minecraft:generic.armor",
-      "value": 9.0,
+      "value": 0.1,
       "modifierUUID": "794ff05f-9001-4395-9e85-6c9dbfc26cf6",
-      "attributeOperation": 0,
+      "attributeOperation": 1,
       "interactionType": "self"
     },
     {

@@ -25,7 +25,7 @@
       {
         "type": "attribute",
         "name": "spell_power:critical_chance",
-        "value": 0.2,
+        "value": 0.4,
         "modifierUUID": "018ade42-6e3f-45c8-afb6-02c962b95c4a",
         "attributeOperation": 1,
         "interactionType": "self"
@@ -33,7 +33,7 @@
       {
         "type": "attribute",
         "name": "spell_power:critical_damage",
-        "value": 0.2,
+        "value": 0.3,
         "modifierUUID": "bdd22d99-8702-4fe8-a311-4fa354bb1383",
         "attributeOperation": 1,
         "interactionType": "self"

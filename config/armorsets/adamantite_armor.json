@@ -17,7 +17,7 @@
     {
       "type": "attribute",
       "name": "minecraft:generic.armor",
-      "value": 6.0,
+      "value": 12.0,
       "modifierUUID": "2188e807-6aad-4561-b76c-9d8769e8f3e1",
       "attributeOperation": 0,
       "interactionType": "self"
@@ -25,7 +25,7 @@
     {
       "type": "attribute",
       "name": "spell_power:critical_chance",
-      "value": 0.2,
+      "value": 0.4,
       "modifierUUID": "2716f485-daf8-4f40-b534-d4590cebeeed",
       "attributeOperation": 1,
       "interactionType": "self"

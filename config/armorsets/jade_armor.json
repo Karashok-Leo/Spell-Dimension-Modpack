@@ -17,7 +17,7 @@
     {
       "type": "attribute",
       "name": "spell_power:healing",
-      "value": 8.0,
+      "value": 24.0,
       "modifierUUID": "bee61deb-fb74-4f62-a88f-29eb47e13462",
       "attributeOperation": 0,
       "interactionType": "self"

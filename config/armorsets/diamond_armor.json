@@ -20,6 +20,22 @@
           "value": 1.0,
           "interactionType": "self",
           "interactionDuration": 200
+        },
+        {
+          "type": "attribute",
+          "name": "minecraft:generic.attack_damage",
+          "value": 8.0,
+          "modifierUUID": "c7f1d00d-5d0b-4aa2-8527-e9283baa9446",
+          "attributeOperation": 0,
+          "interactionType": "self"
+        },
+        {
+          "type": "attribute",
+          "name": "spell_power:critical_chance",
+          "value": 0.15,
+          "modifierUUID": "af60c52d-3dc2-4f99-a594-4a0f3e446bc1",
+          "attributeOperation": 1,
+          "interactionType": "self"
         }
     ]
   }

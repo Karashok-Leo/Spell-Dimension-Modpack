@@ -17,7 +17,7 @@
     {
       "type": "attribute",
       "name": "spell_power:soul",
-      "value": 4.0,
+      "value": 14.0,
       "modifierUUID": "48a6883e-bc5f-4ac9-b0a3-c7d2e8756008",
       "attributeOperation": 0,
       "interactionType": "self"
