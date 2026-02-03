@@ -81,9 +81,9 @@
 		// Allow mobs without AI to have levels
 		"allowNoAI": false,
 		// Allow mobs allied to player to have levels
-		"allowPlayerAllies": false,
+		"allowPlayerAllies": true,
 		// Keep traits on mobs tamed by player
-		"allowTraitOnOwnable": false
+		"allowTraitOnOwnable": true
 	},
 	"items": {
 		// Allow Bottle of Sanity to clear dimension difficulty
@@ -325,7 +325,12 @@
 			"moonwalk": 10,
 			"arena": 24,
 			"gravity": 10
-		}
+		},
+		// Mob effects that will not be removed or boosted by drain
+		"drainBlacklist": [
+			"l2hostility:stone_cage",
+			"spell-dimension:stun"
+		]
 	},
 	"complements": {
 		"enableImmunityEnchantments": true,
