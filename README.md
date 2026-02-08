@@ -23,3 +23,8 @@ packwiz cf export
 ```
 packwiz cf export --side server --output serverpack.zip
 ```
+
+运行以下命令更新所有模组，会自动跳过toml文件中标记`pin = true`的模组。
+```
+packwiz update --all
+```

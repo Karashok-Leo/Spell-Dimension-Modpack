@@ -9,7 +9,7 @@ on:
 jobs:
   build:
     runs-on: windows-latest
-    
+
     steps:
     - name: Download source code
       uses: actions/checkout@v6
@@ -18,11 +18,11 @@ jobs:
       run: |
         curl --output "packwiz.zip" -L "https://nightly.link/packwiz/packwiz/workflows/go/main/Windows%2064-bit.zip"
         tar -xf "packwiz.zip"
-        
-    - name: 导出整合包
+
+    - name: Export modpack
       run: |
         .\packwiz cf export --output client.zip
-        .\packwiz cf export --side server --output serverpack.zip
+        .\packwiz cf export --side server --output server.zip
 
     - name: Upload modpack (client)
       uses: actions/upload-artifact@v4
@@ -33,4 +33,4 @@ jobs:
       uses: actions/upload-artifact@v4
       with:
         name: modpack-server
-        path: "serverpack.zip"
+        path: "server.zip"

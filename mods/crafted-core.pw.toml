@@ -1,13 +1,13 @@
 name = "CraftedCore"
-filename = "craftedcore-5.8.1.jar"
+filename = "craftedcore-5.8.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "bc5ce380c86d4668af214dbd3a17dbf1cd3a6fa9"
+hash = "eb386609df3611a6d7c61deccb94f2def6a35adb"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7392531
+file-id = 7575382
 project-id = 923377

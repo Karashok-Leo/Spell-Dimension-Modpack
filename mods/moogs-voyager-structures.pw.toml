@@ -1,13 +1,13 @@
 name = "MVS - Moog's Voyager Structures"
-filename = "MoogsVoyagerStructures-1.20-5.0.3.jar"
+filename = "MoogsVoyagerStructures-1.20-5.0.4.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "363be67725a770e0dfce806fb5dc0af21e6535fb"
+hash = "c7c384d91180b7a37064504a9839fa6f14801224"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7311820
+file-id = 7517593
 project-id = 656977
