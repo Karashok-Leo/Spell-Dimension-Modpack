@@ -1,0 +1,127 @@
+{
+  // Whether a player's equipped shape is revoked on death.
+  "revoke2ndShapeOnDeath": false,
+  // Whether shapes equip the items (swords, items, tools) held by the underlying player.
+  "shapesEquipItems": true,
+  // Whether shapes equip the armor (chestplate, leggings, elytra) worn by the underlying player.
+  "shapesEquipArmor": true,
+  // If true, the player can cause hostiles to attack via right-clicking.
+  "playerCanTriggerHostiles": true,
+  // Whether hostile mobs ignore players with hostile mob shapes.
+  "hostilesIgnoreHostileShapedPlayer": true,
+  // Whether hostile mobs ignore players, even if the player shapes into a not-hostile mob. Requires 'hostilesIgnoreHostileShapedPlayer' to be 'true'.
+  "hostilesIgnoreNotHostileShapedPlayer": false,
+  // Whether a hostile mob will stop targeting you after switching to a (hostile) mob shape.
+  "hostilesForgetNewShapedPlayer": false,
+  // hunterAttackAsPreyMorphedPlayer
+  "hunterAttackAsPreyMorphedPlayer": false,
+  // If false, the PreyTrait doesn't cause owned hunter (e.g. tamed wolves) to hunt the player.
+  "ownedHunterAttackAsPreyMorphedPlayer": false,
+  // Whether Villagers will run from Players morphed as shapes villagers normally run from (Zombies).
+  "villagersRunFrom2ndShapes": true,
+  // Whether shape sounds take priority over Player Sounds (e.g. Blaze hurt sound when hit).
+  "useShapeSounds": true,
+  // Whether disguised players should randomly emit the ambient sound of their shape.
+  "playAmbientSounds": true,
+  // Whether disguised players should hear their own ambient sounds (only if playAmbientSounds is true).
+  "hearSelfAmbient": false,
+  // Whether mobs in the flying entity tag can fly.
+  "enableFlight": true,
+  // How long hostility lasts for players morphed as hostile mobs (think: Pigman aggression)
+  "hostilityTime": 300,
+  // A list of Advancements required before the player can fly using a shape.
+  "advancementsRequiredForFlight": [],
+  // Whether Shapes modify your max health value based on their max health value.
+  "scalingHealth": true,
+  // This gets the percentage of your current health and implements it into your new health. Only works with scalingHealth!
+  "percentScalingHealth": true,
+  // The maximum value of scaling health. Useful for not giving players 300 HP when they turn into a wither.
+  "maxHealth": 40,
+  // Whether the player should have the same default amor values as the mob.
+  "scalingAmor": true,
+  // The maximum value of default amor. Useful for not having players who can't take damage.
+  "maxAmor": 30,
+  // The maximum value of default amor toughness. Useful for not having players who can't take damage.
+  "maxAmorToughness": 20,
+  // In blocks, how far can the Enderman ability teleport?
+  "endermanAbilityTeleportDistance": 32,
+  // Should player nametags render above players disguised with a shape? Note that the server is the authority for this config option.
+  "showPlayerNametag": false,
+  // The default fly speed for transformed players.
+  "flySpeed": 0.05,
+  // If true, players with the Warden shape will have a shorter view range with the darkness effect.
+  "wardenIsBlinded": true,
+  // If true, players with the Warden shape will blind other nearby players.
+  "wardenBlindsNearby": true,
+  // If true, unlocking a shape will ignore current second shapes.
+  "unlockOverridesCurrentShape": false,
+  // If true, unlocking a shape will ignore current second shapes.
+  "unlockTimer": 60.0,
+  // This allows players to unlock every possible variant per entity type. This must be set to true for the variant menu to be available.
+  "unlockEveryVariant": true,
+  // Configure the Cooldown for the abilities of specified mobs. Take a look at Abilities
+  "abilityCooldownMap": {
+    "minecraft:blaze": 20,
+    "minecraft:pillager": 2400,
+    "minecraft:ravager": 2400,
+    "minecraft:ghast": 60,
+    "minecraft:mule": 40,
+    "minecraft:skeleton_horse": 40,
+    "minecraft:sniffer": 9600,
+    "minecraft:trader_llama": 20,
+    "minecraft:cow": 20,
+    "minecraft:vindicator": 2400,
+    "minecraft:zombie_horse": 40,
+    "minecraft:camel": 40,
+    "minecraft:creeper": 100,
+    "minecraft:warden": 200,
+    "minecraft:wither": 200,
+    "minecraft:horse": 40,
+    "minecraft:bee": 20,
+    "minecraft:evoker": 10,
+    "minecraft:polar_bear": 20,
+    "minecraft:pufferfish": 20,
+    "minecraft:illusioner": 2400,
+    "minecraft:zombified_piglin": 20,
+    "minecraft:witch": 200,
+    "minecraft:llama": 20,
+    "minecraft:iron_golem": 20,
+    "minecraft:turtle": 6000,
+    "minecraft:sheep": 20,
+    "minecraft:ender_dragon": 20,
+    "minecraft:snow_golem": 10,
+    "minecraft:shulker": 80,
+    "minecraft:mooshroom": 300,
+    "minecraft:enderman": 100,
+    "minecraft:goat": 20,
+    "minecraft:endermite": 20,
+    "minecraft:chicken": 1200,
+    "minecraft:wolf": 20,
+    "minecraft:rabbit": 40
+  },
+  // 0 - none, 1 - completely random, 2 - biome based
+  "multiVectorVariants": 2,
+  // Blacklist entity types (e.g. minecraft:blaze) to disable abilities for the specified mob.
+  "abilityBlacklist": [],
+  // Map entity types to a list of traits to disable the traits for the specified entity type.
+  "traitBlacklist": {
+    "example:my_mob": [
+      "example:first_trait",
+      "example:second_trait"
+    ]
+  },
+  // Blacklist entity types (e.g. minecraft:blaze) to disable morphing into those.
+  "entityBlacklist": [],
+  // True - the entity blacklist will be treated as a whitelist. This can be modified via commands.
+  "entityBlacklistIsWhitelist": false,
+  // Blacklist Players with their UUIDs, so they can't unlock shapes. This can be modified via commands.
+  "playerUUIDBlacklist": [],
+  // True - the player blacklist will be treated as a whitelist. This can be modified via commands.
+  "playerBlacklistIsWhitelist": false,
+  // Whether the player blacklist should prevent unlocking.
+  "blacklistPreventsUnlocking": true,
+  // Whether the player blacklist should prevent morphing.
+  "blacklistPreventsMorphing": true,
+  // The health that a normal player should have (e.g. 20). Set to -1 to use a cached one or if you don't know what this option does
+  "player_health": -1.0
+}

@@ -3,13 +3,22 @@
   "copy_nbt": false,
   "ingredients": [
     {
+      "tag": "soulsweapons:lord_soul"
+    },
+    {
       "item": "spell-dimension:essence_soul_2"
     },
     {
-      "item": "spell-dimension:celestial_debris"
+      "tag": "soulsweapons:lord_soul"
     },
     {
-      "item": "l2hostility:soul_flame"
+      "item": "spell-dimension:essence_soul_2"
+    },
+    {
+      "tag": "soulsweapons:lord_soul"
+    },
+    {
+      "item": "spell-dimension:essence_soul_2"
     }
   ],
   "input": {
@@ -21,14 +30,6 @@
   },
   "output": {
     "Count": 1,
-    "id": "spell-dimension:spirit_tome",
-    "tag": {
-      "Enchantments": [
-        {
-          "id": "minecraft:binding_curse",
-          "lvl": 1
-        }
-      ]
-    }
+    "id": "spell-dimension:spirit_tome"
   }
 }
