@@ -1078,7 +1078,7 @@ hash = "0ea292d5501e34aed12f8215085bfb01dde397b3371fd7e85fe3f14d27f96d24"
 
 [[files]]
 file = "config/openloader/data/recipe/data/spell-dimension/recipes/endgame_trinkets/spirit_tome.json"
-hash = "ddc528e6ec2bd220c2d8e83a56131bda1cd50e2ccd9ae0e624cfcfc409358dd9"
+hash = "f93d7b5807a63a3fa9ae769cfeef7c68a685a05aa5242b1c0c053be92416c702"
 
 [[files]]
 file = "config/openloader/data/recipe/data/spell-dimension/recipes/endgame_trinkets/superconductor.json"
@@ -2983,7 +2983,7 @@ metafile = true
 
 [[files]]
 file = "mods/spell-dimension-extra.pw.toml"
-hash = "2a1a6c0a183bb17e767132b59ac887dd1f7e2ca2015b58cdb1b6b432d946b9ad"
+hash = "c3ca3b5ef6f3a72bdbd8cd00231c48c6f3dfd67c2982de2c5a5dc6d09b07825e"
 metafile = true
 
 [[files]]
