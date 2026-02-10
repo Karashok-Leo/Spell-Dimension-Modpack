@@ -2608,7 +2608,7 @@ metafile = true
 
 [[files]]
 file = "mods/l2-hostility-fabricated.pw.toml"
-hash = "fead767e8c27f4312dff2fd67e0cf6492febaf2a9be293a0796b33f4fabd76f5"
+hash = "3446e5759f86f7401873acc8d7d3ed4cb017dbcbed01afca1bb6c5483055f5fd"
 metafile = true
 
 [[files]]
@@ -3128,17 +3128,17 @@ metafile = true
 
 [[files]]
 file = "mods/woodwalkers.pw.toml"
-hash = "cdbb4121652e4d4e7d3fdec7747d9e05600709d6319131e1e5d51872bdcdf28b"
+hash = "719b8c8f41254a3b5f59be8a964dc3394593886dcb70b6635d833346fafd7c17"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "c55e4b36e8791fcb7ee9fad8fb5321629be3506b12b5fc4d96236ba93b69b2cd"
+hash = "63d4aa772d382f214c8b649ad7d6c27c9442d34fefcddc0b73a8d412620c7cbe"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "75cff664fff6a8bb3bea90bc7daf735e8904fc651548602fd7380c56d15473e7"
+hash = "b9e635e10edd98d8e368e5d716f76a60ab5d4ac564562b63d2141395dbc4e7ef"
 metafile = true
 
 [[files]]

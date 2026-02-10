@@ -1,5 +1,91 @@
 # Change Log
 
+## 0.8.0 - 2026.2.10
+##### Added
+- New spell school: Soul
+- New spells:
+    - Soul Slash
+    - Possess
+    - Recall
+    - Requiem
+    - Soul Command
+    - Soul Swap
+    - Soul Step
+    - Soul Mark
+    - Soul Duet
+    - Phantom Syndicate
+    - Soul Beam
+    - Soul Echo
+    - Soul Burst
+    - Soul Sacrifice
+- New items:
+    - Soul Container
+    - Advanced Soul Container
+    - Creative Soul Container
+    - Soul Album
+    - Rebirth Sigil
+    - Spirit Tome
+    - Equinox Flower
+    - Soul Wand
+    - Netherite Soul Wand
+    - Soul Staff
+    - Netherite Soul Staff
+    - Soul Mage Set
+    - Netherite Soul Robe
+    - Contributor item: Zhuzi's Miner Helmet
+- New enchantments:
+    - Stun Immunity
+- When wearing Macro Electron, Ball Lightning will track the entity the player is looking at
+- Death messages now show the killer's level and traits
+- Welcome advancement on first entering the world
+##### Changed
+- Updated some mods
+- Changed some recipes
+- Enhanced most armor set bonuses
+- Reworked models and textures for Lightning Robe / Netherite Lightning Robe
+- Primary/Intermediate/Advanced Spell Books are no longer sealed by Ragnarok
+- Reworked Magic Guide, added an in-game quick lookup system
+- Random spell scroll rewards in Ocean of Consciousness now drop Spell Scroll Bags; rewarded scrolls only cover the player's primary/secondary schools and exclude equipped spells
+- Reworked Curse of Pride: all school spell power increases by 2% per player experience level
+- Reworked Rejuvenating Blossom: +1% healing amount per point of healing spell power
+- Base drop chance of Lightning school Basic Essence reduced to 60% of the original
+- Heavenly Justice spell scroll tier: 2->3
+- Max health gained from completing advancements: 2->1
+- Basic Essence drops:
+    - Intermediate Essence
+        - Required level: 200->160
+        - Drop chance: 20%->30%
+    - Advanced Essence
+        - Required level: 400->560
+        - Drop chance: 4%->8%
+- Spell Prism enhancement for Spell Summon changed: spawners no longer self-destruct after the remaining spawn count reaches zero
+- Spell traits can no longer be cast through walls; they can only be cast when the monster target is in line of sight
+- Enchantment Spell Leech renamed to Blood Magic
+- Stun and Incarceration effects can no longer be boosted by Drain trait
+##### Removed
+- To resolve attribute inflation, removed some contents from SpellBladeNext mod, including:
+    - The Hexblade
+    - Hexblade Offering
+    - Prismatic Pearl
+    - The Avatar
+    - Crystallised Omniscience
+    - Ashes of the Stars
+    - Higher Purpose
+    - Magus (killing it no longer drops any items, but Starforge can still be obtained from loot bags)
+- Max Health Fix
+##### Fixed
+- Crash when removing a buff in some cases
+- Several incorrect description texts
+- Several item texture size issues
+- Core of Consciousness can no longer be placed by survival players, and can no longer be activated outside the Ocean of Consciousness
+- Spell Locate enhanced by Spell Prism no longer targets locations that do not exist in the current dimension
+- Some potion effects not displaying in the top-right HUD
+- Water-drop rendering artifact caused by batching when multiple black holes render at the same time
+- Newly added trait item borders being covered
+- Greed Of Nidhoggur not working
+- Split mobs still dropping loot
+- Missing spell effect checks; for example, AoE projectiles now apply curse effects (Spell Curse, etc.) to every target in the area
+
 ## 0.7.2 - 2025.7.29
 ##### Added
 - New spells:
