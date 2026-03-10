@@ -1,5 +1,18 @@
 # Change Log
 
+## 0.8.1 - 2026.3.10
+##### Changed
+- Updated some mods
+- Bosses can only be converted into soul minions when their health is below half
+- Optimized the model for Magic Guide
+- The game no longer defaults to full-screen mode upon launch
+##### Fixed
+- Certain items that should not have appeared in the Spirit Tome Shop will no longer be available (e.g., Infinity Upgrade from Sophisticated Storage)
+- Bug that players cannot fly when possessing mobs with no physics (e.g., Vex)
+- Bug preventing Spell Scroll Bag from generating loot
+- Bug preventing full health restoration after death and respawn
+- Crash caused by Phantom Syndicate in server
+
 ## 0.8.0 - 2026.2.10
 ##### Added
 - New spell school: Soul
