@@ -1,13 +1,13 @@
-name = "Aquamirae (Fabric)"
-filename = "Aquamirae 6.jar"
+name = "Aquamirae [Fabric Edition]"
+filename = "aquamirae-fabric-1.20.1-7.1.10.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "13feb2c346d372b3bec57f1ad2e151d87f65e5d6"
+hash = "cf659a463b11af0ba1c48b829f0b68c1af45201e"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4656204
+file-id = 8558367
 project-id = 891257

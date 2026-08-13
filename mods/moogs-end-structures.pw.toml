@@ -1,13 +1,13 @@
 name = "MES - Moog's End Structures"
-filename = "mes-1.4.6-1.20-fabric.jar"
+filename = "MoogsEndStructures-1.20-2.0.3.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "219d6795e87f68d73e2f5e4f313ad93d55f9f4b1"
+hash = "8c00f869a6ff274efb19cf47bf15c65ab7614f3a"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6915264
+file-id = 8043172
 project-id = 892382

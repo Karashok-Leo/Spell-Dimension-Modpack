@@ -1,0 +1,13 @@
+name = "Fragmentum [Fabric Edition]"
+filename = "fragmentum-fabric-1.20.1-1.5.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d92ceb6db28d2c428a814593ca3fc210ce983da1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8506887
+project-id = 1123974

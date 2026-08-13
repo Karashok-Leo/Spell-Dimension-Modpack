@@ -1,17 +1,17 @@
 {
-  "armorSetName": "three_bolt_armor",
+  "armorSetName": "salvager_armor",
   "performanceMode": true,
   "head": {
-    "itemKey": "aquamirae:three_bolt_helmet"
+    "itemKey": "aquamirae:salvager_helmet"
   },
   "chest": {
-    "itemKey": "aquamirae:three_bolt_suit"
+    "itemKey": "aquamirae:salvager_suit"
   },
   "legs": {
-    "itemKey": "aquamirae:three_bolt_leggings"
+    "itemKey": "aquamirae:salvager_waders"
   },
   "boots": {
-    "itemKey": "aquamirae:three_bolt_boots"
+    "itemKey": "aquamirae:salvager_boots"
   },
   "fullSetBonuses": [
     {
