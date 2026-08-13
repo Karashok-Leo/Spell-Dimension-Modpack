@@ -2988,7 +2988,7 @@ metafile = true
 
 [[files]]
 file = "mods/spell-dimension-extra.pw.toml"
-hash = "d1204d06d8e791b3ba0f9191c673e404dde27b078477c628c1176e690bcb5273"
+hash = "420aaadab633e3089903342d39868b8aa25bab859cf31b850dd43ebd1ae47d77"
 metafile = true
 
 [[files]]

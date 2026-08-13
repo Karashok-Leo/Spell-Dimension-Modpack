@@ -1,5 +1,20 @@
 # Change Log
 
+## 0.8.2 - 2026.8.14
+##### Added
+- New spells:
+    - Soul Reweave
+    - Soul Rally
+    - Soul Pulse
+    - Ethereal Evasion
+- Display particle effects pointing toward the body when possessing a soul minion
+##### Changed
+- Updated some mods
+##### Fixed
+- Bug where the secondary school bonus is amplified by Curse of Pride
+- Bug where you can still fly after switching back from Creative mode to Survival mode
+- The wrong spell school for the spell Force Landing
+
 ## 0.8.1 - 2026.3.10
 ##### Changed
 - Updated some mods
