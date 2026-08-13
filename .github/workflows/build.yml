@@ -16,13 +16,13 @@ jobs:
 
     - name: Download packwiz
       run: |
-        curl --output "packwiz.zip" -L "https://nightly.link/packwiz/packwiz/workflows/go/main/Windows%2064-bit.zip"
-        tar -xf "packwiz.zip"
+        curl.exe --fail --location --retry 3 --output "packwiz.exe" "https://github.com/packwiz/packwiz/releases/latest/download/packwiz-windows-x86_64.exe"
+        if (-not (Test-Path "packwiz.exe")) { throw "packwiz.exe was not downloaded" }
 
     - name: Export modpack
       run: |
-        .\packwiz cf export --output client.zip
-        .\packwiz cf export --side server --output server.zip
+        .\packwiz.exe cf export --output client.zip
+        .\packwiz.exe cf export --side server --output server.zip
 
     - name: Upload modpack (client)
       uses: actions/upload-artifact@v4
