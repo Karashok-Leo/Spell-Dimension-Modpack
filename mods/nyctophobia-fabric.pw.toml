@@ -1,13 +1,13 @@
-name = "Nyctophobia (FABRIC)"
-filename = "Nyctophobia_1.9_(FABRIC)_for_1.20+.jar"
+name = "Nyctophobia (Fabric/Neoforge)"
+filename = "nyctophobia-fabric-mc1.20.1-2.0.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "aff39ddf6d9f896d5160dc885a673ccb0a78689c"
+hash = "f2b476c8639366ce0a01a8ea872bee1203c38e94"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4593051
+file-id = 8708972
 project-id = 584511

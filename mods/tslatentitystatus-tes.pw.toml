@@ -1,13 +1,13 @@
 name = "TslatEntityStatus (TES)"
-filename = "TES-fabric-1.20.1-1.6.1.jar"
+filename = "tslatentitystatus-fabric-1.20.1-1.6.5.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "c0fa50de33868e9182f4011f4397c532cce8b5b2"
+hash = "be42cf08eb9a52d35355f11051ee26c4f6bcb985"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7126710
+file-id = 8987797
 project-id = 830420

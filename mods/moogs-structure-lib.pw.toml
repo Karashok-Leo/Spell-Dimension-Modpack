@@ -1,13 +1,13 @@
 name = "Moog's Structure Lib (moogs_structures)"
-filename = "moogs_structures-1.20-1.20.4-3.0.2-fabric.jar"
+filename = "MoogsStructureLib-fabric-1.20-3.3.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "5e09ceb199d02f1660f44566ff26c68ec514fd8c"
+hash = "7fee68efb20ac68b6131810c276c0d54b6acb34a"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8419670
+file-id = 8886184
 project-id = 1337167
