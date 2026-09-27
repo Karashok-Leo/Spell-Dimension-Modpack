@@ -1,5 +1,12 @@
 # Change Log
 
+## 0.8.3 - 2026.9.28
+##### Changed
+- Updated some mods
+##### Fixed
+- Missing spell icons
+- Roll back the mod DeeperDarker to fix the unavailable multiplayer game
+
 ## 0.8.2 - 2026.8.14
 ##### Added
 - New spells:
