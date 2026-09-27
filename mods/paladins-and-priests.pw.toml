@@ -1,6 +1,7 @@
 name = "Paladins & Priests (RPG Series)"
 filename = "paladins-1.4.0+1.20.1.jar"
 side = "both"
+pin = true
 
 [download]
 hash-format = "sha1"

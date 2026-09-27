@@ -1,6 +1,7 @@
 name = "Runes [Fabric]"
 filename = "runes-0.9.13+1.20.1.jar"
 side = "both"
+pin = true
 
 [download]
 hash-format = "sha1"

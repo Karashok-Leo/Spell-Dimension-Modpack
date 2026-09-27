@@ -1,6 +1,7 @@
 name = "Spell Engine"
 filename = "spell_engine-0.15.12+1.20.1.jar"
 side = "both"
+pin = true
 
 [download]
 hash-format = "sha1"
