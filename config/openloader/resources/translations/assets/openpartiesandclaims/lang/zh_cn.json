@@ -18,7 +18,7 @@
 	
 	"gui.xaero_parties_party_created":"成功创建一个新队伍",
 	
-	"gui.xaero_parties_party_destroy_info":"使用 \"/openpac-partiesdestroyconfirm\" 来删除队伍",
+	"gui.xaero_parties_party_destroy_info":"使用 \"/oparties destroy confirm\" 来删除队伍",
 	"gui.xaero_parties_party_destroy_members_info":"%1$s 删除了队伍",
 	
 	"gui.xaero_parties_join_invalid_id":"输入的队伍ID无效！",
