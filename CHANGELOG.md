@@ -1,5 +1,12 @@
 # Change Log
 
+## 0.8.4 - 2026.10.11
+##### Changed
+- Updated some mods
+##### Fixed
+- Update the team commands in Magic Guide (commands renamed after OPAC 0.30+)
+- Crash caused by the spells cast by some hostile mobs (such as the End Dragon)
+
 ## 0.8.3 - 2026.9.28
 ##### Changed
 - Updated some mods
