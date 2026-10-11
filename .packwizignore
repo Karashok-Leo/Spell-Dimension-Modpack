@@ -4,3 +4,7 @@
 /serverpack-template/
 /*.lnk
 /.github/
+
+# Local publishing files and scripts
+/curseforge-token
+/scripts/

@@ -7,3 +7,6 @@
 *.xmind
 
 *.lnk
+
+# Local CurseForge publishing token
+/curseforge-token
