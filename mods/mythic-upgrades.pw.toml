@@ -1,13 +1,13 @@
 name = "Mythic Upgrades"
-filename = "mythicupgrades-fabric-1.20.1-5.1.0.jar"
+filename = "mythicupgrades-fabric-1.20.1-5.1.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "8d9ddfd4af5fe351ca98dfdcc8b2717e2bae7f67"
+hash = "5e8fb770baebe638642b6ca770e679b9e74c12ca"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8454362
+file-id = 8999821
 project-id = 663567

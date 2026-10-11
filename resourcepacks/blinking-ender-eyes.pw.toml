@@ -1,13 +1,13 @@
 name = "Blinking Ender Eyes"
-filename = "EnderEyes_26.2_v3.1.zip"
+filename = "EnderEyes_26.3_v3.1.zip"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "9587978e33522be410af75ca8197655be0aabc5a"
+hash = "f0b2226223ad8e9aa58f27fcadb7eb6b0f43ce29"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8316234
+file-id = 9040025
 project-id = 322713
